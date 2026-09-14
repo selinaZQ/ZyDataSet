@@ -1,0 +1,895 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 23,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        417.27,
+        53.229,
+        533.586,
+        64.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 平等的医疗权",
+      "bbox": [
+        75.19,
+        82.308,
+        157.736,
+        93.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "华人民共和国传染病防治法》的规定，林某应",
+      "bbox": [
+        310.77,
+        83.068,
+        546.479,
+        94.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 要求保护隐私权",
+      "bbox": [
+        75.07,
+        99.419,
+        170.321,
+        110.549
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "当（）",
+      "bbox": [
+        311.65,
+        99.749,
+        356.643,
+        110.899
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 患者的参与权",
+      "bbox": [
+        74.88,
+        115.539,
+        157.643,
+        126.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 请上级医师会诊，确诊后再转诊",
+      "bbox": [
+        334.71,
+        115.869,
+        509.359,
+        126.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "116. 某药店经营者为贪图利益而销售超",
+      "bbox": [
+        74.99,
+        132.159,
+        286.26,
+        143.299
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 请上级医师会诊，确诊后隔离治疗",
+      "bbox": [
+        334.23,
+        132.099,
+        519.333,
+        143.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "过有效期的药品，结果造成患者服用后死亡的",
+      "bbox": [
+        51.94,
+        149.188,
+        285.739,
+        160.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 向医院领导报告，确诊后对王某就地进",
+      "bbox": [
+        334.59,
+        148.809,
+        547.073,
+        159.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "特别严重后果，依据《中华人民共和国刑法》，",
+      "bbox": [
+        51.69,
+        165.748,
+        286.05,
+        176.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "行隔离",
+      "bbox": [
+        310.76,
+        166.219,
+        344.417,
+        177.349
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "给经营者的刑罚是（）",
+      "bbox": [
+        51.9,
+        182.249,
+        179.003,
+        193.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 向当地疾病预防控制机构报告，并复印",
+      "bbox": [
+        334.28,
+        181.629,
+        546.787,
+        192.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 处3年以下有期徒刑或拘役，并处罚金",
+      "bbox": [
+        74.78,
+        198.469,
+        283.682,
+        209.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "病历资料转诊",
+      "bbox": [
+        310.61,
+        199.119,
+        380.921,
+        210.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 处3年以上7年以下有期徒刑，并处罚",
+      "bbox": [
+        74.38,
+        215.259,
+        281.165,
+        226.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 向当地疾病预防控制机构报告，由疾病",
+      "bbox": [
+        334.27,
+        214.679,
+        547.549,
+        225.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "金",
+      "bbox": [
+        51.35,
+        232.829,
+        62.47,
+        243.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "控制机构转诊",
+      "bbox": [
+        310.77,
+        232.269,
+        380.692,
+        243.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 处3年以上10年以下有期徒刑，并处罚",
+      "bbox": [
+        74.63,
+        248.449,
+        281.845,
+        259.549
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "118. 某县为省直接管辖县，该县人民医院",
+      "bbox": [
+        334.68,
+        247.679,
+        547.467,
+        258.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "金",
+      "bbox": [
+        51.32,
+        266.049,
+        62.44,
+        277.169
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "发生了患方认为是医疗事故的争议，患方首先",
+      "bbox": [
+        310.52,
+        264.699,
+        547.71,
+        275.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 处10年以上20年以下有期徒刑，并处罚",
+      "bbox": [
+        74.49,
+        281.879,
+        282.028,
+        292.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "提出了要进行医疗事故技术鉴定。按照《医疗",
+      "bbox": [
+        310.55,
+        281.359,
+        547.735,
+        292.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "金",
+      "bbox": [
+        51.47,
+        299.229,
+        62.57,
+        310.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "事故处理条例》的规定，负责首次医疗事故鉴",
+      "bbox": [
+        310.45,
+        297.809,
+        547.846,
+        308.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 处10年以上有期徒刑或无期徒刑，并处",
+      "bbox": [
+        74.46,
+        314.719,
+        282.519,
+        325.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "定工作的组织应当是（）",
+      "bbox": [
+        310.38,
+        314.529,
+        451.97,
+        325.639
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "罚金",
+      "bbox": [
+        51.73,
+        332.349,
+        73.91,
+        343.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 该县卫生行政部门",
+      "bbox": [
+        334.11,
+        330.659,
+        442.393,
+        341.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "117. 患儿王某因发热3日到县医院就诊，",
+      "bbox": [
+        74.96,
+        347.999,
+        285.72,
+        359.119
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 该县医学会",
+      "bbox": [
+        334.15,
+        347.419,
+        405.516,
+        358.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "接诊医师林某检查后拟诊为肾综合征出血热。",
+      "bbox": [
+        51.33,
+        364.639,
+        285.14,
+        375.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 该县卫生行政部门的上级组织",
+      "bbox": [
+        334.02,
+        364.039,
+        501.297,
+        375.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "因县医院不具备隔离治疗条件，林某遂嘱患儿",
+      "bbox": [
+        52.23,
+        381.259,
+        285.619,
+        392.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 市级医学会",
+      "bbox": [
+        333.88,
+        380.669,
+        406.212,
+        391.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "的家长带王某去市传染病医院就诊。按照《中",
+      "bbox": [
+        52.26,
+        397.799,
+        285.226,
+        408.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 省级医学会",
+      "bbox": [
+        334.14,
+        397.42,
+        405.81,
+        408.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        229.58,
+        430.71,
+        365.858,
+        442.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        75.72,
+        510.67,
+        194.212,
+        521.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 甲状腺毒症",
+      "bbox": [
+        333.96,
+        510.559,
+        405.596,
+        521.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "患者，男，28岁。患甲状腺功能亢进症5",
+      "bbox": [
+        75.8,
+        528.564,
+        285.95,
+        539.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 抗甲状腺药的不良反应",
+      "bbox": [
+        333.95,
+        527.139,
+        466.624,
+        538.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "年，按医嘱服用抗甲状腺激素药物治疗，自觉缓",
+      "bbox": [
+        51.55,
+        545.374,
+        286.193,
+        556.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 营养不良",
+      "bbox": [
+        334.05,
+        543.479,
+        393.73,
+        554.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "解症状后停药，停药后出现心悸气短多汗乏力。",
+      "bbox": [
+        51.66,
+        562.164,
+        285.414,
+        573.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "120. 该患者最适宜的治疗方式是（）",
+      "bbox": [
+        334.59,
+        560.339,
+        536.366,
+        572.08
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "查体见：双眼外凸明显，巩膜无黄染，甲状腺二度",
+      "bbox": [
+        51.77,
+        578.794,
+        295.97,
+        589.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 抗甲状腺药物治疗",
+      "bbox": [
+        334.22,
+        577.049,
+        443.656,
+        588.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "肿大，心率110次/分，实验室检查ヽ中",
+      "bbox": [
+        51.37,
+        595.633,
+        287.94,
+        607.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 复方碘溶液治疗",
+      "bbox": [
+        334.14,
+        594.029,
+        429.825,
+        605.119
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "度升高，TSH明显下降，血o",
+      "bbox": [
+        51.29,
+        610.673,
+        276.15,
+        623.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 甲状腺手术治疗",
+      "bbox": [
+        334.19,
+        610.75,
+        430.413,
+        621.799
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "119. 该患者的WBC降低首先考虑（）",
+      "bbox": [
+        74.84,
+        627.969,
+        282.613,
+        639.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 糖皮质激素治疗",
+      "bbox": [
+        334.14,
+        627.679,
+        431.269,
+        638.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 再生障碍性贫血",
+      "bbox": [
+        74.46,
+        644.929,
+        170.795,
+        656.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 放射性治疗",
+      "bbox": [
+        334.44,
+        644.209,
+        428.584,
+        656.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "B. 急性白血病",
+      "bbox": [
+        74.41,
+        661.289,
+        145.388,
+        672.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        229.65,
+        695.469,
+        365.824,
+        707.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        74.84,
+        775.229,
+        216.82,
+        786.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 晨僵",
+      "bbox": [
+        334.34,
+        774.459,
+        370.561,
+        785.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 贫血",
+      "bbox": [
+        74.16,
+        792.659,
+        110.912,
+        803.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 关节肿胀",
+      "bbox": [
+        334.47,
+        791.039,
+        394.445,
+        802.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "一165",
+      "bbox": [
+        270.23,
+        810.603,
+        303.3,
+        820.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "一",
+      "bbox": [
+        316.27,
+        810.704,
+        324.73,
+        819.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

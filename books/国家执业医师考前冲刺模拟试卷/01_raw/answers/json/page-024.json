@@ -1,0 +1,765 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 24,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        60.71,
+        50.634,
+        260.954,
+        60.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "130. B【解析】汗证肺卫不固多见于体质虚弱的",
+      "bbox": [
+        80.2,
+        79.592,
+        297.013,
+        89.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "胃虚损，积滞内停，虚实夹杂之证，病情较为复杂。干",
+      "bbox": [
+        322.81,
+        81.382,
+        564.053,
+        91.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "小儿，以自汗为主，可伴有盗汗，以头、肩背阳气聚集之",
+      "bbox": [
+        58.77,
+        95.022,
+        303.52,
+        104.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "疳为腑证的后期表现，由脾胃虚衰，津液消亡，气血两",
+      "bbox": [
+        321.52,
+        96.032,
+        563.888,
+        105.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "所汗多，易患外感；汗证营卫失调以自汗为主，或伴盗",
+      "bbox": [
+        58.64,
+        109.252,
+        297.653,
+        119.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "败所致，常病涉五脏而出现各种兼证。",
+      "bbox": [
+        321.67,
+        110.682,
+        492.016,
+        120.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "汗，汗出遍身而不温；汗证气阴两虚以盗汗为主，可伴",
+      "bbox": [
+        59.04,
+        123.522,
+        297.809,
+        133.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "143. D",
+      "bbox": [
+        343.43,
+        125.173,
+        371.628,
+        134.903
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "有自汗，遍身皆可，没有特别的部位；汗证湿热迫蒸，自",
+      "bbox": [
+        58.59,
+        138.142,
+        302.59,
+        147.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "144. B【解析】医学观察病例：1周内有接触史，",
+      "bbox": [
+        343.44,
+        140.203,
+        563.846,
+        149.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "汗或盗汗，以汗出肤热，汗渍色黄为特点。",
+      "bbox": [
+        58.56,
+        152.752,
+        244.38,
+        162.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "出现流感样症状，对其进行7天医学观察。疑似病例：",
+      "bbox": [
+        322.98,
+        154.522,
+        563.698,
+        164.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "131. A【解析】气血虚弱型闭经的治法为益气养",
+      "bbox": [
+        79.96,
+        167.223,
+        297.834,
+        176.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "有流行病学史和临床表现，呼吸道分泌物甲型流感病",
+      "bbox": [
+        322.26,
+        169.182,
+        564.165,
+        178.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "血调经，方用人参养荣汤。",
+      "bbox": [
+        58.37,
+        182.802,
+        175.73,
+        192.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "毒和H5型单克隆抗体抗原检测阳性者。临床诊断病",
+      "bbox": [
+        322.39,
+        184.112,
+        564.314,
+        193.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "132. C【解析】阴虚血燥型闭经当养阴清热调经，",
+      "bbox": [
+        79.83,
+        197.092,
+        297.751,
+        206.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "例：被诊断为疑似病例，且与其有共同暴露史的人被诊",
+      "bbox": [
+        322.68,
+        198.712,
+        564.552,
+        208.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "应首选加减一阴煎。",
+      "bbox": [
+        58.08,
+        211.912,
+        146.088,
+        221.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "断为确诊病例者。确诊病例：临床诊断病例呼吸道分",
+      "bbox": [
+        322.95,
+        213.492,
+        564.457,
+        223.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "133. C【解析】治疗月经过少血瘀证，应首选桃红",
+      "bbox": [
+        79.8,
+        226.162,
+        298.336,
+        235.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "泌物分离出病毒或采用RT-PCR检测到病毒基因，且",
+      "bbox": [
+        322.76,
+        228.562,
+        564.3,
+        238.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "四物汤。",
+      "bbox": [
+        59.03,
+        240.932,
+        98.15,
+        250.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "发病初期和恢复期双份血清抗体滴度4倍或以上",
+      "bbox": [
+        322.71,
+        242.902,
+        563.974,
+        253.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "134. A【解析】治疗月经过少血虚证，应首选滋",
+      "bbox": [
+        79.72,
+        255.443,
+        298.763,
+        265.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "升高。",
+      "bbox": [
+        323.0,
+        257.863,
+        352.19,
+        267.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "血汤。",
+      "bbox": [
+        58.21,
+        270.553,
+        87.46,
+        280.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "145. D",
+      "bbox": [
+        344.22,
+        272.863,
+        372.389,
+        282.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "135. B【解析】题干产后肢体关节疼痛，屈伸不",
+      "bbox": [
+        79.93,
+        284.862,
+        299.032,
+        294.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "146. A【解析】慢惊风的证型：脾虚肝亢一温中",
+      "bbox": [
+        344.28,
+        287.593,
+        563.548,
+        297.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "利，痛无定处，辨证为风寒证。",
+      "bbox": [
+        58.21,
+        300.292,
+        195.13,
+        310.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "健脾，方用缓肝理脾汤；脾肾阳虚——温补脾肾、回阳",
+      "bbox": [
+        323.01,
+        301.762,
+        563.754,
+        311.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "136. D【解析】题干产后遍身关节酸楚，肢体麻",
+      "bbox": [
+        80.06,
+        314.382,
+        299.387,
+        324.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "救逆，方用固真汤合逐寒荡惊汤加减；阴虚风动——育",
+      "bbox": [
+        323.14,
+        316.632,
+        564.068,
+        326.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "木，头晕心悸，辨证为血虚证。",
+      "bbox": [
+        58.4,
+        329.482,
+        195.32,
+        339.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "阴潜阳，滋补肝肾，方用大定风珠加减。",
+      "bbox": [
+        323.79,
+        331.772,
+        499.65,
+        341.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "137. C【解析】治疗癥瘕气滞证，应首选香棱丸。",
+      "bbox": [
+        80.29,
+        344.093,
+        293.077,
+        355.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "147. A【解析】妇人腹痛肾阳虚衰证的治法是温",
+      "bbox": [
+        344.68,
+        345.603,
+        563.918,
+        355.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "138. B【解析】治疗癥瘕痰湿证，应首选苍附导",
+      "bbox": [
+        80.29,
+        358.442,
+        299.341,
+        369.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "肾助阳，暖宫止痛。",
+      "bbox": [
+        323.83,
+        360.853,
+        411.58,
+        370.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "痰丸。",
+      "bbox": [
+        58.66,
+        373.812,
+        87.91,
+        383.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "148. B【解析】妇人腹痛气滞血瘀证的治法是行",
+      "bbox": [
+        344.79,
+        375.083,
+        563.638,
+        384.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "139. A",
+      "bbox": [
+        80.46,
+        388.523,
+        109.358,
+        398.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "气活血，化瘀止痛。",
+      "bbox": [
+        323.56,
+        390.093,
+        411.31,
+        399.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "140. B【解析】传染性单核细胞增多症气营两燔",
+      "bbox": [
+        80.65,
+        402.733,
+        299.693,
+        412.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "149. D【解析】易发生内陷的疾病是有头疽。老",
+      "bbox": [
+        345.19,
+        404.403,
+        563.736,
+        414.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "证证候为壮热烦渴，咽喉红肿疼痛，乳蛾肿大，甚则溃",
+      "bbox": [
+        58.78,
+        417.932,
+        299.82,
+        427.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "年患者多发，尤其是消渴病患者多见，易出现内陷",
+      "bbox": [
+        323.94,
+        419.182,
+        563.168,
+        428.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "烂；湿热蕴滞证证候为发热持续，缠绵不退，身热不扬，",
+      "bbox": [
+        58.81,
+        431.942,
+        303.31,
+        441.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "之证。",
+      "bbox": [
+        324.09,
+        434.092,
+        353.43,
+        443.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "汗出不透，头身重痛等。",
+      "bbox": [
+        58.98,
+        447.082,
+        166.45,
+        456.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "150. E【解析】红丝疔若处理不当，发于颜面者易",
+      "bbox": [
+        345.65,
+        448.202,
+        563.2,
+        457.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "141. B",
+      "bbox": [
+        81.09,
+        461.693,
+        108.811,
+        471.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "引起走黄危证而危及生命。",
+      "bbox": [
+        324.58,
+        463.623,
+        443.817,
+        473.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "142. D【解析】疳积多由疳气发展而来，病机属脾",
+      "bbox": [
+        80.63,
+        475.863,
+        300.257,
+        485.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "—",
+      "bbox": [
+        284.94,
+        802.878,
+        294.19,
+        812.128
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "214——",
+      "bbox": [
+        305.22,
+        802.029,
+        350.93,
+        812.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 16,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        58.76,
+        50.334,
+        257.66,
+        61.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 抗体可用于慢性带菌者的调查",
+      "bbox": [
+        80.98,
+        80.558,
+        248.241,
+        92.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 发热期、出血期、低血压期、少尿期、恢",
+      "bbox": [
+        342.58,
+        79.088,
+        555.895,
+        90.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "42. 有关肺炎型流感的临床表现，叙述不",
+      "bbox": [
+        80.67,
+        95.808,
+        293.492,
+        107.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "复期",
+      "bbox": [
+        318.74,
+        96.078,
+        341.12,
+        107.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "正确的是（）",
+      "bbox": [
+        56.79,
+        112.398,
+        138.613,
+        123.638
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "48. 下列各项，可在使用有效抗结核药物",
+      "bbox": [
+        342.38,
+        111.378,
+        555.751,
+        122.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 多发生在2岁以下的小儿",
+      "bbox": [
+        81.1,
+        128.168,
+        225.968,
+        139.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "的同时，加用糖皮质激素的是（）",
+      "bbox": [
+        319.5,
+        127.378,
+        502.603,
+        138.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 发病后24小时内出现高热",
+      "bbox": [
+        80.77,
+        144.448,
+        230.164,
+        155.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 伴咯血",
+      "bbox": [
+        342.55,
+        143.368,
+        392.01,
+        154.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 应用抗菌药物无效",
+      "bbox": [
+        80.69,
+        160.858,
+        188.767,
+        173.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 空洞形成",
+      "bbox": [
+        342.46,
+        159.708,
+        402.34,
+        170.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 两肺可有呼吸音减低",
+      "bbox": [
+        80.61,
+        176.718,
+        201.133,
+        187.918
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 急性粟粒型肺结核",
+      "bbox": [
+        342.66,
+        175.808,
+        450.786,
+        186.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 肺实变体征",
+      "bbox": [
+        80.92,
+        192.998,
+        153.171,
+        204.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 干性胸膜炎",
+      "bbox": [
+        342.53,
+        192.118,
+        415.032,
+        203.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "43. 大脑中动脉血栓形成的“三偏”征的表",
+      "bbox": [
+        80.59,
+        209.008,
+        294.084,
+        220.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 抗结核药引起肝损伤",
+      "bbox": [
+        342.69,
+        207.998,
+        462.946,
+        219.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "现是（）",
+      "bbox": [
+        56.87,
+        225.428,
+        114.573,
+        236.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "49. 与流行性脑脊髓膜炎患者密切接触后",
+      "bbox": [
+        342.61,
+        224.358,
+        555.959,
+        235.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 偏瘫、偏身感觉障碍、同向偏视",
+      "bbox": [
+        80.87,
+        241.448,
+        250.51,
+        252.638
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "的重要预防措施是（）",
+      "bbox": [
+        319.67,
+        240.808,
+        448.423,
+        252.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 偏瘫、偏盲、偏身感觉障碍",
+      "bbox": [
+        80.71,
+        257.848,
+        225.688,
+        269.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 开窗通风",
+      "bbox": [
+        342.73,
+        256.628,
+        404.399,
+        267.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 偏盲、偏身感觉障碍、间侧偏瘫",
+      "bbox": [
+        80.77,
+        274.118,
+        251.03,
+        286.887
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 隔离观察",
+      "bbox": [
+        342.53,
+        273.028,
+        402.58,
+        284.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 对侧偏瘫、偏身感觉障碍、网向偏盲",
+      "bbox": [
+        80.74,
+        290.108,
+        273.353,
+        301.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 服用利福平",
+      "bbox": [
+        342.76,
+        288.888,
+        414.494,
+        300.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 交叉性偏瘫、偏视、偏身感觉障碍",
+      "bbox": [
+        81.02,
+        306.318,
+        261.071,
+        317.518
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 注射青霉素",
+      "bbox": [
+        342.48,
+        305.338,
+        414.703,
+        316.518
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "44. 临床上流感的潜伏期通常是（）",
+      "bbox": [
+        80.69,
+        322.388,
+        276.583,
+        333.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 菌苗预防注射",
+      "bbox": [
+        342.72,
+        321.498,
+        426.794,
+        332.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "A. 24小时内",
+      "bbox": [
+        80.91,
+        338.558,
+        145.728,
+        350.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "50. 人感染高致病性禽流感的主要传播途",
+      "bbox": [
+        342.72,
+        337.588,
+        556.248,
+        348.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "B. 1～3日",
+      "bbox": [
+        80.72,
+        354.818,
+        135.32,
+        366.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "径是（）",
+      "bbox": [
+        318.85,
+        354.088,
+        376.313,
+        365.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "C. 3～5日",
+      "bbox": [
+        80.89,
+        370.818,
+        135.73,
+        382.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 消化道",
+      "bbox": [
+        342.74,
+        369.558,
+        391.821,
+        380.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "D. 1～7日",
+      "bbox": [
+        80.86,
+        387.018,
+        136.29,
+        398.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 虫媒",
+      "bbox": [
+        342.59,
+        385.958,
+        378.296,
+        397.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "E. 2周",
+      "bbox": [
+        81.0,
+        403.038,
+        115.41,
+        414.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 血液",
+      "bbox": [
+        342.63,
+        402.308,
+        378.709,
+        413.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "45. 有关人禽流感血常规及血生化检查的",
+      "bbox": [
+        80.9,
+        419.148,
+        293.89,
+        430.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 呼吸道",
+      "bbox": [
+        342.67,
+        418.158,
+        390.968,
+        429.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "叙述，不正确的是（）",
+      "bbox": [
+        56.5,
+        435.458,
+        182.083,
+        446.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 体液传播",
+      "bbox": [
+        342.78,
+        434.168,
+        402.758,
+        445.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 肝功能异常",
+      "bbox": [
+        81.0,
+        450.858,
+        155.425,
+        462.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "51. 下列各项中，不属于流行性脑脊髓膜",
+      "bbox": [
+        342.79,
+        450.318,
+        555.792,
+        461.518
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "B. ALT升高",
+      "bbox": [
+        80.74,
+        467.218,
+        146.19,
+        478.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "炎普通型临床分期的是（）",
+      "bbox": [
+        319.07,
+        466.718,
+        471.976,
+        477.928
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "C. 外周血血小板增多",
+      "bbox": [
+        80.79,
+        483.158,
+        189.825,
+        494.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 前驱期",
+      "bbox": [
+        342.81,
+        482.468,
+        391.499,
+        493.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "D. 亦可出现BUN的升高",
+      "bbox": [
+        80.7,
+        499.408,
+        210.448,
+        510.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 发热期",
+      "bbox": [
+        342.73,
+        499.068,
+        389.943,
+        510.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "E. AST升高",
+      "bbox": [
+        80.83,
+        515.658,
+        145.314,
+        526.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 败血症期",
+      "bbox": [
+        342.65,
+        515.268,
+        402.11,
+        526.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "46. 下列关于艾滋病高危人群的说法，哪",
+      "bbox": [
+        80.64,
+        531.528,
+        294.168,
+        542.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 脑膜炎期",
+      "bbox": [
+        342.62,
+        531.338,
+        402.761,
+        542.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "项是错误的（）",
+      "bbox": [
+        56.36,
+        548.258,
+        151.28,
+        559.458
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 恢复期",
+      "bbox": [
+        342.95,
+        547.518,
+        390.389,
+        558.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 性工作者",
+      "bbox": [
+        80.82,
+        564.148,
+        143.081,
+        575.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "52. 早期胃癌的定义为（）",
+      "bbox": [
+        342.79,
+        563.648,
+        490.316,
+        574.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 血友患者",
+      "bbox": [
+        80.79,
+        580.578,
+        140.956,
+        591.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 癌肿小于1cm，无淋巴结转移",
+      "bbox": [
+        342.75,
+        579.828,
+        505.821,
+        591.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 多次输血者",
+      "bbox": [
+        80.84,
+        597.198,
+        153.277,
+        609.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 癌肿小于2cm，无淋巴结转移",
+      "bbox": [
+        342.64,
+        596.178,
+        504.225,
+        607.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 50岁以上的人",
+      "bbox": [
+        80.72,
+        613.038,
+        168.897,
+        624.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 癌浸润不超过黏膜下层，无论有无淋巴",
+      "bbox": [
+        342.69,
+        612.318,
+        555.557,
+        623.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 同性恋",
+      "bbox": [
+        80.93,
+        629.728,
+        128.97,
+        642.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "结转移",
+      "bbox": [
+        319.05,
+        629.128,
+        353.289,
+        640.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "47. 流行性出血热的临床五期经过顺序，",
+      "bbox": [
+        80.57,
+        645.088,
+        293.403,
+        656.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 癌浸润到肌层，无局部淋巴结转移",
+      "bbox": [
+        342.57,
+        644.678,
+        530.226,
+        655.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "正确的是（）",
+      "bbox": [
+        56.7,
+        661.768,
+        138.893,
+        673.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 癌浸润到黏膜层、黏膜下层及肌层",
+      "bbox": [
+        342.78,
+        660.718,
+        529.553,
+        671.898
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 发热期、多尿期、低血压期、少尿期、恢",
+      "bbox": [
+        80.98,
+        677.608,
+        294.631,
+        688.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "53. 在医学伦理学的研究内容中不包括以",
+      "bbox": [
+        342.87,
+        677.038,
+        555.849,
+        688.218
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "复期",
+      "bbox": [
+        56.86,
+        694.638,
+        79.28,
+        705.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "下哪项内容（）",
+      "bbox": [
+        318.88,
+        693.329,
+        412.696,
+        704.518
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 发热期、低血压期、少尿期、多尿期、恢",
+      "bbox": [
+        80.88,
+        710.188,
+        294.206,
+        721.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 医学道德的教育、评价和修养",
+      "bbox": [
+        342.77,
+        709.238,
+        506.68,
+        720.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "复期",
+      "bbox": [
+        56.97,
+        726.818,
+        79.43,
+        738.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 医学道德中特殊问题",
+      "bbox": [
+        342.56,
+        725.258,
+        462.723,
+        736.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 发热期、出血期、少尿期、多尿期、恢",
+      "bbox": [
+        80.83,
+        742.238,
+        294.268,
+        753.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 伦理学产生、发展及其规律",
+      "bbox": [
+        342.69,
+        741.588,
+        493.128,
+        752.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "复期",
+      "bbox": [
+        57.35,
+        758.948,
+        79.73,
+        770.138
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 医学伦理学的基本原则、规范",
+      "bbox": [
+        342.45,
+        757.738,
+        505.712,
+        768.928
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 发热期、低血压期、多尿期、少尿期、恢",
+      "bbox": [
+        80.99,
+        774.558,
+        294.26,
+        785.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 医学伦理学的基本理论",
+      "bbox": [
+        342.71,
+        774.038,
+        475.26,
+        785.218
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "复期",
+      "bbox": [
+        57.5,
+        791.018,
+        79.9,
+        802.218
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "54. 最近报道一女青年接受X光检查时，",
+      "bbox": [
+        342.76,
+        790.048,
+        554.509,
+        801.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "—",
+      "bbox": [
+        277.02,
+        810.044,
+        287.6,
+        820.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "158—",
+      "bbox": [
+        297.19,
+        809.494,
+        335.22,
+        820.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

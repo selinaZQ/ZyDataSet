@@ -1,0 +1,1207 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 37,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        420.29,
+        48.745,
+        540.133,
+        60.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 触之如海绵状",
+      "bbox": [
+        65.97,
+        79.473,
+        156.898,
+        91.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 脐痈",
+      "bbox": [
+        335.93,
+        80.673,
+        371.43,
+        92.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 柔软而局限",
+      "bbox": [
+        65.93,
+        96.743,
+        144.677,
+        108.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 腋痈",
+      "bbox": [
+        335.88,
+        96.713,
+        371.492,
+        108.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 色泽鲜红而暗紫",
+      "bbox": [
+        65.96,
+        112.303,
+        170.291,
+        124.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 锁喉痈",
+      "bbox": [
+        335.77,
+        112.453,
+        384.636,
+        124.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 盘曲如蚯蚓状",
+      "bbox": [
+        65.67,
+        128.852,
+        151.2,
+        140.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 委中毒",
+      "bbox": [
+        335.63,
+        128.113,
+        384.239,
+        139.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "2. 下列关于外科疾病总的发病机制的叙",
+      "bbox": [
+        65.8,
+        143.413,
+        286.23,
+        155.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "9. 可能发生髋关节畸形的疾病是（）",
+      "bbox": [
+        335.75,
+        144.713,
+        543.099,
+        156.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "述，错误的是（）",
+      "bbox": [
+        43.44,
+        160.803,
+        143.673,
+        172.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 流火",
+      "bbox": [
+        336.0,
+        160.293,
+        372.902,
+        171.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 气血凝滞",
+      "bbox": [
+        65.77,
+        176.713,
+        128.003,
+        188.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 有头疽",
+      "bbox": [
+        335.7,
+        176.453,
+        384.044,
+        188.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 经络阻塞",
+      "bbox": [
+        65.33,
+        192.693,
+        125.887,
+        204.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 环跳疽",
+      "bbox": [
+        335.39,
+        192.243,
+        384.448,
+        203.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 营气不从",
+      "bbox": [
+        65.37,
+        208.413,
+        126.765,
+        220.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 历节风",
+      "bbox": [
+        335.23,
+        208.263,
+        384.763,
+        219.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 脏腑失和",
+      "bbox": [
+        65.47,
+        224.463,
+        126.149,
+        236.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 髂窝流注",
+      "bbox": [
+        335.63,
+        225.263,
+        396.06,
+        236.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 热毒火毒",
+      "bbox": [
+        65.31,
+        240.443,
+        126.036,
+        252.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "10. 脱疽初起，患者足背动脉、股后动脉的",
+      "bbox": [
+        336.4,
+        240.193,
+        554.73,
+        251.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "3. 贯穿结扎法最适用的是（）",
+      "bbox": [
+        65.06,
+        257.443,
+        238.163,
+        269.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "脉象多表现为（）",
+      "bbox": [
+        310.81,
+        257.683,
+        419.106,
+        269.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 内痔嵌顿",
+      "bbox": [
+        65.31,
+        273.773,
+        128.025,
+        285.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 弦数",
+      "bbox": [
+        335.7,
+        273.673,
+        373.57,
+        285.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 静脉曲张性外痔",
+      "bbox": [
+        65.4,
+        289.803,
+        163.989,
+        301.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 洪大",
+      "bbox": [
+        335.24,
+        289.733,
+        371.568,
+        301.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 血栓性外痔",
+      "bbox": [
+        65.83,
+        306.673,
+        139.697,
+        318.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 结代",
+      "bbox": [
+        335.38,
+        305.613,
+        371.494,
+        317.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 赘皮外痔",
+      "bbox": [
+        65.45,
+        322.573,
+        127.59,
+        334.313
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 微弱",
+      "bbox": [
+        335.14,
+        322.583,
+        371.351,
+        334.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 纤维型内痔",
+      "bbox": [
+        65.84,
+        338.493,
+        139.688,
+        350.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 绝",
+      "bbox": [
+        335.02,
+        338.683,
+        359.382,
+        350.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "4. 下列各项，属外科辨别阴证、阳证要点",
+      "bbox": [
+        65.41,
+        354.063,
+        285.229,
+        365.903
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "11. 下列关于血栓性深静脉炎主要临床表",
+      "bbox": [
+        335.91,
+        354.443,
+        554.454,
+        366.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "的是（）",
+      "bbox": [
+        44.58,
+        371.513,
+        100.396,
+        383.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "现的叙述，错误的是（）",
+      "bbox": [
+        310.75,
+        370.464,
+        447.626,
+        382.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 有无麻木",
+      "bbox": [
+        66.03,
+        386.583,
+        128.812,
+        398.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 患肢疼痛",
+      "bbox": [
+        335.17,
+        386.413,
+        396.21,
+        398.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 有无脓液",
+      "bbox": [
+        66.01,
+        403.713,
+        127.265,
+        415.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 肿胀",
+      "bbox": [
+        335.04,
+        402.603,
+        371.181,
+        414.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 有无出血",
+      "bbox": [
+        65.89,
+        418.523,
+        127.321,
+        430.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 皮肤温度升高",
+      "bbox": [
+        335.0,
+        418.433,
+        419.406,
+        430.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 有无灼热",
+      "bbox": [
+        65.83,
+        435.573,
+        127.717,
+        447.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 足背动脉搏动减弱",
+      "bbox": [
+        334.8,
+        434.473,
+        444.09,
+        446.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 有无瘙痒",
+      "bbox": [
+        65.94,
+        451.503,
+        127.417,
+        463.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 浅静脉扩张",
+      "bbox": [
+        334.98,
+        451.443,
+        407.711,
+        463.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "5. 中医外科内治法的总则是（）",
+      "bbox": [
+        66.25,
+        466.943,
+        250.083,
+        479.613
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "12. 诊断瘿病的重要体征是（）",
+      "bbox": [
+        335.81,
+        467.443,
+        512.863,
+        479.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 温、托、补",
+      "bbox": [
+        66.22,
+        483.373,
+        137.745,
+        495.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 肿块的位置",
+      "bbox": [
+        334.81,
+        483.573,
+        409.023,
+        495.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 清、消、补",
+      "bbox": [
+        66.17,
+        500.423,
+        136.838,
+        512.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 有无压痛",
+      "bbox": [
+        334.93,
+        499.503,
+        394.669,
+        511.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 清、补、托",
+      "bbox": [
+        66.23,
+        516.493,
+        136.582,
+        528.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 有无震颤",
+      "bbox": [
+        334.85,
+        515.413,
+        395.89,
+        527.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 消、通、补",
+      "bbox": [
+        65.95,
+        532.293,
+        137.109,
+        543.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 是否随吞咽上下移动",
+      "bbox": [
+        334.83,
+        532.673,
+        456.56,
+        544.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 消、托、补",
+      "bbox": [
+        66.12,
+        549.373,
+        136.158,
+        561.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 有无波动感",
+      "bbox": [
+        335.11,
+        548.653,
+        407.888,
+        560.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "6. 内痔消痔灵注射法一次注射总量为",
+      "bbox": [
+        65.98,
+        565.131,
+        284.507,
+        577.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "13. 乳癖的特点是（）",
+      "bbox": [
+        335.69,
+        564.752,
+        462.409,
+        576.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "（）",
+      "bbox": [
+        44.49,
+        583.453,
+        76.119,
+        595.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 乳块肿痛，皮色微红，按后痛甚",
+      "bbox": [
+        334.77,
+        580.463,
+        516.96,
+        592.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 乳块皮肉相连，溃破脓稀薄如痰",
+      "bbox": [
+        334.73,
+        597.503,
+        515.34,
+        609.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 5～10ml",
+      "bbox": [
+        65.81,
+        601.297,
+        113.255,
+        612.957
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 乳块呈卵圆形，表面光滑，推之活动",
+      "bbox": [
+        334.83,
+        613.283,
+        540.54,
+        624.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 10～15ml",
+      "bbox": [
+        65.92,
+        617.335,
+        118.463,
+        628.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 乳块质地较软，月经后缩小",
+      "bbox": [
+        334.63,
+        629.554,
+        492.3,
+        641.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 15～30ml",
+      "bbox": [
+        66.0,
+        633.536,
+        118.588,
+        645.186
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 肿块高低不平，质硬，推之不动",
+      "bbox": [
+        334.81,
+        646.344,
+        515.2,
+        658.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 20～35ml",
+      "bbox": [
+        65.7,
+        650.066,
+        118.929,
+        661.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "14. 热疮的主要治法是（）",
+      "bbox": [
+        335.81,
+        662.473,
+        489.143,
+        674.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 25～40ml",
+      "bbox": [
+        66.01,
+        666.985,
+        117.901,
+        678.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "7. 下列除哪项外，均与脂瘤无关（）",
+      "bbox": [
+        65.92,
+        680.173,
+        267.839,
+        691.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 凉血散瘀",
+      "bbox": [
+        334.77,
+        678.483,
+        397.632,
+        690.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 以四肢、面颈部为多见",
+      "bbox": [
+        65.61,
+        696.163,
+        196.621,
+        707.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 清热和营",
+      "bbox": [
+        334.96,
+        695.373,
+        395.549,
+        707.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 以腕、踝关节部为多见",
+      "bbox": [
+        65.97,
+        712.173,
+        196.232,
+        723.903
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 清热利湿",
+      "bbox": [
+        334.82,
+        711.353,
+        396.303,
+        723.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 头面、项背、臀部等处常见",
+      "bbox": [
+        65.64,
+        729.153,
+        220.077,
+        740.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 清热解毒养阴",
+      "bbox": [
+        334.83,
+        728.313,
+        420.095,
+        740.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 治以散结化痰",
+      "bbox": [
+        65.31,
+        745.093,
+        151.141,
+        756.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 清热凉血",
+      "bbox": [
+        334.95,
+        745.633,
+        396.135,
+        757.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 治以凉营活血",
+      "bbox": [
+        65.52,
+        762.272,
+        150.839,
+        774.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "15. 关于一次切开挂线法治疗肛痈的适应",
+      "bbox": [
+        336.0,
+        761.163,
+        552.48,
+        772.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "8. 不属于痈的疾病是（）",
+      "bbox": [
+        65.41,
+        777.993,
+        211.856,
+        789.773
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "证，错误的是（）",
+      "bbox": [
+        310.0,
+        778.233,
+        413.076,
+        790.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 颈痈",
+      "bbox": [
+        65.45,
+        793.963,
+        102.696,
+        805.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 肛门旁皮下脓肿",
+      "bbox": [
+        334.75,
+        794.253,
+        434.112,
+        805.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "131",
+      "bbox": [
+        288.46,
+        816.146,
+        303.046,
+        825.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

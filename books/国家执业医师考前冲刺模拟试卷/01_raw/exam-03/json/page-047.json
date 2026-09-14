@@ -1,0 +1,999 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 47,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        419.72,
+        11.705,
+        517.507,
+        21.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        383.75,
+        108.568,
+        485.505,
+        118.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        214.75,
+        134.448,
+        338.665,
+        146.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        74.37,
+        204.238,
+        181.492,
+        215.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 肾虚肝亢证",
+      "bbox": [
+        308.73,
+        203.488,
+        375.051,
+        215.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "患儿，女，5岁。西医诊断为注意缺陷多动",
+      "bbox": [
+        73.98,
+        218.859,
+        265.975,
+        229.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 心脾两虚证",
+      "bbox": [
+        308.9,
+        217.619,
+        374.778,
+        228.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "障碍。临床表现为多动，烦躁不宁，难以制约，",
+      "bbox": [
+        55.41,
+        232.799,
+        270.15,
+        242.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "120. 该患儿治疗首选方为（）",
+      "bbox": [
+        309.7,
+        231.278,
+        458.01,
+        241.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "注意力不集中，胸闷烦热，口苦食少，小便黄",
+      "bbox": [
+        55.62,
+        246.769,
+        265.114,
+        257.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 实脾饮",
+      "bbox": [
+        308.79,
+        246.699,
+        354.245,
+        257.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "赤，大便秘结，舌质红，苔黄腻，脉滑数。",
+      "bbox": [
+        55.78,
+        261.619,
+        250.91,
+        271.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 六味地黄丸",
+      "bbox": [
+        308.73,
+        260.649,
+        374.481,
+        271.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "119. 该患儿的中医辨证为（）",
+      "bbox": [
+        74.66,
+        275.278,
+        216.263,
+        286.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 黄连温胆汤",
+      "bbox": [
+        308.7,
+        275.628,
+        373.987,
+        286.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 肝郁痰扰证",
+      "bbox": [
+        73.58,
+        290.199,
+        139.382,
+        301.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 杞菊地黄丸",
+      "bbox": [
+        308.66,
+        289.668,
+        375.003,
+        300.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 痰火内扰证",
+      "bbox": [
+        73.78,
+        305.209,
+        138.046,
+        316.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 归脾汤合甘麦大枣汤",
+      "bbox": [
+        308.74,
+        304.609,
+        416.757,
+        315.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 肝郁脾虚证",
+      "bbox": [
+        73.43,
+        319.159,
+        138.227,
+        330.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        214.02,
+        347.988,
+        337.313,
+        360.119
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        74.47,
+        420.878,
+        202.829,
+        432.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 附桂八味丸",
+      "bbox": [
+        308.68,
+        420.629,
+        373.982,
+        431.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 有一条管道，通过外括约肌深层以上",
+      "bbox": [
+        73.83,
+        434.709,
+        252.772,
+        444.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "125. 治疗脱疽寒湿阻络证，应首选（）",
+      "bbox": [
+        309.52,
+        433.959,
+        494.073,
+        444.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 有两个以上外口及管道有分支窦道，其",
+      "bbox": [
+        73.86,
+        448.759,
+        265.631,
+        458.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "126. 治疗脱疽热毒伤阴证，应首选（）",
+      "bbox": [
+        309.68,
+        449.189,
+        494.2,
+        459.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "主管道通过外括约肌深层以上，有一个或两个",
+      "bbox": [
+        55.59,
+        463.709,
+        265.711,
+        473.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        309.25,
+        463.048,
+        438.284,
+        473.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "以上内口者",
+      "bbox": [
+        56.8,
+        479.209,
+        107.5,
+        489.349
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 桂枝汤",
+      "bbox": [
+        308.79,
+        478.018,
+        352.62,
+        488.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 仅有一条管道，漏管穿过外括约肌深层",
+      "bbox": [
+        74.12,
+        491.778,
+        265.252,
+        503.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 桑菊饮",
+      "bbox": [
+        308.77,
+        492.288,
+        351.884,
+        503.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "以上，内口位于肛窦部位",
+      "bbox": [
+        56.23,
+        506.749,
+        167.66,
+        516.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 银翘散",
+      "bbox": [
+        308.58,
+        506.649,
+        351.764,
+        517.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 漏管在外括约肌深层以下，有两个以上",
+      "bbox": [
+        74.2,
+        520.719,
+        266.5,
+        532.318
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 茵陈蒿汤合消风散",
+      "bbox": [
+        308.56,
+        521.109,
+        406.031,
+        532.076
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "外口，或两条以上管道，内口在肛窦部位",
+      "bbox": [
+        55.01,
+        535.859,
+        240.19,
+        546.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 普济消毒饮",
+      "bbox": [
+        308.69,
+        535.239,
+        373.53,
+        546.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 只有一个漏管，并通过外括约肌深层以",
+      "bbox": [
+        74.17,
+        549.719,
+        264.885,
+        561.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "127. 多形性红斑风寒证，内治应首选（）",
+      "bbox": [
+        309.4,
+        549.859,
+        496.597,
+        561.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "下，内口在肛窦附近",
+      "bbox": [
+        55.12,
+        564.748,
+        150.06,
+        575.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "128. 多形性红斑风湿热证，内治应首",
+      "bbox": [
+        309.42,
+        564.098,
+        498.692,
+        574.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "121. 低位单纯性肛漏（）选",
+      "bbox": [
+        74.97,
+        578.798,
+        296.65,
+        589.508
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "（）",
+      "bbox": [
+        303.135,
+        579.328,
+        328.587,
+        589.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "122. 高位单纯性肛漏（）",
+      "bbox": [
+        75.12,
+        592.898,
+        200.58,
+        603.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        309.28,
+        593.148,
+        437.817,
+        603.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        74.83,
+        606.698,
+        202.859,
+        617.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 截石位3、7、11点",
+      "bbox": [
+        308.39,
+        608.218,
+        401.13,
+        618.898
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 逍遥蒌贝散",
+      "bbox": [
+        74.23,
+        621.798,
+        139.616,
+        631.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 截石位3、9点",
+      "bbox": [
+        308.51,
+        621.598,
+        384.96,
+        632.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 二仙汤合四物汤",
+      "bbox": [
+        73.92,
+        637.238,
+        158.721,
+        648.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 截石位6、12点",
+      "bbox": [
+        308.32,
+        636.298,
+        388.946,
+        646.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 右归丸",
+      "bbox": [
+        73.95,
+        651.178,
+        117.132,
+        662.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 截石位1、8点",
+      "bbox": [
+        308.33,
+        651.228,
+        383.774,
+        661.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 神效瓜蒌散合开郁散",
+      "bbox": [
+        73.97,
+        665.238,
+        181.522,
+        676.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 截石位4、10点",
+      "bbox": [
+        308.43,
+        665.248,
+        389.198,
+        676.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 瓜蒌牛蒡汤",
+      "bbox": [
+        74.17,
+        680.128,
+        137.502,
+        691.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "129. 血栓外痔好发于肛门齿线下（）",
+      "bbox": [
+        309.05,
+        680.359,
+        489.567,
+        690.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "123. 乳腺增生病冲任失调证，内治应首",
+      "bbox": [
+        75.01,
+        693.888,
+        265.135,
+        704.098
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "130. 内痔好发于肛门齿线上（）",
+      "bbox": [
+        308.93,
+        694.328,
+        468.947,
+        704.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "选（）",
+      "bbox": [
+        55.56,
+        708.748,
+        93.69,
+        718.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        308.81,
+        708.248,
+        438.348,
+        719.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "124. 乳岩肝郁痰凝证，内治应首选（）",
+      "bbox": [
+        75.16,
+        723.068,
+        260.387,
+        733.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 养血益气，温经止痛",
+      "bbox": [
+        308.33,
+        723.188,
+        414.969,
+        733.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        74.87,
+        736.998,
+        202.344,
+        747.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 养血益气止痛",
+      "bbox": [
+        308.45,
+        737.688,
+        383.504,
+        748.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 阳和汤",
+      "bbox": [
+        74.44,
+        752.168,
+        117.123,
+        762.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 祛风散寒止痛",
+      "bbox": [
+        308.33,
+        751.658,
+        383.639,
+        762.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 桃红四物汤",
+      "bbox": [
+        74.51,
+        766.519,
+        137.277,
+        777.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 补肾养血，强腰壮骨",
+      "bbox": [
+        308.32,
+        765.149,
+        414.64,
+        776.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 顾步汤",
+      "bbox": [
+        74.36,
+        780.598,
+        116.576,
+        791.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 养血活血，化瘀祛湿",
+      "bbox": [
+        308.69,
+        780.379,
+        414.09,
+        791.946
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 人参养荣汤",
+      "bbox": [
+        74.55,
+        795.258,
+        138.01,
+        806.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "131. 患者产后遍身疼痛，关节酸楚，肢体",
+      "bbox": [
+        309.49,
+        794.399,
+        502.34,
+        804.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "--- 141",
+      "bbox": [
+        250.81,
+        815.287,
+        281.37,
+        825.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

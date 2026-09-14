@@ -1,0 +1,1181 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 3,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        413.62,
+        47.773,
+        531.33,
+        58.733
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "A. 元气",
+      "bbox": [
+        65.66,
+        77.928,
+        103.661,
+        89.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "30. 在奇经八脉中，其循行多次与手、足三",
+      "bbox": [
+        329.47,
+        77.878,
+        544.491,
+        89.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "B. 宗气",
+      "bbox": [
+        65.48,
+        93.688,
+        101.721,
+        104.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "阳经及阳维脉交会的是（）",
+      "bbox": [
+        304.41,
+        94.935,
+        462.077,
+        106.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "C. 营气",
+      "bbox": [
+        65.38,
+        110.468,
+        101.902,
+        121.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 冲脉",
+      "bbox": [
+        329.69,
+        110.579,
+        367.531,
+        121.689
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "D. 卫气",
+      "bbox": [
+        65.29,
+        126.708,
+        102.464,
+        137.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 任脉",
+      "bbox": [
+        329.46,
+        126.989,
+        365.892,
+        138.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "E. 中气",
+      "bbox": [
+        65.11,
+        142.998,
+        101.736,
+        154.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 督脉",
+      "bbox": [
+        329.33,
+        143.39,
+        365.961,
+        154.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "24. 在十二经脉走向中，足之三阴是（）",
+      "bbox": [
+        64.95,
+        159.829,
+        269.223,
+        171.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 阴维脉",
+      "bbox": [
+        329.28,
+        159.959,
+        378.397,
+        171.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 从脏走手",
+      "bbox": [
+        65.17,
+        175.778,
+        127.318,
+        186.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 阳跷脉",
+      "bbox": [
+        329.54,
+        176.599,
+        378.178,
+        187.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 从头走足",
+      "bbox": [
+        64.73,
+        191.998,
+        125.246,
+        203.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "31. 与津液代谢关系最密切的脏腑是",
+      "bbox": [
+        329.47,
+        192.748,
+        544.828,
+        203.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 从足走胸",
+      "bbox": [
+        64.71,
+        208.568,
+        125.872,
+        219.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "（）",
+      "bbox": [
+        306.42,
+        210.488,
+        339.53,
+        221.659
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 从足走腹",
+      "bbox": [
+        64.62,
+        225.248,
+        126.545,
+        236.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 脾胃肝",
+      "bbox": [
+        329.33,
+        226.249,
+        379.157,
+        237.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 从手走头",
+      "bbox": [
+        64.68,
+        241.598,
+        125.847,
+        252.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 肝胆肾",
+      "bbox": [
+        329.12,
+        242.77,
+        377.067,
+        253.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "25. 《素问·生气通天论》说“大骨气劳，短",
+      "bbox": [
+        64.89,
+        258.059,
+        280.785,
+        269.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 肝肺脾",
+      "bbox": [
+        329.33,
+        259.22,
+        377.488,
+        270.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "肌，心气抑”是由（）",
+      "bbox": [
+        40.46,
+        273.829,
+        160.586,
+        286.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 肺肾脾",
+      "bbox": [
+        329.14,
+        275.469,
+        377.925,
+        286.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 味过于酸所致",
+      "bbox": [
+        65.22,
+        290.588,
+        152.312,
+        301.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 心肾肺",
+      "bbox": [
+        329.19,
+        291.958,
+        377.591,
+        303.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 味过于苦所致",
+      "bbox": [
+        64.78,
+        307.518,
+        150.933,
+        318.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "32. 五味中入肺的是（）",
+      "bbox": [
+        329.3,
+        308.298,
+        465.33,
+        319.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 味过于甘所致",
+      "bbox": [
+        64.98,
+        323.238,
+        151.367,
+        334.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 酸",
+      "bbox": [
+        329.29,
+        324.909,
+        355.023,
+        336.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 味过于辛所致",
+      "bbox": [
+        64.73,
+        340.398,
+        152.191,
+        351.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 苦",
+      "bbox": [
+        329.02,
+        340.889,
+        353.261,
+        352.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 味过于咸所致",
+      "bbox": [
+        64.97,
+        356.617,
+        151.74,
+        367.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 甘",
+      "bbox": [
+        329.18,
+        357.329,
+        353.176,
+        368.469
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "26. 天癸的产生主要取决于（）",
+      "bbox": [
+        65.06,
+        373.398,
+        238.963,
+        385.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 辛",
+      "bbox": [
+        329.22,
+        373.558,
+        353.748,
+        384.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 肾中精气的充盈",
+      "bbox": [
+        65.02,
+        389.397,
+        165.089,
+        400.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 咸",
+      "bbox": [
+        329.2,
+        390.029,
+        353.465,
+        401.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 脾气的健运",
+      "bbox": [
+        64.8,
+        405.498,
+        138.721,
+        416.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "33. 下列贝类药，不具有制酸止痛的作用",
+      "bbox": [
+        329.25,
+        405.788,
+        543.852,
+        416.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 肾阳的蒸化",
+      "bbox": [
+        64.99,
+        421.988,
+        139.279,
+        433.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "的药物是（）",
+      "bbox": [
+        306.36,
+        422.399,
+        387.1,
+        433.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 肝血的充足",
+      "bbox": [
+        64.74,
+        438.488,
+        139.791,
+        449.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 瓦楞子",
+      "bbox": [
+        329.26,
+        438.229,
+        378.499,
+        449.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 肾阴的滋养",
+      "bbox": [
+        64.94,
+        454.748,
+        139.35,
+        465.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 海蛤壳",
+      "bbox": [
+        329.14,
+        454.489,
+        376.967,
+        465.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "27. 下列七情致病影响脏腑气机的表述，",
+      "bbox": [
+        64.83,
+        471.138,
+        280.019,
+        482.368
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 石决明",
+      "bbox": [
+        329.18,
+        470.748,
+        376.742,
+        481.918
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "不准确的是（）",
+      "bbox": [
+        39.98,
+        487.538,
+        136.843,
+        498.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 牡蛎",
+      "bbox": [
+        329.25,
+        487.178,
+        366.111,
+        498.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 思则气结",
+      "bbox": [
+        64.81,
+        503.568,
+        128.336,
+        514.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 乌贼骨",
+      "bbox": [
+        329.34,
+        503.239,
+        377.45,
+        514.309
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 恐则气乱",
+      "bbox": [
+        64.59,
+        520.148,
+        126.438,
+        531.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "34. 生姜配伍生南星，可降低生南星的毒",
+      "bbox": [
+        329.29,
+        519.747,
+        544.863,
+        530.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 怒则气上",
+      "bbox": [
+        64.54,
+        536.828,
+        126.398,
+        548.018
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "性,属于（）",
+      "bbox": [
+        305.37,
+        536.119,
+        380.91,
+        547.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 喜则气缓",
+      "bbox": [
+        64.34,
+        553.038,
+        126.926,
+        564.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 相须",
+      "bbox": [
+        329.38,
+        552.299,
+        367.087,
+        563.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 悲则气消",
+      "bbox": [
+        64.52,
+        569.488,
+        125.906,
+        580.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 相使",
+      "bbox": [
+        329.22,
+        568.619,
+        365.271,
+        579.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "28. 七情刺激，易导致心神涣散的是",
+      "bbox": [
+        64.45,
+        585.478,
+        281.054,
+        596.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 相畏",
+      "bbox": [
+        329.42,
+        585.119,
+        365.485,
+        596.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "（）",
+      "bbox": [
+        41.04,
+        603.128,
+        74.41,
+        614.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 相杀",
+      "bbox": [
+        329.21,
+        601.539,
+        366.217,
+        612.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 喜",
+      "bbox": [
+        64.63,
+        619.408,
+        90.489,
+        630.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 相反",
+      "bbox": [
+        329.52,
+        617.989,
+        365.762,
+        629.079
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 怒",
+      "bbox": [
+        64.69,
+        636.028,
+        88.985,
+        647.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "35. 外感风寒或风热之邪，或痰湿壅肺，肺",
+      "bbox": [
+        329.59,
+        634.889,
+        545.512,
+        645.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 悲",
+      "bbox": [
+        64.53,
+        652.279,
+        89.138,
+        663.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "失宣肃，导致的音哑或失声，称为（）",
+      "bbox": [
+        305.4,
+        651.389,
+        508.963,
+        662.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 恐",
+      "bbox": [
+        64.64,
+        668.878,
+        89.862,
+        680.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 子喑",
+      "bbox": [
+        329.49,
+        667.979,
+        367.281,
+        679.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 惊",
+      "bbox": [
+        64.88,
+        685.238,
+        89.577,
+        696.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 金破不鸣",
+      "bbox": [
+        329.65,
+        684.45,
+        389.497,
+        695.5
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "29. 湿邪最易困阻的是（）",
+      "bbox": [
+        64.94,
+        701.079,
+        214.05,
+        712.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 金实不鸣",
+      "bbox": [
+        329.48,
+        700.57,
+        389.769,
+        711.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 心阳",
+      "bbox": [
+        65.1,
+        717.959,
+        102.508,
+        729.099
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 少气",
+      "bbox": [
+        329.36,
+        717.199,
+        366.389,
+        728.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 肺气",
+      "bbox": [
+        65.18,
+        734.428,
+        101.465,
+        745.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 短气",
+      "bbox": [
+        329.6,
+        733.349,
+        366.02,
+        744.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 脾阳",
+      "bbox": [
+        65.28,
+        750.428,
+        101.456,
+        761.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "36. 丁香主治的病证是（）",
+      "bbox": [
+        329.58,
+        749.559,
+        477.623,
+        760.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "D. 肝阳",
+      "bbox": [
+        65.35,
+        766.618,
+        102.064,
+        777.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 蛔虫腹痛",
+      "bbox": [
+        329.59,
+        765.599,
+        390.984,
+        776.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 肾气",
+      "bbox": [
+        65.86,
+        782.998,
+        102.407,
+        794.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 脚气肿痛",
+      "bbox": [
+        329.34,
+        781.699,
+        389.197,
+        792.759
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "145",
+      "bbox": [
+        284.71,
+        801.301,
+        298.922,
+        810.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1246 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 13,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        421.3,
+        56.54,
+        542.186,
+        68.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "药是（）",
+      "bbox": [
+        48.5,
+        86.42,
+        107.813,
+        98.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 主动脉瓣狭窄",
+      "bbox": [
+        337.38,
+        88.68,
+        422.303,
+        102.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. β受体阻滞剂",
+      "bbox": [
+        73.09,
+        102.66,
+        156.456,
+        114.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "14. 引起尿路感染的病原体最多见的",
+      "bbox": [
+        338.19,
+        103.15,
+        556.095,
+        116.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 钙通道阻滞剂",
+      "bbox": [
+        72.88,
+        117.65,
+        157.998,
+        129.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "是（）",
+      "bbox": [
+        313.36,
+        119.8,
+        359.569,
+        131.89
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 利尿剂",
+      "bbox": [
+        72.96,
+        134.14,
+        121.915,
+        147.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 葡萄球菌",
+      "bbox": [
+        337.26,
+        135.2,
+        399.902,
+        148.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 血管紧张素转换酶抑制剂",
+      "bbox": [
+        72.65,
+        149.82,
+        218.379,
+        161.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 变形杆菌",
+      "bbox": [
+        337.18,
+        151.13,
+        397.907,
+        164.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 血管紧张素Ⅱ受体阻滞剂",
+      "bbox": [
+        72.48,
+        164.79,
+        218.777,
+        176.82
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 副大肠埃希菌",
+      "bbox": [
+        337.25,
+        167.11,
+        422.904,
+        180.406
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "8. 急性出血性坏死性胰腺炎的重要特征",
+      "bbox": [
+        72.38,
+        180.76,
+        288.366,
+        192.8
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 大肠埃希菌",
+      "bbox": [
+        337.25,
+        182.17,
+        410.808,
+        195.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "是（）",
+      "bbox": [
+        48.3,
+        197.1,
+        95.779,
+        209.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 链球菌",
+      "bbox": [
+        337.4,
+        198.25,
+        386.394,
+        211.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 血淀粉酶明显升高",
+      "bbox": [
+        72.42,
+        211.73,
+        183.453,
+        223.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "15. 1型糖尿病的临床表现是（）",
+      "bbox": [
+        338.24,
+        213.19,
+        523.006,
+        226.926
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 休克",
+      "bbox": [
+        72.59,
+        227.94,
+        109.088,
+        239.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 有明显的三多一少症状",
+      "bbox": [
+        337.38,
+        229.13,
+        473.525,
+        242.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 恶心，呕吐",
+      "bbox": [
+        72.45,
+        243.8,
+        147.2,
+        257.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 中老年多见",
+      "bbox": [
+        337.17,
+        245.2,
+        410.121,
+        258.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 白细胞计数增高",
+      "bbox": [
+        72.47,
+        259.91,
+        170.548,
+        271.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 肥胖者多见",
+      "bbox": [
+        337.04,
+        261.17,
+        410.021,
+        274.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 血糖升高",
+      "bbox": [
+        72.58,
+        275.12,
+        133.257,
+        288.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 起病缓，症状轻",
+      "bbox": [
+        336.95,
+        276.621,
+        435.13,
+        290.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "9. 慢性肾小球肾炎的主要发病机制",
+      "bbox": [
+        72.6,
+        290.939,
+        289.627,
+        303.079
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 对胰岛素较不敏感",
+      "bbox": [
+        337.23,
+        292.2,
+        447.232,
+        305.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "是（）",
+      "bbox": [
+        48.42,
+        306.82,
+        95.186,
+        318.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "16. 下列哪项属于非感染性发热的疾",
+      "bbox": [
+        338.04,
+        307.689,
+        556.548,
+        319.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 链球菌感染",
+      "bbox": [
+        73.0,
+        321.92,
+        147.738,
+        333.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "病（）",
+      "bbox": [
+        312.94,
+        323.14,
+        359.689,
+        336.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 病毒感染",
+      "bbox": [
+        72.83,
+        337.96,
+        134.015,
+        349.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 肺结核",
+      "bbox": [
+        337.29,
+        339.19,
+        387.759,
+        352.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 感染后免疫损害",
+      "bbox": [
+        72.64,
+        354.16,
+        171.147,
+        367.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 肺炎",
+      "bbox": [
+        336.88,
+        355.28,
+        373.224,
+        368.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 霉菌感染",
+      "bbox": [
+        72.73,
+        368.89,
+        134.794,
+        380.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 急性肾盂肾炎",
+      "bbox": [
+        336.86,
+        370.23,
+        422.029,
+        383.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 健存肾单位代偿性高负荷",
+      "bbox": [
+        72.89,
+        385.18,
+        219.752,
+        398.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 伤寒",
+      "bbox": [
+        336.75,
+        386.31,
+        374.015,
+        399.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "10. 诊断二尖瓣狭窄最有意义的辅助检查",
+      "bbox": [
+        74.03,
+        399.94,
+        288.399,
+        411.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 血清病",
+      "bbox": [
+        337.0,
+        402.19,
+        385.868,
+        415.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "是（）",
+      "bbox": [
+        48.23,
+        416.09,
+        96.343,
+        428.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "17. 下列关于非留体抗炎药治疗类风湿关",
+      "bbox": [
+        337.84,
+        416.68,
+        557.581,
+        428.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. X线胸片",
+      "bbox": [
+        72.9,
+        430.87,
+        136.111,
+        442.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "节炎的叙述，错误的是",
+      "bbox": [
+        312.94,
+        432.95,
+        432.74,
+        444.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "（）",
+      "bbox": [
+        441.13,
+        434.874,
+        463.519,
+        446.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 超声心动图",
+      "bbox": [
+        73.01,
+        446.85,
+        146.627,
+        458.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 有效缓解症状",
+      "bbox": [
+        336.69,
+        448.29,
+        423.482,
+        461.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 心电图",
+      "bbox": [
+        72.95,
+        463.17,
+        122.309,
+        476.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 不能控制病情进展",
+      "bbox": [
+        336.69,
+        464.15,
+        446.133,
+        477.458
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 放射性核素检查",
+      "bbox": [
+        72.92,
+        477.82,
+        172.677,
+        489.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 不单独使用",
+      "bbox": [
+        336.87,
+        479.22,
+        409.001,
+        492.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 心导管检查",
+      "bbox": [
+        73.11,
+        494.19,
+        148.254,
+        507.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 口服用药",
+      "bbox": [
+        336.52,
+        495.17,
+        398.516,
+        508.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "11. 可直接导致意识障碍的心律失",
+      "bbox": [
+        73.85,
+        508.874,
+        290.063,
+        522.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 长期应用",
+      "bbox": [
+        337.24,
+        510.269,
+        397.0,
+        523.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "常是（）",
+      "bbox": [
+        48.43,
+        525.62,
+        108.769,
+        538.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "18. 咳嗽但无痰可见于（）",
+      "bbox": [
+        337.94,
+        525.83,
+        487.379,
+        537.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 室性期前收缩",
+      "bbox": [
+        72.87,
+        540.72,
+        160.927,
+        552.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 急性支气管炎",
+      "bbox": [
+        337.03,
+        542.22,
+        423.528,
+        555.535
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 房性期前收缩",
+      "bbox": [
+        72.72,
+        556.81,
+        159.779,
+        568.8
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 慢性支气管炎",
+      "bbox": [
+        336.95,
+        556.88,
+        422.158,
+        570.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 心室颤动",
+      "bbox": [
+        72.77,
+        572.84,
+        135.034,
+        586.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 支气管扩张",
+      "bbox": [
+        337.18,
+        573.15,
+        410.598,
+        586.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 右束支阻滞",
+      "bbox": [
+        72.82,
+        587.52,
+        148.072,
+        599.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 气胸",
+      "bbox": [
+        337.11,
+        588.43,
+        374.357,
+        601.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 窦性心动过速",
+      "bbox": [
+        72.58,
+        603.88,
+        159.37,
+        617.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 支气管内膜结核",
+      "bbox": [
+        337.2,
+        604.2,
+        435.018,
+        617.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "12. 治疗肺炎链球菌肺炎，停用抗生素的",
+      "bbox": [
+        73.59,
+        619.58,
+        287.562,
+        631.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "19. 糖尿病最常见最严重的急性并发症",
+      "bbox": [
+        338.24,
+        619.55,
+        557.777,
+        631.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "指征是（）",
+      "bbox": [
+        47.31,
+        635.37,
+        120.306,
+        647.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "是（）",
+      "bbox": [
+        313.19,
+        635.43,
+        359.723,
+        648.277
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 体温降至正常后3～5天",
+      "bbox": [
+        72.43,
+        650.39,
+        213.987,
+        662.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 心血管病变",
+      "bbox": [
+        337.28,
+        651.08,
+        412.375,
+        664.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 痰培养阴性",
+      "bbox": [
+        72.5,
+        666.68,
+        145.664,
+        680.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 非特异性感染",
+      "bbox": [
+        337.24,
+        667.091,
+        422.622,
+        680.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 血培养阴性",
+      "bbox": [
+        72.32,
+        682.68,
+        145.934,
+        696.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 肺结核",
+      "bbox": [
+        337.31,
+        682.301,
+        386.651,
+        695.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 血常规白细胞恢复正常",
+      "bbox": [
+        72.25,
+        698.42,
+        206.142,
+        710.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 酮症酸中毒",
+      "bbox": [
+        337.34,
+        698.08,
+        411.533,
+        711.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "E. X线检查炎症吸收",
+      "bbox": [
+        72.52,
+        714.72,
+        182.008,
+        728.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 低血糖昏迷",
+      "bbox": [
+        337.52,
+        713.78,
+        410.811,
+        727.287
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "13. 能够引起晕厥的心脏瓣膜病是（）",
+      "bbox": [
+        73.62,
+        729.76,
+        283.983,
+        741.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "20. 龛影的主要X线表现是（）",
+      "bbox": [
+        337.21,
+        729.74,
+        517.383,
+        743.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 二尖瓣关闭不全",
+      "bbox": [
+        72.42,
+        746.39,
+        171.463,
+        758.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 圆形钡斑",
+      "bbox": [
+        337.6,
+        746.12,
+        401.061,
+        759.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 主动脉瓣关闭不全",
+      "bbox": [
+        72.65,
+        760.96,
+        182.083,
+        772.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 钡斑周围环绕透明带",
+      "bbox": [
+        337.44,
+        760.83,
+        460.267,
+        773.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 三尖瓣关闭不全",
+      "bbox": [
+        72.72,
+        777.01,
+        170.56,
+        789.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "C. 胃黏膜溃烂",
+      "bbox": [
+        337.62,
+        776.67,
+        411.328,
+        790.013
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "D. 肺动脉瓣狭窄",
+      "bbox": [
+        72.64,
+        792.95,
+        159.653,
+        804.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "D. 向腔外突出的钡斑阴影",
+      "bbox": [
+        337.34,
+        792.66,
+        472.791,
+        806.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "107",
+      "bbox": [
+        293.06,
+        814.486,
+        309.23,
+        825.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

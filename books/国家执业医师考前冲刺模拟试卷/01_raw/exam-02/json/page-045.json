@@ -1,0 +1,1251 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 45,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1407.0,
+        163.0,
+        1781.0,
+        200.0
+      ],
+      "confidence": 0.928897,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 小柴胡汤",
+      "bbox": [
+        284.0,
+        265.0,
+        496.0,
+        319.0
+      ],
+      "confidence": 0.997278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 温经汤（《金质要略》）",
+      "bbox": [
+        1134.0,
+        273.0,
+        1526.0,
+        314.0
+      ],
+      "confidence": 0.917766,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 加味逍遥散",
+      "bbox": [
+        285.0,
+        321.0,
+        535.0,
+        377.0
+      ],
+      "confidence": 0.994158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 金匮肾气丸",
+      "bbox": [
+        1132.0,
+        324.0,
+        1378.0,
+        373.0
+      ],
+      "confidence": 0.937065,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 血府逐瘀汤",
+      "bbox": [
+        284.0,
+        377.0,
+        535.0,
+        433.0
+      ],
+      "confidence": 0.995411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "104. 患者，女，33岁，已婚。每于经期大便",
+      "bbox": [
+        1137.0,
+        384.0,
+        1824.0,
+        425.0
+      ],
+      "confidence": 0.976979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 当归芍药散",
+      "bbox": [
+        284.0,
+        432.0,
+        534.0,
+        488.0
+      ],
+      "confidence": 0.995642,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "溏泄，脘腹胀满，神疲肢软，舌淡苔薄白，脉濡",
+      "bbox": [
+        1061.0,
+        441.0,
+        1824.0,
+        482.0
+      ],
+      "confidence": 0.986351,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "99. 患者，女，50岁。左股骨颈骨折7天，",
+      "bbox": [
+        286.0,
+        491.0,
+        983.0,
+        540.0
+      ],
+      "confidence": 0.988166,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "滑。治疗应首选（",
+      "bbox": [
+        1059.0,
+        496.0,
+        1359.0,
+        542.0
+      ],
+      "confidence": 0.966171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "左下肢肿胀增粗2天，皮温升高，皮色红，胀痛，",
+      "bbox": [
+        213.0,
+        548.0,
+        982.0,
+        596.0
+      ],
+      "confidence": 0.988551,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 参苓白术散",
+      "bbox": [
+        1134.0,
+        551.0,
+        1384.0,
+        601.0
+      ],
+      "confidence": 0.997193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "浅表静脉扩张，活动不利，舌质红，苔黄腻，脉",
+      "bbox": [
+        212.0,
+        607.0,
+        982.0,
+        652.0
+      ],
+      "confidence": 0.992608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 健固汤",
+      "bbox": [
+        1133.0,
+        609.0,
+        1302.0,
+        657.0
+      ],
+      "confidence": 0.990947,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "弦滑。治疗宜首选（",
+      "bbox": [
+        213.0,
+        663.0,
+        573.0,
+        709.0
+      ],
+      "confidence": 0.962417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "）",
+      "bbox": [
+        609.0,
+        666.0,
+        642.0,
+        704.0
+      ],
+      "confidence": 0.973265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 柴胡疏肝散",
+      "bbox": [
+        1135.0,
+        666.0,
+        1379.0,
+        713.0
+      ],
+      "confidence": 0.995112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 活血通脉汤",
+      "bbox": [
+        285.0,
+        718.0,
+        535.0,
+        768.0
+      ],
+      "confidence": 0.999178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 痛泻要方",
+      "bbox": [
+        1133.0,
+        721.0,
+        1345.0,
+        772.0
+      ],
+      "confidence": 0.998825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 参苓白术散",
+      "bbox": [
+        281.0,
+        771.0,
+        529.0,
+        825.0
+      ],
+      "confidence": 0.998611,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 四苓散",
+      "bbox": [
+        1133.0,
+        777.0,
+        1306.0,
+        828.0
+      ],
+      "confidence": 0.99911,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 补阳还五汤",
+      "bbox": [
+        284.0,
+        830.0,
+        529.0,
+        880.0
+      ],
+      "confidence": 0.998357,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "105. 患者，女，48岁。头晕耳鸣，腰酸腿",
+      "bbox": [
+        1135.0,
+        836.0,
+        1826.0,
+        885.0
+      ],
+      "confidence": 0.990882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 龙胆泻肝汤",
+      "bbox": [
+        284.0,
+        889.0,
+        529.0,
+        936.0
+      ],
+      "confidence": 0.998911,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "软，烘热汗出，五心烦热，失眠多梦，月经紊乱，",
+      "bbox": [
+        1060.0,
+        894.0,
+        1826.0,
+        939.0
+      ],
+      "confidence": 0.985575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 四妙勇安汤",
+      "bbox": [
+        284.0,
+        947.0,
+        527.0,
+        993.0
+      ],
+      "confidence": 0.998619,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "舌质红，少苔，脉细数。治法为（）",
+      "bbox": [
+        1057.0,
+        949.0,
+        1682.0,
+        999.0
+      ],
+      "confidence": 0.920658,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "100. 患儿，2岁。时值夏季，发热持续1月余，",
+      "bbox": [
+        286.0,
+        1001.0,
+        986.0,
+        1050.0
+      ],
+      "confidence": 0.973856,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 滋养肾阴，佐以潜阳",
+      "bbox": [
+        1134.0,
+        1004.0,
+        1520.0,
+        1054.0
+      ],
+      "confidence": 0.99738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "朝盛暮衰，口渴多饮，尿多清长，无汗。面色苍白，下",
+      "bbox": [
+        214.0,
+        1061.0,
+        985.0,
+        1106.0
+      ],
+      "confidence": 0.989475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 滋肾养血，养心安神",
+      "bbox": [
+        1135.0,
+        1062.0,
+        1514.0,
+        1109.0
+      ],
+      "confidence": 0.994612,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "肢欠温，大便溏薄，舌淡苔薄。治疗应首选（",
+      "bbox": [
+        217.0,
+        1120.0,
+        848.0,
+        1161.0
+      ],
+      "confidence": 0.97139,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "（）",
+      "bbox": [
+        832.0,
+        1117.0,
+        934.0,
+        1161.0
+      ],
+      "confidence": 0.570121,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 滋阴清热，养血活血",
+      "bbox": [
+        1135.0,
+        1118.0,
+        1514.0,
+        1165.0
+      ],
+      "confidence": 0.997698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 白虎汤",
+      "bbox": [
+        284.0,
+        1171.0,
+        457.0,
+        1222.0
+      ],
+      "confidence": 0.998176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 育阴潜阳，镇肝息风",
+      "bbox": [
+        1134.0,
+        1174.0,
+        1517.0,
+        1223.0
+      ],
+      "confidence": 0.996699,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 新加香薷饮",
+      "bbox": [
+        283.0,
+        1227.0,
+        529.0,
+        1277.0
+      ],
+      "confidence": 0.915675,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 滋阴清热，活血化瘀",
+      "bbox": [
+        1133.0,
+        1229.0,
+        1518.0,
+        1282.0
+      ],
+      "confidence": 0.996631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 温下清上汤",
+      "bbox": [
+        284.0,
+        1284.0,
+        530.0,
+        1334.0
+      ],
+      "confidence": 0.998085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "106. 患者，女，30岁，已婚。孕后因持重而",
+      "bbox": [
+        1135.0,
+        1288.0,
+        1830.0,
+        1337.0
+      ],
+      "confidence": 0.986037,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 竹叶石膏汤",
+      "bbox": [
+        283.0,
+        1340.0,
+        531.0,
+        1390.0
+      ],
+      "confidence": 0.998133,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "继发腰酸腹痛。胎动下坠，精神倦怠，脉滑无",
+      "bbox": [
+        1061.0,
+        1347.0,
+        1830.0,
+        1393.0
+      ],
+      "confidence": 0.991288,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 王氏清暑益气汤",
+      "bbox": [
+        284.0,
+        1400.0,
+        607.0,
+        1445.0
+      ],
+      "confidence": 0.998352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "力。治疗应首选（）",
+      "bbox": [
+        1058.0,
+        1398.0,
+        1460.0,
+        1452.0
+      ],
+      "confidence": 0.959722,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "101. 患者，女，35岁。带下过少，阴中干涩，",
+      "bbox": [
+        286.0,
+        1457.0,
+        984.0,
+        1502.0
+      ],
+      "confidence": 0.984632,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 举元煎",
+      "bbox": [
+        1135.0,
+        1457.0,
+        1311.0,
+        1505.0
+      ],
+      "confidence": 0.995797,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "头晕目眩，心悸失眠，神疲乏力，经行腹痛，舌质暗",
+      "bbox": [
+        214.0,
+        1514.0,
+        984.0,
+        1559.0
+      ],
+      "confidence": 0.984722,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 胎元饮",
+      "bbox": [
+        1134.0,
+        1512.0,
+        1305.0,
+        1563.0
+      ],
+      "confidence": 0.998257,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "淡，边有瘀斑，脉细涩。治疗宜首选（）",
+      "bbox": [
+        214.0,
+        1569.0,
+        870.0,
+        1618.0
+      ],
+      "confidence": 0.939982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 固下益气汤",
+      "bbox": [
+        1135.0,
+        1569.0,
+        1380.0,
+        1619.0
+      ],
+      "confidence": 0.998771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 左归丸加知母、肉从蓉、紫河车、麦门冬",
+      "bbox": [
+        287.0,
+        1630.0,
+        975.0,
+        1672.0
+      ],
+      "confidence": 0.98295,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 加味圣愈汤",
+      "bbox": [
+        1134.0,
+        1625.0,
+        1384.0,
+        1678.0
+      ],
+      "confidence": 0.997799,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 血府逐瘀汤",
+      "bbox": [
+        285.0,
+        1684.0,
+        529.0,
+        1730.0
+      ],
+      "confidence": 0.995185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 加味阿胶汤",
+      "bbox": [
+        1134.0,
+        1682.0,
+        1383.0,
+        1735.0
+      ],
+      "confidence": 0.998683,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 少腹逐瘀汤",
+      "bbox": [
+        287.0,
+        1741.0,
+        530.0,
+        1787.0
+      ],
+      "confidence": 0.995433,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "107. 患者，女，34岁，已婚。4年前因患子",
+      "bbox": [
+        1138.0,
+        1743.0,
+        1827.0,
+        1789.0
+      ],
+      "confidence": 0.981595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 小营煎加丹参、桃仁、牛膝",
+      "bbox": [
+        286.0,
+        1797.0,
+        764.0,
+        1845.0
+      ],
+      "confidence": 0.997949,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "宫肌瘤自然流产1次，现妊娠43天，阴道不时",
+      "bbox": [
+        1062.0,
+        1801.0,
+        1827.0,
+        1846.0
+      ],
+      "confidence": 0.986967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 左归饮加三棱、莪术",
+      "bbox": [
+        284.0,
+        1849.0,
+        668.0,
+        1902.0
+      ],
+      "confidence": 0.997121,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "少量下血，腰酸，胎动下坠，口干不欲饮，舌暗",
+      "bbox": [
+        1059.0,
+        1856.0,
+        1830.0,
+        1904.0
+      ],
+      "confidence": 0.991627,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "102. 患儿，3岁。发热第4天，细小红色疹",
+      "bbox": [
+        286.0,
+        1909.0,
+        984.0,
+        1958.0
+      ],
+      "confidence": 0.989196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "红，脉沉弦。治疗应首选（）",
+      "bbox": [
+        1056.0,
+        1905.0,
+        1599.0,
+        1963.0
+      ],
+      "confidence": 0.950037,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "点自耳后发际起，发展至面、颈、躯干、四肢，咳",
+      "bbox": [
+        216.0,
+        1968.0,
+        984.0,
+        2013.0
+      ],
+      "confidence": 0.992273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 下瘀血汤",
+      "bbox": [
+        1135.0,
+        1965.0,
+        1351.0,
+        2016.0
+      ],
+      "confidence": 0.997384,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "嗽声重，有如犬吠，声音嘶哑，咽喉肿痛，舌红",
+      "bbox": [
+        213.0,
+        2021.0,
+        986.0,
+        2071.0
+      ],
+      "confidence": 0.981753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 固下益气汤",
+      "bbox": [
+        1133.0,
+        2020.0,
+        1382.0,
+        2074.0
+      ],
+      "confidence": 0.998815,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "苔黄腻。治疗应首选（）",
+      "bbox": [
+        213.0,
+        2078.0,
+        688.0,
+        2128.0
+      ],
+      "confidence": 0.937223,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 补肾安胎饮",
+      "bbox": [
+        1135.0,
+        2080.0,
+        1383.0,
+        2130.0
+      ],
+      "confidence": 0.997878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 清咽下痰汤",
+      "bbox": [
+        286.0,
+        2135.0,
+        540.0,
+        2184.0
+      ],
+      "confidence": 0.999229,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 加味圣愈汤",
+      "bbox": [
+        1134.0,
+        2137.0,
+        1384.0,
+        2187.0
+      ],
+      "confidence": 0.9982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 清金化痰汤",
+      "bbox": [
+        285.0,
+        2190.0,
+        534.0,
+        2243.0
+      ],
+      "confidence": 0.997753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 桂枝茯苓丸",
+      "bbox": [
+        1134.0,
+        2193.0,
+        1383.0,
+        2243.0
+      ],
+      "confidence": 0.994181,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 竹沥达痰丸",
+      "bbox": [
+        285.0,
+        2246.0,
+        535.0,
+        2299.0
+      ],
+      "confidence": 0.999093,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "108. 患者，女，26岁，已婚。妊娠3个月，",
+      "bbox": [
+        1134.0,
+        2248.0,
+        1827.0,
+        2300.0
+      ],
+      "confidence": 0.983378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 解肌透痧汤",
+      "bbox": [
+        287.0,
+        2305.0,
+        535.0,
+        2355.0
+      ],
+      "confidence": 0.992436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "尿少色黄，尿时艰涩而痛，心烦，口舌生疮，舌",
+      "bbox": [
+        1060.0,
+        2309.0,
+        1828.0,
+        2357.0
+      ],
+      "confidence": 0.987569,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 化斑解毒汤",
+      "bbox": [
+        287.0,
+        2364.0,
+        535.0,
+        2410.0
+      ],
+      "confidence": 0.998524,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "红少苔，脉数。治疗应首选（",
+      "bbox": [
+        1059.0,
+        2365.0,
+        1535.0,
+        2415.0
+      ],
+      "confidence": 0.965064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "103. 患者，女，22岁。月经初潮年龄16",
+      "bbox": [
+        289.0,
+        2420.0,
+        986.0,
+        2468.0
+      ],
+      "confidence": 0.993307,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 导赤散",
+      "bbox": [
+        1133.0,
+        2417.0,
+        1311.0,
+        2472.0
+      ],
+      "confidence": 0.998834,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "岁，痛经6年，每于第1天出现小腹冷痛，喜温",
+      "bbox": [
+        217.0,
+        2478.0,
+        984.0,
+        2523.0
+      ],
+      "confidence": 0.975877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 加味五淋散",
+      "bbox": [
+        1133.0,
+        2475.0,
+        1380.0,
+        2530.0
+      ],
+      "confidence": 0.997803,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "喜按，经量少、色暗淡，腰腿酸软，小便清长，舌",
+      "bbox": [
+        214.0,
+        2532.0,
+        984.0,
+        2580.0
+      ],
+      "confidence": 0.979183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 知柏地黄汤",
+      "bbox": [
+        1134.0,
+        2533.0,
+        1379.0,
+        2584.0
+      ],
+      "confidence": 0.997258,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "苔白润脉沉迟。治疗应首选（）",
+      "bbox": [
+        216.0,
+        2590.0,
+        799.0,
+        2635.0
+      ],
+      "confidence": 0.963729,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 清热通淋汤",
+      "bbox": [
+        1135.0,
+        2591.0,
+        1380.0,
+        2640.0
+      ],
+      "confidence": 0.998468,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 温经汤（《妇人大全良方》）",
+      "bbox": [
+        290.0,
+        2644.0,
+        768.0,
+        2694.0
+      ],
+      "confidence": 0.979356,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 以上均非",
+      "bbox": [
+        1135.0,
+        2650.0,
+        1341.0,
+        2696.0
+      ],
+      "confidence": 0.999044,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 圣愈汤",
+      "bbox": [
+        289.0,
+        2700.0,
+        460.0,
+        2747.0
+      ],
+      "confidence": 0.998795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "109. 患者，女，49岁。已绝经14个月，因",
+      "bbox": [
+        1140.0,
+        2710.0,
+        1827.0,
+        2751.0
+      ],
+      "confidence": 0.98164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "C. 调肝汤",
+      "bbox": [
+        291.0,
+        2757.0,
+        462.0,
+        2805.0
+      ],
+      "confidence": 0.999294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "操劳后阴道出血，量少、色淡、质清稀，神疲肢",
+      "bbox": [
+        1063.0,
+        2767.0,
+        1828.0,
+        2808.0
+      ],
+      "confidence": 0.988097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "91",
+      "bbox": [
+        993.0,
+        2833.0,
+        1050.0,
+        2873.0
+      ],
+      "confidence": 0.999777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "一",
+      "bbox": [
+        1054.0,
+        2837.0,
+        1112.0,
+        2870.0
+      ],
+      "confidence": 0.556806,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

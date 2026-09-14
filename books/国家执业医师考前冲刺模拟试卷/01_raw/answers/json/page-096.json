@@ -1,0 +1,1155 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 96,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        62.06,
+        52.792,
+        262.475,
+        62.995
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "湿疮等。",
+      "bbox": [
+        60.41,
+        83.704,
+        98.97,
+        93.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "136. D【解析】子肿气滞证，应首选天仙藤散。",
+      "bbox": [
+        341.3,
+        83.644,
+        543.91,
+        93.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "123. A【解析】湿疮湿热蕴肤证治法：清热利湿。",
+      "bbox": [
+        81.4,
+        98.464,
+        299.736,
+        108.384
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "137. E【解析】凡疑有宫颈管病变者，应行分段诊",
+      "bbox": [
+        341.19,
+        99.054,
+        559.075,
+        108.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "方药：龙胆泻肝汤合萆薢渗湿汤加减。",
+      "bbox": [
+        60.14,
+        114.584,
+        224.599,
+        125.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "刮，目的为病理检查，明确诊断。",
+      "bbox": [
+        320.61,
+        114.894,
+        465.06,
+        124.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "124. E【解析】血虚风燥证治法：养血润肤，祛风",
+      "bbox": [
+        81.18,
+        129.884,
+        300.032,
+        139.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "138. A【解析】凡疑有人流术后残留时，应采取清",
+      "bbox": [
+        341.04,
+        129.994,
+        558.973,
+        139.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "止痒。方药：当归饮子或四物消风饮加减。",
+      "bbox": [
+        59.86,
+        145.364,
+        245.064,
+        154.984
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "宫术，以防止残留物堵塞宫颈口，引起大出血。",
+      "bbox": [
+        320.45,
+        145.714,
+        522.47,
+        155.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "125. D",
+      "bbox": [
+        80.9,
+        160.844,
+        108.816,
+        170.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "139. B",
+      "bbox": [
+        340.85,
+        161.294,
+        368.086,
+        170.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "126. A【解析】生于手指骨节间的，叫蛀节疗；生",
+      "bbox": [
+        80.83,
+        176.284,
+        299.571,
+        185.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "140. A【解析】妇人腹痛的病机是冲任虚衰，胞脉",
+      "bbox": [
+        340.93,
+        176.234,
+        559.295,
+        185.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "于手指螺纹的，叫螺疔；生于指中节前，肿如鱼肚者，叫",
+      "bbox": [
+        60.02,
+        191.784,
+        300.52,
+        201.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "失养，“不荣则痛”，及冲任阻滞，胞脉失畅，“不通则",
+      "bbox": [
+        319.94,
+        191.474,
+        560.69,
+        201.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "鱼肚疗或蛇腹疗；生于指头顶端者，叫蛇头疔。",
+      "bbox": [
+        59.76,
+        206.924,
+        261.99,
+        216.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "痛”；痛经的病机是邪气内伏或精血素亏，更值经期前",
+      "bbox": [
+        319.96,
+        207.184,
+        559.469,
+        216.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "127. E",
+      "bbox": [
+        80.78,
+        222.574,
+        108.227,
+        232.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "后冲任二脉气血的生理变化急骤，导致胞宫的气血运",
+      "bbox": [
+        319.72,
+        222.794,
+        558.969,
+        232.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "128. B【解析】男子乳头属肝，乳房属肾；女子乳",
+      "bbox": [
+        80.75,
+        237.564,
+        299.782,
+        247.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "行不畅，“不通则痛”；或胞宫失于濡养，“不荣则痛”，故",
+      "bbox": [
+        319.83,
+        238.264,
+        579.3,
+        247.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "头属肝，乳房属胃，故乳房疾病与肝、胃二经及肾经、冲",
+      "bbox": [
+        59.68,
+        253.184,
+        300.43,
+        262.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "实性妇人腹痛与痛经的共同病机是冲任阻滞，胞脉失",
+      "bbox": [
+        320.0,
+        253.124,
+        558.863,
+        262.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "任二脉关系最为密切。",
+      "bbox": [
+        59.36,
+        268.644,
+        157.74,
+        278.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "畅，不通则痛；虚性妇人腹痛与痛经的共同病机是冲任",
+      "bbox": [
+        320.26,
+        268.684,
+        558.911,
+        278.314
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "129. A【解析】前列腺炎阴虚火旺证首选知柏地",
+      "bbox": [
+        80.66,
+        283.654,
+        299.582,
+        293.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "虚衰，胞脉失于濡养，不荣则痛。",
+      "bbox": [
+        319.97,
+        284.464,
+        464.12,
+        294.074
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "黄丸。",
+      "bbox": [
+        59.63,
+        299.674,
+        88.46,
+        309.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "141. A",
+      "bbox": [
+        340.41,
+        299.904,
+        368.912,
+        309.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "130. B【解析】前列腺增生肾阳不足证应首选济",
+      "bbox": [
+        80.76,
+        314.534,
+        299.497,
+        324.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "142. A【解析】肺炎喘嗽后期阴虚肺热证用沙参",
+      "bbox": [
+        340.39,
+        314.484,
+        558.967,
+        324.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "生肾气丸。",
+      "bbox": [
+        59.46,
+        330.274,
+        107.56,
+        339.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "麦门冬汤，肺脾气虚证用人参五味子汤，心阳虚衰证用",
+      "bbox": [
+        319.7,
+        329.924,
+        558.545,
+        339.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "131. A【解析】由题干经来量少，色淡暗，质稀，头",
+      "bbox": [
+        81.0,
+        345.604,
+        305.37,
+        355.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "参附龙牡救逆汤。顿咳恢复期肺阴耗损证用沙参麦门",
+      "bbox": [
+        319.75,
+        345.264,
+        558.401,
+        354.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "晕耳鸣，腰骶酸痛辨证为月经先后无定期肾虚证。代",
+      "bbox": [
+        59.57,
+        360.774,
+        299.492,
+        370.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "冬汤，恢复期脾胃气虚证用人参五味子汤。",
+      "bbox": [
+        319.65,
+        360.724,
+        502.967,
+        370.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "表方药是固阴煎。",
+      "bbox": [
+        59.65,
+        375.984,
+        137.135,
+        385.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "143. E【解析】小儿尿频脾肾气虚证，治法：温补",
+      "bbox": [
+        340.29,
+        375.964,
+        559.094,
+        385.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "132. D【解析】由题干经乱无期，出血淋漓不尽，",
+      "bbox": [
+        80.67,
+        391.224,
+        299.003,
+        400.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "脾肾，升提固摄。主方：缩泉丸加味。",
+      "bbox": [
+        319.56,
+        391.444,
+        482.93,
+        401.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "色鲜红，质稍稠，头晕耳鸣，腰膝酸软辨证为崩漏肾阴",
+      "bbox": [
+        59.81,
+        406.794,
+        298.877,
+        416.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "144. A【解析】小儿遗尿肺脾气虚证，治法：补肺",
+      "bbox": [
+        340.32,
+        405.984,
+        559.222,
+        416.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "虚证。代表方药左归丸。",
+      "bbox": [
+        59.56,
+        422.284,
+        167.977,
+        431.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "益脾，固涩膀胱。主方：补中益气汤合缩泉丸加减。",
+      "bbox": [
+        319.55,
+        421.984,
+        540.81,
+        431.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "133. B",
+      "bbox": [
+        80.83,
+        437.594,
+        108.123,
+        447.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "145. B",
+      "bbox": [
+        340.08,
+        437.534,
+        367.316,
+        447.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "134. C【解析】寒湿阻络，见患趾（指）喜暖怕冷，",
+      "bbox": [
+        80.84,
+        452.524,
+        298.612,
+        462.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "146. A【解析】紫癜风热伤络证的治法是疏风散",
+      "bbox": [
+        340.18,
+        452.544,
+        559.141,
+        462.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "肤色苍白冰凉，麻木疼痛，遇冷痛剧。步履不利，多走",
+      "bbox": [
+        59.58,
+        468.074,
+        299.089,
+        477.694
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "邪，清热凉血。紫癜阴虚火旺证的治法是滋阴降火，凉",
+      "bbox": [
+        319.51,
+        467.914,
+        559.019,
+        477.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "则疼痛加剧，小腿酸胀，稍歇则痛缓（间歇性跛行）。苔",
+      "bbox": [
+        59.53,
+        483.434,
+        299.203,
+        493.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "血止血。",
+      "bbox": [
+        319.48,
+        483.534,
+        357.92,
+        493.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "白腻，脉沉细，趺阳脉减弱或消失。血脉瘀阻，见患趾",
+      "bbox": [
+        60.63,
+        498.784,
+        299.059,
+        508.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "147. E【解析】小儿时行疾病属流行性疾病，具有",
+      "bbox": [
+        340.15,
+        498.354,
+        558.672,
+        508.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "（指）酸胀疼痛加重，步履沉重乏力，活动艰难。患趾",
+      "bbox": [
+        60.13,
+        513.944,
+        299.028,
+        523.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "传染性。通过预防接种可以控制时行疾病的流行，故",
+      "bbox": [
+        319.04,
+        513.534,
+        558.787,
+        523.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（指）肤色由苍白转为暗红，下垂时更甚，抬高则见苍",
+      "bbox": [
+        60.11,
+        529.254,
+        299.204,
+        538.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "预防接种史为最佳选择。",
+      "bbox": [
+        319.24,
+        528.924,
+        425.955,
+        538.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "白。小腿可有游走性红斑、结节或硬索，疼痛持续加",
+      "bbox": [
+        60.27,
+        544.474,
+        298.884,
+        554.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "148. C【解析】小儿具有脾常不足的生理特点，而",
+      "bbox": [
+        340.19,
+        543.624,
+        558.765,
+        553.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "重，彻夜不能入寐。舌暗红或有瘀斑，脉弦或涩。跌阳",
+      "bbox": [
+        59.34,
+        560.004,
+        298.655,
+        569.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "又乳食不知自调。而且，由于生长发育的需要，须添加",
+      "bbox": [
+        319.34,
+        559.704,
+        558.407,
+        569.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "脉消失。湿热毒盛，见患肢剧痛，日轻夜重，喜凉怕热。",
+      "bbox": [
+        59.17,
+        574.944,
+        299.92,
+        584.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "辅食。小儿对食物有一个适应的过程。一旦调护喂养",
+      "bbox": [
+        319.09,
+        575.054,
+        558.551,
+        584.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "局部皮肤紫暗，肿胀，渐变紫黑，浸润蔓延，溃破腐烂，",
+      "bbox": [
+        59.01,
+        590.844,
+        299.76,
+        600.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "失宜，则易患脾胃病。因此，怀疑小儿患脾胃疾病时要",
+      "bbox": [
+        319.16,
+        590.564,
+        558.697,
+        600.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "气秽，疮面肉色不鲜，甚则五趾相传，波及足背，或伴有",
+      "bbox": [
+        59.06,
+        606.244,
+        299.56,
+        615.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "特别注意询问喂养史。",
+      "bbox": [
+        319.06,
+        605.844,
+        415.938,
+        615.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "发热等症。舌红，苔黄腻，脉弦数。热毒伤阴，见皮肤",
+      "bbox": [
+        59.16,
+        621.664,
+        298.89,
+        631.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "149. C【解析】本证为风温邪毒，从口鼻而入，壅",
+      "bbox": [
+        339.84,
+        621.344,
+        558.641,
+        631.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "干燥，毫毛脱落，趾（指）甲增厚变形，肌肉萎缩，趾（指）",
+      "bbox": [
+        59.32,
+        636.904,
+        298.645,
+        646.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "阻少阳经脉，郁而不散，结于腮部而发腮肿，故足少阳",
+      "bbox": [
+        319.61,
+        636.964,
+        558.261,
+        646.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "多呈干性坏疽。舌红，苔黄，脉弦细数。气血两虚，见",
+      "bbox": [
+        59.32,
+        652.434,
+        298.857,
+        662.064
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "胆经为最佳选择。",
+      "bbox": [
+        319.13,
+        651.934,
+        396.17,
+        661.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "面容憔悴，萎黄消瘦，神情倦怠。坏死组织脱落后疮面",
+      "bbox": [
+        59.58,
+        667.764,
+        298.895,
+        677.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "150. B【解析】少阳厥阴互为表里，病则相互传",
+      "bbox": [
+        340.05,
+        667.334,
+        558.772,
+        677.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "久不愈合，肉芽暗红或淡红而不鲜。舌淡胖，脉细",
+      "bbox": [
+        59.14,
+        682.514,
+        298.706,
+        692.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "变。若受邪较重，则由少阳而及厥阴。足厥阴之脉循",
+      "bbox": [
+        319.28,
+        682.404,
+        558.778,
+        692.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "无力。",
+      "bbox": [
+        59.28,
+        698.464,
+        88.17,
+        708.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "少腹而络阴器，故痄腮睾丸肿痛，是由于风温邪毒壅结",
+      "bbox": [
+        319.1,
+        698.324,
+        558.858,
+        707.954
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "135. C【解析】经行头痛血瘀证，应首选通窍活",
+      "bbox": [
+        80.39,
+        713.464,
+        298.723,
+        723.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "于足少阳经后，又传于足厥阴肝经所致。",
+      "bbox": [
+        319.09,
+        713.464,
+        492.757,
+        723.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "血汤。",
+      "bbox": [
+        59.55,
+        728.884,
+        88.44,
+        738.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "—",
+      "bbox": [
+        278.81,
+        804.951,
+        288.18,
+        814.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "286",
+      "bbox": [
+        299.38,
+        804.497,
+        313.888,
+        813.797
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "status": "pass_with_review",
+  "document_count": 5,
+  "total_pages": 286,
+  "total_questions": 2400,
+  "total_answers": 2400,
+  "linked_question_answer_pairs": 2400,
+  "review_record_count": 273,
+  "documents": [
+    {
+      "document": "exam-01",
+      "source_file": "国家执业药师考前冲刺一.pdf",
+      "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+      "extraction_mode": "ocr",
+      "page_count": 46,
+      "raw_line_count": 4618,
+      "low_confidence_raw_line_count": 154,
+      "structured_record_count": 600,
+      "structured_review_count": 132,
+      "records_without_source_analysis": 0,
+      "clean_markdown": "02_clean/exam-01.md",
+      "ordered_markdown": "02_clean/exam-01.ordered.md",
+      "structured_jsonl": "03_structured/exam-01.questions.jsonl"
+    },
+    {
+      "document": "exam-02",
+      "source_file": "国家执业药师考前冲刺二.pdf",
+      "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+      "extraction_mode": "ocr",
+      "page_count": 48,
+      "raw_line_count": 4616,
+      "low_confidence_raw_line_count": 165,
+      "structured_record_count": 600,
+      "structured_review_count": 141,
+      "records_without_source_analysis": 0,
+      "clean_markdown": "02_clean/exam-02.md",
+      "ordered_markdown": "02_clean/exam-02.ordered.md",
+      "structured_jsonl": "03_structured/exam-02.questions.jsonl"
+    },
+    {
+      "document": "exam-03",
+      "source_file": "国家执业药师考前冲刺三.pdf",
+      "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+      "extraction_mode": "text_layer",
+      "page_count": 48,
+      "raw_line_count": 4322,
+      "low_confidence_raw_line_count": 0,
+      "structured_record_count": 600,
+      "structured_review_count": 0,
+      "records_without_source_analysis": 0,
+      "clean_markdown": "02_clean/exam-03.md",
+      "ordered_markdown": "02_clean/exam-03.ordered.md",
+      "structured_jsonl": "03_structured/exam-03.questions.jsonl"
+    },
+    {
+      "document": "exam-04",
+      "source_file": "国家执业药师考前冲刺四.pdf",
+      "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+      "extraction_mode": "text_layer",
+      "page_count": 48,
+      "raw_line_count": 4189,
+      "low_confidence_raw_line_count": 0,
+      "structured_record_count": 600,
+      "structured_review_count": 0,
+      "records_without_source_analysis": 0,
+      "clean_markdown": "02_clean/exam-04.md",
+      "ordered_markdown": "02_clean/exam-04.ordered.md",
+      "structured_jsonl": "03_structured/exam-04.questions.jsonl"
+    },
+    {
+      "document": "answers",
+      "source_file": "考前冲刺参考答案及解析.pdf",
+      "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+      "extraction_mode": "text_layer",
+      "page_count": 96,
+      "raw_line_count": 9394,
+      "low_confidence_raw_line_count": 0,
+      "structured_record_count": 2400,
+      "structured_review_count": 0,
+      "records_without_source_analysis": 153,
+      "clean_markdown": "02_clean/answers.md",
+      "ordered_markdown": "02_clean/answers.ordered.md",
+      "structured_jsonl": "03_structured/answers.answers.jsonl"
+    }
+  ],
+  "error_count": 0,
+  "errors": [],
+  "warning_count": 2,
+  "warnings": [
+    {
+      "document": "exam-01",
+      "reason": "low_confidence_raw_lines",
+      "count": 154
+    },
+    {
+      "document": "exam-02",
+      "reason": "low_confidence_raw_lines",
+      "count": 165
+    }
+  ]
+}

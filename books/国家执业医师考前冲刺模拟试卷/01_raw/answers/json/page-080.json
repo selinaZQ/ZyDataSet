@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 80,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        69.57,
+        46.106,
+        268.373,
+        56.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "性粒细胞白血病的药物。",
+      "bbox": [
+        67.57,
+        75.863,
+        174.755,
+        85.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "外疾病，如发热、高血压、妊娠中毒、心功能不全等。",
+      "bbox": [
+        326.26,
+        74.933,
+        559.3,
+        84.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "12. B【解析】各种步态的概念。题中对醉酒步态",
+      "bbox": [
+        88.59,
+        90.353,
+        305.306,
+        101.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "22. C【解析】嗜酸性粒细胞减少的临床意义。嗜",
+      "bbox": [
+        346.72,
+        89.683,
+        562.906,
+        101.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "的描述是错误的，其描述实际上是指剪刀式步态。醉",
+      "bbox": [
+        67.77,
+        104.163,
+        305.657,
+        113.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "酸性粒细胞减少主要见于长期应用肾上腺皮质激素和",
+      "bbox": [
+        326.48,
+        104.123,
+        563.054,
+        113.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "酒步态是行走时躯干重心不稳，步态紊乱呈醉酒状，不",
+      "bbox": [
+        67.06,
+        118.783,
+        305.482,
+        128.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "某些传染病（伤寒）的极期，故选C，而其余四种疾病均",
+      "bbox": [
+        326.11,
+        118.443,
+        563.112,
+        128.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "能直线走路。见于小脑疾病、酒精中毒等，其余各种步",
+      "bbox": [
+        67.21,
+        133.163,
+        305.632,
+        142.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "是引起嗜酸性粒细胞增多的常见疾病。",
+      "bbox": [
+        326.25,
+        133.043,
+        494.738,
+        142.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "态的描述均是正确的。",
+      "bbox": [
+        67.2,
+        147.713,
+        164.3,
+        157.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "23. D【解析】发热伴随结膜充血常见于麻疹、流",
+      "bbox": [
+        346.73,
+        147.323,
+        563.207,
+        158.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "13. E【解析】左心房压力和肺静脉压力升高，引",
+      "bbox": [
+        88.23,
+        162.233,
+        304.838,
+        173.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "行性出血热、斑疹伤寒、钩端螺旋体病等。",
+      "bbox": [
+        326.07,
+        161.443,
+        510.37,
+        171.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "起肺小动脉反应性收缩，最终导致肺小动脉硬化，肺血",
+      "bbox": [
+        66.93,
+        176.573,
+        305.777,
+        186.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "24. A【解析】呼气性呼吸困难，病变在小支气管。",
+      "bbox": [
+        346.62,
+        176.233,
+        566.17,
+        187.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "管阻力增高，肺动脉压力升高，容量负荷不足。重度肺",
+      "bbox": [
+        67.23,
+        191.273,
+        305.652,
+        200.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "表现为呼气困难，呼气相对延长，伴哮鸣音。见于支气",
+      "bbox": [
+        326.33,
+        190.833,
+        563.411,
+        200.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "动脉高压可引起右心室肥厚、三尖瓣和肺动脉瓣关闭",
+      "bbox": [
+        67.17,
+        205.733,
+        305.24,
+        215.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "管哮喘及其他慢性阻塞性肺病。",
+      "bbox": [
+        326.23,
+        205.453,
+        463.937,
+        215.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "不全和右心衰竭。",
+      "bbox": [
+        67.12,
+        219.653,
+        144.8,
+        229.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "25. E【解析】大量胸腔积液肺组织被压缩，叩诊",
+      "bbox": [
+        346.61,
+        219.613,
+        563.716,
+        230.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "14. A【解析】癫痫单纯部分性发作一般不超过1",
+      "bbox": [
+        88.07,
+        234.743,
+        305.812,
+        245.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "呈实音。",
+      "bbox": [
+        326.03,
+        234.693,
+        364.83,
+        244.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "分钟，无意识障碍，表现为简单的运动、感觉、自主神经",
+      "bbox": [
+        66.96,
+        249.273,
+        309.46,
+        258.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "26. A【解析】能够导致肝细胞广泛损害的疾病均",
+      "bbox": [
+        346.59,
+        248.344,
+        563.291,
+        259.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "或精神症状。",
+      "bbox": [
+        66.91,
+        263.773,
+        125.17,
+        273.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "可发生黄疸，如病毒性肝炎、肝硬化、钩端螺旋体病、败",
+      "bbox": [
+        326.11,
+        262.773,
+        568.61,
+        272.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "15. D【解析】右束支传导阻滞可见于多种心脏",
+      "bbox": [
+        87.97,
+        278.113,
+        305.756,
+        289.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "血症、中毒性肝炎等。",
+      "bbox": [
+        326.05,
+        277.803,
+        422.95,
+        287.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "病，甚至可见于正常人，所以此项不能作为肺心病的主",
+      "bbox": [
+        66.96,
+        292.853,
+        305.784,
+        302.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "27. D【解析】正常人呼吸运动的频率和节律正常",
+      "bbox": [
+        346.52,
+        291.843,
+        563.412,
+        303.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "要诊断依据。",
+      "bbox": [
+        66.96,
+        307.283,
+        125.22,
+        316.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "16～18次/分，与脉搏之比为1：4，节律均匀而整齐。",
+      "bbox": [
+        326.48,
+        306.533,
+        558.968,
+        316.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "16. B【解析】铁吸收部位主要在十二指肠及空肠",
+      "bbox": [
+        88.17,
+        321.633,
+        305.494,
+        332.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "28. B【解析】呆小症：小颅同时伴有智力障碍（痴",
+      "bbox": [
+        346.47,
+        320.843,
+        563.398,
+        332.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "上段。吸收入血的二价铁经铜蓝蛋白氧化成三价铁，",
+      "bbox": [
+        66.76,
+        336.123,
+        305.106,
+        345.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "呆症）。先天性梅毒：方颅。脑积水：巨颅。CE项的头",
+      "bbox": [
+        325.94,
+        335.023,
+        563.226,
+        344.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "与转铁蛋白结合后转运到组织或通过幼红细胞膜转铁",
+      "bbox": [
+        66.99,
+        350.593,
+        305.914,
+        360.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "颅几乎为正常。",
+      "bbox": [
+        326.08,
+        350.083,
+        394.05,
+        359.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "蛋白受体胞饮入细胞内，再与转铁蛋白分离并还原成",
+      "bbox": [
+        66.85,
+        365.063,
+        305.774,
+        374.773
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "29. D【解析】血尿素氮的改变见于多种肾脏疾",
+      "bbox": [
+        346.34,
+        364.193,
+        563.259,
+        375.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "二价铁，参与形成血红蛋白。多余的铁以铁蛋白和含",
+      "bbox": [
+        66.65,
+        379.743,
+        305.82,
+        389.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "病，肾外因素也可以影响血尿素氮。上消化道出血时，",
+      "bbox": [
+        326.15,
+        378.373,
+        562.783,
+        388.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "铁血黄素形式贮存于肝、脾、骨髓等器官的单核巨噬细",
+      "bbox": [
+        66.7,
+        393.753,
+        305.569,
+        403.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "大面积烧伤时，严重的肾盂肾炎时，血尿素氮均升高，",
+      "bbox": [
+        326.06,
+        392.803,
+        562.917,
+        402.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "胞系统。",
+      "bbox": [
+        66.67,
+        408.543,
+        105.51,
+        418.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "排除ABC。急性肾衰竭肾功能轻度受损时，尿素氮可",
+      "bbox": [
+        325.97,
+        407.303,
+        563.145,
+        417.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "17. E【解析】肝性脑病是肝硬化最严重的并发",
+      "bbox": [
+        88.08,
+        422.723,
+        305.825,
+        434.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "无变化，肾小球滤过率下降至50以下，尿素氮才能升",
+      "bbox": [
+        325.91,
+        421.933,
+        563.361,
+        431.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "症，亦是最常见的死亡原因，主要临床表现为性格行为",
+      "bbox": [
+        66.6,
+        437.663,
+        305.469,
+        447.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "高,排除E。",
+      "bbox": [
+        326.17,
+        437.023,
+        377.526,
+        446.733
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "失常、意识障碍、昏迷。",
+      "bbox": [
+        66.53,
+        451.793,
+        173.34,
+        461.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "30. A【解析】P波为心房除极波，反映左、右心房",
+      "bbox": [
+        346.2,
+        451.004,
+        563.391,
+        462.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "18. A【解析】题中所列五项均为肝硬化的并发",
+      "bbox": [
+        87.97,
+        466.263,
+        305.73,
+        477.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "除极过程中的电位和时间变化；P-R间期反映激动在",
+      "bbox": [
+        326.24,
+        465.523,
+        563.447,
+        475.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "症，其中最严重的并发症是肝性脑病，但最常见的并发",
+      "bbox": [
+        66.55,
+        480.943,
+        305.643,
+        490.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "房室交界及以后的传导过程；QRS为左、右心室除极的",
+      "bbox": [
+        326.09,
+        479.993,
+        563.161,
+        489.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "症是上消化道出血，多突然发生大量呕血或黑便，其余",
+      "bbox": [
+        66.4,
+        495.453,
+        305.716,
+        505.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "总称；ST段反映心室早期缓慢复极的电位时间变化；T",
+      "bbox": [
+        326.31,
+        494.473,
+        564.217,
+        504.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "各项均相对少见。",
+      "bbox": [
+        66.32,
+        509.613,
+        144.16,
+        519.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "波为左、右心室除极与复极的全过程。",
+      "bbox": [
+        326.08,
+        508.813,
+        491.32,
+        518.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "19. B【解析】体温的变化。正常人体温可因测量",
+      "bbox": [
+        87.86,
+        524.073,
+        305.475,
+        535.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "31. D【解析】结核病的临床表现。关于结核病的",
+      "bbox": [
+        346.3,
+        523.483,
+        563.182,
+        534.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "方法不同而异，口测法（舌下温度）正常值为36.3～",
+      "bbox": [
+        66.35,
+        538.363,
+        305.161,
+        548.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "常见症状，一般约1/3的患者有不同程度的咯血，痰中",
+      "bbox": [
+        326.26,
+        538.013,
+        563.13,
+        548.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "37. 2。腋测法为36～ 37 ,肛测法为36.5～37.7",
+      "bbox": [
+        66.35,
+        552.753,
+        289.885,
+        563.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "。带血多因炎性病灶的毛细血管扩张所致，而中等量以",
+      "bbox": [
+        301.56,
+        552.553,
+        563.195,
+        563.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "正常人一天之中体温波动不超1，下午体温略高于早",
+      "bbox": [
+        66.47,
+        567.333,
+        306.96,
+        577.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "上咯血是由于空洞中血管瘤破裂造成，如损伤血管或",
+      "bbox": [
+        325.93,
+        566.813,
+        563.603,
+        576.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "晨，剧烈运动或进餐也可使体温轻度升高，妇女在月经",
+      "bbox": [
+        66.57,
+        581.863,
+        305.439,
+        591.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "合并支气管扩张时可发生大咯血，甚至出现血块阻塞",
+      "bbox": [
+        325.96,
+        581.263,
+        563.633,
+        590.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "前（不是月经期）及妊娠期体温会轻度升高，老年人因",
+      "bbox": [
+        66.62,
+        596.163,
+        305.02,
+        605.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "大气道而发生急骤性呼吸困难、窒息。当病变累及壁",
+      "bbox": [
+        326.03,
+        595.673,
+        563.245,
+        605.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "代谢率低，其体温低于青少年。病理情况下，体温升高",
+      "bbox": [
+        66.52,
+        610.793,
+        305.344,
+        620.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "层胸膜时，可出现相应胸壁刺痛，一般多不剧烈。根据",
+      "bbox": [
+        325.81,
+        610.383,
+        563.518,
+        620.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "称发热，各种病原体会引起感染性发热，病原体以外的",
+      "bbox": [
+        66.56,
+        625.123,
+        305.183,
+        634.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "上述分析ABCE项所列的症状描述都是不正确的。临",
+      "bbox": [
+        325.97,
+        624.583,
+        563.232,
+        634.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "原因会引起非感染性发热，后者常见于：①无菌性坏死",
+      "bbox": [
+        66.61,
+        639.553,
+        305.457,
+        649.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "床上显示，当咯血后发热持续不退，提示有结核病播",
+      "bbox": [
+        325.72,
+        639.223,
+        563.363,
+        648.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "物质的吸收，如心肌梗死等；②抗原—抗体反应，如风",
+      "bbox": [
+        66.64,
+        653.913,
+        305.487,
+        663.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "散，应注意加强观察。",
+      "bbox": [
+        325.96,
+        653.733,
+        423.06,
+        663.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "湿热、结缔组织病等；③内分泌与代谢障碍，如甲状腺",
+      "bbox": [
+        66.63,
+        668.353,
+        305.253,
+        678.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "32. A【解析】慢性二尖瓣关闭不全的病因。在我",
+      "bbox": [
+        346.19,
+        668.193,
+        563.252,
+        679.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "功能亢进症、重度脱水等；④体温调节中枢功能失调，",
+      "bbox": [
+        66.55,
+        682.803,
+        304.748,
+        692.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "国，风湿性心脏病为慢性二尖瓣关闭不全的最常见",
+      "bbox": [
+        326.61,
+        682.823,
+        563.476,
+        692.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "如安眠药中毒导致的中枢性发热等；⑤自主神经功能",
+      "bbox": [
+        66.65,
+        697.013,
+        305.21,
+        706.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "病因。",
+      "bbox": [
+        325.82,
+        697.293,
+        354.95,
+        707.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "紊乱，故选B。",
+      "bbox": [
+        66.62,
+        711.443,
+        133.278,
+        721.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "33. E【解析】中枢性瘫痪的特点：上运动神经元",
+      "bbox": [
+        346.18,
+        711.544,
+        563.718,
+        722.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "20. C【解析】慢性肾衰竭酸中毒患者，如果血中",
+      "bbox": [
+        87.51,
+        725.803,
+        304.728,
+        737.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "瘫痪，大脑皮质运动区或锥体束受损，引起对侧肢体单",
+      "bbox": [
+        325.65,
+        725.833,
+        563.581,
+        735.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "游离钙降低，静脉滴注碳酸氢钠后会出现手足搐弱。",
+      "bbox": [
+        66.76,
+        740.163,
+        291.14,
+        749.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "瘫或偏瘫，表现为瘫痪肌肉张力增高一折刀样、腱反射",
+      "bbox": [
+        325.55,
+        740.279,
+        563.459,
+        749.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "21. D【解析】病理性蛋白尿见于：①肾脏疾病，如",
+      "bbox": [
+        87.57,
+        754.433,
+        305.81,
+        765.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "亢进、浅反射消失、出现病理反射，瘫痪肌肉不萎缩。",
+      "bbox": [
+        325.67,
+        754.689,
+        549.608,
+        763.759
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "肾小球肾炎、肾病综合征、肾盂肾炎、肾结核、肾肿瘤",
+      "bbox": [
+        67.28,
+        768.483,
+        305.01,
+        778.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "34. D【解析】呼吸衰竭是流行性乙型脑炎最严重",
+      "bbox": [
+        345.97,
+        768.949,
+        563.241,
+        779.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "等；②继发性肾损害，如糖尿病肾病、狼疮肾病等；③肾",
+      "bbox": [
+        67.11,
+        783.233,
+        309.61,
+        792.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "的表现之一，也是最主要的死亡原因。",
+      "bbox": [
+        326.08,
+        783.469,
+        487.849,
+        792.549
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "一",
+      "bbox": [
+        286.04,
+        798.852,
+        295.11,
+        807.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "270—",
+      "bbox": [
+        306.29,
+        800.431,
+        342.85,
+        810.613
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 14,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        63.01,
+        56.11,
+        259.617,
+        67.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 十二指肠",
+      "bbox": [
+        84.65,
+        86.181,
+        143.389,
+        97.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "23. 可出现发热伴眼结膜充血的是（）",
+      "bbox": [
+        343.42,
+        84.911,
+        548.693,
+        95.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 回肠上段",
+      "bbox": [
+        84.4,
+        102.211,
+        143.445,
+        113.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 尿路感染",
+      "bbox": [
+        343.47,
+        100.881,
+        404.149,
+        111.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 空肠下段",
+      "bbox": [
+        84.38,
+        118.591,
+        144.09,
+        129.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 支气管肺炎",
+      "bbox": [
+        343.35,
+        117.481,
+        414.211,
+        128.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 升结肠",
+      "bbox": [
+        84.47,
+        134.761,
+        131.525,
+        145.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 流感",
+      "bbox": [
+        343.55,
+        133.581,
+        379.28,
+        144.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "17. 晚期肝硬化最严重也是最常见的死亡",
+      "bbox": [
+        84.67,
+        150.961,
+        295.298,
+        161.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 麻疹",
+      "bbox": [
+        343.2,
+        150.241,
+        379.987,
+        161.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "原因是（）",
+      "bbox": [
+        60.81,
+        167.731,
+        129.173,
+        178.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 肠炎",
+      "bbox": [
+        343.65,
+        166.301,
+        378.934,
+        177.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 上消化道出血",
+      "bbox": [
+        84.11,
+        183.841,
+        168.444,
+        194.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "24. 下列哪项是支气管哮喘呼吸困难的类",
+      "bbox": [
+        343.55,
+        182.881,
+        554.178,
+        193.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 原发性肝癌",
+      "bbox": [
+        83.99,
+        200.251,
+        154.643,
+        211.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "型（）",
+      "bbox": [
+        320.19,
+        199.601,
+        365.105,
+        210.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 感染",
+      "bbox": [
+        83.84,
+        216.391,
+        119.407,
+        227.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 呼气性",
+      "bbox": [
+        343.52,
+        215.721,
+        392.428,
+        226.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 肝肾综合征",
+      "bbox": [
+        83.73,
+        232.871,
+        155.681,
+        243.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 吸气性",
+      "bbox": [
+        343.47,
+        232.461,
+        390.776,
+        243.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 肝性脑病",
+      "bbox": [
+        84.0,
+        249.511,
+        143.438,
+        260.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 混合性",
+      "bbox": [
+        343.53,
+        248.941,
+        390.989,
+        259.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "18. 肝硬化最常见的并发症是（）",
+      "bbox": [
+        84.39,
+        266.001,
+        266.146,
+        276.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 阵发性",
+      "bbox": [
+        343.49,
+        265.641,
+        391.678,
+        276.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 上消化道出血",
+      "bbox": [
+        84.13,
+        282.181,
+        168.923,
+        293.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 腹式呼吸消失",
+      "bbox": [
+        343.62,
+        281.701,
+        426.036,
+        292.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 肝性脑病",
+      "bbox": [
+        83.95,
+        298.791,
+        143.398,
+        309.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "25. 肺部叩诊出现实音应考虑的疾病是（）",
+      "bbox": [
+        343.59,
+        298.401,
+        554.503,
+        309.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 肝肾综合征",
+      "bbox": [
+        83.94,
+        314.821,
+        155.586,
+        325.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 肺炎",
+      "bbox": [
+        343.53,
+        314.691,
+        380.416,
+        325.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 感染",
+      "bbox": [
+        83.84,
+        331.431,
+        120.247,
+        342.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 胸膜炎",
+      "bbox": [
+        343.52,
+        331.101,
+        390.293,
+        341.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 肝癌",
+      "bbox": [
+        83.99,
+        347.611,
+        120.189,
+        358.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 肺空洞",
+      "bbox": [
+        343.44,
+        347.381,
+        390.398,
+        358.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "19. 关于体温，以下哪项是错误的（）",
+      "bbox": [
+        84.25,
+        364.421,
+        284.233,
+        375.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 肺气肿",
+      "bbox": [
+        343.53,
+        363.481,
+        390.945,
+        374.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 正常人一天之中体温波动不超过1℃",
+      "bbox": [
+        83.9,
+        380.721,
+        284.437,
+        391.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 大量胸腔积液",
+      "bbox": [
+        343.66,
+        380.371,
+        426.02,
+        391.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 妇女在月经期体温会轻度升高",
+      "bbox": [
+        83.71,
+        397.011,
+        250.578,
+        407.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "26. 下列除哪项外，常可引起肝细胞性黄",
+      "bbox": [
+        343.52,
+        396.671,
+        553.607,
+        407.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 进餐可引起体温轻度升高",
+      "bbox": [
+        83.9,
+        413.421,
+        227.497,
+        424.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "疸（）",
+      "bbox": [
+        320.08,
+        413.471,
+        365.423,
+        424.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 心肌梗死后会出现发热",
+      "bbox": [
+        83.75,
+        430.071,
+        216.252,
+        440.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 疟疾",
+      "bbox": [
+        343.56,
+        429.731,
+        380.259,
+        440.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 安眠药中毒可导致中枢性发热",
+      "bbox": [
+        83.88,
+        446.041,
+        251.458,
+        456.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 急性甲型肝炎",
+      "bbox": [
+        343.47,
+        445.691,
+        425.438,
+        456.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "20. 慢性肾功能衰竭酸中毒患者静脉滴注碳",
+      "bbox": [
+        83.96,
+        462.541,
+        296.378,
+        473.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 中毒性肝炎",
+      "bbox": [
+        343.58,
+        462.311,
+        414.006,
+        473.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "酸氢钠后手足搐搦，常由什么原因引起（）",
+      "bbox": [
+        60.43,
+        478.851,
+        283.583,
+        489.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 钩端螺旋体病",
+      "bbox": [
+        343.4,
+        478.551,
+        426.36,
+        489.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 高血钠而脑水肿",
+      "bbox": [
+        83.83,
+        495.101,
+        181.32,
+        506.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 肝癌",
+      "bbox": [
+        343.77,
+        494.731,
+        378.978,
+        505.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 低钾血症",
+      "bbox": [
+        83.61,
+        511.541,
+        143.571,
+        522.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "27. 正常人呼吸与脉搏之比为（）",
+      "bbox": [
+        343.73,
+        511.451,
+        524.966,
+        522.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 血中游离钙降低",
+      "bbox": [
+        83.79,
+        527.991,
+        180.016,
+        538.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 1:1",
+      "bbox": [
+        343.77,
+        528.082,
+        371.127,
+        538.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 血中结合钙降低",
+      "bbox": [
+        83.53,
+        544.361,
+        180.334,
+        555.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 1:2",
+      "bbox": [
+        343.78,
+        544.692,
+        369.837,
+        555.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 血钙总量降低",
+      "bbox": [
+        83.86,
+        560.971,
+        168.063,
+        571.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 1:3",
+      "bbox": [
+        343.66,
+        561.162,
+        369.674,
+        571.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "21. 下列哪种病变通常不出现蛋白尿",
+      "bbox": [
+        83.83,
+        577.361,
+        296.33,
+        588.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 1:4",
+      "bbox": [
+        343.76,
+        577.761,
+        370.421,
+        588.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "（）",
+      "bbox": [
+        61.21,
+        594.261,
+        93.5,
+        605.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 1:5",
+      "bbox": [
+        343.82,
+        594.112,
+        369.853,
+        604.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 化脓性扁桃体炎引起的高热",
+      "bbox": [
+        84.03,
+        610.31,
+        240.363,
+        621.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "28. 方颅可见于（）",
+      "bbox": [
+        343.66,
+        610.601,
+        453.033,
+        621.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 高血压病（3级）",
+      "bbox": [
+        84.11,
+        626.921,
+        175.394,
+        637.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 呆小症",
+      "bbox": [
+        343.94,
+        626.951,
+        392.281,
+        637.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 妊娠中毒症",
+      "bbox": [
+        83.97,
+        643.341,
+        155.289,
+        654.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 先天性梅毒",
+      "bbox": [
+        343.71,
+        643.641,
+        414.026,
+        654.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 缺血性心脏病（心绞痛发作时）",
+      "bbox": [
+        83.92,
+        659.911,
+        250.636,
+        670.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 脑膜炎",
+      "bbox": [
+        343.8,
+        660.031,
+        390.866,
+        670.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 慢性右心功能不全",
+      "bbox": [
+        84.2,
+        676.051,
+        191.434,
+        686.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 脑积水",
+      "bbox": [
+        343.6,
+        676.671,
+        391.538,
+        687.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "22. 嗜酸性粒细胞减少见于的疾病是",
+      "bbox": [
+        84.15,
+        692.83,
+        295.949,
+        703.82
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 小儿营养不良",
+      "bbox": [
+        343.84,
+        693.081,
+        426.462,
+        703.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "（）",
+      "bbox": [
+        61.5,
+        709.071,
+        93.79,
+        720.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "29. 下列关于血尿素氮的改变及临床意义",
+      "bbox": [
+        344.06,
+        709.621,
+        553.484,
+        720.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 荨麻疹",
+      "bbox": [
+        84.46,
+        725.431,
+        133.348,
+        736.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "的叙述，正确的是（）",
+      "bbox": [
+        321.26,
+        726.391,
+        446.15,
+        737.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 哮喘",
+      "bbox": [
+        84.22,
+        742.021,
+        119.721,
+        752.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 上消化道出血时，血尿素氮减少",
+      "bbox": [
+        344.25,
+        742.311,
+        517.124,
+        753.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 伤寒",
+      "bbox": [
+        84.3,
+        758.431,
+        119.812,
+        769.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 大面积烧伤时，血尿素氮减少",
+      "bbox": [
+        343.9,
+        758.891,
+        503.535,
+        769.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "D. 湿疹",
+      "bbox": [
+        84.62,
+        775.281,
+        120.776,
+        786.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 严重的肾盂肾炎，血尿素氮减少",
+      "bbox": [
+        344.17,
+        775.281,
+        516.007,
+        786.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 血吸虫病",
+      "bbox": [
+        84.79,
+        791.751,
+        144.107,
+        802.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 血尿素氮对早期肾功能损害的敏感",
+      "bbox": [
+        344.11,
+        791.631,
+        553.283,
+        802.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "- -",
+      "bbox": [
+        278.55,
+        811.7,
+        289.798,
+        820.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "156 - --",
+      "bbox": [
+        299.06,
+        811.659,
+        335.656,
+        821.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 27,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）参考答案及解析",
+      "bbox": [
+        318.26,
+        44.737,
+        534.469,
+        54.927
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "可用治寒热虚实各种水肿。",
+      "bbox": [
+        41.4,
+        74.782,
+        159.6,
+        84.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "草。温脾汤的组成：大黄、当归、干姜、附子、人参、芒",
+      "bbox": [
+        304.5,
+        74.382,
+        550.5,
+        84.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "42. C【解析】芫花泻水逐饮，祛痰止咳，杀虫疗",
+      "bbox": [
+        61.48,
+        88.142,
+        283.598,
+        98.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "硝、甘草。清胃散的组成：升麻、生地黄、当归、川黄连、",
+      "bbox": [
+        304.92,
+        88.502,
+        560.76,
+        98.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "疮。巴豆峻下冷积，逐水退肿，祛痰利咽，外用蚀疮。",
+      "bbox": [
+        40.71,
+        102.422,
+        283.66,
+        112.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "牡丹皮、石膏。",
+      "bbox": [
+        304.88,
+        102.422,
+        373.76,
+        112.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "甘遂泻水逐饮，消肿散结。牵牛子泻下逐水，去积杀",
+      "bbox": [
+        40.91,
+        116.282,
+        283.59,
+        126.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "58. C【解析】麻杏石甘汤辛凉解表，清肺平喘。",
+      "bbox": [
+        325.66,
+        116.302,
+        547.503,
+        126.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "虫。芦荟泻下通便，清肝，杀虫。",
+      "bbox": [
+        40.83,
+        131.012,
+        188.43,
+        140.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "葛根芩连汤解表清里，主治协热下利。大柴胡汤和解",
+      "bbox": [
+        305.1,
+        131.042,
+        547.656,
+        140.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "43. B【解析】五种药物均有祛风散寒之功，白芷",
+      "bbox": [
+        61.27,
+        144.622,
+        283.81,
+        155.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "少阳，内泻热结。凉膈散泻火通便，清上泄下。防风通",
+      "bbox": [
+        305.11,
+        145.302,
+        547.783,
+        155.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "治疗阳明头痛；藁本则擅长治疗巅顶头痛；苍耳子善治",
+      "bbox": [
+        40.72,
+        159.642,
+        283.896,
+        169.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "圣散解表通便。",
+      "bbox": [
+        305.13,
+        159.882,
+        374.01,
+        169.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "鼻渊头痛；细辛善治少阴头痛；吴茱萸善治厥阴头痛。",
+      "bbox": [
+        40.96,
+        174.272,
+        276.88,
+        184.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "59. E【解析】天台乌药散的药物组成：乌药、木",
+      "bbox": [
+        325.95,
+        173.692,
+        548.025,
+        184.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "44. E【解析】桑寄生祛风湿，补肝肾，强筋骨，安",
+      "bbox": [
+        61.22,
+        188.392,
+        284.01,
+        198.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "香、小茴香、青皮、高良姜、槟榔、川楝子、巴豆。暖肝煎",
+      "bbox": [
+        305.27,
+        188.232,
+        561.11,
+        198.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "胎。五加皮祛风湿，补肝肾，强筋骨，利水。二者均具",
+      "bbox": [
+        40.54,
+        203.121,
+        284.19,
+        212.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "的药物组成：当归、枸杞、茯苓、小茴香、肉桂、乌药、",
+      "bbox": [
+        305.8,
+        202.842,
+        551.8,
+        212.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "有祛风湿，补肝肾，强筋骨作用，用于风湿痹证，筋骨",
+      "bbox": [
+        40.51,
+        217.531,
+        283.933,
+        227.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "沉香。",
+      "bbox": [
+        305.32,
+        217.872,
+        334.81,
+        227.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "痿软。",
+      "bbox": [
+        40.51,
+        232.572,
+        70.03,
+        242.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "60. C【解析】阳和汤方中重用熟地黄，滋补阴血，",
+      "bbox": [
+        326.12,
+        232.912,
+        548.054,
+        243.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "45. D【解析】砂仁化湿行气，温中止泻，安胎。",
+      "bbox": [
+        61.05,
+        246.642,
+        271.95,
+        257.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "填精益髓。配以鹿角胶，补肾助阳，益精养血，二者合",
+      "bbox": [
+        305.35,
+        247.662,
+        548.439,
+        257.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "46. A【解析】本题考查温里药的各品种作用强",
+      "bbox": [
+        61.06,
+        261.122,
+        284.098,
+        271.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "用，温阳养血，以治其本，共为君药。少佐以麻黄，宣通",
+      "bbox": [
+        305.61,
+        262.102,
+        551.11,
+        271.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "弱，附子温里作用最强，可补火助阳，干姜、细辛、花椒、",
+      "bbox": [
+        40.74,
+        275.611,
+        296.84,
+        285.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "经络，与诸温和药配合，可以开合腠理，散寒凝，引阳气",
+      "bbox": [
+        305.62,
+        276.822,
+        551.62,
+        286.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "高良姜温里作用较弱，可温中散寒。看到“补火助阳”",
+      "bbox": [
+        40.69,
+        290.522,
+        284.998,
+        300.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "由里达表，通行周身。甘草生用为使，解毒而调诸药。",
+      "bbox": [
+        306.4,
+        291.502,
+        548.218,
+        301.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "应首选附子，故选A。",
+      "bbox": [
+        40.59,
+        305.422,
+        138.98,
+        315.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "综观全方，补血与温阳并用，化痰与通络相伍，益精气，",
+      "bbox": [
+        305.68,
+        305.861,
+        551.93,
+        315.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "47. D【解析】竹茹生用有清热化痰，除烦止呕，安",
+      "bbox": [
+        60.94,
+        319.922,
+        284.484,
+        330.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "扶阳气，化寒凝，通经络，温阳补血与治本，化痰通络以",
+      "bbox": [
+        305.81,
+        320.412,
+        551.31,
+        330.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "胎凉血的功效，姜汁炒可除烦止呕，主治胃热呕哕。",
+      "bbox": [
+        40.53,
+        334.632,
+        266.85,
+        344.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "治标。用于阴疽，犹如离照当空，阴霾自散，故以“阳",
+      "bbox": [
+        305.67,
+        335.182,
+        548.167,
+        345.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "48. A【解析】本题五个选项均具有消食化积之功",
+      "bbox": [
+        61.0,
+        348.592,
+        284.515,
+        359.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "和”名之。",
+      "bbox": [
+        306.06,
+        349.632,
+        355.06,
+        359.432
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "效，山楂兼能行气散瘀；神曲可和胃；莱菔子降气化痰；",
+      "bbox": [
+        40.72,
+        363.372,
+        286.22,
+        373.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "61. A【解析】地黄饮子的药物配伍意义。地黄饮",
+      "bbox": [
+        326.85,
+        363.982,
+        548.451,
+        374.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "麦芽回乳消胀；谷芽健脾开胃。",
+      "bbox": [
+        40.6,
+        378.332,
+        178.36,
+        388.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "子中薄荷轻清上行，宣散解郁，为使药。",
+      "bbox": [
+        306.12,
+        378.462,
+        483.24,
+        388.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "49. E【解析】地龙有清热息风，平喘，通络，利尿",
+      "bbox": [
+        61.01,
+        392.612,
+        284.925,
+        403.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "62. A【解析】祛痰剂的配伍用药。痰的产生往往",
+      "bbox": [
+        326.99,
+        393.622,
+        548.467,
+        404.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "的作用，故选E。",
+      "bbox": [
+        41.09,
+        407.272,
+        118.383,
+        417.082
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "与脾、肺、肾三脏功能失调相关。脾失健运，则湿聚成",
+      "bbox": [
+        306.25,
+        407.942,
+        548.706,
+        417.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "50. E【解析】川芎活血行气、祛风止痛；丹参活血",
+      "bbox": [
+        61.12,
+        421.422,
+        285.157,
+        431.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "痰；肺失宣降，则聚液成痰；肾虚不能制水，水泛亦为",
+      "bbox": [
+        306.09,
+        422.922,
+        548.587,
+        432.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "调经、祛瘀止痛、凉血消痈、除烦安神；延胡索活血行气",
+      "bbox": [
+        40.62,
+        436.662,
+        286.62,
+        446.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "痰，故本类方剂多配伍健脾利湿药，有时酌配益肾",
+      "bbox": [
+        306.09,
+        437.072,
+        548.607,
+        446.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "止痛；姜黄活血止痛；郁金活血止痛、行气解郁、清心凉",
+      "bbox": [
+        40.6,
+        451.382,
+        286.6,
+        461.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "之品。",
+      "bbox": [
+        306.23,
+        451.932,
+        335.72,
+        461.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "血、利胆退黄。",
+      "bbox": [
+        40.46,
+        465.672,
+        109.27,
+        475.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "63. E【解析】健脾丸组成：白术、木香、黄连、甘",
+      "bbox": [
+        327.13,
+        466.242,
+        550.79,
+        476.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "51. B【解析】太子参与山药可气阴双补，补气健",
+      "bbox": [
+        61.26,
+        480.812,
+        285.248,
+        491.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "草、白茯苓、人参、神曲、陈皮、砂仁、麦芽、山楂、山药、",
+      "bbox": [
+        306.32,
+        480.922,
+        571.46,
+        490.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "脾、养胃，益智仁温脾开胃摄唾，菟丝子平补阴阳治疗",
+      "bbox": [
+        40.76,
+        495.371,
+        285.316,
+        505.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "肉豆蔻。",
+      "bbox": [
+        307.22,
+        496.121,
+        346.62,
+        505.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "脾虚便溏，中阳衰微，胃有寒湿者均可使用，西洋参偏",
+      "bbox": [
+        40.66,
+        510.262,
+        285.194,
+        520.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "64. D【解析】左金丸中黄连与吴茱萸用量比例为",
+      "bbox": [
+        327.04,
+        510.492,
+        548.648,
+        520.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "于苦寒，养阴作用较强，易助寒湿，中阳衰微，胃有寒湿",
+      "bbox": [
+        41.01,
+        525.012,
+        287.01,
+        534.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "6：1。方中重用黄连为君，清泻肝火，使肝火得清，自",
+      "bbox": [
+        306.34,
+        525.392,
+        547.608,
+        535.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "者忌用。",
+      "bbox": [
+        40.91,
+        539.182,
+        80.23,
+        549.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "不横逆犯胃；黄连善清泻胃热，胃火降则其气自和，一",
+      "bbox": [
+        306.26,
+        540.092,
+        548.737,
+        549.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "52. C【解析】桔梗：性升散，凡气机上逆，呕吐、呛",
+      "bbox": [
+        61.33,
+        554.182,
+        292.58,
+        564.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "药而两清肝胃，标本兼顾。然气郁化火之证，纯用大苦",
+      "bbox": [
+        306.39,
+        554.832,
+        548.846,
+        564.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "咳、眩晕、阴虚火旺咯血等不宜用，胃、十二指肠溃疡者",
+      "bbox": [
+        41.22,
+        567.972,
+        287.22,
+        577.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "大寒既恐郁结不开，又虑折伤中阳，故又少佐辛热之吴",
+      "bbox": [
+        306.35,
+        569.542,
+        548.601,
+        579.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "慎服。用量过大易致恶心呕吐。",
+      "bbox": [
+        40.55,
+        582.612,
+        181.892,
+        592.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "茱萸。一者疏肝解郁，一者反佐以制黄连之寒，一者取",
+      "bbox": [
+        306.36,
+        583.751,
+        548.877,
+        593.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "53. D【解析】A项宜用泻下剂；B项宜用滋阴剂；",
+      "bbox": [
+        61.29,
+        597.492,
+        284.99,
+        607.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "其下气之用，以和胃降逆；一者可引领黄连入肝经，如",
+      "bbox": [
+        306.31,
+        598.572,
+        548.334,
+        608.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "C项宜用清热化痰之剂；D项宜用开窍剂；E项宜用清",
+      "bbox": [
+        40.29,
+        612.292,
+        285.397,
+        622.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "此一味而功兼四用，以为佐使。二药合用，共收清泻肝",
+      "bbox": [
+        306.47,
+        613.252,
+        548.679,
+        623.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "热解毒之剂。",
+      "bbox": [
+        40.62,
+        627.152,
+        99.54,
+        636.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "火，降逆止呕之效。",
+      "bbox": [
+        306.57,
+        627.882,
+        394.77,
+        637.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "54. D【解析】小蓟饮子的配伍意义。小蓟饮子由",
+      "bbox": [
+        61.33,
+        641.812,
+        284.666,
+        652.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "65. E【解析】温经汤主治证候皆因冲任虚寒，瘀",
+      "bbox": [
+        327.3,
+        642.282,
+        548.686,
+        652.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "导赤散加小蓟、藕节、蒲黄、滑石、栀子、当归组成。配",
+      "bbox": [
+        40.66,
+        656.302,
+        286.66,
+        666.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "血阻滞。",
+      "bbox": [
+        306.68,
+        656.802,
+        345.96,
+        666.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "伍特点为止血之中寓以化瘀，使血止而不留瘀；清利之",
+      "bbox": [
+        40.26,
+        670.832,
+        285.652,
+        680.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "66. D【解析】清气化痰丸的组成。清气化痰丸以",
+      "bbox": [
+        327.39,
+        671.002,
+        548.471,
+        681.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "中寓以养阴，使利水而不伤正。",
+      "bbox": [
+        41.21,
+        685.232,
+        178.97,
+        695.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "姜汁为丸，和胃止呕，并为开痰之先导。",
+      "bbox": [
+        306.6,
+        686.382,
+        483.54,
+        696.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "55. B【解析】胡黄连功效：清虚热，除疳热。",
+      "bbox": [
+        61.37,
+        700.572,
+        263.28,
+        711.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "67. B【解析】当归、生地黄、胡麻仁补血活血，凉",
+      "bbox": [
+        327.47,
+        700.412,
+        549.07,
+        710.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "56. E【解析】阳和汤的药物组成；熟地黄、肉桂、",
+      "bbox": [
+        61.34,
+        714.882,
+        285.709,
+        725.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "血息风止痒，使“血行风自灭”。",
+      "bbox": [
+        306.7,
+        715.512,
+        453.85,
+        725.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "麻黄、鹿角胶、白芥子、姜炭、生甘草。",
+      "bbox": [
+        40.31,
+        728.902,
+        217.07,
+        738.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "68. A【解析】小陷胸汤的主治证。小陷胸汤功能",
+      "bbox": [
+        327.55,
+        729.492,
+        547.88,
+        739.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "57. B【解析】温胆汤的组成：半夏、竹茹、枳实、陈",
+      "bbox": [
+        61.48,
+        744.102,
+        293.4,
+        754.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "清热化痰，宽胸散结。主治痰热互结的结胸证。症见",
+      "bbox": [
+        306.84,
+        744.272,
+        547.763,
+        754.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "皮、甘草、茯苓、生姜、大枣。凉膈散的组成：川大黄、朴",
+      "bbox": [
+        40.68,
+        758.441,
+        296.78,
+        768.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "胸脘痞闷，按之则痛，或心胸闷痛，或咳痰黄稠，舌苔黄",
+      "bbox": [
+        306.88,
+        759.278,
+        547.519,
+        768.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "硝、甘草、山栀子仁、薄荷叶、黄芩、连翘。清骨散的组",
+      "bbox": [
+        40.73,
+        772.822,
+        286.73,
+        782.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "腻，脉滑数。",
+      "bbox": [
+        307.13,
+        773.529,
+        362.03,
+        782.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "成：银柴胡、胡黄连、秦艽、鳖甲、地骨皮、青蒿、知母、甘",
+      "bbox": [
+        41.08,
+        786.772,
+        306.76,
+        796.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "69. B【解析】方中重用麦门冬为君，甘寒清润，既",
+      "bbox": [
+        327.85,
+        787.699,
+        546.707,
+        797.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—217",
+      "bbox": [
+        266.62,
+        805.488,
+        303.227,
+        816.018
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "—",
+      "bbox": [
+        314.95,
+        805.665,
+        325.47,
+        816.185
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

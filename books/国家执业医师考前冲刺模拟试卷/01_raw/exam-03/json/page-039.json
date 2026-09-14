@@ -1,0 +1,1207 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 39,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        421.73,
+        43.947,
+        538.734,
+        55.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 6～8周左右",
+      "bbox": [
+        68.48,
+        75.212,
+        144.8,
+        87.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 风、湿、热",
+      "bbox": [
+        336.33,
+        74.802,
+        405.71,
+        88.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 寒、热、湿",
+      "bbox": [
+        336.43,
+        90.962,
+        406.17,
+        104.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "29. 内痔的主要症状是（）",
+      "bbox": [
+        67.8,
+        107.302,
+        221.183,
+        119.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 寒、暑、热",
+      "bbox": [
+        336.79,
+        107.052,
+        406.61,
+        120.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 便血，疼痛",
+      "bbox": [
+        68.25,
+        123.462,
+        146.94,
+        135.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 寒、湿、燥",
+      "bbox": [
+        336.52,
+        122.822,
+        405.77,
+        136.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 便血，有分泌物",
+      "bbox": [
+        67.92,
+        139.502,
+        161.32,
+        152.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "36. 下列说法不正确的是（）",
+      "bbox": [
+        336.27,
+        139.222,
+        499.776,
+        151.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 便血，脱出",
+      "bbox": [
+        67.81,
+        155.542,
+        137.37,
+        169.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 月经病的治疗，应分清先病和后病",
+      "bbox": [
+        336.49,
+        155.152,
+        530.91,
+        168.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 便血，肛门痒",
+      "bbox": [
+        67.92,
+        172.222,
+        153.83,
+        185.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 月经病的治疗重在治本调经",
+      "bbox": [
+        336.21,
+        171.591,
+        495.815,
+        184.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 便血，异物感",
+      "bbox": [
+        67.86,
+        188.762,
+        152.54,
+        202.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 调经诸法以补肾疏肝为要",
+      "bbox": [
+        336.31,
+        188.652,
+        483.861,
+        201.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "30. 蛇咬伤后（神经毒）者，其治法是",
+      "bbox": [
+        67.66,
+        205.321,
+        287.675,
+        217.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 治疗月经病要顺应不同年龄阶段论治",
+      "bbox": [
+        336.21,
+        204.622,
+        544.288,
+        216.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "（）",
+      "bbox": [
+        47.06,
+        223.881,
+        77.883,
+        237.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 治疗月经病要顺应月经周期中阴阳气",
+      "bbox": [
+        336.23,
+        220.662,
+        553.569,
+        233.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 活血祛风",
+      "bbox": [
+        67.82,
+        238.102,
+        130.164,
+        250.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "血的变化",
+      "bbox": [
+        311.86,
+        238.762,
+        359.859,
+        250.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 清热解毒，凉血止血",
+      "bbox": [
+        67.53,
+        254.521,
+        185.13,
+        268.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "37. 下列各项，不属月经病主要病因",
+      "bbox": [
+        336.2,
+        253.761,
+        552.389,
+        266.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 清利湿热，凉血息风",
+      "bbox": [
+        67.89,
+        270.442,
+        189.5,
+        283.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "的是（）",
+      "bbox": [
+        312.92,
+        270.532,
+        370.636,
+        282.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 凉血息风，豁痰开窍",
+      "bbox": [
+        67.75,
+        287.692,
+        190.19,
+        301.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 寒热湿邪",
+      "bbox": [
+        336.05,
+        286.722,
+        398.95,
+        299.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 清热解毒，活血祛风，凉血止血",
+      "bbox": [
+        67.96,
+        303.682,
+        247.44,
+        317.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 房劳多产",
+      "bbox": [
+        335.94,
+        302.752,
+        396.915,
+        315.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "31. 下列除哪项外，均是玉门的别称（）",
+      "bbox": [
+        68.14,
+        319.782,
+        282.103,
+        331.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 内伤七情",
+      "bbox": [
+        336.01,
+        319.852,
+        397.675,
+        332.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 胞门",
+      "bbox": [
+        68.08,
+        337.172,
+        104.578,
+        350.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 营卫不调",
+      "bbox": [
+        335.81,
+        336.122,
+        397.123,
+        348.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 阴门",
+      "bbox": [
+        68.14,
+        354.332,
+        103.81,
+        367.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 体质因素",
+      "bbox": [
+        336.0,
+        351.812,
+        397.521,
+        365.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 产门",
+      "bbox": [
+        68.66,
+        370.322,
+        104.0,
+        383.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "38. 下列哪项不是月经先期肝郁血热证的",
+      "bbox": [
+        335.85,
+        368.482,
+        552.848,
+        380.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 子门",
+      "bbox": [
+        68.5,
+        386.152,
+        104.154,
+        397.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "主症（）",
+      "bbox": [
+        311.87,
+        385.761,
+        370.976,
+        399.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 龙门",
+      "bbox": [
+        68.7,
+        403.072,
+        104.2,
+        416.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 月经提前8天",
+      "bbox": [
+        335.88,
+        401.142,
+        423.273,
+        413.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "32. 下列各项，不属于妊娠生理现象的是",
+      "bbox": [
+        68.75,
+        418.781,
+        286.997,
+        430.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 经量或多或少",
+      "bbox": [
+        335.75,
+        418.152,
+        421.59,
+        431.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 经色淡、质稀",
+      "bbox": [
+        335.65,
+        433.572,
+        417.04,
+        447.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "（）",
+      "bbox": [
+        47.8,
+        436.912,
+        79.103,
+        448.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 月经停闭",
+      "bbox": [
+        68.81,
+        451.672,
+        129.919,
+        463.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 心烦易怒",
+      "bbox": [
+        335.2,
+        451.082,
+        397.81,
+        464.218
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 乳头乳晕着色",
+      "bbox": [
+        68.76,
+        467.492,
+        154.162,
+        479.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 口苦咽干",
+      "bbox": [
+        335.44,
+        467.132,
+        397.211,
+        480.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 腹胀便秘",
+      "bbox": [
+        68.89,
+        484.252,
+        130.351,
+        497.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "39. 下列哪项可诊断为闭经（）",
+      "bbox": [
+        335.75,
+        482.532,
+        511.196,
+        494.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 脉滑，尺脉按之不绝",
+      "bbox": [
+        68.63,
+        499.502,
+        190.79,
+        513.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 月经来潮半年，月经停闭5个月",
+      "bbox": [
+        335.36,
+        498.512,
+        513.945,
+        512.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 晨起恶心欲呕",
+      "bbox": [
+        68.75,
+        517.152,
+        154.51,
+        530.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 产后哺乳10个月，未转经",
+      "bbox": [
+        335.25,
+        515.432,
+        485.57,
+        529.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "33. 与月经产生没有直接关系的脏腑",
+      "bbox": [
+        68.77,
+        532.631,
+        287.421,
+        544.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 停止哺乳5个月已行经3次，现月经停",
+      "bbox": [
+        335.46,
+        532.582,
+        554.11,
+        546.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "是（）",
+      "bbox": [
+        46.55,
+        550.751,
+        91.499,
+        564.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "闭7个月",
+      "bbox": [
+        312.39,
+        549.162,
+        358.88,
+        562.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 肾",
+      "bbox": [
+        68.89,
+        566.192,
+        95.51,
+        579.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 月经一年一行，无不适",
+      "bbox": [
+        335.1,
+        564.062,
+        465.606,
+        577.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 肺",
+      "bbox": [
+        68.61,
+        583.112,
+        93.64,
+        595.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 平素月经后期，现6个月未行，脉滑利，",
+      "bbox": [
+        335.29,
+        581.242,
+        553.155,
+        594.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 胆",
+      "bbox": [
+        68.83,
+        599.102,
+        93.8,
+        611.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "小腹隆起",
+      "bbox": [
+        311.12,
+        598.872,
+        358.977,
+        610.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "脾",
+      "bbox": [
+        82.56,
+        616.162,
+        94.35,
+        627.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "40. 下列除哪项外，均是经期延长血瘀证",
+      "bbox": [
+        335.21,
+        614.012,
+        553.015,
+        625.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. ",
+      "bbox": [
+        68.73,
+        617.474,
+        80.258,
+        629.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 胃",
+      "bbox": [
+        68.84,
+        633.652,
+        94.14,
+        646.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "的主症（）",
+      "bbox": [
+        312.63,
+        631.252,
+        383.619,
+        644.977
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "34. 治疗月经过多血瘀证，应首选的方剂",
+      "bbox": [
+        68.87,
+        648.012,
+        286.536,
+        659.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 经行8～10天",
+      "bbox": [
+        335.76,
+        647.342,
+        424.23,
+        660.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "是（）",
+      "bbox": [
+        46.72,
+        665.542,
+        90.956,
+        679.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 月经量少、色暗、有块",
+      "bbox": [
+        335.81,
+        663.962,
+        464.37,
+        677.486
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 失笑散加味",
+      "bbox": [
+        68.92,
+        681.652,
+        143.648,
+        694.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 小腹疼痛拒按",
+      "bbox": [
+        335.85,
+        680.582,
+        422.499,
+        693.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 少腹逐瘀汤",
+      "bbox": [
+        69.14,
+        698.632,
+        141.007,
+        711.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 腰酸腿软",
+      "bbox": [
+        335.44,
+        697.662,
+        398.514,
+        710.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 逐瘀止血汤",
+      "bbox": [
+        68.95,
+        714.562,
+        141.579,
+        727.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 舌紫暗，脉弦涩",
+      "bbox": [
+        335.82,
+        713.692,
+        433.41,
+        727.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 桃红四物汤",
+      "bbox": [
+        69.0,
+        730.652,
+        142.038,
+        743.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "41. 下列各项，不属妊娠病范畴的是",
+      "bbox": [
+        335.28,
+        729.462,
+        550.611,
+        742.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 血府逐瘀汤",
+      "bbox": [
+        68.93,
+        747.152,
+        141.897,
+        760.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "（）",
+      "bbox": [
+        312.13,
+        748.621,
+        346.006,
+        760.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "35. 下列各项，易导致妇产科疾病发生的",
+      "bbox": [
+        68.72,
+        763.731,
+        286.259,
+        775.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 恶阻",
+      "bbox": [
+        335.53,
+        763.112,
+        374.939,
+        775.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "是（）",
+      "bbox": [
+        46.42,
+        780.282,
+        91.183,
+        793.357
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 胞转",
+      "bbox": [
+        335.55,
+        780.062,
+        372.955,
+        792.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 风、寒、湿",
+      "bbox": [
+        68.47,
+        796.422,
+        138.57,
+        809.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 儿枕痛",
+      "bbox": [
+        335.83,
+        795.662,
+        385.111,
+        808.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "133",
+      "bbox": [
+        289.36,
+        817.524,
+        303.135,
+        826.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

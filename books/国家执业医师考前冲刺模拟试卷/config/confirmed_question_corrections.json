@@ -1,0 +1,18 @@
+[
+  {
+    "exam": "exam-01",
+    "unit": "二",
+    "question_no": 4,
+    "page": 12,
+    "option_updates": {"C": "肺泡癌"},
+    "verification": "visually_checked_against_rendered_source"
+  },
+  {
+    "exam": "exam-02",
+    "unit": "四",
+    "question_no": 19,
+    "page": 38,
+    "option_updates": {"D": "肺恶", "E": "气血衰竭"},
+    "verification": "visually_checked_against_rendered_source"
+  }
+]

@@ -1,0 +1,1342 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 17,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1442.0,
+        82.0,
+        1855.0,
+        119.0
+      ],
+      "confidence": 0.96115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 阿糖腺苷",
+      "bbox": [
+        208.0,
+        195.0,
+        432.0,
+        241.0
+      ],
+      "confidence": 0.998603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 主动一被动型，共同参与型，父权主义型",
+      "bbox": [
+        1148.0,
+        196.0,
+        1889.0,
+        236.0
+      ],
+      "confidence": 0.972995,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 拉米夫定",
+      "bbox": [
+        207.0,
+        249.0,
+        432.0,
+        298.0
+      ],
+      "confidence": 0.998911,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "68. 下列人体实验类型中，不需要付出道",
+      "bbox": [
+        1148.0,
+        252.0,
+        1902.0,
+        292.0
+      ],
+      "confidence": 0.996344,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "62. 根据《中华人民共和国传染病防治法》",
+      "bbox": [
+        210.0,
+        306.0,
+        983.0,
+        351.0
+      ],
+      "confidence": 0.998699,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "德代价的是（",
+      "bbox": [
+        1063.0,
+        307.0,
+        1352.0,
+        353.0
+      ],
+      "confidence": 0.969567,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "）",
+      "bbox": [
+        1375.0,
+        318.0,
+        1397.0,
+        344.0
+      ],
+      "confidence": 0.989534,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "的规定，有关单位应当按照国家规定，对以下人",
+      "bbox": [
+        125.0,
+        358.0,
+        981.0,
+        407.0
+      ],
+      "confidence": 0.986742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 自体实验",
+      "bbox": [
+        1146.0,
+        364.0,
+        1370.0,
+        411.0
+      ],
+      "confidence": 0.997734,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "员采取有效的保护措施和医疗保健措施（",
+      "bbox": [
+        125.0,
+        417.0,
+        862.0,
+        462.0
+      ],
+      "confidence": 0.996838,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "()",
+      "bbox": [
+        839.0,
+        414.0,
+        967.0,
+        462.0
+      ],
+      "confidence": 0.58249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 自愿实验",
+      "bbox": [
+        1145.0,
+        422.0,
+        1364.0,
+        468.0
+      ],
+      "confidence": 0.998795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 从事传染病预防、医疗的人员",
+      "bbox": [
+        208.0,
+        468.0,
+        798.0,
+        515.0
+      ],
+      "confidence": 0.998599,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 欺骗实验",
+      "bbox": [
+        1145.0,
+        479.0,
+        1366.0,
+        525.0
+      ],
+      "confidence": 0.998157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 从事传染病科研、教学的人员",
+      "bbox": [
+        205.0,
+        520.0,
+        793.0,
+        573.0
+      ],
+      "confidence": 0.99892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 强迫实验",
+      "bbox": [
+        1145.0,
+        536.0,
+        1368.0,
+        582.0
+      ],
+      "confidence": 0.998147,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 现场处理疫情的人员",
+      "bbox": [
+        207.0,
+        579.0,
+        643.0,
+        624.0
+      ],
+      "confidence": 0.999138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 天然实验",
+      "bbox": [
+        1145.0,
+        595.0,
+        1367.0,
+        641.0
+      ],
+      "confidence": 0.998966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 在生产、工作中接触传染病病原体的人员",
+      "bbox": [
+        205.0,
+        632.0,
+        966.0,
+        681.0
+      ],
+      "confidence": 0.99681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "69. 受理申请医师注册的卫生健康主管部",
+      "bbox": [
+        1145.0,
+        652.0,
+        1905.0,
+        704.0
+      ],
+      "confidence": 0.999489,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 以上均是",
+      "bbox": [
+        206.0,
+        688.0,
+        430.0,
+        735.0
+      ],
+      "confidence": 0.998405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "门除医师法规定不予注册的情形外。应当自",
+      "bbox": [
+        1062.0,
+        710.0,
+        1905.0,
+        762.0
+      ],
+      "confidence": 0.999194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "63. 关于人类胚胎干细胞研究的伦理原",
+      "bbox": [
+        205.0,
+        739.0,
+        978.0,
+        793.0
+      ],
+      "confidence": 0.998508,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "受理申请之日起多少日内准予注册，将注册",
+      "bbox": [
+        1062.0,
+        770.0,
+        1904.0,
+        818.0
+      ],
+      "confidence": 0.993081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "则，不正确的是（)",
+      "bbox": [
+        123.0,
+        794.0,
+        536.0,
+        848.0
+      ],
+      "confidence": 0.894906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "信息录人国家信息平台，并发给医师执业证",
+      "bbox": [
+        1063.0,
+        828.0,
+        1906.0,
+        876.0
+      ],
+      "confidence": 0.994455,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 安全和有效原则",
+      "bbox": [
+        206.0,
+        854.0,
+        559.0,
+        900.0
+      ],
+      "confidence": 0.99809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "书。（）",
+      "bbox": [
+        1062.0,
+        883.0,
+        1292.0,
+        934.0
+      ],
+      "confidence": 0.904265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 防止商品化原则",
+      "bbox": [
+        203.0,
+        910.0,
+        554.0,
+        955.0
+      ],
+      "confidence": 0.998404,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 15日",
+      "bbox": [
+        1145.0,
+        943.0,
+        1296.0,
+        991.0
+      ],
+      "confidence": 0.998716,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 知情同意原则",
+      "bbox": [
+        205.0,
+        965.0,
+        512.0,
+        1010.0
+      ],
+      "confidence": 0.998226,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 20日",
+      "bbox": [
+        1145.0,
+        1003.0,
+        1291.0,
+        1047.0
+      ],
+      "confidence": 0.998162,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 尊重原则",
+      "bbox": [
+        202.0,
+        1017.0,
+        428.0,
+        1067.0
+      ],
+      "confidence": 0.998218,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 30日",
+      "bbox": [
+        1146.0,
+        1061.0,
+        1291.0,
+        1105.0
+      ],
+      "confidence": 0.999045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 效用原则",
+      "bbox": [
+        203.0,
+        1076.0,
+        425.0,
+        1122.0
+      ],
+      "confidence": 0.998796,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 40日",
+      "bbox": [
+        1146.0,
+        1120.0,
+        1291.0,
+        1164.0
+      ],
+      "confidence": 0.996994,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "64. 医德修养的根本途径和方法是（",
+      "bbox": [
+        203.0,
+        1132.0,
+        854.0,
+        1181.0
+      ],
+      "confidence": 0.980683,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "）",
+      "bbox": [
+        936.0,
+        1140.0,
+        956.0,
+        1170.0
+      ],
+      "confidence": 0.454273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 自我批评",
+      "bbox": [
+        202.0,
+        1184.0,
+        434.0,
+        1234.0
+      ],
+      "confidence": 0.998665,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 45日",
+      "bbox": [
+        1145.0,
+        1177.0,
+        1291.0,
+        1221.0
+      ],
+      "confidence": 0.998907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "70. 直接作用于中枢神经系统，使之兴奋",
+      "bbox": [
+        1145.0,
+        1233.0,
+        1913.0,
+        1287.0
+      ],
+      "confidence": 0.990139,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 学习、立志",
+      "bbox": [
+        202.0,
+        1243.0,
+        445.0,
+        1289.0
+      ],
+      "confidence": 0.998521,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 患者监督",
+      "bbox": [
+        201.0,
+        1296.0,
+        425.0,
+        1346.0
+      ],
+      "confidence": 0.998431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "或抑制，连续使用能产生依赖性的药",
+      "bbox": [
+        1063.0,
+        1295.0,
+        1911.0,
+        1340.0
+      ],
+      "confidence": 0.998341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 躬行、慎独",
+      "bbox": [
+        201.0,
+        1354.0,
+        446.0,
+        1400.0
+      ],
+      "confidence": 0.994484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "品是（)",
+      "bbox": [
+        1060.0,
+        1347.0,
+        1286.0,
+        1399.0
+      ],
+      "confidence": 0.88977,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 医疗实践",
+      "bbox": [
+        201.0,
+        1410.0,
+        425.0,
+        1456.0
+      ],
+      "confidence": 0.999338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 毒性药品",
+      "bbox": [
+        1144.0,
+        1405.0,
+        1374.0,
+        1457.0
+      ],
+      "confidence": 0.997915,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "65. 关于人体实验的国际性著名文件",
+      "bbox": [
+        202.0,
+        1464.0,
+        977.0,
+        1516.0
+      ],
+      "confidence": 0.998565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 放射性药品",
+      "bbox": [
+        1145.0,
+        1464.0,
+        1408.0,
+        1515.0
+      ],
+      "confidence": 0.999349,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "是（",
+      "bbox": [
+        117.0,
+        1522.0,
+        194.0,
+        1573.0
+      ],
+      "confidence": 0.919957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        217.0,
+        1522.0,
+        297.0,
+        1568.0
+      ],
+      "confidence": 0.957425,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 解毒药品",
+      "bbox": [
+        1144.0,
+        1522.0,
+        1367.0,
+        1572.0
+      ],
+      "confidence": 0.999098,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 《夏威夷宣言》",
+      "bbox": [
+        203.0,
+        1578.0,
+        518.0,
+        1624.0
+      ],
+      "confidence": 0.962239,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 精神药品",
+      "bbox": [
+        1142.0,
+        1576.0,
+        1372.0,
+        1630.0
+      ],
+      "confidence": 0.999201,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 《赫尔辛基宣言》",
+      "bbox": [
+        201.0,
+        1634.0,
+        554.0,
+        1680.0
+      ],
+      "confidence": 0.992514,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 麻醉药品",
+      "bbox": [
+        1144.0,
+        1637.0,
+        1370.0,
+        1687.0
+      ],
+      "confidence": 0.99887,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 《希波克拉底誓言》",
+      "bbox": [
+        201.0,
+        1687.0,
+        598.0,
+        1736.0
+      ],
+      "confidence": 0.996679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "71. 因抢救急危患者，未能及时书写病历，",
+      "bbox": [
+        1145.0,
+        1697.0,
+        1913.0,
+        1745.0
+      ],
+      "confidence": 0.99208,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 《东京宣言》",
+      "bbox": [
+        200.0,
+        1743.0,
+        473.0,
+        1793.0
+      ],
+      "confidence": 0.994519,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "有关医务人员应当在抢救结束后据实补记时",
+      "bbox": [
+        1061.0,
+        1756.0,
+        1913.0,
+        1804.0
+      ],
+      "confidence": 0.99874,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 《悉尼宣言》",
+      "bbox": [
+        202.0,
+        1802.0,
+        470.0,
+        1848.0
+      ],
+      "confidence": 0.993683,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "限的法定要求为（",
+      "bbox": [
+        1060.0,
+        1810.0,
+        1394.0,
+        1863.0
+      ],
+      "confidence": 0.961817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "）",
+      "bbox": [
+        1462.0,
+        1818.0,
+        1493.0,
+        1856.0
+      ],
+      "confidence": 0.98756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "66. 下列不符合无伤原则的是（",
+      "bbox": [
+        205.0,
+        1858.0,
+        765.0,
+        1903.0
+      ],
+      "confidence": 0.987864,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "）",
+      "bbox": [
+        848.0,
+        1864.0,
+        867.0,
+        1895.0
+      ],
+      "confidence": 0.811695,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 2小时以内",
+      "bbox": [
+        1145.0,
+        1869.0,
+        1407.0,
+        1919.0
+      ],
+      "confidence": 0.992483,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 对症下药，合理配伍",
+      "bbox": [
+        205.0,
+        1913.0,
+        621.0,
+        1959.0
+      ],
+      "confidence": 0.994075,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 4小时以内",
+      "bbox": [
+        1145.0,
+        1929.0,
+        1400.0,
+        1975.0
+      ],
+      "confidence": 0.997065,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 避免操作失误造成医疗伤害",
+      "bbox": [
+        202.0,
+        1965.0,
+        768.0,
+        2016.0
+      ],
+      "confidence": 0.999274,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 6小时以内",
+      "bbox": [
+        1146.0,
+        1987.0,
+        1401.0,
+        2033.0
+      ],
+      "confidence": 0.995506,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 对孕妇行X线检查且未告知可能的",
+      "bbox": [
+        203.0,
+        2021.0,
+        977.0,
+        2074.0
+      ],
+      "confidence": 0.990563,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 8小时以内",
+      "bbox": [
+        1144.0,
+        2043.0,
+        1405.0,
+        2093.0
+      ],
+      "confidence": 0.996705,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "风险",
+      "bbox": [
+        118.0,
+        2074.0,
+        214.0,
+        2130.0
+      ],
+      "confidence": 0.999701,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 10小时以内",
+      "bbox": [
+        1145.0,
+        2103.0,
+        1422.0,
+        2149.0
+      ],
+      "confidence": 0.997974,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 适当限制约束精神病患者的自由",
+      "bbox": [
+        206.0,
+        2134.0,
+        854.0,
+        2178.0
+      ],
+      "confidence": 0.997591,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "72. 血清总胆红素、结合胆红素、非结合胆",
+      "bbox": [
+        1146.0,
+        2161.0,
+        1910.0,
+        2206.0
+      ],
+      "confidence": 0.997126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 选择受益最大伤害最小的治疗方案",
+      "bbox": [
+        207.0,
+        2189.0,
+        899.0,
+        2232.0
+      ],
+      "confidence": 0.998892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "红素均中度增加，可见于（",
+      "bbox": [
+        1063.0,
+        2219.0,
+        1540.0,
+        2266.0
+      ],
+      "confidence": 0.960388,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "）",
+      "bbox": [
+        1615.0,
+        2225.0,
+        1635.0,
+        2255.0
+      ],
+      "confidence": 0.488681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "67. 1976年美国学者提出的医患关系基本",
+      "bbox": [
+        206.0,
+        2243.0,
+        977.0,
+        2289.0
+      ],
+      "confidence": 0.999227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 蚕豆病",
+      "bbox": [
+        1145.0,
+        2273.0,
+        1335.0,
+        2325.0
+      ],
+      "confidence": 0.999389,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "模式是（)",
+      "bbox": [
+        121.0,
+        2298.0,
+        386.0,
+        2344.0
+      ],
+      "confidence": 0.884902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 胆石症",
+      "bbox": [
+        1145.0,
+        2333.0,
+        1327.0,
+        2381.0
+      ],
+      "confidence": 0.998824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 主动一被动型，互相一合作型，平等参与",
+      "bbox": [
+        210.0,
+        2355.0,
+        970.0,
+        2396.0
+      ],
+      "confidence": 0.984886,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 珠蛋白生成障碍性贫血",
+      "bbox": [
+        1146.0,
+        2392.0,
+        1620.0,
+        2437.0
+      ],
+      "confidence": 0.998509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "型",
+      "bbox": [
+        117.0,
+        2404.0,
+        169.0,
+        2466.0
+      ],
+      "confidence": 0.999292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 急性黄疸型肝炎",
+      "bbox": [
+        1146.0,
+        2449.0,
+        1496.0,
+        2494.0
+      ],
+      "confidence": 0.969379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 主动一合作型，相互一指导型，共同参与",
+      "bbox": [
+        207.0,
+        2465.0,
+        964.0,
+        2506.0
+      ],
+      "confidence": 0.987232,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "型",
+      "bbox": [
+        115.0,
+        2493.0,
+        172.0,
+        2630.0
+      ],
+      "confidence": 0.998679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 胰头癌",
+      "bbox": [
+        1145.0,
+        2504.0,
+        1327.0,
+        2551.0
+      ],
+      "confidence": 0.99337,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "）",
+      "bbox": [
+        1766.0,
+        2549.0,
+        1813.0,
+        2608.0
+      ],
+      "confidence": 0.897704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "C. 主动一配合型，指导一合作型，共同参与",
+      "bbox": [
+        208.0,
+        2574.0,
+        965.0,
+        2616.0
+      ],
+      "confidence": 0.987383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "73. 属于丙类传染病的病种是（",
+      "bbox": [
+        1146.0,
+        2563.0,
+        1698.0,
+        2606.0
+      ],
+      "confidence": 0.97928,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "A. 艾滋病",
+      "bbox": [
+        1148.0,
+        2619.0,
+        1330.0,
+        2667.0
+      ],
+      "confidence": 0.99904,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "D. 主动一被动型，指导一合作型，共同参与",
+      "bbox": [
+        207.0,
+        2683.0,
+        966.0,
+        2724.0
+      ],
+      "confidence": 0.97723,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "B. 肺结核",
+      "bbox": [
+        1145.0,
+        2677.0,
+        1323.0,
+        2723.0
+      ],
+      "confidence": 0.999227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "型",
+      "bbox": [
+        119.0,
+        2732.0,
+        168.0,
+        2786.0
+      ],
+      "confidence": 0.999546,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "C. 传染性非典型肺炎",
+      "bbox": [
+        1150.0,
+        2739.0,
+        1529.0,
+        2777.0
+      ],
+      "confidence": 0.997926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "17",
+      "bbox": [
+        992.0,
+        2802.0,
+        1056.0,
+        2846.0
+      ],
+      "confidence": 0.999427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        1055.0,
+        2809.0,
+        1111.0,
+        2841.0
+      ],
+      "confidence": 0.603993,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

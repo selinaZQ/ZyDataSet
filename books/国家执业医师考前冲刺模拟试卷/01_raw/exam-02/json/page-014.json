@@ -1,0 +1,1316 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 14,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        210.0,
+        88.0,
+        607.0,
+        129.0
+      ],
+      "confidence": 0.997331,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        644.0,
+        86.0,
+        885.0,
+        131.0
+      ],
+      "confidence": 0.999639,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 支气管炎",
+      "bbox": [
+        280.0,
+        200.0,
+        491.0,
+        246.0
+      ],
+      "confidence": 0.997548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 叩击含气量增多、弹性减退的肺组织时",
+      "bbox": [
+        1163.0,
+        201.0,
+        1883.0,
+        242.0
+      ],
+      "confidence": 0.995009,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "21. 属于感染性发热的是（",
+      "bbox": [
+        283.0,
+        261.0,
+        726.0,
+        302.0
+      ],
+      "confidence": 0.974088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "）",
+      "bbox": [
+        804.0,
+        263.0,
+        827.0,
+        300.0
+      ],
+      "confidence": 0.527287,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "出现",
+      "bbox": [
+        1077.0,
+        255.0,
+        1171.0,
+        311.0
+      ],
+      "confidence": 0.999763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 广泛性皮炎",
+      "bbox": [
+        281.0,
+        313.0,
+        537.0,
+        366.0
+      ],
+      "confidence": 0.997017,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 叩击不含气的实质性脏器时出现",
+      "bbox": [
+        1162.0,
+        320.0,
+        1774.0,
+        362.0
+      ],
+      "confidence": 0.998601,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 脊髓灰质炎",
+      "bbox": [
+        281.0,
+        375.0,
+        530.0,
+        422.0
+      ],
+      "confidence": 0.999273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 叩击各种原因所致含气减少的肺组织",
+      "bbox": [
+        1162.0,
+        380.0,
+        1884.0,
+        420.0
+      ],
+      "confidence": 0.979953,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 心肌梗死",
+      "bbox": [
+        280.0,
+        434.0,
+        492.0,
+        480.0
+      ],
+      "confidence": 0.997798,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "时出现",
+      "bbox": [
+        1077.0,
+        432.0,
+        1208.0,
+        485.0
+      ],
+      "confidence": 0.999715,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 中暑",
+      "bbox": [
+        279.0,
+        491.0,
+        414.0,
+        540.0
+      ],
+      "confidence": 0.995838,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "28. 我国高血压病最常见的死亡原因",
+      "bbox": [
+        1160.0,
+        493.0,
+        1887.0,
+        540.0
+      ],
+      "confidence": 0.995564,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 白血病",
+      "bbox": [
+        277.0,
+        548.0,
+        451.0,
+        600.0
+      ],
+      "confidence": 0.998831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "是（）",
+      "bbox": [
+        1074.0,
+        547.0,
+        1255.0,
+        603.0
+      ],
+      "confidence": 0.757193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "22. 十二指肠球部溃疡的直接X线征象",
+      "bbox": [
+        280.0,
+        610.0,
+        1003.0,
+        655.0
+      ],
+      "confidence": 0.992729,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 高血压危象",
+      "bbox": [
+        1162.0,
+        612.0,
+        1418.0,
+        658.0
+      ],
+      "confidence": 0.998565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "是（",
+      "bbox": [
+        200.0,
+        668.0,
+        274.0,
+        718.0
+      ],
+      "confidence": 0.893215,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "）",
+      "bbox": [
+        278.0,
+        665.0,
+        372.0,
+        715.0
+      ],
+      "confidence": 0.863115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 急性脑血管病",
+      "bbox": [
+        1160.0,
+        670.0,
+        1453.0,
+        715.0
+      ],
+      "confidence": 0.998854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 球部充盈缺损",
+      "bbox": [
+        280.0,
+        726.0,
+        574.0,
+        771.0
+      ],
+      "confidence": 0.997804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 尿毒症",
+      "bbox": [
+        1158.0,
+        725.0,
+        1335.0,
+        776.0
+      ],
+      "confidence": 0.998657,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 球部激惹征",
+      "bbox": [
+        278.0,
+        785.0,
+        527.0,
+        831.0
+      ],
+      "confidence": 0.997504,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 心力衰竭",
+      "bbox": [
+        1160.0,
+        786.0,
+        1377.0,
+        832.0
+      ],
+      "confidence": 0.997081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 球部影或变形",
+      "bbox": [
+        279.0,
+        843.0,
+        609.0,
+        889.0
+      ],
+      "confidence": 0.999073,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 缺血性心脏病",
+      "bbox": [
+        1160.0,
+        843.0,
+        1456.0,
+        888.0
+      ],
+      "confidence": 0.999105,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 幽门痉挛，开放延迟",
+      "bbox": [
+        276.0,
+        899.0,
+        670.0,
+        947.0
+      ],
+      "confidence": 0.994068,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "29. 下列疾病，蜘蛛痣有诊断意义的是",
+      "bbox": [
+        1161.0,
+        903.0,
+        1888.0,
+        948.0
+      ],
+      "confidence": 0.994418,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 黏膜皱襞粗乱",
+      "bbox": [
+        275.0,
+        959.0,
+        569.0,
+        1005.0
+      ],
+      "confidence": 0.991491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "（",
+      "bbox": [
+        1082.0,
+        964.0,
+        1106.0,
+        999.0
+      ],
+      "confidence": 0.618947,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "）",
+      "bbox": [
+        1163.0,
+        958.0,
+        1215.0,
+        1009.0
+      ],
+      "confidence": 0.96253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "23. 慢性阻塞性肺疾病（COPD）患者长期",
+      "bbox": [
+        277.0,
+        1017.0,
+        1001.0,
+        1062.0
+      ],
+      "confidence": 0.96432,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 肝硬化",
+      "bbox": [
+        1162.0,
+        1017.0,
+        1340.0,
+        1065.0
+      ],
+      "confidence": 0.999171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "家庭氧疗的氧流量是（",
+      "bbox": [
+        196.0,
+        1072.0,
+        610.0,
+        1121.0
+      ],
+      "confidence": 0.99582,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "）",
+      "bbox": [
+        649.0,
+        1078.0,
+        681.0,
+        1112.0
+      ],
+      "confidence": 0.994542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 麻疹",
+      "bbox": [
+        1156.0,
+        1072.0,
+        1295.0,
+        1129.0
+      ],
+      "confidence": 0.99962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 0.5～1L/min",
+      "bbox": [
+        273.0,
+        1130.0,
+        565.0,
+        1178.0
+      ],
+      "confidence": 0.983073,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 猩红热",
+      "bbox": [
+        1158.0,
+        1133.0,
+        1335.0,
+        1183.0
+      ],
+      "confidence": 0.994539,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 1～2L/min",
+      "bbox": [
+        270.0,
+        1190.0,
+        518.0,
+        1237.0
+      ],
+      "confidence": 0.965085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 伤寒",
+      "bbox": [
+        1157.0,
+        1190.0,
+        1299.0,
+        1243.0
+      ],
+      "confidence": 0.998127,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 1.5～2.5L/min",
+      "bbox": [
+        270.0,
+        1247.0,
+        599.0,
+        1295.0
+      ],
+      "confidence": 0.988831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 药物过敏",
+      "bbox": [
+        1160.0,
+        1251.0,
+        1377.0,
+        1298.0
+      ],
+      "confidence": 0.999528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 2～3L/min",
+      "bbox": [
+        272.0,
+        1310.0,
+        519.0,
+        1352.0
+      ],
+      "confidence": 0.987967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "30. 因有机磷中毒人院治疗，在治疗过程",
+      "bbox": [
+        1162.0,
+        1311.0,
+        1887.0,
+        1352.0
+      ],
+      "confidence": 0.982405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 3.5～4.5L/min",
+      "bbox": [
+        272.0,
+        1368.0,
+        598.0,
+        1410.0
+      ],
+      "confidence": 0.990326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "中出现阿托品中毒，应立即给予（",
+      "bbox": [
+        1083.0,
+        1366.0,
+        1659.0,
+        1412.0
+      ],
+      "confidence": 0.977747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "）",
+      "bbox": [
+        1724.0,
+        1372.0,
+        1749.0,
+        1402.0
+      ],
+      "confidence": 0.99423,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "24. 下列哪项不是肝火上炎证与肝阳上亢",
+      "bbox": [
+        273.0,
+        1427.0,
+        1000.0,
+        1468.0
+      ],
+      "confidence": 0.991997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 吸氧",
+      "bbox": [
+        1160.0,
+        1423.0,
+        1301.0,
+        1472.0
+      ],
+      "confidence": 0.999275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "证的共同症状（",
+      "bbox": [
+        192.0,
+        1481.0,
+        460.0,
+        1528.0
+      ],
+      "confidence": 0.962177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        534.0,
+        1486.0,
+        559.0,
+        1523.0
+      ],
+      "confidence": 0.961782,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 输液及毛果芸香碱",
+      "bbox": [
+        1158.0,
+        1480.0,
+        1536.0,
+        1529.0
+      ],
+      "confidence": 0.98617,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 失眠多梦",
+      "bbox": [
+        273.0,
+        1540.0,
+        490.0,
+        1587.0
+      ],
+      "confidence": 0.997256,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 毛花苷C",
+      "bbox": [
+        1158.0,
+        1538.0,
+        1379.0,
+        1587.0
+      ],
+      "confidence": 0.996089,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 急躁易怒",
+      "bbox": [
+        270.0,
+        1600.0,
+        484.0,
+        1646.0
+      ],
+      "confidence": 0.998821,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 哌甲酯",
+      "bbox": [
+        1158.0,
+        1596.0,
+        1338.0,
+        1644.0
+      ],
+      "confidence": 0.989973,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 头重脚轻",
+      "bbox": [
+        270.0,
+        1658.0,
+        485.0,
+        1704.0
+      ],
+      "confidence": 0.997643,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 呋塞米",
+      "bbox": [
+        1158.0,
+        1656.0,
+        1336.0,
+        1703.0
+      ],
+      "confidence": 0.988678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 面红目赤",
+      "bbox": [
+        270.0,
+        1715.0,
+        486.0,
+        1763.0
+      ],
+      "confidence": 0.999054,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "31. 使用糖皮质激素治疗SARS下列哪项",
+      "bbox": [
+        1161.0,
+        1714.0,
+        1887.0,
+        1759.0
+      ],
+      "confidence": 0.999276,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 头晕胀痛",
+      "bbox": [
+        268.0,
+        1769.0,
+        485.0,
+        1823.0
+      ],
+      "confidence": 0.998673,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "正确（）",
+      "bbox": [
+        1077.0,
+        1768.0,
+        1295.0,
+        1823.0
+      ],
+      "confidence": 0.824521,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "25. 精神性呼吸困难，可见于（",
+      "bbox": [
+        273.0,
+        1832.0,
+        783.0,
+        1877.0
+      ],
+      "confidence": 0.963507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "）",
+      "bbox": [
+        858.0,
+        1836.0,
+        882.0,
+        1871.0
+      ],
+      "confidence": 0.964396,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "A. X线胸片示大片阴影并在48小时之内",
+      "bbox": [
+        1163.0,
+        1831.0,
+        1887.0,
+        1873.0
+      ],
+      "confidence": 0.990042,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 急性脑血管疾病",
+      "bbox": [
+        273.0,
+        1891.0,
+        609.0,
+        1936.0
+      ],
+      "confidence": 0.998729,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "病灶面积增大50%且在正位胸片上病灶面",
+      "bbox": [
+        1080.0,
+        1888.0,
+        1889.0,
+        1935.0
+      ],
+      "confidence": 0.977356,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 癔症",
+      "bbox": [
+        268.0,
+        1946.0,
+        404.0,
+        1998.0
+      ],
+      "confidence": 0.912236,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "积占双肺总面积的1/4以上",
+      "bbox": [
+        1082.0,
+        1948.0,
+        1574.0,
+        1993.0
+      ],
+      "confidence": 0.998473,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 急性感染所致的毒血症",
+      "bbox": [
+        273.0,
+        2010.0,
+        724.0,
+        2052.0
+      ],
+      "confidence": 0.998706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 目的在于抑制异常的免疫病理反应，减",
+      "bbox": [
+        1161.0,
+        2005.0,
+        1888.0,
+        2050.0
+      ],
+      "confidence": 0.994898,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 慢性阻塞性肺气肿",
+      "bbox": [
+        272.0,
+        2066.0,
+        647.0,
+        2111.0
+      ],
+      "confidence": 0.994475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "轻局部炎症反应状态",
+      "bbox": [
+        1081.0,
+        2063.0,
+        1453.0,
+        2113.0
+      ],
+      "confidence": 0.998688,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 左心功能不全",
+      "bbox": [
+        272.0,
+        2125.0,
+        566.0,
+        2170.0
+      ],
+      "confidence": 0.999287,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 中毒症状重，持续发热，经对症治疗3",
+      "bbox": [
+        1163.0,
+        2122.0,
+        1892.0,
+        2167.0
+      ],
+      "confidence": 0.994335,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "26. 下列哪项说法是错误的（",
+      "bbox": [
+        274.0,
+        2183.0,
+        769.0,
+        2226.0
+      ],
+      "confidence": 0.994556,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "）",
+      "bbox": [
+        839.0,
+        2189.0,
+        860.0,
+        2219.0
+      ],
+      "confidence": 0.98848,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "天以上，体温仍超过38℃",
+      "bbox": [
+        1080.0,
+        2176.0,
+        1522.0,
+        2230.0
+      ],
+      "confidence": 0.976528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 正常人卧位时可见颈静脉充盈",
+      "bbox": [
+        275.0,
+        2243.0,
+        853.0,
+        2284.0
+      ],
+      "confidence": 0.998455,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 达到慢性肺损伤的诊断标准",
+      "bbox": [
+        1161.0,
+        2237.0,
+        1703.0,
+        2286.0
+      ],
+      "confidence": 0.998937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 正常人坐位时可见颈静脉充盈",
+      "bbox": [
+        274.0,
+        2300.0,
+        848.0,
+        2343.0
+      ],
+      "confidence": 0.999002,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 出现ARDS",
+      "bbox": [
+        1161.0,
+        2295.0,
+        1420.0,
+        2342.0
+      ],
+      "confidence": 0.994484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 右心衰竭时可见颈静脉充盈",
+      "bbox": [
+        274.0,
+        2359.0,
+        808.0,
+        2401.0
+      ],
+      "confidence": 0.996278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "32. 肝硬化腹壁静脉曲张时，其血管杂音",
+      "bbox": [
+        1161.0,
+        2353.0,
+        1889.0,
+        2404.0
+      ],
+      "confidence": 0.995022,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 上腔静脉回流受阻时可见颈静脉充盈",
+      "bbox": [
+        273.0,
+        2417.0,
+        971.0,
+        2460.0
+      ],
+      "confidence": 0.997534,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "常可被闻及的部位是（",
+      "bbox": [
+        1084.0,
+        2412.0,
+        1478.0,
+        2459.0
+      ],
+      "confidence": 0.967403,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "）",
+      "bbox": [
+        1547.0,
+        2418.0,
+        1574.0,
+        2453.0
+      ],
+      "confidence": 0.993855,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 心包大量积液时可见颈静脉充盈",
+      "bbox": [
+        274.0,
+        2476.0,
+        888.0,
+        2518.0
+      ],
+      "confidence": 0.997485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 上腹部",
+      "bbox": [
+        1161.0,
+        2468.0,
+        1342.0,
+        2521.0
+      ],
+      "confidence": 0.999006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "B. 下腹部",
+      "bbox": [
+        1158.0,
+        2524.0,
+        1338.0,
+        2579.0
+      ],
+      "confidence": 0.999222,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "27. 过清音见于（）",
+      "bbox": [
+        274.0,
+        2533.0,
+        672.0,
+        2577.0
+      ],
+      "confidence": 0.928766,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "C. 右侧腹部",
+      "bbox": [
+        1159.0,
+        2583.0,
+        1377.0,
+        2637.0
+      ],
+      "confidence": 0.996111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "A. 叩击富有弹性、含气量正常的肺组织所",
+      "bbox": [
+        274.0,
+        2591.0,
+        1001.0,
+        2634.0
+      ],
+      "confidence": 0.996669,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "D. 左侧腹部",
+      "bbox": [
+        1158.0,
+        2641.0,
+        1378.0,
+        2694.0
+      ],
+      "confidence": 0.997783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "产生的音响",
+      "bbox": [
+        192.0,
+        2651.0,
+        400.0,
+        2697.0
+      ],
+      "confidence": 0.99967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "E. 右肋缘下",
+      "bbox": [
+        1157.0,
+        2700.0,
+        1377.0,
+        2752.0
+      ],
+      "confidence": 0.998118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "B. 叩击含有大量气体的空腔脏器时出现",
+      "bbox": [
+        272.0,
+        2708.0,
+        970.0,
+        2754.0
+      ],
+      "confidence": 0.997062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "60",
+      "bbox": [
+        1017.0,
+        2775.0,
+        1070.0,
+        2818.0
+      ],
+      "confidence": 0.99977,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

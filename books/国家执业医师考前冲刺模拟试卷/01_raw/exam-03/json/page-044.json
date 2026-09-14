@@ -1,0 +1,1246 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 44,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        64.8,
+        58.15,
+        265.01,
+        69.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "出汗，五心烦热，头晕耳鸣，腰酸乏力，舌红苔",
+      "bbox": [
+        63.7,
+        88.83,
+        304.24,
+        99.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "面光滑的扁平丘疹，如针头到米粒大，呈淡褐",
+      "bbox": [
+        325.92,
+        88.89,
+        564.424,
+        100.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "薄，脉细数。治疗应首选（）",
+      "bbox": [
+        62.65,
+        104.51,
+        223.333,
+        116.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "色，偶有瘙痒感，其诊断是（）",
+      "bbox": [
+        325.83,
+        104.92,
+        496.663,
+        115.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 左归丸合二至丸",
+      "bbox": [
+        86.5,
+        120.18,
+        184.932,
+        132.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 传染性软疣",
+      "bbox": [
+        349.99,
+        120.18,
+        424.567,
+        132.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 内补丸",
+      "bbox": [
+        86.19,
+        136.16,
+        134.907,
+        148.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 寻常疣",
+      "bbox": [
+        349.85,
+        136.25,
+        398.406,
+        148.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 肾气丸",
+      "bbox": [
+        86.29,
+        151.22,
+        134.683,
+        163.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 掌跖疣",
+      "bbox": [
+        349.94,
+        151.21,
+        398.937,
+        163.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 两地汤合二至丸",
+      "bbox": [
+        86.2,
+        167.2,
+        184.087,
+        179.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 丝状疣",
+      "bbox": [
+        349.93,
+        167.33,
+        399.489,
+        179.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 二仙汤合二至丸",
+      "bbox": [
+        86.17,
+        183.36,
+        183.575,
+        195.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 扁平疣",
+      "bbox": [
+        350.06,
+        183.28,
+        398.874,
+        195.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "90. 患者，男，43岁。左大腿内侧发现肿物",
+      "bbox": [
+        86.12,
+        198.51,
+        300.955,
+        210.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "95. 患者，男，73岁。左下肢内臁疮，面积",
+      "bbox": [
+        349.83,
+        197.92,
+        567.35,
+        209.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "10年，不疼痛，活动正常。检查：局部皮下可及",
+      "bbox": [
+        63.19,
+        213.95,
+        303.45,
+        225.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "5cm×5cm，现疮面仍有少许腐肉。外治应",
+      "bbox": [
+        326.18,
+        213.8,
+        565.226,
+        224.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "1个15cm×10cm×5cm大小的肿物,质地软",
+      "bbox": [
+        63.22,
+        229.87,
+        293.658,
+        241.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": ",首选（）",
+      "bbox": [
+        297.815,
+        229.9,
+        384.423,
+        241.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "表面光滑，无压痛及缩小，推之可移。应首选",
+      "bbox": [
+        62.34,
+        245.83,
+        302.051,
+        257.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 红油膏、九一丹",
+      "bbox": [
+        350.02,
+        245.06,
+        442.394,
+        257.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "的治疗措施是（）",
+      "bbox": [
+        63.39,
+        261.26,
+        169.256,
+        272.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 白玉膏、生肌散",
+      "bbox": [
+        349.92,
+        261.13,
+        440.931,
+        273.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 内治法",
+      "bbox": [
+        86.42,
+        277.81,
+        136.704,
+        290.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 金黄膏、九一丹",
+      "bbox": [
+        349.82,
+        277.25,
+        440.915,
+        289.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 外治法",
+      "bbox": [
+        86.66,
+        292.32,
+        134.841,
+        304.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 金黄膏掺桃花散",
+      "bbox": [
+        349.98,
+        292.2,
+        447.492,
+        304.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 手术法",
+      "bbox": [
+        86.4,
+        308.29,
+        135.522,
+        320.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 青黛膏、九一丹",
+      "bbox": [
+        349.87,
+        307.95,
+        441.209,
+        320.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 针刺法",
+      "bbox": [
+        86.42,
+        324.46,
+        135.962,
+        336.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "96. 患者，女，30岁。已婚3年不孕，月经",
+      "bbox": [
+        349.83,
+        323.79,
+        565.376,
+        335.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 神灯照",
+      "bbox": [
+        86.8,
+        339.23,
+        135.29,
+        351.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "2～3个月一行，头晕耳鸣，腰酸腿软，畏寒肢",
+      "bbox": [
+        325.88,
+        338.83,
+        565.736,
+        350.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "91. 患者,女,25岁,右乳肿块2年,初起肿",
+      "bbox": [
+        86.48,
+        354.83,
+        301.22,
+        366.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "冷，性欲淡漠，舌淡苔白，脉沉细而迟。治疗应",
+      "bbox": [
+        325.8,
+        353.73,
+        565.143,
+        365.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "块如花生粒大小，逐渐增大，近期伴乳房坠胀",
+      "bbox": [
+        61.87,
+        369.78,
+        301.967,
+        381.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "首选（）",
+      "bbox": [
+        325.86,
+        369.93,
+        384.596,
+        380.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "疼痛，胸闷叹息，烦躁易怒，月经不调，查右乳",
+      "bbox": [
+        62.19,
+        385.74,
+        302.32,
+        397.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 大补元煎",
+      "bbox": [
+        349.8,
+        386.18,
+        411.598,
+        398.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "外侧肿块呈圆形，直径约4cm，质韧硬，表面光",
+      "bbox": [
+        62.13,
+        400.83,
+        304.219,
+        412.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 固阴煎",
+      "bbox": [
+        350.06,
+        401.26,
+        398.068,
+        413.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "滑，推之活动，无压痛，乳头及腋下未见异常。",
+      "bbox": [
+        62.77,
+        416.8,
+        300.98,
+        428.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 补肾固冲丸",
+      "bbox": [
+        349.97,
+        417.2,
+        422.629,
+        429.416
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "苔薄，脉弦滑，其中，诊断及方药应为（）",
+      "bbox": [
+        62.67,
+        432.86,
+        284.533,
+        444.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 毓麟珠",
+      "bbox": [
+        349.92,
+        433.29,
+        399.089,
+        445.717
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 乳癖，逍遥蒌贝散加减",
+      "bbox": [
+        86.59,
+        448.1,
+        216.296,
+        460.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 温胞饮",
+      "bbox": [
+        350.12,
+        448.82,
+        398.556,
+        461.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "B. 乳漏，六味地黄汤合清骨汤加减",
+      "bbox": [
+        86.68,
+        462.91,
+        261.934,
+        475.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "97. 某患者，屡孕屡堕，腰膝酸软，甚则腰痛",
+      "bbox": [
+        349.82,
+        462.86,
+        567.15,
+        474.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "C. 粉刺性乳痈，柴胡清肝汤加减",
+      "bbox": [
+        86.73,
+        478.87,
+        250.443,
+        491.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "如折，头晕耳鸣，畏寒肢冷，小便清长，大便溏薄。",
+      "bbox": [
+        326.32,
+        478.85,
+        583.67,
+        490.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "D. 乳痨，开郁散合消疬丸加减",
+      "bbox": [
+        86.69,
+        495.03,
+        238.722,
+        507.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "舌淡苔薄而润，脉沉迟。治疗选方（）",
+      "bbox": [
+        325.85,
+        494.19,
+        529.653,
+        505.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "E. 乳核，逍遥散合桃红四物汤加减",
+      "bbox": [
+        86.76,
+        509.81,
+        262.43,
+        522.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 肾气丸合寿胎丸",
+      "bbox": [
+        349.9,
+        510.27,
+        448.208,
+        522.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "92. 患者，女，36岁。两大腿内侧患有钱币",
+      "bbox": [
+        86.74,
+        525.69,
+        300.496,
+        537.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 补肾固冲丸",
+      "bbox": [
+        349.9,
+        526.19,
+        422.678,
+        538.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "形红斑2枚，自觉瘙痒。边界清楚，中央有自愈",
+      "bbox": [
+        62.56,
+        540.83,
+        301.859,
+        552.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 安奠二天汤",
+      "bbox": [
+        350.07,
+        541.17,
+        422.291,
+        553.367
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "趋向，多在夏季加重，其诊断是（）",
+      "bbox": [
+        62.45,
+        556.92,
+        254.276,
+        568.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 毓麟珠",
+      "bbox": [
+        350.11,
+        557.29,
+        398.981,
+        569.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 紫白癜风",
+      "bbox": [
+        86.84,
+        572.19,
+        149.12,
+        584.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 泰山磐石散",
+      "bbox": [
+        350.36,
+        572.58,
+        423.222,
+        584.52
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 圆癣",
+      "bbox": [
+        86.81,
+        588.28,
+        123.179,
+        600.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "98. 患者,女,22岁,未婚。月经2～3月一",
+      "bbox": [
+        349.88,
+        587.68,
+        565.358,
+        599.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 多形性红斑",
+      "bbox": [
+        86.73,
+        604.59,
+        159.729,
+        616.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "行，量少色淡，质清稀，时有小腹冷痛，喜热喜",
+      "bbox": [
+        325.83,
+        603.58,
+        568.31,
+        615.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 牛皮癣",
+      "bbox": [
+        86.78,
+        620.28,
+        136.59,
+        632.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "按。伴有面色少华，小便清长。便溏，腰酸乏",
+      "bbox": [
+        325.78,
+        619.75,
+        566.2,
+        630.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 肥疮",
+      "bbox": [
+        86.89,
+        636.28,
+        123.058,
+        648.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "力，四肢欠温。舌淡，苔薄白，脉沉迟无力。治",
+      "bbox": [
+        326.0,
+        634.41,
+        566.4,
+        646.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "93. 某男，左足怕冷、疼痛、间歇性跛行1年",
+      "bbox": [
+        86.74,
+        650.81,
+        301.6,
+        662.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "疗应首选（）",
+      "bbox": [
+        325.52,
+        650.75,
+        408.766,
+        661.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "余。1个多月来足痛转为持续性静止痛，夜间",
+      "bbox": [
+        62.53,
+        666.81,
+        300.486,
+        678.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 八珍益母丸",
+      "bbox": [
+        350.08,
+        667.19,
+        424.579,
+        679.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "痛剧，不能入睡，足背动脉搏动消失。应诊断",
+      "bbox": [
+        62.53,
+        681.73,
+        301.565,
+        692.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 十全大补丸",
+      "bbox": [
+        350.05,
+        683.17,
+        422.75,
+        695.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "为（）",
+      "bbox": [
+        63.57,
+        697.88,
+        109.573,
+        709.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 艾附暖宫丸",
+      "bbox": [
+        350.3,
+        698.01,
+        423.354,
+        710.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 痹证",
+      "bbox": [
+        86.98,
+        713.23,
+        124.94,
+        725.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 大补元煎",
+      "bbox": [
+        350.0,
+        714.08,
+        411.012,
+        726.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 脱疽",
+      "bbox": [
+        86.84,
+        729.15,
+        123.324,
+        741.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 肾气丸",
+      "bbox": [
+        350.1,
+        730.16,
+        399.26,
+        742.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 糖尿病坏疽",
+      "bbox": [
+        86.9,
+        745.15,
+        159.259,
+        757.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "99. 患者，女，29岁，已婚。近半年来月经",
+      "bbox": [
+        350.06,
+        745.52,
+        565.897,
+        757.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 闭塞性动脉硬化症",
+      "bbox": [
+        86.86,
+        760.11,
+        195.962,
+        772.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "后期量少现已停经4个月，伴五心烦热，潮热颧",
+      "bbox": [
+        326.13,
+        760.35,
+        567.88,
+        771.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 雷诺病（肢端动脉痉挛症）",
+      "bbox": [
+        86.95,
+        775.77,
+        231.188,
+        788.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "红，舌红少苔，脉细数。尿妊娠试验阴性，其治",
+      "bbox": [
+        325.91,
+        775.07,
+        568.97,
+        786.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "94. 患者,女,21岁。手背部有5～6枚表",
+      "bbox": [
+        87.19,
+        790.429,
+        302.18,
+        802.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "法是（）",
+      "bbox": [
+        326.02,
+        791.789,
+        384.516,
+        802.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "—",
+      "bbox": [
+        283.93,
+        811.752,
+        293.72,
+        821.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "138—",
+      "bbox": [
+        303.68,
+        811.781,
+        342.89,
+        822.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

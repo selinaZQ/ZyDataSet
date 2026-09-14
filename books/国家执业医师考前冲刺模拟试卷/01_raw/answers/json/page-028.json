@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 28,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        62.31,
+        45.186,
+        261.994,
+        55.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "养肺胃之阴，又清肺胃虚热。人参益气生津为臣。佐",
+      "bbox": [
+        60.04,
+        73.982,
+        299.425,
+        83.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "小儿，惊风或欲作惊风时，风动致脉络拘急失养，故多",
+      "bbox": [
+        319.77,
+        73.342,
+        559.233,
+        83.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "以甘草、粳米、大枣益气养胃，合人参益胃生津，胃津充",
+      "bbox": [
+        60.52,
+        87.932,
+        305.27,
+        97.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "在眉间、鼻柱、口唇四周出现青色。而ABCE项均不能",
+      "bbox": [
+        319.75,
+        86.952,
+        559.272,
+        96.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "足，自能上归于肺，此正“培土生金”之法。肺胃阴虚，",
+      "bbox": [
+        59.56,
+        101.822,
+        304.31,
+        111.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "引起动风，故排除。",
+      "bbox": [
+        320.39,
+        101.602,
+        408.41,
+        111.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "虚火上炎，不仅气机逆上，而且进一步灼津为涎，故又",
+      "bbox": [
+        59.44,
+        115.822,
+        299.334,
+        125.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "78. B【解析】A项表现为汗热味咸而黏，如珠如",
+      "bbox": [
+        340.62,
+        115.242,
+        559.089,
+        125.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "佐以半夏降逆下气，化其痰涎，虽属温燥之品，但用量",
+      "bbox": [
+        59.25,
+        129.722,
+        299.409,
+        139.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "油，身体灼热、恶热，虚烦躁扰或昏谵，口渴欲饮，皮肤",
+      "bbox": [
+        320.2,
+        129.532,
+        564.95,
+        139.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "很轻，与大剂麦门冬配伍，则其燥性减而降逆之用存，",
+      "bbox": [
+        59.22,
+        144.072,
+        298.683,
+        153.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "皱瘪，小便极少或无尿，面赤唇焦，舌红干瘦，脉细数疾",
+      "bbox": [
+        320.1,
+        143.792,
+        564.6,
+        153.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "且能开胃行津以润肺，又使麦门冬滋而不腻，相反相",
+      "bbox": [
+        59.02,
+        158.202,
+        299.236,
+        167.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "等。B项表现为冷汗淋漓、汗质稀淡，神情淡漠或呆滞，",
+      "bbox": [
+        320.17,
+        157.772,
+        559.984,
+        167.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "成。甘草并能润肺利咽，调和诸药，兼作使药。",
+      "bbox": [
+        59.13,
+        172.482,
+        264.72,
+        182.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "肌肤不温，肢冷畏寒，呼吸气微，面色（cid:0）白，舌淡而润，",
+      "bbox": [
+        319.97,
+        172.752,
+        564.22,
+        182.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "70. E【解析】三仁汤的功用清利湿热、宣畅气机。",
+      "bbox": [
+        79.77,
+        186.732,
+        300.01,
+        196.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "脉微欲绝。C项表现为经常畏冷，四肢不温，嗜睡蜷",
+      "bbox": [
+        319.91,
+        186.962,
+        559.09,
+        196.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "主治湿温初起，头痛恶寒，面色淡黄，身重疼痛，午后身",
+      "bbox": [
+        59.34,
+        201.572,
+        304.09,
+        211.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "卧，面色（cid:0）白，口淡不渴，或渴喜热饮，或口泛清涎，小",
+      "bbox": [
+        320.53,
+        201.802,
+        565.28,
+        211.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "热，胸闷不饥等症。用于治疗急性肾小球肾炎，肾盂肾",
+      "bbox": [
+        58.97,
+        215.932,
+        299.334,
+        225.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "便清长，大便溏薄或完谷不化，舌淡胖，苔白滑，脉沉迟",
+      "bbox": [
+        320.11,
+        216.512,
+        564.86,
+        226.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "炎，急性卡他性中耳炎，妊娠呕吐，伤寒百日咳等症。",
+      "bbox": [
+        58.93,
+        230.142,
+        293.65,
+        239.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "或细弱等。D项表现为五心烦热，或骨蒸潮热，颧红盗",
+      "bbox": [
+        320.13,
+        230.282,
+        559.212,
+        240.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "71. D【解析】实脾散温阳健脾，行气利水。主治",
+      "bbox": [
+        79.41,
+        244.442,
+        299.601,
+        254.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "汗，口燥咽干，心烦失眠，形体消瘦，或眩晕耳鸣，小便",
+      "bbox": [
+        320.36,
+        245.282,
+        564.61,
+        255.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "脾肾阳虚，水气内停之阴水。身半以下肿甚，手足不",
+      "bbox": [
+        58.68,
+        258.942,
+        299.573,
+        268.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "短黄，大便干结，舌红少苔少津，脉细数。",
+      "bbox": [
+        320.26,
+        259.912,
+        506.27,
+        269.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "温，口中不渴，胸腹胀满，大便溏薄，舌苔白腻，脉沉弦",
+      "bbox": [
+        58.77,
+        273.612,
+        303.27,
+        283.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "79. C【解析】暑淫证候临床表现为发热恶热，汗",
+      "bbox": [
+        340.96,
+        273.892,
+        559.156,
+        283.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "而迟者。",
+      "bbox": [
+        58.85,
+        287.822,
+        98.05,
+        297.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "多头昏，烦渴喜冷饮，神疲气短，肢倦乏力，胸闷懒言，",
+      "bbox": [
+        320.55,
+        288.532,
+        565.3,
+        298.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "72. A【解析】固冲汤功用：固冲摄血，益气健脾。",
+      "bbox": [
+        79.41,
+        302.242,
+        304.33,
+        312.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "食少呕恶，小便短黄灼热，舌红苔黄少津，脉虚数。或",
+      "bbox": [
+        320.16,
+        302.862,
+        558.948,
+        312.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "主治脾肾亏虚，冲脉不固证。",
+      "bbox": [
+        58.71,
+        316.972,
+        186.11,
+        326.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "壮热昏仆，神昏谵语，面红气粗，头痛项强，四肢抽搐，",
+      "bbox": [
+        320.36,
+        317.272,
+        565.11,
+        327.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "73. A【解析】A项指先全身恶寒，战栗，接着大汗",
+      "bbox": [
+        79.32,
+        331.432,
+        300.014,
+        341.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "舌绛干燥，脉细滑数。",
+      "bbox": [
+        320.38,
+        332.182,
+        418.28,
+        341.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "出，若汗出热退，脉静身凉，是邪去正复之佳兆，主疾病",
+      "bbox": [
+        59.4,
+        345.922,
+        303.9,
+        355.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "80. E【解析】备选答案中心悸、手麻是血虚心失",
+      "bbox": [
+        340.98,
+        346.462,
+        558.675,
+        356.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "向愈；若汗出而身热不减，仍烦躁不安，脉来疾急，为邪",
+      "bbox": [
+        59.29,
+        360.482,
+        304.04,
+        370.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "所养、经络失于濡养的表现。血虚证见脉细无力，血瘀",
+      "bbox": [
+        320.58,
+        361.062,
+        558.899,
+        370.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "胜正衰之危候，主病情恶化。B项由于阳气亏虚，不能",
+      "bbox": [
+        58.39,
+        374.992,
+        300.164,
+        384.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "证见脉涩。血虚证、血瘀证均可见闭经，血虚闭经因经",
+      "bbox": [
+        320.57,
+        375.492,
+        558.889,
+        385.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "实卫固表，腠理疏松，津液外泄，故见自汗。C项是因",
+      "bbox": [
+        58.38,
+        389.392,
+        299.439,
+        399.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "血乏源所致；而瘀血不去，新血不生，故血瘀证亦可见",
+      "bbox": [
+        320.73,
+        389.942,
+        558.617,
+        399.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "入睡之时，卫气入里，腠理不固，加上阴虚所生之虚热",
+      "bbox": [
+        58.34,
+        403.862,
+        300.077,
+        413.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "闭经。",
+      "bbox": [
+        321.04,
+        404.592,
+        350.44,
+        414.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "蒸津外泄，故睡时汗出；醒后卫气复归于表，腠理固密，",
+      "bbox": [
+        58.38,
+        418.242,
+        303.13,
+        428.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "81. C【解析】大肠液亏证的临床表现为大便秘结",
+      "bbox": [
+        341.03,
+        418.912,
+        558.571,
+        428.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "虽阴虚内热，也不能蒸津外出，故醒后汗止。D项为亡",
+      "bbox": [
+        58.22,
+        432.742,
+        300.248,
+        442.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "干燥，难以排出，常数日一行，口干咽燥，或伴见口臭，",
+      "bbox": [
+        320.81,
+        433.622,
+        565.31,
+        443.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "阳之汗，表现为大汗淋漓，汗出如珠，冷汗清稀，兼见面",
+      "bbox": [
+        59.09,
+        447.452,
+        304.09,
+        457.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "头晕等症，舌红少津，脉细涩。本证以大便干燥难于排",
+      "bbox": [
+        320.84,
+        447.982,
+        558.727,
+        457.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "色苍白，四肢厥冷，脉微欲绝等。E项热汗，即阳汗。",
+      "bbox": [
+        58.38,
+        461.852,
+        288.66,
+        471.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "出为辨证要点。",
+      "bbox": [
+        321.51,
+        462.572,
+        389.9,
+        472.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "74. E【解析】口渴多饮指口渴而饮水较多，是体",
+      "bbox": [
+        79.06,
+        476.202,
+        300.303,
+        485.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "82. A【解析】燥邪犯肺证的临床表现为干咳无",
+      "bbox": [
+        341.15,
+        476.683,
+        558.621,
+        486.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "内津液损伤的基本表现之一，多见于燥证、热证。比如",
+      "bbox": [
+        58.88,
+        490.912,
+        299.898,
+        500.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "痰，或痰少而黏，不易咳出。唇、舌、咽、鼻干燥欠润，轻",
+      "bbox": [
+        320.9,
+        491.562,
+        574.66,
+        501.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "外感热病、里热炽盛及消渴病等。A项为热病伤津。",
+      "bbox": [
+        57.73,
+        505.122,
+        299.844,
+        514.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "微发热恶寒，头身酸痛，舌尖红苔薄而干，脉浮细。肺",
+      "bbox": [
+        320.7,
+        506.022,
+        558.794,
+        515.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "BCD项均可造成津液内伤，而口渴多饮。E项并不耗",
+      "bbox": [
+        58.04,
+        519.992,
+        300.248,
+        529.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "阴虚证的临床表现为咳喘无力，气少不足以息，动则益",
+      "bbox": [
+        321.49,
+        520.522,
+        558.667,
+        530.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "津液，故口不渴。",
+      "bbox": [
+        57.86,
+        535.042,
+        136.18,
+        544.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "甚，体倦懒言，声音低怯，痰多清稀，面色（cid:0）白，或自汗",
+      "bbox": [
+        320.85,
+        536.112,
+        565.1,
+        545.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "75. B【解析】A项是指咳声阵发，发则连声不绝，",
+      "bbox": [
+        78.84,
+        549.022,
+        299.618,
+        559.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "畏风，易于感冒，舌淡苔白，脉虚弱。二者的区别为燥",
+      "bbox": [
+        320.86,
+        550.152,
+        558.486,
+        559.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "咳声终止时声如鸡啼，因其病程较长，缠绵难愈，所以",
+      "bbox": [
+        58.46,
+        563.882,
+        299.725,
+        573.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "邪犯肺为燥邪袭表，肺卫失宣，而见轻微发热恶寒。肺",
+      "bbox": [
+        320.79,
+        565.042,
+        558.659,
+        574.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "称为百日咳。B项为咳声如犬吠，伴声音嘶哑，吸气困",
+      "bbox": [
+        57.91,
+        578.582,
+        299.662,
+        588.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "阴虚为肺阴亏损，虚热内生，以干咳无痰或痰少而黏与",
+      "bbox": [
+        321.49,
+        579.572,
+        558.217,
+        589.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "难，故选B。C项是以鼻塞、流涕、喷嚏、头痛、恶寒、发",
+      "bbox": [
+        57.81,
+        593.132,
+        306.173,
+        602.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "阴虚见症为辨证要点。",
+      "bbox": [
+        321.37,
+        594.342,
+        419.07,
+        604.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "热、全身不适等为主要临床表现的外感疾病，虽有咳",
+      "bbox": [
+        57.97,
+        607.762,
+        299.94,
+        617.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "83. B【解析】干呕呃逆为阴虚热扰，胃气上逆。",
+      "bbox": [
+        341.34,
+        608.172,
+        558.076,
+        618.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "嗽，但并没有特异性。D项是指体质虚弱，气血不足，",
+      "bbox": [
+        58.19,
+        622.602,
+        299.318,
+        632.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "胃脘嘈杂为胃阴不足，则胃阳偏亢，虚热内生，热郁胃",
+      "bbox": [
+        322.02,
+        623.562,
+        557.64,
+        633.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "感染痨虫，侵蚀肺脏所致的具有传染性的慢性虚弱性",
+      "bbox": [
+        57.77,
+        637.552,
+        299.771,
+        647.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "中，胃气不和。口燥咽干为胃阴亏虚，上不能滋润咽",
+      "bbox": [
+        321.51,
+        638.012,
+        558.311,
+        647.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "疾病，临床主要以咳嗽、咯血、潮热、盗汗及身体逐渐消",
+      "bbox": [
+        57.93,
+        652.172,
+        302.93,
+        661.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "喉。舌红少苔是阴虚内热的征象。",
+      "bbox": [
+        320.9,
+        652.794,
+        469.675,
+        662.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "瘦等为其特征。E项是由于肺叶痿弱不用，临床以咳",
+      "bbox": [
+        57.86,
+        666.772,
+        299.724,
+        676.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "84. A【解析】桂枝汤主治外感风寒表虚证。全方",
+      "bbox": [
+        341.38,
+        667.556,
+        558.595,
+        677.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "吐浊唾涎沫为主症。",
+      "bbox": [
+        58.24,
+        681.802,
+        146.44,
+        691.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "发中有补，散中有收，邪正兼顾，祛邪扶正，阴阳并调。",
+      "bbox": [
+        320.66,
+        682.455,
+        558.41,
+        691.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "76. D【解析】某些疾病在病情的危重阶段，可出",
+      "bbox": [
+        78.72,
+        695.852,
+        298.948,
+        706.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "方中桂枝与芍药用量相等，是本方外可解肌发表，内可",
+      "bbox": [
+        320.73,
+        696.785,
+        558.406,
+        706.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "现一些与疾病本质相反的“假象”，掩盖着病情的真象。",
+      "bbox": [
+        57.91,
+        711.002,
+        302.91,
+        720.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "调和营卫、调和阴阳的基本结构。",
+      "bbox": [
+        320.58,
+        711.435,
+        465.227,
+        720.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "所谓“真”，是指与疾病内在本质相符的证候；所谓”",
+      "bbox": [
+        57.69,
+        725.572,
+        300.125,
+        735.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "85. D【解析】肝气犯胃者，肝郁化火，横逆犯胃，",
+      "bbox": [
+        341.41,
+        726.205,
+        558.42,
+        735.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "假”，是指疾病表现出某些不符合常规认识的假象，即",
+      "bbox": [
+        57.78,
+        740.382,
+        299.27,
+        750.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "肝胃气机不畅，则胃脘胁肋胀闷疼痛；气郁化火，胃失",
+      "bbox": [
+        320.61,
+        740.865,
+        558.661,
+        750.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "与病理本质所反映的常规证候不相应的某些表现。",
+      "bbox": [
+        58.11,
+        754.982,
+        280.316,
+        764.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "和降，则嗳气吞酸，呃逆呕吐；肝失条达，心神不宁，则",
+      "bbox": [
+        320.79,
+        755.705,
+        558.54,
+        765.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "77. D【解析】面色青主病。面部青紫，尤以鼻柱、",
+      "bbox": [
+        78.88,
+        769.432,
+        299.53,
+        779.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "烦躁易怒；舌红苔薄黄，脉弦为肝气郁而化火之象。",
+      "bbox": [
+        320.59,
+        770.115,
+        542.296,
+        779.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "两眉间及口唇四周为甚，是动风的特点之一。高热的",
+      "bbox": [
+        57.96,
+        783.962,
+        299.314,
+        793.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "86. E【解析】血燥生风是指血虚津亏，失润化燥，",
+      "bbox": [
+        341.49,
+        784.326,
+        558.183,
+        793.995
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        279.79,
+        802.282,
+        289.28,
+        811.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "218",
+      "bbox": [
+        301.06,
+        802.786,
+        315.786,
+        812.226
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

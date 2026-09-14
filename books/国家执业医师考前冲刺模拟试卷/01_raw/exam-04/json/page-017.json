@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 17,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        416.93,
+        48.906,
+        533.239,
+        60.036
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "对医生让其脱掉上衣不解，甚至认为医生这样",
+      "bbox": [
+        49.93,
+        79.568,
+        285.205,
+        90.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 医务人员对患者的呼叫或提问置之",
+      "bbox": [
+        333.57,
+        79.138,
+        546.784,
+        90.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "做是非常无礼的，有的甚至因此发生纠纷。此",
+      "bbox": [
+        50.09,
+        95.378,
+        285.575,
+        106.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "不理",
+      "bbox": [
+        310.17,
+        96.406,
+        332.64,
+        107.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "案例说明的核心伦理学问题是（）",
+      "bbox": [
+        49.95,
+        111.498,
+        237.916,
+        122.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 医务人员为治疗疾病适当地限制或约",
+      "bbox": [
+        334.13,
+        111.728,
+        546.437,
+        122.928
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 患者的思想太封建了",
+      "bbox": [
+        73.07,
+        127.218,
+        193.286,
+        138.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "束患者的自由",
+      "bbox": [
+        310.11,
+        128.798,
+        379.102,
+        139.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 医生没有任何可指责之处",
+      "bbox": [
+        72.96,
+        143.758,
+        215.984,
+        154.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "61. 人体实验的道德要求不包括（）",
+      "bbox": [
+        334.26,
+        144.578,
+        528.993,
+        155.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 应有女护士在旁陪伴",
+      "bbox": [
+        72.81,
+        160.008,
+        192.431,
+        171.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 必须服从医学目的",
+      "bbox": [
+        334.1,
+        160.888,
+        442.471,
+        172.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 医院应该在X光检查室门口出示须知",
+      "bbox": [
+        72.82,
+        176.348,
+        278.434,
+        187.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 必须取得受试者的知情同意",
+      "bbox": [
+        333.99,
+        177.418,
+        488.774,
+        188.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 医生没有完全尽到让患者知情同意的义务",
+      "bbox": [
+        72.8,
+        192.838,
+        285.297,
+        204.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 必须维护受试者的利益",
+      "bbox": [
+        334.03,
+        193.898,
+        465.423,
+        205.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "55. 容易闻及二尖瓣杂音的体位是（）",
+      "bbox": [
+        72.83,
+        208.818,
+        279.69,
+        220.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 坚持实验对照的原则",
+      "bbox": [
+        333.92,
+        210.348,
+        453.933,
+        221.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 坐位",
+      "bbox": [
+        72.86,
+        225.078,
+        110.066,
+        236.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 把医学研究放在第一位",
+      "bbox": [
+        333.96,
+        226.968,
+        465.733,
+        238.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 立位",
+      "bbox": [
+        72.69,
+        241.668,
+        108.181,
+        252.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "62. 在卫生资源分配上，形式公正是根据",
+      "bbox": [
+        334.19,
+        243.508,
+        546.822,
+        254.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 平卧位",
+      "bbox": [
+        72.66,
+        257.618,
+        120.762,
+        268.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "每个人（）",
+      "bbox": [
+        310.21,
+        260.648,
+        379.396,
+        271.898
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 右侧卧位",
+      "bbox": [
+        72.63,
+        274.058,
+        133.13,
+        285.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 都享有公平分配的权利",
+      "bbox": [
+        334.11,
+        276.658,
+        466.443,
+        287.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 左侧卧位",
+      "bbox": [
+        72.92,
+        290.408,
+        133.042,
+        301.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 实际的需要",
+      "bbox": [
+        333.98,
+        293.378,
+        405.167,
+        304.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "56. 可经母婴途径传播的疾病是（）",
+      "bbox": [
+        72.97,
+        306.708,
+        268.043,
+        317.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 能力的大小",
+      "bbox": [
+        334.0,
+        309.838,
+        405.239,
+        321.018
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 细菌性痢疾",
+      "bbox": [
+        73.1,
+        323.428,
+        146.35,
+        334.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 社会贡献的多少",
+      "bbox": [
+        333.74,
+        326.588,
+        429.582,
+        337.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 流行性脑脊髓膜炎",
+      "bbox": [
+        72.71,
+        340.068,
+        180.544,
+        351.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 在家庭中的角色地位",
+      "bbox": [
+        333.99,
+        342.838,
+        453.253,
+        354.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 霍乱",
+      "bbox": [
+        72.93,
+        356.348,
+        109.039,
+        367.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "63. 在我国实施人类辅助生殖技术，下列各",
+      "bbox": [
+        334.07,
+        359.208,
+        547.374,
+        370.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 乙型肝炎",
+      "bbox": [
+        72.77,
+        373.298,
+        133.521,
+        384.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "项中违背卫健委制定的伦理原则的是（）",
+      "bbox": [
+        310.09,
+        375.728,
+        529.696,
+        386.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 伤寒",
+      "bbox": [
+        73.15,
+        389.518,
+        109.115,
+        400.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 使用捐赠的精子",
+      "bbox": [
+        333.91,
+        392.008,
+        430.539,
+        403.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "57. 以下哪项不属于患者的权利内容（）",
+      "bbox": [
+        73.11,
+        406.078,
+        282.686,
+        417.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 使用捐赠的卵子",
+      "bbox": [
+        333.64,
+        408.548,
+        428.621,
+        419.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 基本医疗权",
+      "bbox": [
+        73.13,
+        422.618,
+        146.771,
+        433.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 实施亲属代孕",
+      "bbox": [
+        333.88,
+        425.078,
+        416.977,
+        436.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 知情同意权",
+      "bbox": [
+        72.97,
+        439.088,
+        145.045,
+        450.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 实施卵胞浆内单精注射",
+      "bbox": [
+        333.79,
+        441.378,
+        465.546,
+        452.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 人身安全权",
+      "bbox": [
+        73.0,
+        455.888,
+        145.422,
+        467.078
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 使用捐赠的胚胎",
+      "bbox": [
+        333.81,
+        457.758,
+        429.182,
+        468.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 保护隐私权",
+      "bbox": [
+        72.89,
+        472.248,
+        145.802,
+        483.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "64. 孙思邈主张大医精诚，其中精是指",
+      "bbox": [
+        333.94,
+        474.078,
+        547.221,
+        485.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 社会免责权",
+      "bbox": [
+        73.19,
+        488.818,
+        145.489,
+        500.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "（）",
+      "bbox": [
+        310.97,
+        491.358,
+        343.693,
+        502.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "58. 在分配稀有卫生资源时，不应该坚持",
+      "bbox": [
+        73.01,
+        505.168,
+        285.821,
+        516.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 不断学习，提高医疗技术，有精湛的",
+      "bbox": [
+        333.92,
+        506.868,
+        547.022,
+        518.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "的是（）",
+      "bbox": [
+        50.26,
+        522.338,
+        106.503,
+        533.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "医术",
+      "bbox": [
+        310.94,
+        524.198,
+        333.32,
+        535.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 个人的实际需要",
+      "bbox": [
+        72.82,
+        538.598,
+        170.553,
+        549.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 不断学习，对患者一心赴救",
+      "bbox": [
+        333.7,
+        539.928,
+        482.975,
+        551.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 个人之间的平均分配",
+      "bbox": [
+        72.65,
+        555.048,
+        192.624,
+        566.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 不断学习，对患者一视同仁",
+      "bbox": [
+        333.9,
+        556.268,
+        483.398,
+        567.458
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 个人的支付能力",
+      "bbox": [
+        72.72,
+        571.758,
+        168.368,
+        582.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 不断学习，有高尚医德",
+      "bbox": [
+        333.79,
+        572.888,
+        459.846,
+        584.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 个人的实际工作能力",
+      "bbox": [
+        72.51,
+        588.588,
+        192.832,
+        599.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 不断学习，热爱救人",
+      "bbox": [
+        333.93,
+        589.298,
+        447.655,
+        600.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 个人对社会的贡献",
+      "bbox": [
+        72.51,
+        605.078,
+        181.143,
+        616.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "65. 不属于卫生法基本原则的是（）",
+      "bbox": [
+        334.1,
+        605.998,
+        529.723,
+        617.208
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "59. 巨大脾脏常见于（）",
+      "bbox": [
+        72.61,
+        621.698,
+        208.523,
+        632.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 预防为主",
+      "bbox": [
+        334.06,
+        622.258,
+        395.336,
+        633.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 急性粒细胞白血病",
+      "bbox": [
+        72.55,
+        638.528,
+        182.078,
+        649.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 卫生工作社会化",
+      "bbox": [
+        333.72,
+        638.898,
+        429.562,
+        650.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 慢性粒细胞白血病",
+      "bbox": [
+        72.33,
+        655.088,
+        180.425,
+        666.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 保护公民身体健康",
+      "bbox": [
+        334.0,
+        655.208,
+        441.865,
+        666.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 急性淋巴细胞白血病",
+      "bbox": [
+        72.43,
+        671.698,
+        192.253,
+        682.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 兼顾经济与社会效益",
+      "bbox": [
+        333.94,
+        671.898,
+        454.268,
+        683.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 慢性淋巴细胞白血病",
+      "bbox": [
+        72.55,
+        688.398,
+        192.872,
+        699.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 祖国传统医学与现代医学相结合",
+      "bbox": [
+        334.19,
+        688.428,
+        513.61,
+        699.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 肝硬化脾功能亢进",
+      "bbox": [
+        72.49,
+        704.858,
+        180.496,
+        716.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "66. 《中华人民共和国药品管理法》规定对",
+      "bbox": [
+        334.36,
+        705.118,
+        546.713,
+        716.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "60. 在下列各项中，对患者不会造成伤害",
+      "bbox": [
+        72.66,
+        721.408,
+        285.303,
+        732.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "四类药品实行特殊管理。下列药品中，不属于",
+      "bbox": [
+        311.46,
+        721.558,
+        546.313,
+        732.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "的是（）",
+      "bbox": [
+        50.21,
+        737.888,
+        106.206,
+        749.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "法定特殊管理药品的是（）",
+      "bbox": [
+        310.2,
+        738.318,
+        463.623,
+        749.518
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 医务人员的知识和技能低下",
+      "bbox": [
+        72.79,
+        754.388,
+        229.187,
+        765.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 生化药品",
+      "bbox": [
+        334.35,
+        754.558,
+        395.089,
+        765.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 医务人员的行为疏忽大意",
+      "bbox": [
+        72.77,
+        771.128,
+        215.785,
+        782.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "B. 麻醉药品",
+      "bbox": [
+        334.24,
+        771.158,
+        393.278,
+        782.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 医务人员强迫患者接受检查和治疗",
+      "bbox": [
+        72.89,
+        787.408,
+        263.979,
+        798.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "C. 精神药品",
+      "bbox": [
+        334.3,
+        787.358,
+        393.562,
+        798.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—159",
+      "bbox": [
+        268.72,
+        806.796,
+        303.968,
+        817.167
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        315.97,
+        806.891,
+        325.88,
+        816.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

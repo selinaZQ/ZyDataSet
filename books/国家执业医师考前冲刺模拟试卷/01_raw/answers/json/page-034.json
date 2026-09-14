@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 34,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        55.74,
+        32.146,
+        258.704,
+        43.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "治疗方法，是对人的尊重。生物一心理一社会医学模",
+      "bbox": [
+        53.96,
+        62.051,
+        296.987,
+        71.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "给予处分，没收违法所得；情节严重的，还应当吊销其",
+      "bbox": [
+        318.33,
+        61.601,
+        561.43,
+        71.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "式要求医生不仅要关心患者的躯体，而且要关心患者",
+      "bbox": [
+        53.79,
+        76.611,
+        297.035,
+        86.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "执业证书。",
+      "bbox": [
+        318.06,
+        76.681,
+        367.66,
+        86.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "的心理。不仅要关心患者个体，而且要关心患者的家",
+      "bbox": [
+        54.46,
+        91.101,
+        297.188,
+        101.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "69. A【解析】《中华人民共和国医师法》所称医",
+      "bbox": [
+        339.14,
+        90.721,
+        561.481,
+        101.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "属、关心患者的后代、关心社会。",
+      "bbox": [
+        53.81,
+        105.611,
+        202.61,
+        115.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "师，是指依法取得医师资格，经注册在医疗卫生机构中",
+      "bbox": [
+        318.39,
+        105.731,
+        561.244,
+        115.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "58. A【解析】《希波克拉底誓言》全文论述的医德",
+      "bbox": [
+        74.7,
+        120.211,
+        297.14,
+        130.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "执业的专业医务人员，包括执业医师和执业助理医师。",
+      "bbox": [
+        318.26,
+        120.301,
+        557.909,
+        130.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "思想内容十分丰富，它的精髓是为患者谋利益，绝不伤",
+      "bbox": [
+        53.82,
+        135.411,
+        297.13,
+        145.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "70. D【解析】执行职务的医疗保健人员及卫生防",
+      "bbox": [
+        339.26,
+        135.101,
+        561.339,
+        145.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "害患者。",
+      "bbox": [
+        54.15,
+        149.841,
+        93.83,
+        159.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "疫人员发现甲类、乙类和监测区域内的丙类传染病患",
+      "bbox": [
+        318.13,
+        150.021,
+        561.103,
+        159.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "59. D【解析】生命神圣观强调人的生命价值至高",
+      "bbox": [
+        74.7,
+        164.731,
+        296.808,
+        174.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "者、病原携带者或者疑似传染病患者，必须按照国务院",
+      "bbox": [
+        318.36,
+        164.551,
+        561.197,
+        174.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "无上，人的生命神圣不可侵犯，但该观点缺乏人类成熟",
+      "bbox": [
+        53.98,
+        179.621,
+        297.08,
+        189.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "卫生行政部门规定的时限向当地卫生防疫机构报告",
+      "bbox": [
+        318.18,
+        179.801,
+        561.418,
+        189.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "的理性基础，缺乏对生命的辨证分析。而生命质量和",
+      "bbox": [
+        54.42,
+        194.321,
+        296.739,
+        204.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "疫情。",
+      "bbox": [
+        318.18,
+        194.321,
+        347.91,
+        204.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "生命价值观是一种强调人的生命状态及其价值的生命",
+      "bbox": [
+        53.94,
+        209.371,
+        297.567,
+        219.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "71. B【解析】医生应从患者的利益出发决定该做",
+      "bbox": [
+        339.26,
+        208.731,
+        561.398,
+        218.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "观，是现代生命伦理学的核心观点。",
+      "bbox": [
+        54.0,
+        224.171,
+        212.56,
+        234.081
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "的项目，B项可以广泛积极地依赖各种辅助检查不符合",
+      "bbox": [
+        319.01,
+        223.531,
+        561.223,
+        233.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "60. E【解析】医师的权利具有一定的自主性，使",
+      "bbox": [
+        74.73,
+        238.411,
+        297.432,
+        248.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "医德的要求，是应该阻止的行为，故选B。",
+      "bbox": [
+        318.9,
+        238.411,
+        505.802,
+        248.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "医务人员正当的职业道德权利受到尊重和维护，医务",
+      "bbox": [
+        54.32,
+        253.531,
+        297.293,
+        263.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "72. E【解析】本条例所称突发公共卫生事件（以",
+      "bbox": [
+        339.3,
+        252.881,
+        560.574,
+        262.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "人员的权利和义务是相辅相成的，尊重患者的自主性，",
+      "bbox": [
+        53.89,
+        268.151,
+        296.761,
+        278.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "下简称突发事件），是指突然发生，造成或者可能造成",
+      "bbox": [
+        318.23,
+        267.981,
+        560.857,
+        277.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "绝不意味要放弃自己的责任。",
+      "bbox": [
+        53.73,
+        283.061,
+        183.999,
+        292.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "社会公众健康严重损害的重大传染病疫情、群体性不",
+      "bbox": [
+        318.11,
+        282.301,
+        560.674,
+        292.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "61. A【解析】洋地黄引起的呕吐为中枢性呕吐，",
+      "bbox": [
+        74.65,
+        297.781,
+        296.901,
+        307.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "明原因疾病、重大食物和职业中毒以及其他严重影响",
+      "bbox": [
+        319.05,
+        297.131,
+        560.497,
+        307.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "故选A.其余选项均可引起周围性呕吐。",
+      "bbox": [
+        53.8,
+        312.581,
+        231.377,
+        322.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "公众健康的事件。",
+      "bbox": [
+        318.19,
+        312.171,
+        397.39,
+        322.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "62. A【解析】中医四诊的道德要求：安神定志、实",
+      "bbox": [
+        74.74,
+        326.831,
+        299.03,
+        337.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "73. B【解析】对乙类传染病中的传染性非典型肺",
+      "bbox": [
+        339.32,
+        326.681,
+        560.803,
+        336.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "事求是。",
+      "bbox": [
+        53.93,
+        342.041,
+        93.57,
+        351.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "炎、炭疽中的肺炭疽，采取本法规定的甲类传染病预",
+      "bbox": [
+        318.36,
+        341.701,
+        560.897,
+        351.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "63. D【解析】医学伦理学以生命论、人道论、美德",
+      "bbox": [
+        74.73,
+        356.431,
+        298.49,
+        366.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "防、控制措施。其他乙类传染病需要采取本法规定的",
+      "bbox": [
+        318.88,
+        356.461,
+        560.519,
+        366.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "论和公益论等为基本理论，其中，生命论包括生命神圣",
+      "bbox": [
+        53.85,
+        371.551,
+        297.388,
+        381.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "甲类传染病预防、控制措施的，依照前款规定的程序批",
+      "bbox": [
+        319.39,
+        371.171,
+        560.877,
+        381.081
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "论、生命质量论和生命价值论；人道论中人道主义的核",
+      "bbox": [
+        53.96,
+        386.191,
+        297.744,
+        396.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "准、公布。",
+      "bbox": [
+        318.5,
+        385.921,
+        368.05,
+        395.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "心是尊重患者的生命、人格、尊严、平等的医疗与健康",
+      "bbox": [
+        54.04,
+        400.841,
+        297.578,
+        410.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "74. A【解析】“补其荥而通其俞”的针刺治则，即",
+      "bbox": [
+        339.08,
+        400.351,
+        563.2,
+        410.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "权利以及对社会、医院、医务人员的尊重；美德论中医",
+      "bbox": [
+        53.9,
+        415.491,
+        297.438,
+        425.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "针对有关脏腑经络，补其荥穴，通其俞穴，调补虚实，疏",
+      "bbox": [
+        318.37,
+        415.371,
+        565.87,
+        425.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "德品质的内容有仁慈、诚挚、严谨、公正、节操；公益论",
+      "bbox": [
+        54.06,
+        430.211,
+        301.81,
+        440.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "通气血；还要配以“各以其时受月”的针刺治则。“补其",
+      "bbox": [
+        318.33,
+        429.801,
+        566.08,
+        439.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "中以群体利益为重，以长远利益为重，以整体利益",
+      "bbox": [
+        54.72,
+        444.931,
+        297.505,
+        454.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "荥而通其俞”及“各以其时受月”的治则体现了因时制",
+      "bbox": [
+        318.49,
+        444.271,
+        560.205,
+        454.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "为重。",
+      "bbox": [
+        54.13,
+        460.081,
+        83.86,
+        469.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "宜，辨证论治的思想。",
+      "bbox": [
+        318.4,
+        459.401,
+        417.5,
+        469.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "64. E【解析】肾综合征出血热的传播途径包括呼",
+      "bbox": [
+        75.05,
+        474.181,
+        297.402,
+        484.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "75. B【解析】中风健侧气血运行通畅，肢体肌肉",
+      "bbox": [
+        339.01,
+        473.591,
+        559.697,
+        483.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "吸道传播、消化道传播、接触传播、母婴传播和虫媒传",
+      "bbox": [
+        54.34,
+        488.681,
+        297.522,
+        499.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "收放自如，呈相对紧张状态，即“正气即急”。",
+      "bbox": [
+        318.57,
+        488.561,
+        526.68,
+        498.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "播等5种方式，故选E。",
+      "bbox": [
+        53.88,
+        504.091,
+        156.939,
+        513.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "76. C【解析】因湿性黏腻，温热与湿邪缠绵交蒸",
+      "bbox": [
+        339.09,
+        503.191,
+        560.49,
+        513.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "65. A【解析】发生医疗纠纷或医疗事故的时候，",
+      "bbox": [
+        75.1,
+        518.361,
+        296.839,
+        528.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "于中焦，上蒙下流，弥漫三焦，相对而言传变较慢，故称",
+      "bbox": [
+        318.6,
+        518.211,
+        566.1,
+        528.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "患者有权查阅或复制的病历资料所包括的范围。参见",
+      "bbox": [
+        54.2,
+        532.881,
+        297.391,
+        542.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "“在一经不移”。",
+      "bbox": [
+        318.17,
+        532.801,
+        397.45,
+        542.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "《医疗纠纷预防和处理条例》第十六条：患者有权查阅、",
+      "bbox": [
+        53.7,
+        547.821,
+        301.2,
+        557.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "77. A【解析】伤寒的临床表现有持续高热，可达",
+      "bbox": [
+        339.0,
+        547.471,
+        560.546,
+        557.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "复制其门诊病历、住院志、体温单、医嘱单、化验单（检",
+      "bbox": [
+        54.13,
+        562.511,
+        297.64,
+        572.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "39～40；相对缓脉，即体温每增高1℃，每分钟脉搏增",
+      "bbox": [
+        318.21,
+        562.241,
+        563.663,
+        572.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "验报告）、医学影像检查资料、特殊检查同意书、手术同",
+      "bbox": [
+        53.94,
+        577.021,
+        296.975,
+        586.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "加15～20次；血液检查白细胞计数大多为（3～4）×",
+      "bbox": [
+        318.3,
+        576.981,
+        559.656,
+        586.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "意书、手术及麻醉记录、病理资料、护理记录、医疗费用",
+      "bbox": [
+        54.16,
+        591.731,
+        301.91,
+        601.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "10⁹/L，嗜酸性粒细胞减少或消失。中毒性痢疾血液检",
+      "bbox": [
+        318.76,
+        591.441,
+        560.828,
+        603.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "以及国务院卫生主管部门规定的其他属于病历的全部",
+      "bbox": [
+        54.68,
+        606.781,
+        297.435,
+        616.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "查白细胞计数增高，多在排除B；中",
+      "bbox": [
+        318.25,
+        606.531,
+        563.433,
+        616.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "资料。使用排除法即可得到本题答案。",
+      "bbox": [
+        54.05,
+        621.611,
+        226.167,
+        631.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "毒性肺炎白细胞计数正常或稍降低，嗜酸性粒细胞计",
+      "bbox": [
+        318.41,
+        621.471,
+        560.947,
+        631.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "66. C【解析】行政处罚的种类主要有警告、罚款、",
+      "bbox": [
+        74.91,
+        636.111,
+        297.76,
+        646.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "数正常或稍降低，排除C；流脑白细胞计数增高，一般在",
+      "bbox": [
+        318.42,
+        636.251,
+        561.631,
+        646.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "没收非法财物、没收违法所得、责令停产停业、暂扣或",
+      "bbox": [
+        53.81,
+        650.951,
+        297.558,
+        660.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "（10～30）×10⁹/L,排除D;急性病毒性肝炎体温大多",
+      "bbox": [
+        319.05,
+        650.901,
+        560.417,
+        662.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "吊销有关许可证等。",
+      "bbox": [
+        54.66,
+        666.001,
+        143.76,
+        675.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "在38～39之间，排除E。",
+      "bbox": [
+        318.35,
+        665.661,
+        440.823,
+        675.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "67. B【解析】医疗机构的药剂人员调配处方，应",
+      "bbox": [
+        74.86,
+        680.501,
+        297.398,
+        690.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "78. E【解析】治疗适应证:①成人Graves病",
+      "bbox": [
+        339.32,
+        680.441,
+        559.583,
+        690.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "当经过核对，对处方所列药品不得擅自更改或者代用。",
+      "bbox": [
+        54.49,
+        695.431,
+        297.133,
+        705.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "伴甲状腺肿大Ⅱ度以上；②抗甲状腺药物治疗失败或",
+      "bbox": [
+        318.36,
+        695.431,
+        560.461,
+        705.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "对有配伍禁忌或者超剂量的处方，应当拒绝调配；必要",
+      "bbox": [
+        53.78,
+        710.061,
+        297.09,
+        719.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "过敏；③甲状腺功能亢进症手术后复发；④甲状腺毒症",
+      "bbox": [
+        318.48,
+        710.251,
+        560.634,
+        720.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "时，经处方医师更正或者重新签字，方可调配。",
+      "bbox": [
+        54.31,
+        725.021,
+        262.42,
+        734.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "心脏病或伴其他病因的心脏病；⑤甲状腺功能亢进症",
+      "bbox": [
+        318.46,
+        724.901,
+        560.317,
+        734.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "68. C【解析】医疗机构的负责人、药品采购人员、",
+      "bbox": [
+        75.17,
+        739.341,
+        297.9,
+        749.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "合并白细胞和（或）血小板减少或全血细胞减少；⑥甲",
+      "bbox": [
+        318.23,
+        739.462,
+        559.556,
+        749.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "医师、药师等有关人员收受药品上市许可持有人、药品",
+      "bbox": [
+        54.74,
+        753.691,
+        296.699,
+        763.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "状腺功能亢进症合并肝、肾等脏器损害；⑦拒绝手术治",
+      "bbox": [
+        318.16,
+        754.452,
+        560.184,
+        764.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "生产企业、药品经营企业或者代理人给予的财物或者",
+      "bbox": [
+        54.13,
+        768.461,
+        297.103,
+        778.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "疗或有手术禁忌证者；⑧浸润性突眼者。",
+      "bbox": [
+        318.01,
+        769.182,
+        495.284,
+        779.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "其他不正当利益的，由卫生健康主管部门或者本单位",
+      "bbox": [
+        54.34,
+        783.111,
+        297.122,
+        793.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "79. B【解析】A项还有胸痛表现，检查：气管位置",
+      "bbox": [
+        339.21,
+        783.542,
+        559.919,
+        793.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        278.67,
+        800.822,
+        288.48,
+        810.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "224—",
+      "bbox": [
+        298.49,
+        801.815,
+        336.07,
+        812.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

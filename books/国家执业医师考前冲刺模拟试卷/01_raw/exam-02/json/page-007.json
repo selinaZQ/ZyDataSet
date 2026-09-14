@@ -1,0 +1,1251 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 7,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1436.0,
+        62.0,
+        1849.0,
+        107.0
+      ],
+      "confidence": 0.94714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "80. 下列临床症状血虚证与血瘀证均可见",
+      "bbox": [
+        228.0,
+        177.0,
+        979.0,
+        218.0
+      ],
+      "confidence": 0.991331,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "祛邪扶正，阴阳并调”配伍特点的方剂是",
+      "bbox": [
+        1060.0,
+        174.0,
+        1893.0,
+        224.0
+      ],
+      "confidence": 0.99628,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "的是（",
+      "bbox": [
+        144.0,
+        230.0,
+        264.0,
+        284.0
+      ],
+      "confidence": 0.93454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        325.0,
+        235.0,
+        362.0,
+        275.0
+      ],
+      "confidence": 0.983733,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "（",
+      "bbox": [
+        1060.0,
+        234.0,
+        1090.0,
+        275.0
+      ],
+      "confidence": 0.703327,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        1156.0,
+        234.0,
+        1194.0,
+        278.0
+      ],
+      "confidence": 0.973657,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 心悸",
+      "bbox": [
+        224.0,
+        286.0,
+        372.0,
+        339.0
+      ],
+      "confidence": 0.996853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 桂枝汤",
+      "bbox": [
+        1143.0,
+        288.0,
+        1327.0,
+        339.0
+      ],
+      "confidence": 0.998164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 脉涩",
+      "bbox": [
+        223.0,
+        344.0,
+        365.0,
+        397.0
+      ],
+      "confidence": 0.972517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 麻黄汤",
+      "bbox": [
+        1140.0,
+        342.0,
+        1322.0,
+        397.0
+      ],
+      "confidence": 0.998279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 手麻",
+      "bbox": [
+        224.0,
+        402.0,
+        367.0,
+        456.0
+      ],
+      "confidence": 0.998171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 止嗽散",
+      "bbox": [
+        1141.0,
+        402.0,
+        1323.0,
+        453.0
+      ],
+      "confidence": 0.993609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 腹痛",
+      "bbox": [
+        224.0,
+        459.0,
+        367.0,
+        513.0
+      ],
+      "confidence": 0.998775,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 小青龙汤",
+      "bbox": [
+        1141.0,
+        459.0,
+        1365.0,
+        509.0
+      ],
+      "confidence": 0.997409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 闭经",
+      "bbox": [
+        225.0,
+        520.0,
+        365.0,
+        569.0
+      ],
+      "confidence": 0.998633,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 九味羌活汤",
+      "bbox": [
+        1141.0,
+        516.0,
+        1405.0,
+        565.0
+      ],
+      "confidence": 0.998018,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "81. 大肠液亏证的主症是（",
+      "bbox": [
+        226.0,
+        577.0,
+        696.0,
+        625.0
+      ],
+      "confidence": 0.976776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "）",
+      "bbox": [
+        774.0,
+        584.0,
+        795.0,
+        616.0
+      ],
+      "confidence": 0.352282,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "85. 呕吐吞酸，胸胁胀满，暖气频作，脘闷",
+      "bbox": [
+        1143.0,
+        576.0,
+        1893.0,
+        625.0
+      ],
+      "confidence": 0.975761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 口干咽燥",
+      "bbox": [
+        228.0,
+        635.0,
+        452.0,
+        684.0
+      ],
+      "confidence": 0.991968,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "食少，其证候是（",
+      "bbox": [
+        1062.0,
+        632.0,
+        1360.0,
+        681.0
+      ],
+      "confidence": 0.924805,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "）",
+      "bbox": [
+        1434.0,
+        640.0,
+        1461.0,
+        674.0
+      ],
+      "confidence": 0.995472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 口臭头晕",
+      "bbox": [
+        224.0,
+        691.0,
+        447.0,
+        745.0
+      ],
+      "confidence": 0.995846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 食滞胃脘",
+      "bbox": [
+        1145.0,
+        691.0,
+        1368.0,
+        737.0
+      ],
+      "confidence": 0.99291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 便干难以排出",
+      "bbox": [
+        225.0,
+        748.0,
+        529.0,
+        801.0
+      ],
+      "confidence": 0.994885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 胃阴虚",
+      "bbox": [
+        1143.0,
+        748.0,
+        1320.0,
+        796.0
+      ],
+      "confidence": 0.998085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 舌红苔白干",
+      "bbox": [
+        224.0,
+        805.0,
+        491.0,
+        859.0
+      ],
+      "confidence": 0.997495,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 肝脾不调",
+      "bbox": [
+        1144.0,
+        805.0,
+        1362.0,
+        852.0
+      ],
+      "confidence": 0.998841,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 脉象细涩",
+      "bbox": [
+        225.0,
+        865.0,
+        448.0,
+        915.0
+      ],
+      "confidence": 0.998886,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 肝胃不和",
+      "bbox": [
+        1144.0,
+        865.0,
+        1363.0,
+        908.0
+      ],
+      "confidence": 0.998581,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "82. 下列哪项是燥邪犯肺证与肺阴虚证的",
+      "bbox": [
+        230.0,
+        927.0,
+        975.0,
+        969.0
+      ],
+      "confidence": 0.998631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 胃阳虚",
+      "bbox": [
+        1141.0,
+        918.0,
+        1322.0,
+        969.0
+      ],
+      "confidence": 0.998035,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "鉴别要点（）",
+      "bbox": [
+        145.0,
+        978.0,
+        447.0,
+        1032.0
+      ],
+      "confidence": 0.917341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "86. 血燥生风的病理表现，主要是（",
+      "bbox": [
+        1145.0,
+        982.0,
+        1760.0,
+        1025.0
+      ],
+      "confidence": 0.973802,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "）",
+      "bbox": [
+        1832.0,
+        989.0,
+        1856.0,
+        1022.0
+      ],
+      "confidence": 0.990203,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "A. 有无发热恶寒",
+      "bbox": [
+        229.0,
+        1040.0,
+        532.0,
+        1086.0
+      ],
+      "confidence": 0.998689,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 筋惕肉眶，肢麻震颤，眩晕欲仆等",
+      "bbox": [
+        1147.0,
+        1040.0,
+        1785.0,
+        1083.0
+      ],
+      "confidence": 0.954051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 有无胸痛咳血",
+      "bbox": [
+        227.0,
+        1099.0,
+        527.0,
+        1144.0
+      ],
+      "confidence": 0.999027,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 痉厥，抽搐，鼻翼扇动，目睛上吊等",
+      "bbox": [
+        1145.0,
+        1099.0,
+        1798.0,
+        1142.0
+      ],
+      "confidence": 0.991144,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 有无口干咽燥",
+      "bbox": [
+        228.0,
+        1156.0,
+        529.0,
+        1201.0
+      ],
+      "confidence": 0.997358,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 痉挛肉润，手足蠕动",
+      "bbox": [
+        1148.0,
+        1156.0,
+        1551.0,
+        1198.0
+      ],
+      "confidence": 0.965285,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 痰量的多少",
+      "bbox": [
+        225.0,
+        1213.0,
+        488.0,
+        1260.0
+      ],
+      "confidence": 0.999305,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 肢体麻木不仁，筋肉跳动，甚则手足拘",
+      "bbox": [
+        1145.0,
+        1213.0,
+        1894.0,
+        1259.0
+      ],
+      "confidence": 0.993813,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 咯痰的难易",
+      "bbox": [
+        225.0,
+        1271.0,
+        485.0,
+        1317.0
+      ],
+      "confidence": 0.99583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "挛不伸",
+      "bbox": [
+        1057.0,
+        1263.0,
+        1193.0,
+        1321.0
+      ],
+      "confidence": 0.996646,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "83. 干呕呃逆，胃脘嘈杂，口干咽燥，舌红",
+      "bbox": [
+        225.0,
+        1328.0,
+        981.0,
+        1376.0
+      ],
+      "confidence": 0.983024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 皮肤干燥或肌肤甲错，或皮肤瘙痒或落",
+      "bbox": [
+        1144.0,
+        1329.0,
+        1896.0,
+        1374.0
+      ],
+      "confidence": 0.993597,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "少苔，其证候是（",
+      "bbox": [
+        146.0,
+        1384.0,
+        441.0,
+        1433.0
+      ],
+      "confidence": 0.934929,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "皮屑",
+      "bbox": [
+        1056.0,
+        1379.0,
+        1152.0,
+        1436.0
+      ],
+      "confidence": 0.999813,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "）",
+      "bbox": [
+        514.0,
+        1389.0,
+        546.0,
+        1427.0
+      ],
+      "confidence": 0.984261,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 食滞胃脘",
+      "bbox": [
+        225.0,
+        1441.0,
+        451.0,
+        1491.0
+      ],
+      "confidence": 0.994466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "87. 脉象见动脉的主病是（",
+      "bbox": [
+        1146.0,
+        1444.0,
+        1616.0,
+        1485.0
+      ],
+      "confidence": 0.978665,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "）",
+      "bbox": [
+        1685.0,
+        1450.0,
+        1710.0,
+        1481.0
+      ],
+      "confidence": 0.996507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 胃阴虚",
+      "bbox": [
+        224.0,
+        1501.0,
+        402.0,
+        1549.0
+      ],
+      "confidence": 0.998104,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 宿食",
+      "bbox": [
+        1143.0,
+        1497.0,
+        1288.0,
+        1550.0
+      ],
+      "confidence": 0.999066,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 肝脾不调",
+      "bbox": [
+        225.0,
+        1558.0,
+        445.0,
+        1605.0
+      ],
+      "confidence": 0.998937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 诸虚",
+      "bbox": [
+        1140.0,
+        1553.0,
+        1284.0,
+        1606.0
+      ],
+      "confidence": 0.99885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 肝胃不和",
+      "bbox": [
+        224.0,
+        1616.0,
+        446.0,
+        1662.0
+      ],
+      "confidence": 0.998602,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 痛证",
+      "bbox": [
+        1141.0,
+        1612.0,
+        1284.0,
+        1664.0
+      ],
+      "confidence": 0.998869,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 胃阳虚",
+      "bbox": [
+        224.0,
+        1673.0,
+        403.0,
+        1720.0
+      ],
+      "confidence": 0.997945,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 血瘀",
+      "bbox": [
+        1139.0,
+        1668.0,
+        1285.0,
+        1723.0
+      ],
+      "confidence": 0.996494,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "84. 具有“发中有补，散中有收，邪正兼顾，",
+      "bbox": [
+        227.0,
+        1732.0,
+        978.0,
+        1775.0
+      ],
+      "confidence": 0.98669,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 风证",
+      "bbox": [
+        1139.0,
+        1725.0,
+        1284.0,
+        1780.0
+      ],
+      "confidence": 0.99939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "A2 型选择题（88～120题）",
+      "bbox": [
+        787.0,
+        1844.0,
+        1263.0,
+        1893.0
+      ],
+      "confidence": 0.982336,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "答题说明：每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案，请",
+      "bbox": [
+        247.0,
+        1941.0,
+        1878.0,
+        1987.0
+      ],
+      "confidence": 0.962339,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "从中选择一个最佳答案，并在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        169.0,
+        2003.0,
+        1588.0,
+        2044.0
+      ],
+      "confidence": 0.995451,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "88. 患者，全头胀痛，急躁易怒，口苦胁痛，",
+      "bbox": [
+        230.0,
+        2099.0,
+        978.0,
+        2141.0
+      ],
+      "confidence": 0.994009,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "过速。最佳治疗方法是（",
+      "bbox": [
+        1066.0,
+        2099.0,
+        1506.0,
+        2141.0
+      ],
+      "confidence": 0.992163,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "）",
+      "bbox": [
+        1584.0,
+        2100.0,
+        1607.0,
+        2136.0
+      ],
+      "confidence": 0.640853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "面红目赤，便秘尿赤，舌边尖红，苔黄，脉弦数。",
+      "bbox": [
+        149.0,
+        2155.0,
+        979.0,
+        2199.0
+      ],
+      "confidence": 0.994574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "A. 镇惊定志，养心安神",
+      "bbox": [
+        1150.0,
+        2156.0,
+        1557.0,
+        2198.0
+      ],
+      "confidence": 0.980201,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "宜首选的药物为（",
+      "bbox": [
+        147.0,
+        2212.0,
+        464.0,
+        2258.0
+      ],
+      "confidence": 0.984952,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "）",
+      "bbox": [
+        537.0,
+        2215.0,
+        569.0,
+        2253.0
+      ],
+      "confidence": 0.980788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 补血养心，益气安神",
+      "bbox": [
+        1149.0,
+        2214.0,
+        1551.0,
+        2255.0
+      ],
+      "confidence": 0.992712,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 全蝎、蜈蚣",
+      "bbox": [
+        228.0,
+        2270.0,
+        471.0,
+        2316.0
+      ],
+      "confidence": 0.971946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 滋阴清火，养心安神",
+      "bbox": [
+        1148.0,
+        2270.0,
+        1553.0,
+        2315.0
+      ],
+      "confidence": 0.994692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 磁石、牡蛎",
+      "bbox": [
+        226.0,
+        2324.0,
+        467.0,
+        2373.0
+      ],
+      "confidence": 0.995908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 益气养阴，养心安神",
+      "bbox": [
+        1148.0,
+        2327.0,
+        1554.0,
+        2372.0
+      ],
+      "confidence": 0.992738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 龙胆、栀子",
+      "bbox": [
+        229.0,
+        2384.0,
+        467.0,
+        2431.0
+      ],
+      "confidence": 0.990394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 清热化痰，宁心安神",
+      "bbox": [
+        1145.0,
+        2382.0,
+        1554.0,
+        2431.0
+      ],
+      "confidence": 0.991178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 天麻、石决明",
+      "bbox": [
+        229.0,
+        2442.0,
+        510.0,
+        2488.0
+      ],
+      "confidence": 0.995166,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "90. 患者失眠，健忘，心悸，自汗出。治疗",
+      "bbox": [
+        1145.0,
+        2442.0,
+        1899.0,
+        2489.0
+      ],
+      "confidence": 0.99508,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 川芎、川牛膝",
+      "bbox": [
+        228.0,
+        2498.0,
+        512.0,
+        2548.0
+      ],
+      "confidence": 0.96967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "应选用（）",
+      "bbox": [
+        1061.0,
+        2494.0,
+        1324.0,
+        2548.0
+      ],
+      "confidence": 0.844596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "89. 患者，女，28岁。平素体健。曾有惊吓",
+      "bbox": [
+        228.0,
+        2555.0,
+        982.0,
+        2609.0
+      ],
+      "confidence": 0.987187,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 朱砂",
+      "bbox": [
+        1145.0,
+        2554.0,
+        1289.0,
+        2602.0
+      ],
+      "confidence": 0.995333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "史。现症见：心悸，善惊易恐，坐卧不安，失眠",
+      "bbox": [
+        147.0,
+        2612.0,
+        983.0,
+        2663.0
+      ],
+      "confidence": 0.979702,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 酸枣仁",
+      "bbox": [
+        1145.0,
+        2612.0,
+        1323.0,
+        2658.0
+      ],
+      "confidence": 0.998771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "多梦，舌苔薄白，脉虚数。查体:心率122次/分，",
+      "bbox": [
+        150.0,
+        2671.0,
+        981.0,
+        2718.0
+      ],
+      "confidence": 0.966247,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 合欢皮",
+      "bbox": [
+        1146.0,
+        2667.0,
+        1324.0,
+        2714.0
+      ],
+      "confidence": 0.998824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "余未见异常。检查:心电图示阵发性室上性心动",
+      "bbox": [
+        150.0,
+        2728.0,
+        983.0,
+        2775.0
+      ],
+      "confidence": 0.976036,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "D. 远志",
+      "bbox": [
+        1145.0,
+        2724.0,
+        1286.0,
+        2773.0
+      ],
+      "confidence": 0.99837,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "53",
+      "bbox": [
+        999.0,
+        2796.0,
+        1051.0,
+        2837.0
+      ],
+      "confidence": 0.999764,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "—",
+      "bbox": [
+        1070.0,
+        2803.0,
+        1115.0,
+        2831.0
+      ],
+      "confidence": 0.301349,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

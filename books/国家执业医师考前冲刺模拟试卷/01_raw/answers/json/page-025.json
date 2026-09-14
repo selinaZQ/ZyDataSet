@@ -1,0 +1,1103 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 25,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）参考答案及解析",
+      "bbox": [
+        321.83,
+        45.51,
+        539.504,
+        55.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        119.68,
+        124.479,
+        475.446,
+        143.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        193.35,
+        149.599,
+        400.292,
+        168.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "9. A【解析】脾的生理功能：①主运化，包括运化",
+      "bbox": [
+        329.83,
+        191.652,
+        554.192,
+        201.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "水谷和运化水湿；②主升清，包括将水谷精微等营养物",
+      "bbox": [
+        308.77,
+        206.261,
+        554.071,
+        216.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "第一单元",
+      "bbox": [
+        127.47,
+        216.663,
+        199.487,
+        233.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "质上输于头目和维持内脏位置的相对恒定；③主统血，",
+      "bbox": [
+        308.89,
+        220.971,
+        553.942,
+        230.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "水谷的受纳和腐熟为胃的功能，故选A。",
+      "bbox": [
+        308.85,
+        235.701,
+        487.388,
+        245.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "10. C【解析】肝主疏泄的生理功能：①调畅气机；",
+      "bbox": [
+        330.58,
+        250.182,
+        554.012,
+        260.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "1. E【解析】五神按相生顺序排序为魂、神、意、",
+      "bbox": [
+        62.35,
+        262.761,
+        287.493,
+        272.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "②通利气血水；③促进脾胃的运化；④调畅情志；⑤促",
+      "bbox": [
+        308.91,
+        264.691,
+        554.438,
+        274.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "魄、志。",
+      "bbox": [
+        41.53,
+        278.061,
+        81.05,
+        287.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "进和调节生殖功能，其中，最基本的生理功能是调畅",
+      "bbox": [
+        308.93,
+        279.751,
+        554.49,
+        289.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "2. A【解析】一身之精分藏于脏腑，成为脏腑之",
+      "bbox": [
+        61.75,
+        292.241,
+        287.978,
+        302.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "气机。",
+      "bbox": [
+        308.95,
+        294.061,
+        338.56,
+        303.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "精。脏腑之精，指脏腑所藏的具有濡养、滋润本脏腑及",
+      "bbox": [
+        40.96,
+        306.721,
+        287.874,
+        316.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "11. B【解析】肝开窍于目，肝藏血，眼依赖肝血濡",
+      "bbox": [
+        330.67,
+        308.822,
+        554.672,
+        318.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "其所属的形体、官窍等作用的液态精华物质。",
+      "bbox": [
+        40.89,
+        321.261,
+        241.726,
+        331.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "养才能发挥视觉功能。《素问·五脏生成篇》说：“肝受",
+      "bbox": [
+        309.42,
+        323.061,
+        556.92,
+        332.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "3. A【解析】上焦是指膈以上的脏器和组织，包括",
+      "bbox": [
+        61.63,
+        336.102,
+        288.269,
+        345.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "血而能视。”",
+      "bbox": [
+        309.48,
+        337.571,
+        368.76,
+        347.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "心肺两脏和头面部。《灵枢·营卫生会》：“上焦出于胃",
+      "bbox": [
+        40.97,
+        350.801,
+        288.72,
+        360.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "12. C【解析】得气是一种针刺到位后，身体酸麻",
+      "bbox": [
+        330.9,
+        352.161,
+        554.922,
+        362.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "上口，并咽以上，贯膈而布胸中。”上焦的功能实际上是",
+      "bbox": [
+        40.9,
+        365.461,
+        288.4,
+        375.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "胀沉的感觉，正是体现经络感应传导作用。",
+      "bbox": [
+        309.41,
+        366.931,
+        498.032,
+        376.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "对心肺功能的概括，主气的升发和宣散。由于上焦位",
+      "bbox": [
+        40.83,
+        379.891,
+        288.382,
+        389.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "13. A【解析】传变，指病变部位在脏腑经络等之",
+      "bbox": [
+        331.03,
+        381.272,
+        555.017,
+        391.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "置最高，故其特点不是有升无降，而是升已而降。《灵",
+      "bbox": [
+        40.9,
+        394.521,
+        288.563,
+        404.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "间的传递转移，体质因素决定疾病的传变，主要体现在",
+      "bbox": [
+        310.12,
+        395.791,
+        554.798,
+        405.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "枢·决气》：“上焦开发，宣五谷味，熏肤，充身，泽毛，若两个方面：一是通过正气强弱而决定疾病的传变；二是",
+      "bbox": [
+        40.97,
+        409.321,
+        555.172,
+        420.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "雾露之溉。”《灵枢·营卫生会》将其概括为“上",
+      "bbox": [
+        40.85,
+        423.341,
+        288.275,
+        433.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "通过决定病邪的从化而影响传变。",
+      "bbox": [
+        309.68,
+        424.541,
+        461.535,
+        434.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "焦如雾”。",
+      "bbox": [
+        40.98,
+        438.471,
+        90.53,
+        448.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "14. E【解析】小肠的泌别清浊功能包括泌别清浊",
+      "bbox": [
+        331.3,
+        439.032,
+        555.087,
+        449.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "4. B【解析】五行学说。心属于火，肾属于水，水",
+      "bbox": [
+        61.81,
+        452.671,
+        288.746,
+        462.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "后的糟粕，分为食物残渣及废水两部分，食物残渣下降",
+      "bbox": [
+        309.87,
+        453.861,
+        555.232,
+        463.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "能克火，心病及肾的传变是逆五行相克顺序进行的，属",
+      "bbox": [
+        40.99,
+        467.471,
+        288.196,
+        477.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "到大肠，形成粪便而排出体外；多余的水分则可气化生",
+      "bbox": [
+        310.27,
+        468.161,
+        555.213,
+        478.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "于相侮。",
+      "bbox": [
+        41.11,
+        482.031,
+        80.79,
+        491.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "成尿液排出体外，故对于小肠泌别清浊功能失调的患",
+      "bbox": [
+        309.98,
+        482.721,
+        554.944,
+        492.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "5. B【解析】中医学的基本特点是整体观念与辨",
+      "bbox": [
+        62.06,
+        496.382,
+        288.959,
+        506.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "者，小便不能及时气化入膀胱，水谷并走大肠，可见大",
+      "bbox": [
+        310.12,
+        498.011,
+        555.254,
+        507.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "证论治。辨证论治，即根据辨证的结果确定相应的治",
+      "bbox": [
+        40.63,
+        510.971,
+        288.836,
+        520.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "便稀薄，小便短少，治疗选用分利方法，即“利小便以实",
+      "bbox": [
+        309.93,
+        512.711,
+        557.68,
+        522.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "疗原则和方法，具体表现为“同病异治”和“异病同治”。",
+      "bbox": [
+        40.76,
+        525.971,
+        298.94,
+        535.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "大便”。",
+      "bbox": [
+        310.02,
+        527.021,
+        349.7,
+        536.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "“同病异治”，即对同一疾病不同阶段出现的不同证型，",
+      "bbox": [
+        40.84,
+        540.081,
+        288.59,
+        549.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "15. C【解析】五脏共同的生理特点有两个方面：",
+      "bbox": [
+        331.52,
+        541.732,
+        554.387,
+        552.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "采用不同的治法；“异病同治”，即几种不同的疾病在其",
+      "bbox": [
+        40.81,
+        554.841,
+        289.048,
+        564.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "一是化生和贮藏精气，主“藏精气”“藏而不泻”“满而不",
+      "bbox": [
+        309.88,
+        556.491,
+        566.5,
+        566.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "发展过程中，由于出现了具有同一性质的证，因而可采",
+      "bbox": [
+        40.85,
+        569.771,
+        288.947,
+        579.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "能实”。二是五脏藏神，五脏的生理活动与精神情志活",
+      "bbox": [
+        310.08,
+        570.671,
+        554.739,
+        580.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "用同一治疗方法。可见中医治病主要着眼点在于证，",
+      "bbox": [
+        40.78,
+        583.871,
+        288.176,
+        593.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "动密切相关。传化物、实而不能满、泻而不藏、受盛传",
+      "bbox": [
+        310.05,
+        585.131,
+        554.765,
+        595.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "证同则治同，证异则治异，故同病异治的实质是证异",
+      "bbox": [
+        40.72,
+        598.631,
+        288.958,
+        608.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "化水谷是六腑共同的生理特点。",
+      "bbox": [
+        309.82,
+        599.641,
+        450.209,
+        609.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "治异。",
+      "bbox": [
+        40.94,
+        613.561,
+        70.52,
+        623.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "16. C【解析】《素问·上古天真论》：“女子七岁，",
+      "bbox": [
+        331.29,
+        614.312,
+        563.09,
+        624.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "6. C【解析】血和津液都由饮食水谷精微化生，都",
+      "bbox": [
+        62.08,
+        628.072,
+        288.939,
+        637.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "肾气盛，齿更发长；二七而天癸至，任脉通，太冲脉盛，",
+      "bbox": [
+        310.43,
+        629.241,
+        557.18,
+        639.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "具有滋润濡养作用，二者之间可以相互滋生，相互转",
+      "bbox": [
+        40.74,
+        642.971,
+        288.791,
+        652.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "月事以时下，故有子；三七，肾气平均，故真牙生而长",
+      "bbox": [
+        309.84,
+        643.751,
+        554.308,
+        653.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "化，这种关系称为“津血同源”。临床上如果血液亏耗，",
+      "bbox": [
+        40.96,
+        657.581,
+        288.71,
+        667.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "极；四七，筋骨坚，发长极，身体盛壮；五七，阳明脉衰，",
+      "bbox": [
+        309.96,
+        657.991,
+        567.62,
+        667.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "尤其是失血时，脉中血少，不能化为津液，反而需要脉",
+      "bbox": [
+        40.71,
+        672.281,
+        289.035,
+        682.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "面始焦，发始堕；六七，三阳脉衰于上，面皆焦，发始白；",
+      "bbox": [
+        310.34,
+        672.491,
+        567.74,
+        682.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "外津液进入脉中，因而导致津液不足的病变，故《灵",
+      "bbox": [
+        40.69,
+        686.691,
+        289.114,
+        696.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "七七，任脉虚，太冲脉衰少，天癸竭，地道不通，故形坏",
+      "bbox": [
+        309.97,
+        687.601,
+        557.47,
+        697.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "枢·营卫生会篇》说：“夺血者无汗，夺汗者无血。”",
+      "bbox": [
+        40.88,
+        701.451,
+        278.72,
+        711.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "而无子也。”",
+      "bbox": [
+        310.15,
+        701.921,
+        369.61,
+        711.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "7. D【解析】五音按木火土金水顺序的五行归属",
+      "bbox": [
+        62.25,
+        715.711,
+        288.516,
+        725.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "17. D【解析】脾开窍于口；肺开窍于鼻；肾开窍于",
+      "bbox": [
+        331.43,
+        716.412,
+        553.516,
+        726.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "为角、徵、宫、商、羽，即角音属木，徵音属火，宫音属土，",
+      "bbox": [
+        41.23,
+        730.751,
+        307.72,
+        740.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "耳；肝开窍于目；心开窍于舌。",
+      "bbox": [
+        310.03,
+        730.581,
+        447.93,
+        740.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "商音属金，羽音属水。",
+      "bbox": [
+        41.17,
+        745.401,
+        139.67,
+        755.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "18. D【解析】湿为阴邪，易阻遏气机，损伤阳气，",
+      "bbox": [
+        331.54,
+        745.642,
+        553.48,
+        755.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "8. C【解析】五味分阴阳，辛、甘、淡属阳，酸、苦、",
+      "bbox": [
+        62.59,
+        759.611,
+        302.32,
+        769.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "湿性重浊，湿性黏滞，常见恶风寒、虽然出汗但热不退、",
+      "bbox": [
+        310.2,
+        759.781,
+        557.45,
+        769.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "咸属阴。《素问·至真要大论》说：“辛甘发散为阳，酸",
+      "bbox": [
+        41.24,
+        774.201,
+        289.174,
+        784.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "四肢困倦、关节肌肉疼痛等症状，故选D。",
+      "bbox": [
+        311.26,
+        774.621,
+        494.793,
+        784.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "苦涌泄为阴，咸味涌泄为阴，淡味渗泄为阳。”",
+      "bbox": [
+        41.61,
+        788.841,
+        249.3,
+        798.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "19. B【解析】阴偏衰，是指人体之阴气不足，滋",
+      "bbox": [
+        331.61,
+        788.552,
+        551.434,
+        798.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "215",
+      "bbox": [
+        290.69,
+        807.099,
+        304.886,
+        816.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "一",
+      "bbox": [
+        317.43,
+        805.381,
+        326.46,
+        814.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

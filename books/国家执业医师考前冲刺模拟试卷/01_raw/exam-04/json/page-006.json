@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 6,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        71.62,
+        53.024,
+        269.056,
+        64.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 干姜、附子、桂枝",
+      "bbox": [
+        93.16,
+        82.941,
+        190.737,
+        93.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "（）",
+      "bbox": [
+        330.62,
+        82.291,
+        363.696,
+        93.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 黄连、黄柏",
+      "bbox": [
+        92.97,
+        99.021,
+        158.588,
+        109.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 当归",
+      "bbox": [
+        354.0,
+        97.441,
+        391.016,
+        108.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 人参、当归",
+      "bbox": [
+        92.83,
+        115.201,
+        157.974,
+        126.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 肉桂",
+      "bbox": [
+        354.09,
+        113.741,
+        389.929,
+        124.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "64. 导赤散主治心经有热之证，属于下列",
+      "bbox": [
+        92.82,
+        130.561,
+        304.34,
+        141.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 前胡",
+      "bbox": [
+        353.94,
+        129.821,
+        389.779,
+        140.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "何种情况者为宜（）",
+      "bbox": [
+        69.11,
+        147.661,
+        185.806,
+        158.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 厚朴",
+      "bbox": [
+        353.96,
+        145.911,
+        390.779,
+        156.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 气郁化火，炼液为痰，痰火内扰者",
+      "bbox": [
+        92.64,
+        163.111,
+        272.611,
+        174.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 葶苈子",
+      "bbox": [
+        354.01,
+        162.451,
+        402.591,
+        173.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 气郁化火，心火内炽，循经上炎者",
+      "bbox": [
+        92.39,
+        179.541,
+        270.888,
+        190.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "71. 玉液汤的功用是（）",
+      "bbox": [
+        354.23,
+        178.761,
+        489.116,
+        189.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 气火内郁，暗耗阴血，虚热上炎者",
+      "bbox": [
+        92.33,
+        196.131,
+        271.112,
+        207.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 滋阴清热",
+      "bbox": [
+        354.26,
+        194.941,
+        415.854,
+        205.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 心火亢盛，烦热谵语，口舌生疮，邪实而",
+      "bbox": [
+        92.17,
+        212.561,
+        304.817,
+        223.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 滋阴养胃",
+      "bbox": [
+        354.01,
+        211.601,
+        413.393,
+        222.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "正不虚者",
+      "bbox": [
+        68.89,
+        229.911,
+        114.634,
+        240.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 养阴润肺",
+      "bbox": [
+        354.07,
+        228.051,
+        414.511,
+        238.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 心火上炎，或下移小肠，水虚火不实者",
+      "bbox": [
+        92.3,
+        245.651,
+        295.433,
+        256.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 养阴清肺",
+      "bbox": [
+        354.0,
+        244.491,
+        415.356,
+        255.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "65. 首选用于治凉燥的方剂是（）",
+      "bbox": [
+        92.42,
+        262.191,
+        275.27,
+        273.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 润燥止渴",
+      "bbox": [
+        354.17,
+        260.901,
+        414.37,
+        271.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 桑菊饮",
+      "bbox": [
+        92.64,
+        278.391,
+        141.81,
+        289.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "72. 黄芪桂枝五物汤与当归四逆汤组成中",
+      "bbox": [
+        354.3,
+        277.541,
+        564.23,
+        288.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 银翘散",
+      "bbox": [
+        92.25,
+        295.181,
+        139.85,
+        306.081
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "均含有的药物是（）",
+      "bbox": [
+        330.37,
+        294.091,
+        447.433,
+        305.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 杏苏散",
+      "bbox": [
+        92.25,
+        311.531,
+        140.395,
+        322.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 生姜、芍药、桂枝",
+      "bbox": [
+        354.2,
+        310.071,
+        453.038,
+        320.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 清燥救肺汤",
+      "bbox": [
+        92.22,
+        328.061,
+        164.584,
+        338.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 大枣、桂枝、生姜",
+      "bbox": [
+        353.96,
+        327.001,
+        451.401,
+        337.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 麻杏石甘汤",
+      "bbox": [
+        92.24,
+        344.601,
+        164.082,
+        355.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 黄芪、桂枝、芍药",
+      "bbox": [
+        354.03,
+        343.131,
+        451.517,
+        354.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "66. 痛泻要方中配伍防风的主要用意",
+      "bbox": [
+        92.49,
+        360.811,
+        292.239,
+        371.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "是D.芍药、生姜、大枣",
+      "bbox": [
+        294.455,
+        359.821,
+        451.994,
+        371.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "（）",
+      "bbox": [
+        69.29,
+        378.001,
+        102.013,
+        388.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 桂枝、芍药、大枣",
+      "bbox": [
+        354.13,
+        376.191,
+        451.571,
+        387.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 祛风止痉",
+      "bbox": [
+        92.59,
+        393.941,
+        154.066,
+        404.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "73. 下列各项，属痰湿内阻头晕临床表现",
+      "bbox": [
+        354.31,
+        392.941,
+        563.717,
+        403.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 散寒除湿",
+      "bbox": [
+        92.3,
+        410.271,
+        152.218,
+        421.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "的是（）",
+      "bbox": [
+        330.98,
+        409.511,
+        387.776,
+        420.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 散肝疏脾",
+      "bbox": [
+        92.33,
+        426.391,
+        152.542,
+        437.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 头晕胀痛",
+      "bbox": [
+        354.2,
+        425.551,
+        415.545,
+        436.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 疏风宽肠",
+      "bbox": [
+        92.18,
+        443.121,
+        153.013,
+        454.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 头晕昏沉",
+      "bbox": [
+        354.15,
+        442.151,
+        414.089,
+        453.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 疏风止痛",
+      "bbox": [
+        92.25,
+        459.391,
+        152.505,
+        470.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 头晕眼花",
+      "bbox": [
+        354.19,
+        458.511,
+        414.259,
+        469.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "67. 肾气丸中配伍少量桂枝、附子的主要",
+      "bbox": [
+        92.26,
+        475.551,
+        305.353,
+        486.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 头晕耳鸣",
+      "bbox": [
+        354.03,
+        474.731,
+        414.34,
+        485.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "用意是（）",
+      "bbox": [
+        68.08,
+        492.551,
+        138.386,
+        503.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 头晕欲仆",
+      "bbox": [
+        354.36,
+        491.241,
+        414.354,
+        502.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 温肾暖脾，以助阳气",
+      "bbox": [
+        92.06,
+        508.341,
+        207.382,
+        519.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "74. 脾肾亏虚的目态是（）",
+      "bbox": [
+        354.39,
+        507.531,
+        499.363,
+        518.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 温肾助阳，散寒通脉",
+      "bbox": [
+        91.83,
+        524.671,
+        206.047,
+        535.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 戴眼反折",
+      "bbox": [
+        354.39,
+        523.961,
+        415.879,
+        534.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 温补肾阳，少火生气",
+      "bbox": [
+        91.85,
+        541.071,
+        206.213,
+        551.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 目睛微定",
+      "bbox": [
+        354.18,
+        540.631,
+        413.738,
+        551.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 温补脾阳，化气行水",
+      "bbox": [
+        91.74,
+        557.511,
+        206.582,
+        568.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 昏睡露睛",
+      "bbox": [
+        354.3,
+        557.111,
+        414.163,
+        568.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 补阳益精，温肾纳气",
+      "bbox": [
+        91.87,
+        574.091,
+        205.786,
+        584.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 双睑下垂",
+      "bbox": [
+        354.25,
+        573.651,
+        414.896,
+        584.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "68. 朱砂安神丸组成中含有的药物是（",
+      "bbox": [
+        92.08,
+        590.561,
+        274.75,
+        601.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "） E.横目斜视",
+      "bbox": [
+        296.7,
+        589.981,
+        414.431,
+        601.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 栀子",
+      "bbox": [
+        91.84,
+        606.981,
+        129.598,
+        617.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "75. 风痰的特征是（）",
+      "bbox": [
+        354.5,
+        606.551,
+        472.833,
+        617.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 黄连",
+      "bbox": [
+        92.03,
+        623.941,
+        127.662,
+        634.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 色黄黏稠",
+      "bbox": [
+        354.3,
+        622.811,
+        415.489,
+        633.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 石膏",
+      "bbox": [
+        91.95,
+        640.241,
+        127.865,
+        651.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 白而清稀",
+      "bbox": [
+        354.22,
+        639.641,
+        414.071,
+        650.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 竹叶",
+      "bbox": [
+        91.85,
+        656.671,
+        128.354,
+        667.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 清稀多泡沫",
+      "bbox": [
+        354.4,
+        656.131,
+        426.58,
+        667.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 知母",
+      "bbox": [
+        92.07,
+        673.331,
+        128.062,
+        684.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 白滑而量多",
+      "bbox": [
+        354.29,
+        672.751,
+        426.709,
+        683.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "69. 紫雪的功用是（）",
+      "bbox": [
+        92.23,
+        689.561,
+        215.136,
+        700.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 少而黏稠",
+      "bbox": [
+        354.46,
+        689.361,
+        414.378,
+        700.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 开窍定惊，清热化痰",
+      "bbox": [
+        92.37,
+        705.811,
+        206.907,
+        716.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "76. 湿热内盛的舌象是（）",
+      "bbox": [
+        354.6,
+        706.291,
+        501.569,
+        717.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 清热解毒，开窍醒神",
+      "bbox": [
+        92.32,
+        722.301,
+        204.862,
+        733.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 舌红苔白滑",
+      "bbox": [
+        354.52,
+        722.651,
+        427.67,
+        733.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 清热解毒，开窍安神",
+      "bbox": [
+        92.48,
+        738.771,
+        205.273,
+        749.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 舌淡嫩苔白滑",
+      "bbox": [
+        354.31,
+        738.941,
+        438.098,
+        749.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 化浊开窍，清热解毒",
+      "bbox": [
+        92.42,
+        755.201,
+        206.386,
+        766.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 舌边红苔黑润",
+      "bbox": [
+        354.39,
+        755.581,
+        437.938,
+        766.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 清热开窍，息风止痉",
+      "bbox": [
+        92.68,
+        771.741,
+        206.314,
+        782.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 舌红瘦苔黑",
+      "bbox": [
+        354.23,
+        772.021,
+        426.684,
+        782.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "70. 苏子降气汤组成中不包含的药物是",
+      "bbox": [
+        92.88,
+        788.031,
+        305.469,
+        798.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 舌绛苔黏腻",
+      "bbox": [
+        354.4,
+        788.471,
+        426.635,
+        799.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—",
+      "bbox": [
+        288.54,
+        808.215,
+        298.06,
+        817.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "148—",
+      "bbox": [
+        308.73,
+        807.191,
+        345.4,
+        817.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

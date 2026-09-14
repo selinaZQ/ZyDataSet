@@ -1,0 +1,934 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 23,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        431.12,
+        52.333,
+        549.573,
+        66.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "痛、恶心伴非喷射性呕吐1次入院。体检：神",
+      "bbox": [
+        56.2,
+        83.023,
+        297.414,
+        95.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 病毒性脑炎",
+      "bbox": [
+        346.79,
+        84.663,
+        419.804,
+        97.777
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "清，全身皮肤散在瘀点、瘀斑，颈项抵抗，心率",
+      "bbox": [
+        56.84,
+        98.943,
+        303.746,
+        110.633
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "118. 患者，男，50岁。突起呼吸困难，咳粉红",
+      "bbox": [
+        347.73,
+        100.253,
+        571.27,
+        112.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "120次/分，双肺无异常，腹软无压痛。化验检",
+      "bbox": [
+        57.78,
+        115.333,
+        297.82,
+        127.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "色泡沫痰,血压25.3/13.3kPa（190/100mmHg）.",
+      "bbox": [
+        322.33,
+        116.253,
+        549.562,
+        129.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "查：血白细胞计数,中性粒细胞",
+      "bbox": [
+        56.2,
+        131.293,
+        297.787,
+        144.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "该患者的最佳治疗药物是（）",
+      "bbox": [
+        321.88,
+        132.463,
+        485.746,
+        146.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "0. 89,淋巴细胞0.05,单核细胞0.06.最可能的",
+      "bbox": [
+        56.58,
+        146.883,
+        296.488,
+        158.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 毛花苷C",
+      "bbox": [
+        346.96,
+        148.223,
+        409.417,
+        161.635
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "诊断是（）",
+      "bbox": [
+        56.51,
+        163.723,
+        127.066,
+        176.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 氨茶碱",
+      "bbox": [
+        346.93,
+        164.223,
+        395.69,
+        177.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 伤寒",
+      "bbox": [
+        80.16,
+        179.633,
+        118.42,
+        192.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 硝普钠",
+      "bbox": [
+        346.85,
+        180.153,
+        395.55,
+        192.915
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 流行性脑脊髓膜炎",
+      "bbox": [
+        80.11,
+        195.663,
+        189.283,
+        208.633
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 多巴酚丁胺",
+      "bbox": [
+        346.69,
+        196.143,
+        421.137,
+        209.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 结核性脑膜炎",
+      "bbox": [
+        79.87,
+        212.353,
+        165.114,
+        225.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 硝酸甘油",
+      "bbox": [
+        346.86,
+        212.163,
+        407.271,
+        224.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 流行性乙型脑炎",
+      "bbox": [
+        79.48,
+        228.343,
+        178.219,
+        241.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        239.32,
+        261.232,
+        380.203,
+        274.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        83.3,
+        339.113,
+        203.634,
+        350.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 主动脉瓣狭窄",
+      "bbox": [
+        346.1,
+        339.683,
+        431.936,
+        352.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "患者，女，50岁。近几年逐渐出现心悸、乏",
+      "bbox": [
+        80.54,
+        354.613,
+        297.353,
+        366.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 肥厚型梗阻性心肌",
+      "bbox": [
+        346.29,
+        355.643,
+        457.507,
+        368.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "力、活动后气急。体检发现：心脏向左下扩大。",
+      "bbox": [
+        57.15,
+        370.663,
+        302.64,
+        382.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "120. 对诊断最有价值的检查方法是（）",
+      "bbox": [
+        347.2,
+        371.133,
+        560.249,
+        384.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "主动脉听诊区闻及舒张期泼水样杂音。",
+      "bbox": [
+        56.2,
+        387.293,
+        255.27,
+        399.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 胸部X线摄片",
+      "bbox": [
+        345.92,
+        387.673,
+        435.475,
+        401.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "119. 该患者首先考虑的诊断是（）",
+      "bbox": [
+        81.64,
+        403.193,
+        273.996,
+        416.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 超声心动图",
+      "bbox": [
+        345.8,
+        403.773,
+        417.6,
+        416.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 二尖瓣狭窄",
+      "bbox": [
+        80.9,
+        419.183,
+        155.669,
+        432.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 冠状动脉造影",
+      "bbox": [
+        346.13,
+        419.653,
+        431.642,
+        432.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 二尖瓣关闭不全",
+      "bbox": [
+        80.69,
+        435.213,
+        179.302,
+        448.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 心电图",
+      "bbox": [
+        345.8,
+        435.683,
+        394.615,
+        448.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 主动脉瓣关闭不全",
+      "bbox": [
+        81.01,
+        450.153,
+        191.596,
+        463.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 心脏核素检查",
+      "bbox": [
+        346.02,
+        451.643,
+        431.677,
+        464.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        240.66,
+        484.203,
+        378.016,
+        497.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        82.5,
+        561.073,
+        228.092,
+        574.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "124. 右心衰竭时典型的体征是（）",
+      "bbox": [
+        347.21,
+        562.673,
+        541.026,
+        575.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 头痛伴剧烈呕吐",
+      "bbox": [
+        81.59,
+        577.603,
+        181.181,
+        590.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        347.31,
+        577.683,
+        493.806,
+        590.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 头痛伴癫痫",
+      "bbox": [
+        81.82,
+        592.593,
+        154.424,
+        605.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "A. BNP",
+      "bbox": [
+        346.24,
+        596.053,
+        385.564,
+        607.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 头痛伴视力障碍",
+      "bbox": [
+        81.83,
+        608.673,
+        179.383,
+        621.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 超声心动图",
+      "bbox": [
+        346.37,
+        609.033,
+        417.973,
+        621.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 头痛伴眩晕",
+      "bbox": [
+        81.78,
+        623.273,
+        155.587,
+        636.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "C. X线",
+      "bbox": [
+        346.39,
+        625.133,
+        383.16,
+        637.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 头痛伴发热",
+      "bbox": [
+        81.85,
+        639.683,
+        155.449,
+        652.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 放射性核素检查",
+      "bbox": [
+        346.3,
+        640.813,
+        445.05,
+        653.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "121. 脑内寄生虫（）",
+      "bbox": [
+        82.58,
+        654.203,
+        201.319,
+        667.525
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 漂浮导管血流动力学检查",
+      "bbox": [
+        346.56,
+        655.433,
+        493.787,
+        669.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "122. 青光眼（）",
+      "bbox": [
+        82.25,
+        670.423,
+        177.186,
+        683.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "125. 可反映心力衰竭预后的主要指标是",
+      "bbox": [
+        347.66,
+        671.653,
+        562.991,
+        684.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        82.1,
+        686.323,
+        227.696,
+        699.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "（）",
+      "bbox": [
+        323.2,
+        688.783,
+        357.339,
+        702.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 呼吸困难",
+      "bbox": [
+        80.81,
+        702.013,
+        143.693,
+        714.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "126. 心力衰竭肺水肿的主要诊断指标是",
+      "bbox": [
+        347.65,
+        703.653,
+        562.567,
+        716.887
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 咳嗽",
+      "bbox": [
+        80.95,
+        718.103,
+        117.712,
+        731.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（）",
+      "bbox": [
+        323.43,
+        722.578,
+        357.353,
+        734.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 咯血",
+      "bbox": [
+        80.75,
+        735.243,
+        119.03,
+        748.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        347.81,
+        734.783,
+        493.619,
+        747.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 下垂性凹陷性水肿",
+      "bbox": [
+        80.63,
+        749.213,
+        190.537,
+        761.723
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 全血细胞减少",
+      "bbox": [
+        347.06,
+        751.333,
+        434.6,
+        764.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 紫绀",
+      "bbox": [
+        80.88,
+        766.153,
+        118.32,
+        778.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 嗜碱性粒细胞增多",
+      "bbox": [
+        346.92,
+        766.463,
+        455.877,
+        779.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "123. 左心衰竭时最早出现和最重要的症",
+      "bbox": [
+        81.69,
+        780.663,
+        297.321,
+        793.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 骨髓中原始细胞明显增多",
+      "bbox": [
+        346.79,
+        782.623,
+        492.43,
+        795.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "状是（）",
+      "bbox": [
+        56.37,
+        795.993,
+        116.026,
+        808.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 酸化溶血试验阳性",
+      "bbox": [
+        346.81,
+        797.383,
+        457.384,
+        810.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "117",
+      "bbox": [
+        301.92,
+        818.918,
+        316.605,
+        828.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

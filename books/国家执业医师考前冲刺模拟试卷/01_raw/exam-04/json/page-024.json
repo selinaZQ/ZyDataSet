@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 24,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        51.85,
+        56.697,
+        249.394,
+        68.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 类风湿结节",
+      "bbox": [
+        73.15,
+        86.127,
+        144.598,
+        97.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 干咳无痰",
+      "bbox": [
+        334.2,
+        86.037,
+        394.71,
+        97.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 抗角蛋白抗体阳性",
+      "bbox": [
+        73.05,
+        102.046,
+        179.883,
+        113.416
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "131. 急性左心功能不全，常伴有（）",
+      "bbox": [
+        334.55,
+        102.176,
+        534.47,
+        113.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "121. 提示类风湿关节炎处于活动期的表",
+      "bbox": [
+        73.51,
+        118.226,
+        285.235,
+        129.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "132. 肺炎球菌肺炎，常伴有（）",
+      "bbox": [
+        334.47,
+        118.456,
+        510.023,
+        129.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "现是（）",
+      "bbox": [
+        49.41,
+        135.427,
+        106.106,
+        146.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "（133～134题共用备选答案）",
+      "bbox": [
+        334.9,
+        134.797,
+        481.934,
+        146.147
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "122. 类风湿关节炎最多见的表现是（）",
+      "bbox": [
+        73.27,
+        150.927,
+        281.016,
+        162.277
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 呼吸困难",
+      "bbox": [
+        334.15,
+        151.346,
+        396.257,
+        162.697
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        73.5,
+        167.107,
+        215.828,
+        178.447
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 呕吐",
+      "bbox": [
+        334.02,
+        168.367,
+        370.081,
+        179.707
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 慢性病性贫血",
+      "bbox": [
+        72.82,
+        184.097,
+        157.07,
+        195.427
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 腰痛",
+      "bbox": [
+        334.05,
+        184.247,
+        370.387,
+        195.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 缺铁性贫血",
+      "bbox": [
+        72.6,
+        200.647,
+        143.373,
+        211.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 肌肉震颤",
+      "bbox": [
+        333.98,
+        200.597,
+        395.59,
+        211.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 再生障碍性贫血",
+      "bbox": [
+        72.34,
+        216.787,
+        167.517,
+        228.127
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 腹泻",
+      "bbox": [
+        334.11,
+        217.197,
+        370.398,
+        228.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 铁粒幼细胞性贫血",
+      "bbox": [
+        72.3,
+        233.247,
+        180.041,
+        244.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "133. 属呼吸系统疾病问诊内容的是（）",
+      "bbox": [
+        334.4,
+        232.957,
+        548.776,
+        244.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 珠蛋白生成障碍性贫血",
+      "bbox": [
+        72.4,
+        249.387,
+        203.672,
+        260.727
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "134. 属循环系统疾病问诊内容的是（）",
+      "bbox": [
+        334.36,
+        249.337,
+        548.84,
+        260.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "123. 血清铁降低，总铁结合力增高为（）",
+      "bbox": [
+        72.76,
+        265.797,
+        282.153,
+        277.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "（135～136题共用备选答案）",
+      "bbox": [
+        334.82,
+        265.917,
+        481.733,
+        277.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "124. 血清铁降低，总铁结合力降低为（）",
+      "bbox": [
+        72.78,
+        282.047,
+        282.056,
+        293.407
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 尿白细胞增多或尿菌（+）",
+      "bbox": [
+        333.97,
+        282.067,
+        481.974,
+        293.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        73.05,
+        298.277,
+        216.321,
+        309.627
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 腰痛和下腹部疼痛，寒战发热，肾区叩",
+      "bbox": [
+        333.87,
+        298.246,
+        552.138,
+        309.626
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 脑膜刺激征明显",
+      "bbox": [
+        72.25,
+        314.457,
+        169.15,
+        325.797
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "痛（+）",
+      "bbox": [
+        309.95,
+        314.657,
+        343.603,
+        326.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 脑脊液大多正常",
+      "bbox": [
+        72.13,
+        330.837,
+        167.674,
+        342.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 间歇性无症状性细菌尿和间歇性尿频、",
+      "bbox": [
+        333.83,
+        330.956,
+        552.056,
+        342.316
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 高热",
+      "bbox": [
+        71.97,
+        346.956,
+        107.7,
+        358.306
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "尿急",
+      "bbox": [
+        310.03,
+        347.603,
+        332.67,
+        358.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 抽搐",
+      "bbox": [
+        72.04,
+        363.257,
+        108.407,
+        374.597
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 水、电解质紊乱及酸碱平衡失调",
+      "bbox": [
+        333.86,
+        363.556,
+        512.583,
+        374.936
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 三偏征",
+      "bbox": [
+        72.16,
+        379.237,
+        120.151,
+        390.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 有多尿期,达3000～5000m l/d",
+      "bbox": [
+        333.99,
+        379.847,
+        501.573,
+        393.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "125. 蛛网膜下腔出血的体征是（）",
+      "bbox": [
+        72.54,
+        395.647,
+        261.827,
+        406.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "135. 慢性肾衰竭主要表现除肾功能减退、",
+      "bbox": [
+        334.31,
+        395.886,
+        551.889,
+        407.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "126. 内囊区出血的表现是（）",
+      "bbox": [
+        72.49,
+        412.027,
+        237.883,
+        423.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "代谢产物潴留外还表现（）",
+      "bbox": [
+        309.81,
+        412.137,
+        466.066,
+        424.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        72.95,
+        428.497,
+        216.367,
+        439.837
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "136. 慢性肾盂肾炎更为常见的临床表现",
+      "bbox": [
+        334.34,
+        428.656,
+        552.487,
+        440.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 血小板计数正常",
+      "bbox": [
+        72.15,
+        444.647,
+        169.685,
+        455.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "是（）",
+      "bbox": [
+        310.03,
+        444.787,
+        355.913,
+        456.157
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 网织红细胞显著减少",
+      "bbox": [
+        71.95,
+        461.007,
+        191.893,
+        472.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "（137～138题共用备选答案）",
+      "bbox": [
+        334.8,
+        461.206,
+        481.249,
+        472.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 出血时间延长",
+      "bbox": [
+        71.92,
+        477.236,
+        156.001,
+        488.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. P波",
+      "bbox": [
+        334.15,
+        477.426,
+        370.136,
+        488.796
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 凝血时间延长",
+      "bbox": [
+        71.66,
+        493.517,
+        156.608,
+        504.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "B. QRS波群",
+      "bbox": [
+        333.94,
+        493.807,
+        397.319,
+        505.147
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 白细胞显著增高",
+      "bbox": [
+        71.81,
+        509.857,
+        167.985,
+        521.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. ST段",
+      "bbox": [
+        334.08,
+        509.936,
+        376.642,
+        521.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "127. 再生障碍性贫血的是（）",
+      "bbox": [
+        72.06,
+        526.116,
+        237.826,
+        537.467
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. T波",
+      "bbox": [
+        334.04,
+        526.437,
+        370.725,
+        537.777
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "128. 特发性血小板减少性紫癜出现（）",
+      "bbox": [
+        72.2,
+        542.566,
+        281.136,
+        553.917
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. Q-T间期",
+      "bbox": [
+        334.22,
+        542.637,
+        395.172,
+        553.977
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        72.52,
+        558.697,
+        216.354,
+        570.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "137. 代表心室除极和复极总时间的是（）",
+      "bbox": [
+        334.51,
+        559.117,
+        547.936,
+        570.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 狼疮肾炎",
+      "bbox": [
+        71.73,
+        575.637,
+        132.702,
+        586.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "138. 代表心房除极波形的是（）",
+      "bbox": [
+        334.6,
+        575.127,
+        516.253,
+        586.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 贫血",
+      "bbox": [
+        71.92,
+        592.287,
+        107.111,
+        603.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "（139～140题共用备选答案）",
+      "bbox": [
+        335.06,
+        591.657,
+        481.614,
+        602.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 蝶形红斑",
+      "bbox": [
+        71.89,
+        608.487,
+        131.758,
+        619.817
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 一度房室传导阻滞",
+      "bbox": [
+        334.39,
+        607.797,
+        445.016,
+        619.127
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 皮肤光敏感",
+      "bbox": [
+        71.89,
+        624.717,
+        144.069,
+        636.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 二度Ⅱ型房室传导阻滞",
+      "bbox": [
+        334.14,
+        624.147,
+        468.133,
+        635.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 对称性多关节疼痛",
+      "bbox": [
+        71.97,
+        640.937,
+        179.156,
+        652.277
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 二度Ⅰ型房室传导阻滞",
+      "bbox": [
+        334.17,
+        640.466,
+        468.577,
+        651.816
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "129. 系统性红斑狼疮特征性的表现",
+      "bbox": [
+        72.28,
+        657.437,
+        285.825,
+        669.006
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 三度房室传导阻滞",
+      "bbox": [
+        334.05,
+        656.966,
+        444.526,
+        668.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "是（）",
+      "bbox": [
+        48.21,
+        674.527,
+        93.306,
+        685.927
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 窦房传导阻滞",
+      "bbox": [
+        334.5,
+        673.417,
+        419.709,
+        684.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "130. 系统性红斑狼疮的主要死亡原因",
+      "bbox": [
+        72.38,
+        690.116,
+        284.335,
+        701.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "139. P波与QRS波无固定关系，可见室性",
+      "bbox": [
+        334.75,
+        689.877,
+        552.92,
+        701.227
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "是（）",
+      "bbox": [
+        48.32,
+        707.067,
+        93.773,
+        718.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "自主心律心电图表现是（）",
+      "bbox": [
+        309.85,
+        706.966,
+        469.392,
+        718.406
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        72.84,
+        722.607,
+        215.405,
+        733.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "140. P-R间期固定,QRS波有脱漏的心电",
+      "bbox": [
+        334.62,
+        722.586,
+        552.115,
+        733.966
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 咯铁锈色痰",
+      "bbox": [
+        72.15,
+        739.197,
+        144.624,
+        750.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "图表现是（）",
+      "bbox": [
+        310.85,
+        739.157,
+        392.766,
+        750.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 咯粉红色泡沫痰",
+      "bbox": [
+        72.01,
+        755.467,
+        166.831,
+        766.797
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "（141～142题共用备选答案）",
+      "bbox": [
+        335.05,
+        755.177,
+        481.013,
+        766.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 咯吐大量鲜血",
+      "bbox": [
+        72.24,
+        771.867,
+        155.221,
+        783.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. ARDS",
+      "bbox": [
+        334.13,
+        771.417,
+        381.726,
+        782.717
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 咯大量脓痰",
+      "bbox": [
+        72.24,
+        788.097,
+        143.882,
+        799.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. AIDS",
+      "bbox": [
+        333.96,
+        787.847,
+        375.723,
+        799.107
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—166",
+      "bbox": [
+        268.86,
+        806.547,
+        303.37,
+        817.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        315.61,
+        806.946,
+        326.02,
+        817.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

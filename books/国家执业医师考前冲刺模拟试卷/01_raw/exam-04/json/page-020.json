@@ -1,0 +1,1181 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 20,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        56.3,
+        50.063,
+        253.003,
+        61.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 青霉素",
+      "bbox": [
+        77.96,
+        80.449,
+        125.27,
+        92.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 低钠饮食",
+      "bbox": [
+        336.72,
+        80.399,
+        396.036,
+        92.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 庆大霉素",
+      "bbox": [
+        77.58,
+        96.399,
+        136.999,
+        108.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 根据尿量多少适当限水",
+      "bbox": [
+        336.6,
+        96.539,
+        467.655,
+        108.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 四环素",
+      "bbox": [
+        77.67,
+        112.579,
+        125.35,
+        124.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 低磷饮食",
+      "bbox": [
+        336.7,
+        112.859,
+        396.353,
+        124.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "86. 患者，男，50岁。半年来经常突发胸骨",
+      "bbox": [
+        77.57,
+        128.489,
+        288.271,
+        139.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "91. 成年男性，全身高度浮肿半年余。检",
+      "bbox": [
+        336.82,
+        128.61,
+        547.647,
+        139.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "后疼痛，有窒息感，持续约1～5分钟，休息后迅",
+      "bbox": [
+        53.84,
+        144.75,
+        288.163,
+        157.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "查：血压正常，腹部移动性浊音（+），尿蛋白",
+      "bbox": [
+        312.86,
+        144.959,
+        546.58,
+        156.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "速缓解。心电图示ST段下移及T波倒置。应",
+      "bbox": [
+        53.96,
+        161.219,
+        288.223,
+        172.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "（+++）,尿中红细胞1～8/ HP,人血白蛋白/",
+      "bbox": [
+        313.88,
+        161.22,
+        546.426,
+        174.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "首先考虑的是（）",
+      "bbox": [
+        54.06,
+        177.739,
+        158.116,
+        188.899
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "球蛋白比例2.1 /2.0,酚红排泄率45%。应首",
+      "bbox": [
+        312.9,
+        177.67,
+        547.654,
+        190.346
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 稳定型劳累性心绞痛",
+      "bbox": [
+        77.64,
+        194.109,
+        196.81,
+        206.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "先考虑的是（）",
+      "bbox": [
+        312.95,
+        194.55,
+        405.706,
+        205.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 初发劳累性心绞痛",
+      "bbox": [
+        77.31,
+        210.52,
+        183.354,
+        222.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 门脉性肝硬化",
+      "bbox": [
+        336.66,
+        211.32,
+        421.342,
+        223.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 恶化型劳累性心绞痛",
+      "bbox": [
+        77.29,
+        226.939,
+        195.586,
+        238.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 急性肾小球肾炎",
+      "bbox": [
+        336.6,
+        227.809,
+        431.163,
+        239.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 自发性心绞痛",
+      "bbox": [
+        77.2,
+        243.239,
+        160.801,
+        255.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 慢性肾炎肾病型",
+      "bbox": [
+        336.49,
+        244.26,
+        431.397,
+        256.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 急性心肌梗死",
+      "bbox": [
+        77.34,
+        259.669,
+        160.765,
+        271.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 慢性肾炎普通型",
+      "bbox": [
+        336.45,
+        260.7,
+        431.681,
+        272.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "87. 患者,男,30岁。高热、寒战3天,胸",
+      "bbox": [
+        77.38,
+        275.51,
+        288.314,
+        286.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 慢性肾盂肾炎",
+      "bbox": [
+        336.58,
+        277.34,
+        419.368,
+        289.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "痛，伴咳嗽，痰中带血。听诊：右肺中部可闻及",
+      "bbox": [
+        53.86,
+        291.939,
+        288.514,
+        303.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "92. 患者,男,68岁。高血压病史20年。",
+      "bbox": [
+        336.65,
+        292.95,
+        552.95,
+        304.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "湿啰音。应首先考虑的是（）",
+      "bbox": [
+        53.71,
+        308.199,
+        217.42,
+        320.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "近日突然意识丧失，深度昏迷，出现三偏征，伴",
+      "bbox": [
+        313.12,
+        309.379,
+        547.552,
+        320.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 急性支气管炎",
+      "bbox": [
+        77.52,
+        324.75,
+        162.045,
+        336.918
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "有高热与呕血。应首先考虑的是（）",
+      "bbox": [
+        312.86,
+        325.749,
+        512.206,
+        336.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 支气管扩张",
+      "bbox": [
+        77.41,
+        341.089,
+        148.789,
+        353.148
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 内囊—基底节出血（外侧型）",
+      "bbox": [
+        336.64,
+        342.07,
+        491.033,
+        354.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 胸膜炎",
+      "bbox": [
+        77.46,
+        357.56,
+        125.022,
+        369.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 内囊—基底节出血（内侧型）",
+      "bbox": [
+        336.42,
+        358.39,
+        488.87,
+        370.966
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 肺炎",
+      "bbox": [
+        77.33,
+        374.07,
+        113.845,
+        386.128
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 桥脑出血",
+      "bbox": [
+        336.42,
+        375.58,
+        395.516,
+        387.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 肺癌",
+      "bbox": [
+        77.64,
+        390.18,
+        113.487,
+        402.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 小脑出血",
+      "bbox": [
+        336.4,
+        391.86,
+        396.389,
+        403.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "88. 患者，女，42岁。既往有风湿热史。活",
+      "bbox": [
+        77.63,
+        406.0,
+        288.331,
+        417.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 蛛网膜下腔出血",
+      "bbox": [
+        336.44,
+        408.05,
+        431.359,
+        419.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "动气急5年，伴夜间睡眠时阵发性干咳半年，X",
+      "bbox": [
+        54.09,
+        422.549,
+        289.252,
+        433.629
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "93. 患者，女，62岁。右侧肢体无力，两天",
+      "bbox": [
+        336.62,
+        423.84,
+        546.81,
+        434.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "线提示梨型心。确诊风心病二尖瓣狭窄还必",
+      "bbox": [
+        53.76,
+        439.069,
+        288.469,
+        450.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "后因病情渐加重就诊。血压110/80mmH g，意",
+      "bbox": [
+        312.79,
+        440.189,
+        551.823,
+        453.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "须有的诊断依据是（）",
+      "bbox": [
+        53.93,
+        455.819,
+        182.673,
+        466.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "识清，运动性失语，右侧偏瘫。可完全排除的",
+      "bbox": [
+        312.86,
+        456.529,
+        546.67,
+        467.629
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 二尖瓣开放拍击音",
+      "bbox": [
+        77.61,
+        472.67,
+        186.277,
+        484.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "诊断是（）",
+      "bbox": [
+        312.95,
+        473.2,
+        381.623,
+        484.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 二尖瓣区舒张中晚期隆隆样杂音",
+      "bbox": [
+        77.5,
+        489.069,
+        255.1,
+        501.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 脑梗死",
+      "bbox": [
+        336.52,
+        489.95,
+        385.113,
+        501.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 奔马律",
+      "bbox": [
+        77.45,
+        506.18,
+        125.148,
+        518.261
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 脑血栓形成",
+      "bbox": [
+        336.44,
+        506.24,
+        407.261,
+        518.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. Graham-Steeli杂音",
+      "bbox": [
+        77.41,
+        521.949,
+        188.918,
+        533.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 短暂性脑缺血发作",
+      "bbox": [
+        336.33,
+        522.72,
+        442.787,
+        534.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 二尖瓣面容",
+      "bbox": [
+        77.62,
+        539.139,
+        149.015,
+        551.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 脑出血",
+      "bbox": [
+        336.32,
+        539.39,
+        384.381,
+        551.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "89. 患者，男，46岁。十二指肠溃疡病史5",
+      "bbox": [
+        77.68,
+        554.859,
+        288.408,
+        565.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 腔隙性脑梗死",
+      "bbox": [
+        336.59,
+        555.69,
+        419.421,
+        567.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "年，因饮食不当，突发上腹剧痛就诊，疑诊为十",
+      "bbox": [
+        53.85,
+        571.359,
+        288.303,
+        582.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "94. 患者，男，55岁。劳累及情绪激动后，",
+      "bbox": [
+        336.55,
+        571.7,
+        546.551,
+        582.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "二指肠溃疡并发急性穿孔。明确诊断不宜进",
+      "bbox": [
+        53.9,
+        587.818,
+        288.429,
+        598.968
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "多次出现短时间胸骨后疼痛，下列哪项血清检",
+      "bbox": [
+        313.32,
+        588.049,
+        547.55,
+        599.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "行的检查是（）",
+      "bbox": [
+        53.95,
+        604.839,
+        147.086,
+        616.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "查对明确诊断最有参考意义（）",
+      "bbox": [
+        312.79,
+        604.629,
+        488.183,
+        615.709
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 电子胃镜",
+      "bbox": [
+        78.17,
+        621.71,
+        138.517,
+        633.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 钾",
+      "bbox": [
+        336.7,
+        621.69,
+        362.39,
+        633.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. X线腹部透视",
+      "bbox": [
+        77.95,
+        637.779,
+        159.974,
+        648.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 钠",
+      "bbox": [
+        336.29,
+        638.16,
+        360.64,
+        650.336
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "C. X线钡餐",
+      "bbox": [
+        77.92,
+        654.83,
+        136.737,
+        666.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 氯化物",
+      "bbox": [
+        336.57,
+        654.77,
+        383.958,
+        666.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 腹部B超",
+      "bbox": [
+        77.81,
+        671.18,
+        139.233,
+        683.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 钙",
+      "bbox": [
+        336.33,
+        671.36,
+        361.49,
+        683.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 诊断性腹腔穿刺",
+      "bbox": [
+        77.82,
+        687.569,
+        172.35,
+        699.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 胆固醇及甘油三酯",
+      "bbox": [
+        336.51,
+        687.97,
+        443.227,
+        699.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "90. 患者,男, 30岁。查血压160/",
+      "bbox": [
+        77.74,
+        703.87,
+        285.536,
+        715.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "95. 患者，女，34岁。皮肤反复出血半年。",
+      "bbox": [
+        336.73,
+        703.81,
+        546.48,
+        714.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "95mmHg,Hb 85g/L,蛋白（+）,颗粒管型2～",
+      "bbox": [
+        53.93,
+        719.979,
+        280.176,
+        733.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "检查血红蛋白90g/L，白细胞血",
+      "bbox": [
+        312.94,
+        720.29,
+        547.72,
+        733.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "3个/HP,BUN 10mmol /L,Cr 220mmol /L。对",
+      "bbox": [
+        53.79,
+        736.269,
+        288.412,
+        749.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "小板骨髓增生活跃，颗粒型巨核细",
+      "bbox": [
+        312.94,
+        737.019,
+        546.441,
+        748.627
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "该患者不宜采取（）",
+      "bbox": [
+        53.67,
+        752.939,
+        170.283,
+        764.089
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "胞增多。应首先考虑的是（）",
+      "bbox": [
+        313.02,
+        753.34,
+        476.543,
+        764.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 低蛋白饮食",
+      "bbox": [
+        77.68,
+        769.669,
+        150.361,
+        781.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 再生障碍性贫血",
+      "bbox": [
+        336.69,
+        770.349,
+        432.838,
+        782.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "B. 高蛋白饮食",
+      "bbox": [
+        77.5,
+        785.969,
+        148.719,
+        798.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 急性白血病",
+      "bbox": [
+        336.57,
+        786.809,
+        407.358,
+        798.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "162—",
+      "bbox": [
+        292.17,
+        805.399,
+        328.01,
+        815.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

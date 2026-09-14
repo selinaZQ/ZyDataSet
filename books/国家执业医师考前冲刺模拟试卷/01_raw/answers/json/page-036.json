@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 36,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        56.05,
+        27.971,
+        257.122,
+        38.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "麻痹所致。面神经麻痹可分为中枢型（由脑血管病变、",
+      "bbox": [
+        54.27,
+        58.76,
+        295.856,
+        68.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "111. A【解析】霍乱的腹泻，为无痛性，无里急后",
+      "bbox": [
+        338.63,
+        58.381,
+        559.47,
+        68.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "颅内肿瘤或炎症等引起）和周围型（由面神经核或面神",
+      "bbox": [
+        54.28,
+        73.19,
+        295.624,
+        83.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "重感，每日大便数次甚至难以计数，量多，每天",
+      "bbox": [
+        317.21,
+        72.8,
+        559.647,
+        83.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "经受损所致）。周围型患者，出现一侧面部肌肉麻痹，",
+      "bbox": [
+        54.13,
+        87.79,
+        295.244,
+        97.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "2000～4000ml,严重者8000ml以上,初为黄水样,不久",
+      "bbox": [
+        317.41,
+        87.481,
+        559.97,
+        97.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "可表现出：病变侧眼裂增大，不能皱额，鼻唇沟变浅，口",
+      "bbox": [
+        54.18,
+        102.35,
+        303.43,
+        112.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "转为米汁水水样便，少数患者有血性水样便或柏油样",
+      "bbox": [
+        317.28,
+        102.1,
+        560.165,
+        112.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "角下垂等。而中枢型患者，由于面神经核上部受双侧",
+      "bbox": [
+        54.08,
+        117.01,
+        295.696,
+        126.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "便，腹泻后出现喷射性和边疆性呕吐，初为胃内容物继",
+      "bbox": [
+        317.42,
+        117.04,
+        559.924,
+        127.02
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "大脑皮质支配，由它发出的运动纤维支配颜面上部肌",
+      "bbox": [
+        54.1,
+        131.89,
+        296.155,
+        141.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "而水样、米泔样，由于剧烈泻吐，体内大量液体及电解",
+      "bbox": [
+        317.56,
+        131.79,
+        560.064,
+        141.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "肉；面神经核下部只受对侧大脑皮质支配，由它发出的",
+      "bbox": [
+        54.76,
+        146.84,
+        295.874,
+        156.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "质丢失而出现脱水表现，轻者口渴，眼窝稍陷，唇舌干",
+      "bbox": [
+        317.49,
+        146.64,
+        559.723,
+        156.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "运动纤维支配颜面下部肌肉。核上组织病变时，临床",
+      "bbox": [
+        53.94,
+        161.45,
+        296.214,
+        171.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "燥，重者烦躁不安，眼窝下陷，两颊深凹，精神呆滞，皮",
+      "bbox": [
+        317.48,
+        161.1,
+        566.48,
+        171.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "表现为对侧颜面下部表情肌麻痹，可以皱额。",
+      "bbox": [
+        54.04,
+        176.47,
+        253.84,
+        186.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "肤干而皱缩失去弹性，嘶哑，四肢冰凉体温下降，故血",
+      "bbox": [
+        317.46,
+        175.77,
+        559.964,
+        185.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "101. A【解析】缺铁性贫血患者每日口服铁剂后，",
+      "bbox": [
+        75.07,
+        191.171,
+        295.722,
+        201.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "液浓缩，脉搏细弱，心音低钝，血压下降。",
+      "bbox": [
+        317.41,
+        191.101,
+        505.51,
+        201.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "短时间内网织红细胞计数明显升高，常于5～10天达",
+      "bbox": [
+        53.9,
+        205.94,
+        296.253,
+        216.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "112. A【解析】米汁水样便为霍乱特点。霍乱弧",
+      "bbox": [
+        339.04,
+        205.561,
+        559.8,
+        215.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "到高峰,平均6% ～8%,范围2% ～16%,以后又降至",
+      "bbox": [
+        54.03,
+        220.29,
+        296.217,
+        230.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "菌不直接侵犯入血，而是通过其肠毒素致病，故血培养",
+      "bbox": [
+        317.62,
+        220.68,
+        559.867,
+        230.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "正常范围内，这种反应只出现于缺铁性贫血。另外在",
+      "bbox": [
+        53.76,
+        235.49,
+        296.254,
+        245.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "无意义。",
+      "bbox": [
+        317.49,
+        236.28,
+        357.37,
+        246.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "血片中可见到红细胞染色浅淡，中心淡染区扩大，故本",
+      "bbox": [
+        53.76,
+        250.63,
+        296.236,
+        260.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "113. A【解析】患者全身及巩膜黄染，考虑阻塞性",
+      "bbox": [
+        338.9,
+        249.921,
+        559.615,
+        260.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "病例缺铁性贫血诊断成立。",
+      "bbox": [
+        53.67,
+        265.28,
+        173.31,
+        275.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "黄疸，基本排除BD。B项有暴饮暴食诱因，上腹部压",
+      "bbox": [
+        317.67,
+        265.071,
+        559.734,
+        275.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "102. C【解析】除腹壁菲薄的多产妇和极度消瘦",
+      "bbox": [
+        74.98,
+        279.381,
+        296.358,
+        289.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "痛、反跳痛，血清淀粉酶升高。C项是由各种原因引起",
+      "bbox": [
+        317.57,
+        279.951,
+        559.823,
+        289.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "的老人外，正常人腹部看不见蠕动波。幽门梗阻时，由",
+      "bbox": [
+        54.37,
+        295.0,
+        295.726,
+        304.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "的肠道蛔虫运动活跃，并钻入胆道而出现的急性上腹",
+      "bbox": [
+        318.27,
+        294.8,
+        559.424,
+        304.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "于胃的蠕动增强，常可以看到由左肋下向右进行的较",
+      "bbox": [
+        54.11,
+        309.71,
+        296.604,
+        319.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "痛或胆道感染。发作时患者疼痛难以忍受。蛔虫钻入",
+      "bbox": [
+        317.44,
+        309.3,
+        559.714,
+        319.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "强蠕动波。",
+      "bbox": [
+        53.99,
+        324.32,
+        103.89,
+        334.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "胆道所引起的胆管阻塞是不完全的，故甚少发生黄疸，",
+      "bbox": [
+        317.51,
+        324.65,
+        558.624,
+        334.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "103. D【解析】肺癌剧烈干咳，痰中带血丝。肺脓",
+      "bbox": [
+        75.07,
+        339.221,
+        296.748,
+        349.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "主要是蛔虫带入的细菌导致胆管炎症。DE项进食油",
+      "bbox": [
+        317.91,
+        339.211,
+        558.866,
+        349.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "肿咯脓痰。肺结核痰中带血丝，伴低热，盗汗。急性肺",
+      "bbox": [
+        53.85,
+        354.22,
+        296.584,
+        364.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "腻食物后或夜间易发作，Murphy（+），较少发生胆道的",
+      "bbox": [
+        317.65,
+        353.751,
+        559.038,
+        363.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "水肿为粉红色泡沫样痰。支气管扩张痰量较多，为湿",
+      "bbox": [
+        53.76,
+        369.21,
+        296.913,
+        379.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "完全堵塞。A项表现为进行性的胆道梗阻，且有食欲",
+      "bbox": [
+        317.74,
+        368.84,
+        559.512,
+        378.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "性咳嗽。",
+      "bbox": [
+        54.0,
+        384.02,
+        93.84,
+        393.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "减退、乏力的临床表现。",
+      "bbox": [
+        317.59,
+        384.01,
+        427.15,
+        393.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "104. D【解析】心尖搏动出现在剑突下，提示右心",
+      "bbox": [
+        75.31,
+        398.721,
+        296.755,
+        408.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "114. B【解析】首先是诊断，心悸、出汗、消瘦，",
+      "bbox": [
+        338.86,
+        398.381,
+        562.1,
+        408.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "肥厚表现，而肺动脉瓣第2心音增强，提示肺动脉压力",
+      "bbox": [
+        53.96,
+        413.43,
+        296.237,
+        423.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": ",均升高，考虑为甲状腺功能亢进症，患者15",
+      "bbox": [
+        336.73,
+        413.381,
+        558.886,
+        423.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "增高，而右心肥厚及肺动脉高压，提示患者有肺心病",
+      "bbox": [
+        53.77,
+        428.35,
+        296.923,
+        438.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "年前因甲亢行甲状腺次全切除术。心电图检查提示房",
+      "bbox": [
+        317.8,
+        428.09,
+        558.977,
+        438.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "表现。",
+      "bbox": [
+        53.89,
+        443.31,
+        83.74,
+        453.26
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "颤，诊断明确，甲状腺功能亢进症复发，为甲状腺功能",
+      "bbox": [
+        318.01,
+        443.15,
+        559.112,
+        453.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "105. D【解析】慢性粒细胞白血病的诊治。患者",
+      "bbox": [
+        75.29,
+        457.721,
+        296.847,
+        467.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "亢进症心脏病。患者50岁有手术史，再次手术不是首",
+      "bbox": [
+        317.74,
+        457.731,
+        558.979,
+        467.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "脾肿大，骨髓象原始粒细胞<10%，Ph染色体阳性支",
+      "bbox": [
+        53.75,
+        472.45,
+        296.948,
+        482.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "选，服碘溶液往往用于手术前和放射碘之前的准备阶",
+      "bbox": [
+        317.88,
+        472.57,
+        559.207,
+        482.52
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "持慢性粒细胞白血病，其化疗应选用羟基脲口服。",
+      "bbox": [
+        53.81,
+        487.25,
+        273.15,
+        497.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "段；甲状腺素片主要用于甲低。甲状腺功能亢进症心",
+      "bbox": [
+        317.89,
+        487.05,
+        558.802,
+        497.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "106. C【解析】根据题意可知，该患者可辨证为肾",
+      "bbox": [
+        75.1,
+        502.281,
+        296.697,
+        512.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "脏病首选治疗是放射碘。",
+      "bbox": [
+        317.61,
+        502.36,
+        427.17,
+        512.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "阳虚证，该证是由肾阳虚损，气化失常，水湿下注，任带",
+      "bbox": [
+        54.57,
+        517.24,
+        303.32,
+        527.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "115. A【解析】消化性溃疡疼痛特点为上腹部长",
+      "bbox": [
+        339.04,
+        516.761,
+        558.8,
+        526.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "失约所致，治宜温肾培元，固涩止带，治疗应首选内",
+      "bbox": [
+        53.64,
+        531.66,
+        296.354,
+        541.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "期反复周期性发作，溃疡疼痛与饮食之间的关系具有",
+      "bbox": [
+        317.77,
+        531.55,
+        559.121,
+        541.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "补丸。",
+      "bbox": [
+        53.73,
+        546.991,
+        83.55,
+        556.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "明显的相关性和节律性。B项有上腹部持续性疼痛，进",
+      "bbox": [
+        318.5,
+        546.391,
+        559.177,
+        556.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "107. C【解析】癫痫的诊断。该患者呈现典型的",
+      "bbox": [
+        75.01,
+        561.211,
+        296.746,
+        571.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "食后会加重。CDE项造成的腹痛与进食无明显相",
+      "bbox": [
+        317.63,
+        561.231,
+        559.088,
+        571.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "癫痫发作过程，突然意识丧失，全身抽搐，面色紫绀，口",
+      "bbox": [
+        53.72,
+        576.521,
+        302.47,
+        586.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "关性。",
+      "bbox": [
+        317.85,
+        576.52,
+        347.7,
+        586.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "吐白沫，小便失禁，短时间内停止发作，并且意识逐渐",
+      "bbox": [
+        54.16,
+        591.12,
+        297.079,
+        601.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "116. A【解析】再障系多种病因引起的造血障碍，",
+      "bbox": [
+        339.22,
+        591.051,
+        558.737,
+        601.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "恢复，故选C，其他均不可能，因为均不会有意识丧失。",
+      "bbox": [
+        53.75,
+        605.881,
+        300.759,
+        615.811
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "导致红骨髓总容量减少，代以脂肪髓，造血衰竭，以全",
+      "bbox": [
+        318.17,
+        606.321,
+        559.444,
+        616.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "108. E【解析】肺癌的临床表现：咳嗽咳痰，痰中",
+      "bbox": [
+        75.04,
+        620.651,
+        296.475,
+        631.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "血细胞减少为主要表现的一组综合征。而BCDE项均",
+      "bbox": [
+        318.1,
+        620.711,
+        559.032,
+        630.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "带血，胸闷气急，胸痛。X线见肺占位性病变和淋巴结",
+      "bbox": [
+        53.68,
+        635.64,
+        296.978,
+        645.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "只有血红细胞的降低。",
+      "bbox": [
+        318.29,
+        635.77,
+        417.99,
+        645.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "肿大。肺结核为结核菌感染所致的肺部病变，有低热、",
+      "bbox": [
+        53.62,
+        650.38,
+        296.798,
+        660.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "117. B【解析】当血糖高于正常范围而又未达到",
+      "bbox": [
+        339.31,
+        650.561,
+        558.836,
+        660.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "盗汗、消瘦、乏力等结核感染表现，同时可有咳嗽、胸闷",
+      "bbox": [
+        53.95,
+        665.79,
+        303.2,
+        675.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "诊断标准，可进行葡萄糖耐量试验。而重复一次空腹",
+      "bbox": [
+        317.88,
+        665.88,
+        558.815,
+        675.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "气急、咳痰、咯血等表现，PPD（+），痰中可找到结核",
+      "bbox": [
+        53.47,
+        680.5,
+        296.956,
+        690.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "血糖、测餐后2小时血糖、测24小时尿糖、尿蛋白、糖化",
+      "bbox": [
+        317.98,
+        680.521,
+        561.124,
+        690.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "菌，故可以做X线胸片和痰液检查。",
+      "bbox": [
+        53.8,
+        695.94,
+        213.091,
+        705.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "血红蛋白均为辅助检查。但优先应查糖耐量试验。",
+      "bbox": [
+        317.86,
+        695.595,
+        541.729,
+        705.125
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "109. A【解析】急性心肌梗死，伴频发室性早搏，",
+      "bbox": [
+        75.04,
+        710.441,
+        296.294,
+        720.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "118. B【解析】颈项强直，克氏征阳性，初步诊断",
+      "bbox": [
+        339.41,
+        710.155,
+        558.95,
+        720.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "需紧急处理，宜用利多卡因快速纠正心律失常。",
+      "bbox": [
+        53.51,
+        725.36,
+        262.67,
+        735.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "为脑膜炎。脑脊液中细胞数增加，以中性粒细胞为主，",
+      "bbox": [
+        318.26,
+        725.424,
+        558.316,
+        735.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "110. D【解析】艾滋病期的临床表现为持续1个",
+      "bbox": [
+        75.01,
+        740.1,
+        296.742,
+        750.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "为细菌性脑膜炎。结核性脑膜炎一般表现为结核中毒",
+      "bbox": [
+        318.19,
+        740.014,
+        558.803,
+        749.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "月以上的发热，盗汗，体重减轻10%以上，出现持续性",
+      "bbox": [
+        53.68,
+        755.06,
+        296.639,
+        765.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "症状，多为低热。流行性乙型脑炎无皮肤黏膜出血、瘀",
+      "bbox": [
+        317.89,
+        755.014,
+        559.139,
+        764.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "全身性淋巴结肿大，伴有复发性口腔溃疡和不同程度",
+      "bbox": [
+        53.62,
+        769.75,
+        296.553,
+        779.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "血。中毒型菌痢无脑膜刺激征，皮肤无出血。",
+      "bbox": [
+        317.98,
+        769.544,
+        516.388,
+        779.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "的贫血及白细胞降低。",
+      "bbox": [
+        54.11,
+        784.14,
+        154.01,
+        794.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "119. C【解析】患者昏迷且休克，屋内有火炉，血",
+      "bbox": [
+        339.33,
+        783.854,
+        558.544,
+        794.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        276.74,
+        802.654,
+        286.36,
+        812.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "226—",
+      "bbox": [
+        297.04,
+        802.655,
+        336.35,
+        813.314
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

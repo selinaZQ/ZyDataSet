@@ -1,0 +1,1259 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 70,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        57.5,
+        47.916,
+        254.304,
+        57.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "虚；二是脾肾虚；三是冲气上逆；四是气滞，如胎体渐",
+      "bbox": [
+        56.08,
+        78.193,
+        291.983,
+        87.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "复现，均为病理性黄疸。",
+      "bbox": [
+        312.24,
+        77.983,
+        418.72,
+        87.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "大，气机升降失调。",
+      "bbox": [
+        56.1,
+        93.573,
+        143.04,
+        103.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "67. A【解析】风热感冒证的方剂为银翘散加减，",
+      "bbox": [
+        332.65,
+        93.354,
+        552.982,
+        102.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "51. A【解析】产后恶露不绝的主要病因：气虚、血",
+      "bbox": [
+        76.03,
+        108.704,
+        293.21,
+        118.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "时邪感冒证的方剂为银翘散合普济消毒饮加减，故选",
+      "bbox": [
+        312.63,
+        108.933,
+        553.512,
+        118.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "瘀、血热。",
+      "bbox": [
+        55.75,
+        124.083,
+        104.05,
+        133.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A。新加香薷饮治疗暑邪感冒；桑菊饮、杏苏散治疗风",
+      "bbox": [
+        312.58,
+        124.133,
+        553.858,
+        133.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "52. E【解析】妊娠期出现腰酸腹痛，胎动下坠，或",
+      "bbox": [
+        76.09,
+        139.474,
+        292.46,
+        149.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "寒咳嗽。",
+      "bbox": [
+        312.34,
+        139.224,
+        350.82,
+        148.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "阴道少量流血者，称为“胎动不安”，又称“胎气不安”。",
+      "bbox": [
+        56.46,
+        154.854,
+        307.1,
+        164.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "68. E【解析】由于本病以虚证为主，所以补其不",
+      "bbox": [
+        332.71,
+        154.994,
+        553.467,
+        165.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "53. A【解析】产后三急指呕吐、泄泻、盗汗。",
+      "bbox": [
+        76.04,
+        170.124,
+        274.22,
+        180.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "足，培补脾肾，化生气血是本病的治疗原则。",
+      "bbox": [
+        312.53,
+        170.084,
+        504.93,
+        179.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "54. D【解析】生化汤治疗血虚寒凝，瘀阻胞宫而",
+      "bbox": [
+        76.03,
+        185.384,
+        292.188,
+        195.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "69. A【解析】病毒性心肌炎病初风热犯心，灼伤",
+      "bbox": [
+        332.74,
+        185.464,
+        553.677,
+        195.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "致的产后恶露淋漓不尽，常加用的药物是蒲黄、益母",
+      "bbox": [
+        55.63,
+        200.713,
+        292.506,
+        210.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "营阴，心脉瘀阻，故治宜清热解毒，养阴活血。",
+      "bbox": [
+        312.8,
+        200.823,
+        515.45,
+        210.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "草，以增祛瘀止血之效。",
+      "bbox": [
+        55.93,
+        216.273,
+        162.19,
+        225.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "70. C【解析】鹅口疮心脾积热证，选清热泻脾散；",
+      "bbox": [
+        332.74,
+        215.904,
+        552.831,
+        225.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "55. B【解析】妊娠恶阻脾胃虚弱证的特点是恶心",
+      "bbox": [
+        75.99,
+        231.044,
+        292.472,
+        241.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "而虚火上浮证，选知柏地黄丸。",
+      "bbox": [
+        312.78,
+        231.244,
+        447.6,
+        240.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "呕吐，甚则食入即吐，呕吐清涎。",
+      "bbox": [
+        56.03,
+        247.094,
+        200.48,
+        256.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "71. D【解析】脾肾阳虚，虚寒内生，命火不足，不",
+      "bbox": [
+        332.82,
+        246.244,
+        553.312,
+        256.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "56. C【解析】3周岁后到7周岁为学龄前期，也称",
+      "bbox": [
+        76.19,
+        262.004,
+        292.522,
+        272.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "能温煦脾土，所以见到大便澄澈清冷、完谷不化。",
+      "bbox": [
+        312.77,
+        261.724,
+        524.85,
+        271.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "幼童期。",
+      "bbox": [
+        55.93,
+        277.563,
+        94.53,
+        287.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "72. D【解析】“疳者甘也”是指小儿恣食肥甘厚",
+      "bbox": [
+        332.81,
+        276.964,
+        553.533,
+        287.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "57. C【解析】小儿营养不良是指体重低于正常均",
+      "bbox": [
+        76.39,
+        292.124,
+        292.484,
+        302.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "腻，损伤脾胃，形成疳证。",
+      "bbox": [
+        312.91,
+        292.484,
+        428.59,
+        302.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "值的85%。",
+      "bbox": [
+        55.84,
+        307.273,
+        103.947,
+        316.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "73. E【解析】小儿癫痫痰痫证的治法是豁痰",
+      "bbox": [
+        333.09,
+        307.114,
+        553.371,
+        317.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "58. B【解析】正常小儿舌体柔软、淡红润泽、伸缩",
+      "bbox": [
+        76.34,
+        322.624,
+        293.3,
+        332.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "开窍。",
+      "bbox": [
+        313.13,
+        322.854,
+        341.99,
+        332.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "自如，舌面有干湿适中的薄苔。小儿舌质较成人红嫩。",
+      "bbox": [
+        57.37,
+        337.943,
+        292.765,
+        347.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "74. E【解析】慢惊风的治疗，以补虚治本为主。",
+      "bbox": [
+        333.14,
+        338.394,
+        552.916,
+        348.633
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "新生儿舌红无苔和哺乳婴儿的乳白苔，均属正常舌象。",
+      "bbox": [
+        55.58,
+        353.273,
+        292.553,
+        362.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "土虚木旺，治以健脾平肝；脾肾阳虚，治以温补脾肾；阴",
+      "bbox": [
+        313.02,
+        353.403,
+        554.52,
+        363.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "食后或服药后对舌苔有一定影响，应予注意。小儿与",
+      "bbox": [
+        55.48,
+        368.523,
+        292.782,
+        378.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "虚风动，治以育阴潜阳。",
+      "bbox": [
+        313.05,
+        368.683,
+        419.31,
+        378.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "成人正常舌象都是淡红舌。",
+      "bbox": [
+        55.64,
+        383.784,
+        173.775,
+        393.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "75. D【解析】夏季热又称暑热症，是婴幼儿在暑",
+      "bbox": [
+        333.29,
+        383.444,
+        553.264,
+        393.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "59. C【解析】小儿处于快速生长发育期，因而多",
+      "bbox": [
+        76.52,
+        398.974,
+        292.99,
+        409.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "天发生的特有的季节性疾病，临床以长期发热、口渴多",
+      "bbox": [
+        313.25,
+        398.844,
+        553.035,
+        408.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "见肾藏精、肾主骨、肾司生长等功能不足而导致的",
+      "bbox": [
+        55.74,
+        413.713,
+        292.806,
+        423.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "饮、多尿、少汗或汗闭为特征。",
+      "bbox": [
+        313.01,
+        414.044,
+        447.97,
+        423.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "疾病。",
+      "bbox": [
+        55.46,
+        429.774,
+        84.41,
+        439.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "76. D【解析】子痈是睾丸或附睾化脓性疾病，此",
+      "bbox": [
+        333.29,
+        429.724,
+        553.237,
+        439.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "60. D【解析】痰热闭肺证的治法应为清热涤痰，",
+      "bbox": [
+        76.55,
+        444.864,
+        292.683,
+        455.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "证湿热下注，治法为清热利湿，方用龙胆泻肝汤；子痈",
+      "bbox": [
+        313.15,
+        445.004,
+        553.184,
+        454.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "开肺定喘。",
+      "bbox": [
+        55.78,
+        460.154,
+        104.03,
+        469.803
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "气滞痰凝证予以橘核丸加减。",
+      "bbox": [
+        312.97,
+        459.954,
+        440.488,
+        469.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "61. B【解析】吴鞠通的“稚阴稚阳”理论，包括了",
+      "bbox": [
+        76.51,
+        475.124,
+        294.26,
+        485.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "77. C【解析】肉瘿、气瘿发于颈部，血瘤病变局部",
+      "bbox": [
+        333.28,
+        474.604,
+        553.143,
+        484.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "机体柔嫩、气血未盛、脾胃虚弱、肾气未充、腠理疏松、",
+      "bbox": [
+        55.54,
+        490.163,
+        297.04,
+        499.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "色泽鲜红或暗紫，失荣是发于颈部及耳之前后的岩肿。",
+      "bbox": [
+        313.26,
+        490.383,
+        552.68,
+        500.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "神气怯弱、筋骨未坚等特点，概括为“脏腑娇嫩，形",
+      "bbox": [
+        55.46,
+        505.083,
+        293.187,
+        514.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "用排除法可选C。肉瘤多见于成年女性，可发于身体各",
+      "bbox": [
+        313.13,
+        505.593,
+        553.432,
+        515.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "气未充”。",
+      "bbox": [
+        55.29,
+        521.263,
+        103.59,
+        530.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "部，好发于肩、背、腹、臀及前臂皮下。大小不一，边界",
+      "bbox": [
+        313.44,
+        520.933,
+        555.19,
+        530.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "62. A【解析】面呈红色多为热证，故选A。面呈",
+      "bbox": [
+        76.36,
+        536.134,
+        293.063,
+        546.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "清楚，皮色不变，生长缓慢，触之柔软，呈扁平团块状或",
+      "bbox": [
+        313.28,
+        536.284,
+        554.53,
+        545.934
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "白色，多为寒证、虚证；面呈黄色，多为脾虚证或湿浊；",
+      "bbox": [
+        56.58,
+        551.623,
+        298.08,
+        561.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "分叶状，推之可移动，基底较广阔，一般无疼痛。",
+      "bbox": [
+        313.2,
+        551.683,
+        525.94,
+        561.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "面呈青色，多为寒证、痛证、瘀证、水饮证。",
+      "bbox": [
+        55.71,
+        566.654,
+        248.51,
+        576.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "78. B【解析】该患者为气瘿肝郁气滞证。治宜疏",
+      "bbox": [
+        333.68,
+        566.664,
+        553.043,
+        576.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "63. C【解析】小儿肺脏娇嫩、卫表未固，易为邪气",
+      "bbox": [
+        76.12,
+        581.814,
+        293.24,
+        592.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "肝解郁，化痰软坚，当用四海舒郁丸加减。",
+      "bbox": [
+        313.13,
+        582.243,
+        496.48,
+        591.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "所感，使肺系疾病成为儿科发病率最高的一类疾病。",
+      "bbox": [
+        55.35,
+        597.504,
+        292.729,
+        607.134
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "79. B【解析】脓腐稠厚且多，不易脱落，病情比较",
+      "bbox": [
+        333.66,
+        597.354,
+        553.088,
+        607.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "小儿“脾常不足”，其脾胃脏腑成而未全、脾胃之气全而",
+      "bbox": [
+        55.57,
+        612.733,
+        297.07,
+        622.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "严重，其他都是适用于早期比较轻的病证。",
+      "bbox": [
+        313.06,
+        612.703,
+        497.626,
+        622.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "未壮，因而易于因家长喂养不当、小儿饮食失节，出现",
+      "bbox": [
+        55.77,
+        628.294,
+        293.141,
+        637.944
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "80. A【解析】中国新九分法：将全身体表面积分",
+      "bbox": [
+        333.34,
+        628.124,
+        553.147,
+        638.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "受纳、腐熟、精微化生转输等方面的异常，使脾系疾病",
+      "bbox": [
+        55.65,
+        643.273,
+        293.068,
+        652.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "为11个9%等份。成人头、面、颈部为9%；双上肢为",
+      "bbox": [
+        313.51,
+        643.154,
+        552.56,
+        652.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "的发病率在儿科仅次于肺系病证而居第二位。",
+      "bbox": [
+        56.38,
+        658.793,
+        253.985,
+        668.453
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "2×9%；躯干前后包括外阴部为3×9%；双下肢包括臀",
+      "bbox": [
+        313.32,
+        658.244,
+        552.864,
+        667.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "64. A【解析】指纹淡红，多为内有虚寒。",
+      "bbox": [
+        76.45,
+        674.244,
+        256.23,
+        684.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "部为5×9%+1%=46%。我国普遍采用三度四分法，",
+      "bbox": [
+        313.37,
+        673.624,
+        551.719,
+        684.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "65. A【解析】厌食脾失健运证治法：调和脾胃，运",
+      "bbox": [
+        76.54,
+        689.414,
+        294.64,
+        699.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "即根据皮肤烧伤的深浅分为浅Ⅰ度、浅Ⅱ度、深Ⅱ度、",
+      "bbox": [
+        313.96,
+        689.434,
+        552.637,
+        699.074
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "脾开胃。代表方：不换金正气散。",
+      "bbox": [
+        55.83,
+        704.884,
+        200.43,
+        714.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "Ⅲ度。浅Ⅱ度：伤及部分生发层或真皮乳头层。伤区",
+      "bbox": [
+        314.59,
+        705.003,
+        552.709,
+        714.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "66. B【解析】新生儿黄疸分为生理性和病理性两",
+      "bbox": [
+        76.6,
+        719.344,
+        292.902,
+        729.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "红、肿、剧痛，出现水疱或表皮与真皮分离，内含血浆样",
+      "bbox": [
+        313.42,
+        720.464,
+        554.42,
+        730.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "大类。生理性黄疸大多在生后2～3天出现，4～6天达",
+      "bbox": [
+        56.25,
+        734.873,
+        292.999,
+        745.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "黄色液体，水疱去除后创面鲜红、湿润、疼痛更剧、渗出",
+      "bbox": [
+        313.51,
+        735.574,
+        554.51,
+        745.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "高峰，10～14天消退，早产儿持续时间较长，除有轻微",
+      "bbox": [
+        56.6,
+        750.204,
+        293.031,
+        759.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "多。如果无感染，1～2周愈合，其上皮再生依靠残留的",
+      "bbox": [
+        313.69,
+        751.003,
+        552.574,
+        760.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "食欲不振外，一般无其他临床症状。若生后24小时内",
+      "bbox": [
+        56.42,
+        765.573,
+        292.511,
+        775.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "生发层或毛囊上皮细胞，愈合后短期内可见痕迹或色",
+      "bbox": [
+        313.46,
+        765.993,
+        552.854,
+        775.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "即出现黄疸，3周后仍不消退，甚或持续加深，或消退后",
+      "bbox": [
+        57.33,
+        781.113,
+        293.948,
+        790.763
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "素沉着，但不留瘢痕。",
+      "bbox": [
+        313.53,
+        781.634,
+        409.93,
+        791.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "260",
+      "bbox": [
+        294.4,
+        799.499,
+        308.612,
+        808.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

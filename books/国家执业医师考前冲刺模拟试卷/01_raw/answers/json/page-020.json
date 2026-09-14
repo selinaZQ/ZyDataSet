@@ -1,0 +1,1298 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 20,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        63.73,
+        49.681,
+        266.28,
+        59.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "27. A【解析】回阳玉龙散功能温阳活血，祛腐化",
+      "bbox": [
+        82.26,
+        78.795,
+        302.635,
+        88.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "苍白，四肢厥冷或冷汗淋漓，恶心呕吐，血压不稳或下",
+      "bbox": [
+        327.94,
+        78.705,
+        565.178,
+        88.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "痰，用于溃疡阴证。",
+      "bbox": [
+        61.07,
+        93.825,
+        146.84,
+        103.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "降，可烦躁不安。临床需要紧急处理。ABCD项均为",
+      "bbox": [
+        328.23,
+        93.325,
+        565.203,
+        102.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "28. B【解析】火毒侵入营血，内攻脏腑，导致脏腑",
+      "bbox": [
+        81.88,
+        107.925,
+        302.464,
+        118.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "临床处理措施。若腹腔内出血多，或经以上处理休克",
+      "bbox": [
+        328.28,
+        107.845,
+        565.421,
+        117.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "失和，阴阳平衡失调，津液严重耗伤，表情淡漠，神志恍",
+      "bbox": [
+        61.04,
+        122.504,
+        302.379,
+        132.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "仍不能纠正者，应立即手术治疗。",
+      "bbox": [
+        327.66,
+        123.074,
+        473.201,
+        132.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "惚，嗜睡，语言含糊不清，四肢厥冷，汗出淋漓，属于阳",
+      "bbox": [
+        60.9,
+        137.225,
+        301.919,
+        146.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "43. D【解析】治疗经间期出血血瘀证，应首选逐",
+      "bbox": [
+        348.7,
+        137.615,
+        565.613,
+        147.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "脱之象。",
+      "bbox": [
+        60.71,
+        152.444,
+        98.95,
+        162.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "瘀止血汤。",
+      "bbox": [
+        327.51,
+        152.935,
+        375.11,
+        162.455
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "29. C【解析】肌肉强直性痉挛首先从头面部开",
+      "bbox": [
+        81.63,
+        166.955,
+        302.367,
+        177.078
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "44. B【解析】治疗滑胎气血虚弱证宜益气养血，",
+      "bbox": [
+        348.52,
+        167.065,
+        564.858,
+        177.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "始，进而延展至躯干四肢。",
+      "bbox": [
+        60.72,
+        181.884,
+        175.56,
+        191.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "固冲安胎，代表方剂是泰山磐石散。",
+      "bbox": [
+        328.37,
+        182.225,
+        483.403,
+        191.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "30. A【解析】A项见于脾虚肝郁证，B项见于肾",
+      "bbox": [
+        81.39,
+        196.645,
+        302.29,
+        206.756
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "45. C【解析】痛经之所以随月经周期而发作，又",
+      "bbox": [
+        348.58,
+        196.565,
+        565.361,
+        206.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "阴虚证，C项见于湿热下注证，D项见于血热证，E项",
+      "bbox": [
+        61.25,
+        211.305,
+        302.187,
+        220.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "与经期及经期前后特殊生理状态有关，未行经期间，由",
+      "bbox": [
+        327.87,
+        211.475,
+        564.61,
+        220.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "见于湿毒瘀结证。",
+      "bbox": [
+        60.76,
+        226.555,
+        137.227,
+        236.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "于冲任气血平和，致病因素尚不足以引起冲任、子宫气",
+      "bbox": [
+        327.87,
+        226.164,
+        565.446,
+        235.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "31. C【解析】新生儿。硬肿症早期棕色脂肪代偿",
+      "bbox": [
+        81.51,
+        241.005,
+        302.263,
+        251.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "血瘀滞或不足，故平时不发生疼痛。经期前后，血海由",
+      "bbox": [
+        327.57,
+        241.105,
+        564.716,
+        250.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "产热良好，肛温高于腋温；重症者能量耗竭时，肛温低",
+      "bbox": [
+        60.6,
+        255.834,
+        302.198,
+        265.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "满盈而泻溢，气血盛实而骤虚，子宫、冲任气血变化较",
+      "bbox": [
+        327.52,
+        255.684,
+        565.535,
+        265.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "于腋温。",
+      "bbox": [
+        60.89,
+        270.895,
+        99.09,
+        280.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "平时急剧，易受致病因素干扰，加之体质因素的影响，",
+      "bbox": [
+        327.4,
+        270.295,
+        564.888,
+        279.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "32. C【解析】胎黄湿热熏蒸证治疗当清热利湿，",
+      "bbox": [
+        81.64,
+        285.205,
+        301.796,
+        295.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "导致子宫、冲任气血运行不畅或失于煦濡，不通或不荣",
+      "bbox": [
+        327.58,
+        285.205,
+        565.566,
+        294.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "故用茵陈蒿汤加减。",
+      "bbox": [
+        60.67,
+        300.174,
+        147.747,
+        309.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "而痛。",
+      "bbox": [
+        327.63,
+        300.404,
+        356.4,
+        309.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "33. D【解析】调经是通过治疗使月经病恢复正",
+      "bbox": [
+        81.64,
+        314.775,
+        302.16,
+        324.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "46. C【解析】宫内节育器禁忌证：放置节育器前，",
+      "bbox": [
+        348.34,
+        314.425,
+        564.686,
+        324.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "常，即遵循《内经》“谨守病机”、“谨察阴阳所在而调之，",
+      "bbox": [
+        61.07,
+        329.464,
+        319.19,
+        339.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "必须排除妊娠的存在，如已发现妊娠者，应先终止妊",
+      "bbox": [
+        327.41,
+        329.274,
+        565.129,
+        338.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "以平为期”的宗旨，采用补肾、扶脾、疏肝、调理气血、调",
+      "bbox": [
+        61.47,
+        343.785,
+        308.73,
+        353.295
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "娠；生殖器官炎症，如急性盆腔炎、阴道炎、重度宫颈糜",
+      "bbox": [
+        327.38,
+        344.075,
+        565.039,
+        353.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "理冲任等法以调治。",
+      "bbox": [
+        60.64,
+        358.614,
+        148.01,
+        368.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "烂等；月经紊乱，如近3个月月经过多，月经频发或不",
+      "bbox": [
+        327.28,
+        358.735,
+        565.109,
+        368.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "34. A【解析】A项，指妊娠八九个月时，或腹中",
+      "bbox": [
+        81.65,
+        373.195,
+        301.813,
+        383.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "规则阴道流血，重度痛经等；生殖器肿瘤、宫颈口过松、",
+      "bbox": [
+        327.32,
+        373.245,
+        564.82,
+        382.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "痛，痛定如常者。B项，指若月数已足，腹痛或作或止，",
+      "bbox": [
+        60.64,
+        388.095,
+        301.807,
+        397.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "重度子宫脱垂等；严重的全身性疾患，如心力衰竭、重",
+      "bbox": [
+        327.41,
+        387.845,
+        565.024,
+        397.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "腰不痛。CD项，指孕后仍按月行经而产子者。《本草",
+      "bbox": [
+        60.49,
+        402.535,
+        302.073,
+        412.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "度贫血等；严重的出血性疾患。",
+      "bbox": [
+        327.21,
+        402.525,
+        461.339,
+        412.035
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "纲目：论月水》：“有受治后，月月行经而而产生3者，是",
+      "bbox": [
+        63.13,
+        417.263,
+        309.908,
+        426.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "47. E【解析】阴疮寒湿证治法：温经散寒，除湿消",
+      "bbox": [
+        348.02,
+        417.155,
+        564.569,
+        427.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "疮。代表方：阳和汤或托里消毒散。",
+      "bbox": [
+        327.13,
+        431.665,
+        481.611,
+        441.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "3次以上者。",
+      "bbox": [
+        60.6,
+        446.965,
+        114.245,
+        456.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "48. C【解析】妇女在绝经前后，肾气虚衰，天癸渐",
+      "bbox": [
+        347.93,
+        446.265,
+        564.791,
+        456.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "35. B【解析】哺乳时间一般以8个月为宜。",
+      "bbox": [
+        81.69,
+        461.145,
+        274.63,
+        471.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "竭，冲任二脉虚衰，由于体质因素，肾虚天癸竭的过程",
+      "bbox": [
+        327.24,
+        460.755,
+        564.822,
+        470.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "36. B【解析】肝主疏泄，调畅情志，若郁怒悲伤，",
+      "bbox": [
+        81.68,
+        475.805,
+        301.561,
+        485.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "加剧，难以较迅速地适应这一阶段的过渡，使阴阳失去",
+      "bbox": [
+        327.27,
+        475.395,
+        564.634,
+        484.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "肝气郁结，则为气滞，冲任失畅，血海蓄意失常，可导致",
+      "bbox": [
+        60.41,
+        490.505,
+        302.268,
+        500.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "平衡，脏腑气血不相协调，因而出现诸多证候。",
+      "bbox": [
+        327.25,
+        490.215,
+        528.203,
+        499.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "月经先后不定期，其余选项均为直接导致冲任损伤的",
+      "bbox": [
+        60.45,
+        504.925,
+        301.864,
+        514.455
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "49. E【解析】子满治法：健脾利水，养血安胎。方",
+      "bbox": [
+        347.94,
+        504.715,
+        565.115,
+        514.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "因素。",
+      "bbox": [
+        61.16,
+        520.095,
+        89.75,
+        529.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "药：鲤鱼汤加黄芪、桑白皮或当归芍药散。",
+      "bbox": [
+        327.19,
+        519.395,
+        507.631,
+        528.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "37. B【解析】闭经的病因病机：虚者，精亏血少，",
+      "bbox": [
+        81.45,
+        534.525,
+        301.679,
+        544.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "50. C【解析】分泌晚期，是在月经周期的第",
+      "bbox": [
+        348.01,
+        533.976,
+        565.022,
+        544.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "冲任血海空虚，源断其流，无血可下；实者，冲任受阻，",
+      "bbox": [
+        60.95,
+        549.215,
+        301.642,
+        558.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "24～28日，此期为月经来潮前期，子宫内膜厚度达",
+      "bbox": [
+        327.34,
+        548.785,
+        565.169,
+        558.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "血海阻隔，经血不得下行。",
+      "bbox": [
+        60.41,
+        563.955,
+        174.258,
+        573.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "10mm,并呈海绵状。",
+      "bbox": [
+        327.56,
+        563.685,
+        414.289,
+        573.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "38. A【解析】胎动不安肾虚证治法：固肾安胎，",
+      "bbox": [
+        81.6,
+        578.515,
+        301.433,
+        588.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "51. B【解析】产后用药“三禁”，即禁大汗以防亡",
+      "bbox": [
+        348.09,
+        578.215,
+        565.253,
+        588.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "佐以益气。代表方：寿胎丸加党参、白术或滋肾育",
+      "bbox": [
+        60.19,
+        593.165,
+        302.017,
+        602.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "阳；禁峻下以防亡阴；禁通利小便以防亡津液。",
+      "bbox": [
+        328.02,
+        592.975,
+        528.85,
+        602.475
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "胎丸。",
+      "bbox": [
+        60.29,
+        608.295,
+        88.7,
+        617.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "52. E【解析】产后发热病因有感染邪毒、外感、血",
+      "bbox": [
+        348.11,
+        607.666,
+        565.259,
+        617.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "39. E【解析】为方便计算，可采用下列比例用药：",
+      "bbox": [
+        81.56,
+        622.875,
+        301.295,
+        632.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "瘀、血虚。",
+      "bbox": [
+        326.95,
+        622.816,
+        374.15,
+        632.256
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "新生儿用成人量的1/6，乳婴儿用成人量的1/3，幼儿",
+      "bbox": [
+        60.24,
+        637.236,
+        302.121,
+        646.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "53. C【解析】新产妇人有三病：一者病痉，二者病",
+      "bbox": [
+        348.2,
+        637.516,
+        564.945,
+        647.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "用成人量的1/2，学龄儿童用成人量的2/3或接近成人",
+      "bbox": [
+        60.33,
+        652.015,
+        302.098,
+        661.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "郁冒，三者大便难。",
+      "bbox": [
+        327.0,
+        652.246,
+        412.05,
+        661.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "用量。一般成人煎药量为200ml，经计算婴儿（<1岁）",
+      "bbox": [
+        60.33,
+        666.936,
+        301.499,
+        676.535
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "54. C【解析】原发性不孕，古称全不产，继发性不",
+      "bbox": [
+        348.15,
+        666.996,
+        564.679,
+        677.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "服用的中药煎出量是66.7ml。",
+      "bbox": [
+        60.31,
+        681.605,
+        192.544,
+        691.095
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "孕，古称断绪。",
+      "bbox": [
+        327.11,
+        681.955,
+        393.33,
+        691.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "40. E【解析】月经先后不定期的主要发病机制是",
+      "bbox": [
+        81.42,
+        696.095,
+        301.88,
+        706.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "55. D【解析】癥瘕为妇人下腹结块，或痛，或胀，",
+      "bbox": [
+        348.1,
+        696.265,
+        563.956,
+        706.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "肝肾功能失调，冲任功能紊乱，血海蓄溢失常。",
+      "bbox": [
+        60.36,
+        710.885,
+        263.09,
+        720.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "或满，或异常出血。癥有形可征，固定不移，痛有定处；",
+      "bbox": [
+        327.15,
+        711.265,
+        564.65,
+        721.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "41. C【解析】导致带下的主要原因是湿邪，包括",
+      "bbox": [
+        81.5,
+        725.355,
+        302.241,
+        735.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "瘕聚散无常，推之可移，痛无定处。癥属血病，瘕属",
+      "bbox": [
+        326.81,
+        725.645,
+        564.088,
+        736.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "内外湿邪，其中，脾肝肾是产生内湿之因。脾虚脾失健",
+      "bbox": [
+        61.3,
+        740.145,
+        301.856,
+        749.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "气病。",
+      "bbox": [
+        326.95,
+        740.665,
+        355.48,
+        750.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "运，水湿内生。",
+      "bbox": [
+        60.15,
+        754.905,
+        126.72,
+        764.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "56. B【解析】清代医家吴鞠通通过长期临床观",
+      "bbox": [
+        348.05,
+        755.116,
+        564.553,
+        765.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "42. E【解析】异位妊娠已破损型的休克型属于",
+      "bbox": [
+        81.47,
+        769.275,
+        301.895,
+        779.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "察，从阴阳学说出发，认为小儿时期的机体柔嫩、气血",
+      "bbox": [
+        326.96,
+        769.904,
+        564.287,
+        779.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "急、危、重症，表现为突发下腹剧痛，伴肛门下坠；面色",
+      "bbox": [
+        60.28,
+        783.874,
+        301.804,
+        793.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "未充、脾胃薄弱、肾气未充、腠理疏松、神气怯弱、筋骨",
+      "bbox": [
+        326.93,
+        784.055,
+        565.68,
+        793.605
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "210",
+      "bbox": [
+        305.57,
+        801.493,
+        319.797,
+        810.613
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

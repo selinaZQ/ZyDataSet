@@ -1,0 +1,991 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 1,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1456.0,
+        78.0,
+        1872.0,
+        117.0
+      ],
+      "confidence": 0.970743,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        308.0,
+        348.0,
+        1752.0,
+        443.0
+      ],
+      "confidence": 0.99738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        610.0,
+        459.0,
+        1456.0,
+        558.0
+      ],
+      "confidence": 0.961606,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "第一单元",
+      "bbox": [
+        905.0,
+        674.0,
+        1161.0,
+        746.0
+      ],
+      "confidence": 0.999732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A1 型选择题（1～87题）",
+      "bbox": [
+        816.0,
+        850.0,
+        1255.0,
+        892.0
+      ],
+      "confidence": 0.953742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "答题说明：每一道考试题下面有A、B、C、D、E五个备选答案，请从中选择一个最佳答案，并",
+      "bbox": [
+        246.0,
+        942.0,
+        1898.0,
+        993.0
+      ],
+      "confidence": 0.95082,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        162.0,
+        1001.0,
+        1116.0,
+        1049.0
+      ],
+      "confidence": 0.998943,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "1. 下列事物按五行相生顺序排列正确的",
+      "bbox": [
+        224.0,
+        1096.0,
+        989.0,
+        1147.0
+      ],
+      "confidence": 0.983008,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 证异治同",
+      "bbox": [
+        1156.0,
+        1096.0,
+        1380.0,
+        1143.0
+      ],
+      "confidence": 0.99863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "是（）",
+      "bbox": [
+        133.0,
+        1150.0,
+        322.0,
+        1213.0
+      ],
+      "confidence": 0.773913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 病同治同",
+      "bbox": [
+        1156.0,
+        1155.0,
+        1378.0,
+        1201.0
+      ],
+      "confidence": 0.998252,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 笑、坤、呼、笑、歌",
+      "bbox": [
+        225.0,
+        1215.0,
+        580.0,
+        1264.0
+      ],
+      "confidence": 0.991769,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "6. “夺血者无汗，夺汗者无血”说明了哪两",
+      "bbox": [
+        1157.0,
+        1216.0,
+        1919.0,
+        1257.0
+      ],
+      "confidence": 0.977205,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 忧、哕、栗、咳、握",
+      "bbox": [
+        224.0,
+        1273.0,
+        574.0,
+        1323.0
+      ],
+      "confidence": 0.987992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "种物质的关系（",
+      "bbox": [
+        1072.0,
+        1271.0,
+        1352.0,
+        1320.0
+      ],
+      "confidence": 0.972152,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "）",
+      "bbox": [
+        1428.0,
+        1273.0,
+        1459.0,
+        1313.0
+      ],
+      "confidence": 0.989545,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 风、暑、湿、火、寒",
+      "bbox": [
+        224.0,
+        1333.0,
+        574.0,
+        1380.0
+      ],
+      "confidence": 0.991445,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 气与血",
+      "bbox": [
+        1155.0,
+        1328.0,
+        1342.0,
+        1379.0
+      ],
+      "confidence": 0.998272,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 羽、角、徵、商、宫",
+      "bbox": [
+        222.0,
+        1389.0,
+        576.0,
+        1441.0
+      ],
+      "confidence": 0.961841,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 气与津液",
+      "bbox": [
+        1152.0,
+        1386.0,
+        1378.0,
+        1436.0
+      ],
+      "confidence": 0.998622,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 魂、神、意、魄、志",
+      "bbox": [
+        223.0,
+        1448.0,
+        574.0,
+        1497.0
+      ],
+      "confidence": 0.990075,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 津液与血",
+      "bbox": [
+        1155.0,
+        1446.0,
+        1377.0,
+        1492.0
+      ],
+      "confidence": 0.998797,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "2. 脏腑之精是指（",
+      "bbox": [
+        224.0,
+        1510.0,
+        552.0,
+        1556.0
+      ],
+      "confidence": 0.986058,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "）",
+      "bbox": [
+        625.0,
+        1510.0,
+        653.0,
+        1550.0
+      ],
+      "confidence": 0.970434,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 津液与汗",
+      "bbox": [
+        1155.0,
+        1505.0,
+        1380.0,
+        1551.0
+      ],
+      "confidence": 0.998549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 一身之精分藏于脏腑的部分",
+      "bbox": [
+        223.0,
+        1563.0,
+        791.0,
+        1616.0
+      ],
+      "confidence": 0.990115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 以上都不是",
+      "bbox": [
+        1155.0,
+        1564.0,
+        1419.0,
+        1607.0
+      ],
+      "confidence": 0.996429,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 源于肾精的部分",
+      "bbox": [
+        223.0,
+        1624.0,
+        574.0,
+        1673.0
+      ],
+      "confidence": 0.998792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "7. 属于五行之“火”的是（",
+      "bbox": [
+        1154.0,
+        1619.0,
+        1610.0,
+        1667.0
+      ],
+      "confidence": 0.970914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "）",
+      "bbox": [
+        1693.0,
+        1629.0,
+        1708.0,
+        1653.0
+      ],
+      "confidence": 0.72133,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 宫音",
+      "bbox": [
+        1152.0,
+        1675.0,
+        1300.0,
+        1732.0
+      ],
+      "confidence": 0.996729,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 角音",
+      "bbox": [
+        1547.0,
+        1675.0,
+        1691.0,
+        1728.0
+      ],
+      "confidence": 0.997991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 禀受于父母的部分",
+      "bbox": [
+        225.0,
+        1684.0,
+        618.0,
+        1731.0
+      ],
+      "confidence": 0.997455,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 商音",
+      "bbox": [
+        1150.0,
+        1731.0,
+        1296.0,
+        1791.0
+      ],
+      "confidence": 0.99759,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 徵音",
+      "bbox": [
+        1547.0,
+        1734.0,
+        1694.0,
+        1786.0
+      ],
+      "confidence": 0.948662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 源于饮食水谷精微的部分",
+      "bbox": [
+        224.0,
+        1741.0,
+        744.0,
+        1790.0
+      ],
+      "confidence": 0.998647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 精血转化的部分",
+      "bbox": [
+        224.0,
+        1799.0,
+        576.0,
+        1848.0
+      ],
+      "confidence": 0.999272,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 羽音",
+      "bbox": [
+        1152.0,
+        1795.0,
+        1296.0,
+        1847.0
+      ],
+      "confidence": 0.997115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "3. 上焦生理功能的特点是（",
+      "bbox": [
+        224.0,
+        1858.0,
+        719.0,
+        1907.0
+      ],
+      "confidence": 0.969925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "）",
+      "bbox": [
+        797.0,
+        1862.0,
+        822.0,
+        1897.0
+      ],
+      "confidence": 0.975399,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "8. 属于阳的味是（",
+      "bbox": [
+        1156.0,
+        1855.0,
+        1480.0,
+        1899.0
+      ],
+      "confidence": 0.984691,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "）",
+      "bbox": [
+        1560.0,
+        1857.0,
+        1590.0,
+        1896.0
+      ],
+      "confidence": 0.984957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 若雾露之溉",
+      "bbox": [
+        225.0,
+        1918.0,
+        494.0,
+        1967.0
+      ],
+      "confidence": 0.996003,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 酸、苦、咸",
+      "bbox": [
+        1157.0,
+        1914.0,
+        1384.0,
+        1960.0
+      ],
+      "confidence": 0.995086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 主气之升发",
+      "bbox": [
+        227.0,
+        1979.0,
+        487.0,
+        2021.0
+      ],
+      "confidence": 0.998107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 辛、苦、咸",
+      "bbox": [
+        1155.0,
+        1972.0,
+        1378.0,
+        2019.0
+      ],
+      "confidence": 0.994677,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 通行宗、营、卫三气",
+      "bbox": [
+        226.0,
+        2033.0,
+        614.0,
+        2081.0
+      ],
+      "confidence": 0.996658,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 辛、甘、淡",
+      "bbox": [
+        1156.0,
+        2031.0,
+        1378.0,
+        2077.0
+      ],
+      "confidence": 0.997132,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 元气之别使",
+      "bbox": [
+        227.0,
+        2096.0,
+        490.0,
+        2138.0
+      ],
+      "confidence": 0.99572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 甘、淡、涩",
+      "bbox": [
+        1155.0,
+        2089.0,
+        1380.0,
+        2136.0
+      ],
+      "confidence": 0.995653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 主宣发与肃降",
+      "bbox": [
+        227.0,
+        2154.0,
+        530.0,
+        2195.0
+      ],
+      "confidence": 0.98989,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 甘、苦、淡",
+      "bbox": [
+        1156.0,
+        2147.0,
+        1378.0,
+        2193.0
+      ],
+      "confidence": 0.995705,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "4. 属于“五行相侮”的是（",
+      "bbox": [
+        225.0,
+        2210.0,
+        674.0,
+        2254.0
+      ],
+      "confidence": 0.942243,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "）",
+      "bbox": [
+        755.0,
+        2211.0,
+        781.0,
+        2247.0
+      ],
+      "confidence": 0.985628,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "9. 下列哪项不是脾的生理功能（",
+      "bbox": [
+        1156.0,
+        2206.0,
+        1737.0,
+        2249.0
+      ],
+      "confidence": 0.99093,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 心病及脾",
+      "bbox": [
+        227.0,
+        2267.0,
+        451.0,
+        2314.0
+      ],
+      "confidence": 0.997041,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 水谷的受纳和腐熟",
+      "bbox": [
+        1158.0,
+        2266.0,
+        1552.0,
+        2308.0
+      ],
+      "confidence": 0.997574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 心病及肾",
+      "bbox": [
+        227.0,
+        2327.0,
+        445.0,
+        2370.0
+      ],
+      "confidence": 0.997792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 水谷精微的转输",
+      "bbox": [
+        1157.0,
+        2325.0,
+        1503.0,
+        2366.0
+      ],
+      "confidence": 0.998839,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 心病及肺",
+      "bbox": [
+        225.0,
+        2383.0,
+        447.0,
+        2429.0
+      ],
+      "confidence": 0.997279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 水液的吸收和转输",
+      "bbox": [
+        1156.0,
+        2381.0,
+        1546.0,
+        2425.0
+      ],
+      "confidence": 0.998703,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 心病及肝",
+      "bbox": [
+        224.0,
+        2440.0,
+        450.0,
+        2487.0
+      ],
+      "confidence": 0.999186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 脏器位置的维系",
+      "bbox": [
+        1156.0,
+        2439.0,
+        1507.0,
+        2484.0
+      ],
+      "confidence": 0.998925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 肝病及心",
+      "bbox": [
+        224.0,
+        2498.0,
+        447.0,
+        2544.0
+      ],
+      "confidence": 0.998806,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 血液的统摄",
+      "bbox": [
+        1156.0,
+        2496.0,
+        1420.0,
+        2539.0
+      ],
+      "confidence": 0.995491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "5. 同病异治的实质是（",
+      "bbox": [
+        225.0,
+        2555.0,
+        633.0,
+        2600.0
+      ],
+      "confidence": 0.976548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "10. 下列各项，不属肝主疏泄功能的是",
+      "bbox": [
+        1156.0,
+        2555.0,
+        1922.0,
+        2599.0
+      ],
+      "confidence": 0.997565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 证同治异",
+      "bbox": [
+        225.0,
+        2612.0,
+        452.0,
+        2658.0
+      ],
+      "confidence": 0.998212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "（",
+      "bbox": [
+        1072.0,
+        2617.0,
+        1098.0,
+        2655.0
+      ],
+      "confidence": 0.64187,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "）",
+      "bbox": [
+        1167.0,
+        2613.0,
+        1206.0,
+        2657.0
+      ],
+      "confidence": 0.964999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 证异治异",
+      "bbox": [
+        225.0,
+        2669.0,
+        447.0,
+        2716.0
+      ],
+      "confidence": 0.999084,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "A. 调畅气机",
+      "bbox": [
+        1158.0,
+        2671.0,
+        1380.0,
+        2713.0
+      ],
+      "confidence": 0.998303,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 病同治异",
+      "bbox": [
+        225.0,
+        2725.0,
+        450.0,
+        2775.0
+      ],
+      "confidence": 0.99871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "B. 调畅情志",
+      "bbox": [
+        1155.0,
+        2727.0,
+        1375.0,
+        2773.0
+      ],
+      "confidence": 0.999319,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "47",
+      "bbox": [
+        1004.0,
+        2797.0,
+        1062.0,
+        2842.0
+      ],
+      "confidence": 0.999802,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

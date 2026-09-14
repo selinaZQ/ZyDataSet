@@ -1,0 +1,1316 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 31,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1416.0,
+        115.0,
+        1811.0,
+        151.0
+      ],
+      "confidence": 0.974105,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 藿朴夏苓汤",
+      "bbox": [
+        254.0,
+        215.0,
+        514.0,
+        269.0
+      ],
+      "confidence": 0.99589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "甚，按之凹陷不易恢复，心悸，气促，腰部冷痛，",
+      "bbox": [
+        1056.0,
+        223.0,
+        1854.0,
+        263.0
+      ],
+      "confidence": 0.988498,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 平胃散",
+      "bbox": [
+        253.0,
+        268.0,
+        439.0,
+        323.0
+      ],
+      "confidence": 0.993509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "尿少，四肢冷，舌质淡胖，苔白，脉沉，其证候",
+      "bbox": [
+        1056.0,
+        274.0,
+        1856.0,
+        316.0
+      ],
+      "confidence": 0.996863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 五苓散",
+      "bbox": [
+        254.0,
+        320.0,
+        440.0,
+        375.0
+      ],
+      "confidence": 0.998924,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "是（)",
+      "bbox": [
+        1050.0,
+        320.0,
+        1228.0,
+        373.0
+      ],
+      "confidence": 0.785389,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 香苏散",
+      "bbox": [
+        255.0,
+        376.0,
+        437.0,
+        428.0
+      ],
+      "confidence": 0.9992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 湿毒浸淫",
+      "bbox": [
+        1135.0,
+        375.0,
+        1347.0,
+        422.0
+      ],
+      "confidence": 0.99809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "90. 患者，女，70岁。久患肺病，反复发作，",
+      "bbox": [
+        257.0,
+        432.0,
+        975.0,
+        478.0
+      ],
+      "confidence": 0.988097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 湿热壅盛",
+      "bbox": [
+        1133.0,
+        428.0,
+        1345.0,
+        474.0
+      ],
+      "confidence": 0.958104,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "本次旧疾又发。呼吸浅短难续，咳声低怯，胸",
+      "bbox": [
+        175.0,
+        484.0,
+        978.0,
+        531.0
+      ],
+      "confidence": 0.996653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 脾阳虚衰",
+      "bbox": [
+        1133.0,
+        477.0,
+        1346.0,
+        528.0
+      ],
+      "confidence": 0.998374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 水湿浸淫",
+      "bbox": [
+        1133.0,
+        530.0,
+        1347.0,
+        579.0
+      ],
+      "confidence": 0.997209,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "满短气，张口抬肩。倚息不能平卧，咳嗽，痰白",
+      "bbox": [
+        178.0,
+        541.0,
+        976.0,
+        582.0
+      ],
+      "confidence": 0.990206,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 肾气衰微",
+      "bbox": [
+        1133.0,
+        581.0,
+        1349.0,
+        631.0
+      ],
+      "confidence": 0.998502,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "如沫，咯吐不利，舌淡暗，脉沉细无力。诊断为",
+      "bbox": [
+        178.0,
+        593.0,
+        977.0,
+        638.0
+      ],
+      "confidence": 0.991081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "96. 患者，女，55岁。两个月来关节肿大窜",
+      "bbox": [
+        1134.0,
+        636.0,
+        1859.0,
+        686.0
+      ],
+      "confidence": 0.98771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "肺胀，其证候是（",
+      "bbox": [
+        178.0,
+        647.0,
+        469.0,
+        692.0
+      ],
+      "confidence": 0.937307,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "）",
+      "bbox": [
+        530.0,
+        651.0,
+        570.0,
+        690.0
+      ],
+      "confidence": 0.987404,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "痛，屈伸不利，恶风怕冷，虽已治疗，症无改善，",
+      "bbox": [
+        1057.0,
+        688.0,
+        1861.0,
+        738.0
+      ],
+      "confidence": 0.988709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 痰瘀阻肺",
+      "bbox": [
+        257.0,
+        701.0,
+        475.0,
+        747.0
+      ],
+      "confidence": 0.992381,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "又增关节局部灼热，口干便燥，脉滑稍数，舌苔",
+      "bbox": [
+        1057.0,
+        741.0,
+        1860.0,
+        791.0
+      ],
+      "confidence": 0.983546,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 肺肾气虚",
+      "bbox": [
+        253.0,
+        752.0,
+        469.0,
+        802.0
+      ],
+      "confidence": 0.998472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "薄黄。主方选用()",
+      "bbox": [
+        1055.0,
+        789.0,
+        1477.0,
+        842.0
+      ],
+      "confidence": 0.914259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 外寒内饮",
+      "bbox": [
+        254.0,
+        805.0,
+        469.0,
+        855.0
+      ],
+      "confidence": 0.998454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 白虎桂枝汤",
+      "bbox": [
+        1135.0,
+        844.0,
+        1394.0,
+        893.0
+      ],
+      "confidence": 0.997893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 脾肾阳衰",
+      "bbox": [
+        253.0,
+        859.0,
+        470.0,
+        908.0
+      ],
+      "confidence": 0.99786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 薏苡仁汤",
+      "bbox": [
+        1134.0,
+        898.0,
+        1349.0,
+        944.0
+      ],
+      "confidence": 0.988007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 心肾阳衰",
+      "bbox": [
+        253.0,
+        911.0,
+        469.0,
+        961.0
+      ],
+      "confidence": 0.998207,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 防风汤",
+      "bbox": [
+        1135.0,
+        949.0,
+        1311.0,
+        997.0
+      ],
+      "confidence": 0.998724,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "91. 患者喘促日久，动则喘甚，呼多吸少，",
+      "bbox": [
+        254.0,
+        966.0,
+        977.0,
+        1017.0
+      ],
+      "confidence": 0.994058,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 桂枝芍药知母汤",
+      "bbox": [
+        1134.0,
+        1001.0,
+        1469.0,
+        1050.0
+      ],
+      "confidence": 0.997761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "气不得续，汗出肢冷，跗肿，面青唇紫，舌淡苔",
+      "bbox": [
+        179.0,
+        1020.0,
+        978.0,
+        1070.0
+      ],
+      "confidence": 0.99406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 犀角散",
+      "bbox": [
+        1133.0,
+        1052.0,
+        1312.0,
+        1104.0
+      ],
+      "confidence": 0.998752,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "白，脉沉弱。治疗应首选（）",
+      "bbox": [
+        180.0,
+        1076.0,
+        728.0,
+        1121.0
+      ],
+      "confidence": 0.92162,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "97. 患者呕吐多为清水痰涎，脘闷不食，头",
+      "bbox": [
+        1135.0,
+        1107.0,
+        1865.0,
+        1157.0
+      ],
+      "confidence": 0.993705,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 平喘固本汤合补肺汤",
+      "bbox": [
+        255.0,
+        1126.0,
+        673.0,
+        1175.0
+      ],
+      "confidence": 0.997511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "晕心悸，舌苔白腻。脉滑，其证候为（",
+      "bbox": [
+        1059.0,
+        1162.0,
+        1691.0,
+        1207.0
+      ],
+      "confidence": 0.966125,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "）",
+      "bbox": [
+        1764.0,
+        1168.0,
+        1789.0,
+        1199.0
+      ],
+      "confidence": 0.989983,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 金匮肾气丸合参蛤散",
+      "bbox": [
+        253.0,
+        1179.0,
+        668.0,
+        1228.0
+      ],
+      "confidence": 0.997397,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 饮食积滞",
+      "bbox": [
+        1136.0,
+        1212.0,
+        1355.0,
+        1262.0
+      ],
+      "confidence": 0.998523,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 参附汤合黑锡丹",
+      "bbox": [
+        256.0,
+        1235.0,
+        590.0,
+        1280.0
+      ],
+      "confidence": 0.998611,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 痰饮内阻",
+      "bbox": [
+        1137.0,
+        1266.0,
+        1350.0,
+        1312.0
+      ],
+      "confidence": 0.998161,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 生脉散合补肺汤",
+      "bbox": [
+        254.0,
+        1290.0,
+        590.0,
+        1335.0
+      ],
+      "confidence": 0.99851,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 脾胃虚弱",
+      "bbox": [
+        1137.0,
+        1319.0,
+        1350.0,
+        1366.0
+      ],
+      "confidence": 0.997609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 生脉地黄汤合金水六君煎",
+      "bbox": [
+        253.0,
+        1343.0,
+        747.0,
+        1390.0
+      ],
+      "confidence": 0.999132,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 脾阳虚衰",
+      "bbox": [
+        1135.0,
+        1370.0,
+        1352.0,
+        1421.0
+      ],
+      "confidence": 0.998609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "92. 患者头痛以前额为甚，面红，牙痛，便",
+      "bbox": [
+        255.0,
+        1395.0,
+        981.0,
+        1445.0
+      ],
+      "confidence": 0.994245,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 气滞痰阻",
+      "bbox": [
+        1134.0,
+        1420.0,
+        1354.0,
+        1474.0
+      ],
+      "confidence": 0.998299,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "干，舌红苔黄，脉弦。处方用药加用白芷，除治",
+      "bbox": [
+        178.0,
+        1451.0,
+        979.0,
+        1499.0
+      ],
+      "confidence": 0.995002,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "98. 患者吐血缠绵不止，时轻时重，血色暗",
+      "bbox": [
+        1138.0,
+        1479.0,
+        1869.0,
+        1524.0
+      ],
+      "confidence": 0.99296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "疗效应外，其引经报使作用在（）",
+      "bbox": [
+        179.0,
+        1507.0,
+        804.0,
+        1549.0
+      ],
+      "confidence": 0.953202,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "淡，神疲乏力，心悸气短，面色苍白，舌质淡，脉",
+      "bbox": [
+        1059.0,
+        1533.0,
+        1869.0,
+        1578.0
+      ],
+      "confidence": 0.992363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 少阳经",
+      "bbox": [
+        255.0,
+        1557.0,
+        435.0,
+        1605.0
+      ],
+      "confidence": 0.998732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "细弱，其治法是()",
+      "bbox": [
+        1059.0,
+        1584.0,
+        1457.0,
+        1630.0
+      ],
+      "confidence": 0.940096,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 太阳经",
+      "bbox": [
+        253.0,
+        1612.0,
+        428.0,
+        1659.0
+      ],
+      "confidence": 0.999036,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 健脾和胃，宁络止血",
+      "bbox": [
+        1136.0,
+        1635.0,
+        1540.0,
+        1684.0
+      ],
+      "confidence": 0.994414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 阳明经",
+      "bbox": [
+        255.0,
+        1664.0,
+        429.0,
+        1712.0
+      ],
+      "confidence": 0.999126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 和中宁络，凉血止血",
+      "bbox": [
+        1135.0,
+        1689.0,
+        1535.0,
+        1736.0
+      ],
+      "confidence": 0.996328,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 少阴经",
+      "bbox": [
+        253.0,
+        1720.0,
+        430.0,
+        1767.0
+      ],
+      "confidence": 0.997728,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 益气养阴，宁络止血",
+      "bbox": [
+        1136.0,
+        1741.0,
+        1535.0,
+        1791.0
+      ],
+      "confidence": 0.997913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 厥阴经",
+      "bbox": [
+        253.0,
+        1774.0,
+        430.0,
+        1821.0
+      ],
+      "confidence": 0.996851,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 健脾益气，摄血止血",
+      "bbox": [
+        1136.0,
+        1794.0,
+        1537.0,
+        1845.0
+      ],
+      "confidence": 0.991115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "93. 患者胸胁胀闷，嗳气食少，每因抑郁恼",
+      "bbox": [
+        254.0,
+        1826.0,
+        980.0,
+        1876.0
+      ],
+      "confidence": 0.966649,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 健脾升阳，化瘀止血",
+      "bbox": [
+        1135.0,
+        1846.0,
+        1538.0,
+        1901.0
+      ],
+      "confidence": 0.986984,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "怒之时，发生腹痛泄泻，舌淡红，脉弦，其治法",
+      "bbox": [
+        175.0,
+        1882.0,
+        979.0,
+        1931.0
+      ],
+      "confidence": 0.992025,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "99. 患者，女，39岁。劳累后出现饮食减",
+      "bbox": [
+        1136.0,
+        1899.0,
+        1870.0,
+        1954.0
+      ],
+      "confidence": 0.993952,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "是（）",
+      "bbox": [
+        172.0,
+        1935.0,
+        350.0,
+        1986.0
+      ],
+      "confidence": 0.753164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "少，食后胃脘不舒，倦怠乏力，大便溏薄，面色",
+      "bbox": [
+        1059.0,
+        1955.0,
+        1868.0,
+        2004.0
+      ],
+      "confidence": 0.991081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 调理脾胃",
+      "bbox": [
+        257.0,
+        1993.0,
+        469.0,
+        2036.0
+      ],
+      "confidence": 0.99655,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "萎黄，舌淡苔薄白，脉弱，辨证为（)",
+      "bbox": [
+        1057.0,
+        2008.0,
+        1735.0,
+        2058.0
+      ],
+      "confidence": 0.911284,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 疏肝理气",
+      "bbox": [
+        255.0,
+        2047.0,
+        468.0,
+        2093.0
+      ],
+      "confidence": 0.999379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "A. 脾气虚",
+      "bbox": [
+        1138.0,
+        2058.0,
+        1318.0,
+        2109.0
+      ],
+      "confidence": 0.997889,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 抑肝扶脾",
+      "bbox": [
+        255.0,
+        2100.0,
+        469.0,
+        2147.0
+      ],
+      "confidence": 0.996674,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "B. 心脾两虚",
+      "bbox": [
+        1137.0,
+        2115.0,
+        1351.0,
+        2161.0
+      ],
+      "confidence": 0.998129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 泻肝和胃",
+      "bbox": [
+        253.0,
+        2151.0,
+        469.0,
+        2202.0
+      ],
+      "confidence": 0.998914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "C. 脾胃阴虚",
+      "bbox": [
+        1139.0,
+        2169.0,
+        1351.0,
+        2211.0
+      ],
+      "confidence": 0.998923,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 疏肝和胃",
+      "bbox": [
+        255.0,
+        2208.0,
+        469.0,
+        2255.0
+      ],
+      "confidence": 0.998647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "D. 脾阳虚",
+      "bbox": [
+        1134.0,
+        2215.0,
+        1316.0,
+        2269.0
+      ],
+      "confidence": 0.998459,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "94. 患者突然昏仆，不省人事，肢体软瘫，",
+      "bbox": [
+        254.0,
+        2261.0,
+        980.0,
+        2314.0
+      ],
+      "confidence": 0.991126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 脾肾阳虚",
+      "bbox": [
+        1137.0,
+        2272.0,
+        1351.0,
+        2318.0
+      ],
+      "confidence": 0.99891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "目合口张，鼻鼾息微，手撒肢冷，汗多，二便自",
+      "bbox": [
+        178.0,
+        2314.0,
+        978.0,
+        2367.0
+      ],
+      "confidence": 0.978895,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "100. 患者，男，54岁。1年来腹大胀满，形",
+      "bbox": [
+        1139.0,
+        2326.0,
+        1860.0,
+        2371.0
+      ],
+      "confidence": 0.981683,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "遗，舌痿。脉微欲绝，其中风属（",
+      "bbox": [
+        175.0,
+        2370.0,
+        728.0,
+        2418.0
+      ],
+      "confidence": 0.970578,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "）",
+      "bbox": [
+        795.0,
+        2378.0,
+        823.0,
+        2410.0
+      ],
+      "confidence": 0.991177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "似蛙腹，朝宽暮急，面色苍黄，脘闷纳呆，肢冷",
+      "bbox": [
+        1056.0,
+        2376.0,
+        1861.0,
+        2427.0
+      ],
+      "confidence": 0.989071,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 中经络",
+      "bbox": [
+        255.0,
+        2421.0,
+        437.0,
+        2472.0
+      ],
+      "confidence": 0.999296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "水肿，小便短少不利，舌体胖，舌质淡，苔淡白，",
+      "bbox": [
+        1057.0,
+        2428.0,
+        1860.0,
+        2479.0
+      ],
+      "confidence": 0.989975,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 阳闭证",
+      "bbox": [
+        255.0,
+        2478.0,
+        432.0,
+        2526.0
+      ],
+      "confidence": 0.999698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "脉沉细无力。治疗应选用的方剂是（）",
+      "bbox": [
+        1057.0,
+        2482.0,
+        1788.0,
+        2531.0
+      ],
+      "confidence": 0.975718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "C. 阴闭证",
+      "bbox": [
+        255.0,
+        2530.0,
+        435.0,
+        2582.0
+      ],
+      "confidence": 0.999445,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "A. 实脾饮",
+      "bbox": [
+        1137.0,
+        2535.0,
+        1316.0,
+        2583.0
+      ],
+      "confidence": 0.996021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "D. 脱证",
+      "bbox": [
+        252.0,
+        2581.0,
+        397.0,
+        2638.0
+      ],
+      "confidence": 0.999137,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "B. 调营饮",
+      "bbox": [
+        1137.0,
+        2588.0,
+        1310.0,
+        2634.0
+      ],
+      "confidence": 0.998972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "E. 后遗症",
+      "bbox": [
+        255.0,
+        2640.0,
+        434.0,
+        2688.0
+      ],
+      "confidence": 0.999338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "C. 茵陈术附汤",
+      "bbox": [
+        1136.0,
+        2639.0,
+        1388.0,
+        2688.0
+      ],
+      "confidence": 0.991475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "95. 患者，女，15岁。浮肿3月余，下肢为",
+      "bbox": [
+        256.0,
+        2695.0,
+        982.0,
+        2741.0
+      ],
+      "confidence": 0.990278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "D. 柴胡疏肝散合胃苓汤",
+      "bbox": [
+        1138.0,
+        2691.0,
+        1546.0,
+        2738.0
+      ],
+      "confidence": 0.985471,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "31",
+      "bbox": [
+        994.0,
+        2762.0,
+        1045.0,
+        2805.0
+      ],
+      "confidence": 0.999885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

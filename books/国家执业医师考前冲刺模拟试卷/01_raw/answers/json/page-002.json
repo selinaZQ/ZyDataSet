@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 2,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        56.38,
+        44.856,
+        259.674,
+        54.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "风湿、补肝肾、强筋骨的作用，五加皮有此效，可用于肝",
+      "bbox": [
+        55.1,
+        75.864,
+        296.691,
+        85.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "单用粉，或配地榆粉，用麻油调敷患处。虎杖治水火烫",
+      "bbox": [
+        321.85,
+        75.794,
+        563.448,
+        85.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "肾不足，风湿痹痛。ABD项为祛风湿热药，E项为祛风",
+      "bbox": [
+        55.82,
+        90.615,
+        296.615,
+        100.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "伤，痈肿疮毒，毒蛇咬伤。虎杖入血分，有凉血清热解",
+      "bbox": [
+        322.02,
+        90.594,
+        563.334,
+        100.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "寒湿药，均无补肝肾、强筋骨的作用。",
+      "bbox": [
+        55.17,
+        105.185,
+        217.35,
+        114.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "毒作用。若水火烫伤而致皮肤灼痛或溃后流黄水者，",
+      "bbox": [
+        321.93,
+        105.135,
+        562.968,
+        114.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "20. E【解析】心阳虚多由心气虚发展而来，故见",
+      "bbox": [
+        76.23,
+        119.885,
+        296.631,
+        129.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "单用研末，香油调敷，亦可与地榆、冰片共研末，调油敷",
+      "bbox": [
+        321.91,
+        120.085,
+        563.54,
+        129.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "心悸或怔忡、气短自汗、脉弱或结代等心气虚的定位症",
+      "bbox": [
+        55.62,
+        134.304,
+        296.746,
+        143.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "患处。",
+      "bbox": [
+        322.05,
+        135.235,
+        350.7,
+        144.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "状，又有形寒肢冷、面色白、舌淡胖、苔白滑等虚寒的心",
+      "bbox": [
+        55.51,
+        149.155,
+        296.529,
+        158.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "36. E【解析】鸦胆子清热解毒，止痢，截疟，腐蚀",
+      "bbox": [
+        342.86,
+        149.465,
+        563.228,
+        158.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "阳虚特有症，故心悸气短是两证主要的共见症。",
+      "bbox": [
+        56.29,
+        163.874,
+        263.168,
+        173.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "赘疣。主治痢疾、疟疾，外治赘疣、鸡眼。用法与用量：",
+      "bbox": [
+        321.93,
+        164.054,
+        562.558,
+        173.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "21. E【解析】心肝脾三脏在人体生理和情志活动",
+      "bbox": [
+        76.45,
+        178.345,
+        296.63,
+        188.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "内服，0.5～2g，以干龙眼肉包裹或装入胶囊包裹吞服，",
+      "bbox": [
+        322.78,
+        178.245,
+        562.408,
+        187.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "中发挥着重要作用，故情志内伤，数情交织，多伤心",
+      "bbox": [
+        56.18,
+        192.994,
+        296.753,
+        202.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "亦可压去油制成丸剂、片剂服，不宜入煎剂。外用",
+      "bbox": [
+        321.75,
+        192.874,
+        562.083,
+        202.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "肝脾。",
+      "bbox": [
+        55.81,
+        207.545,
+        84.46,
+        217.095
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "适量。",
+      "bbox": [
+        321.77,
+        208.264,
+        350.42,
+        217.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "22. B【解析】麝香功效：开窍醒神，活血通经，消",
+      "bbox": [
+        76.53,
+        222.405,
+        296.386,
+        232.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "37. A【解析】川楝子可行气止痛，杀虫；槟榔可",
+      "bbox": [
+        342.67,
+        221.815,
+        562.076,
+        231.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "肿止痛，催生下胎，寒闭、热闭皆能治疗。",
+      "bbox": [
+        55.5,
+        237.024,
+        236.95,
+        246.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "杀虫消积，行气利水，截疟，故共同的功效为杀虫行气。",
+      "bbox": [
+        321.87,
+        236.425,
+        560.62,
+        245.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "23. C【解析】豆蔻化湿，行气，温中止呕，开胃消",
+      "bbox": [
+        76.55,
+        251.595,
+        296.319,
+        261.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "38. D【解析】地榆性寒苦降，味涩收敛，有凉血泄",
+      "bbox": [
+        342.63,
+        250.755,
+        562.903,
+        260.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "食。草果燥湿温中，截疟除痰。",
+      "bbox": [
+        55.65,
+        266.404,
+        190.144,
+        275.984
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "热、收敛止血作用，可用于各种出血证，尤宜于下焦血",
+      "bbox": [
+        321.84,
+        265.524,
+        563.121,
+        275.074
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "24. B【解析】使用化痰药治疗癫痫、惊厥、眩晕、",
+      "bbox": [
+        76.71,
+        280.845,
+        296.625,
+        290.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "热所致的便血、痔血等，还能解毒敛疮，为治疗烫伤的",
+      "bbox": [
+        321.78,
+        279.845,
+        562.808,
+        289.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "昏迷者，最常配伍平肝息风、开窍、安神药。",
+      "bbox": [
+        56.27,
+        295.415,
+        247.27,
+        304.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "要药。",
+      "bbox": [
+        321.56,
+        295.175,
+        350.21,
+        304.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "25. C【解析】知母归肺、胃、肾经，能清胃泻火，清",
+      "bbox": [
+        76.64,
+        309.925,
+        303.07,
+        319.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "39. D【解析】大黄的应用：积滞便秘。有较强泻",
+      "bbox": [
+        342.43,
+        308.895,
+        562.982,
+        318.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "肺润燥，滋阴降火，治疗温热病，肺胃实热证、肺热咳",
+      "bbox": [
+        55.52,
+        324.444,
+        296.677,
+        334.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "下作用，能荡涤胃肠，推陈致新，为治疗积滞便秘之",
+      "bbox": [
+        321.51,
+        323.614,
+        563.306,
+        333.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "嗽、阴虚火旺之骨蒸潮热、阴虚消渴等，故选C。",
+      "bbox": [
+        55.81,
+        338.965,
+        262.322,
+        348.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "要药。",
+      "bbox": [
+        321.41,
+        338.545,
+        350.0,
+        348.075
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "26. C【解析】白芷的功效为解表散风，通窍，止",
+      "bbox": [
+        76.52,
+        353.365,
+        296.873,
+        362.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "40. E【解析】槟榔用法用量:煎服,3～10g,单用",
+      "bbox": [
+        342.1,
+        352.455,
+        562.712,
+        362.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "痛，燥湿止带，消肿排脓。余药均不兼有燥湿止带和消",
+      "bbox": [
+        55.59,
+        367.814,
+        296.431,
+        377.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "驱杀绦虫、姜片虫时30～60g，生用力佳，炒用力缓；鲜",
+      "bbox": [
+        321.61,
+        367.025,
+        562.685,
+        376.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "肿排脓的作用，故选C。",
+      "bbox": [
+        55.6,
+        382.335,
+        159.239,
+        391.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "者优于陈久者。",
+      "bbox": [
+        321.54,
+        382.465,
+        388.18,
+        391.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "27. A【解析】乳香、没药的功效为活血止痛，消",
+      "bbox": [
+        76.78,
+        396.585,
+        296.483,
+        406.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "41. B【解析】肉豆蔻涩肠止泻，温中行气；白豆蔻",
+      "bbox": [
+        342.04,
+        396.334,
+        562.568,
+        405.905
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "肿生肌，故选A。",
+      "bbox": [
+        55.71,
+        411.195,
+        131.94,
+        420.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "化湿行气，温中止呕，故二者均具有的功效是温中散",
+      "bbox": [
+        321.52,
+        410.884,
+        563.063,
+        420.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "28. A【解析】淡竹叶的功效：清热泻火，除烦止",
+      "bbox": [
+        76.85,
+        425.745,
+        296.786,
+        435.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "寒，行气消胀。",
+      "bbox": [
+        321.48,
+        425.674,
+        388.33,
+        435.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "渴，利尿通淋。芦根的功效：清热泻火，生津止渴，除",
+      "bbox": [
+        55.75,
+        440.255,
+        296.964,
+        449.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "42. B【解析】虎杖的功效是利湿退黄，清热解毒，",
+      "bbox": [
+        342.08,
+        439.865,
+        562.092,
+        449.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "烦，止呕，利尿。",
+      "bbox": [
+        55.41,
+        454.714,
+        131.89,
+        464.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "散瘀止痛，化痰止咳，泻热通便。",
+      "bbox": [
+        321.5,
+        454.504,
+        464.75,
+        464.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "29. E【解析】青皮性较峻烈，行气力猛，苦泄下",
+      "bbox": [
+        76.84,
+        469.144,
+        296.509,
+        478.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "43. A【解析】羌活胜湿汤的组成：羌活、独活、藁",
+      "bbox": [
+        341.98,
+        468.635,
+        562.525,
+        478.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "行，偏入肝胆，能疏肝破气，散结止痛，消积化滞。主治",
+      "bbox": [
+        55.54,
+        483.694,
+        296.834,
+        493.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "本、防风、甘草、川芎、蔓荆子。九味羌活汤的组成：羌",
+      "bbox": [
+        321.38,
+        483.034,
+        562.651,
+        492.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "肝郁乳房胀痛或结块，胁肋胀痛，疝气疼痛，食积腹痛，",
+      "bbox": [
+        55.42,
+        498.124,
+        296.256,
+        507.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "活、防风、苍术、细辛、川芎、白芷、生地黄、黄芩、甘草。",
+      "bbox": [
+        321.51,
+        497.575,
+        579.36,
+        507.125
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "癥瘕积聚等。",
+      "bbox": [
+        55.22,
+        512.794,
+        112.64,
+        523.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "44. A【解析】大黄牡丹汤方中大黄泻火逐瘀，通",
+      "bbox": [
+        341.89,
+        512.235,
+        562.385,
+        521.795
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "30. B【解析】防风祛风解表，胜湿止痛，止痉。配",
+      "bbox": [
+        76.4,
+        527.204,
+        296.648,
+        536.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "便解毒；牡丹皮凉血清热，活血散瘀，二者合用，共泻肠",
+      "bbox": [
+        321.23,
+        526.544,
+        562.295,
+        536.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "伍得当，既可用治外感风寒，又可用于外感风热，其余",
+      "bbox": [
+        55.09,
+        541.424,
+        296.876,
+        550.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "腑湿热瘀结，为方中君药。芒硝软坚散结，协大黄荡涤",
+      "bbox": [
+        321.32,
+        541.084,
+        562.414,
+        550.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "药物均能够发汗解表，常用于风寒感冒。",
+      "bbox": [
+        55.22,
+        556.184,
+        232.663,
+        565.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "实热，促其速下；桃仁善破血，助君药以通瘀滞，俱为臣",
+      "bbox": [
+        321.43,
+        555.995,
+        562.014,
+        565.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "31. E【解析】桑叶疏散风热、清肺润燥、平肝明",
+      "bbox": [
+        76.33,
+        570.484,
+        295.961,
+        580.055
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "药。冬瓜仁清痢利湿，导肠腑垢浊，排脓消痈，是为佐",
+      "bbox": [
+        321.39,
+        570.364,
+        562.484,
+        579.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "目、凉血止血。蜜炙能增强润肺止咳作用，可润肺燥。",
+      "bbox": [
+        56.8,
+        584.864,
+        296.195,
+        594.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "药。本方攻下泄热与逐瘀并用，使结瘀湿热速下，痛随",
+      "bbox": [
+        321.39,
+        584.984,
+        562.547,
+        594.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "看到“蜜炙”就想到“润燥”，故选E。",
+      "bbox": [
+        54.87,
+        599.555,
+        225.614,
+        609.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "痢减，痈肿得消，诸症自愈。",
+      "bbox": [
+        321.29,
+        599.505,
+        445.31,
+        609.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "32. D【解析】A项羚羊角兼能散血解毒、解热镇",
+      "bbox": [
+        76.2,
+        614.235,
+        296.422,
+        623.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "45. A【解析】玉屏风散益气固表止汗。牡蛎散",
+      "bbox": [
+        341.93,
+        614.085,
+        562.461,
+        623.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "痛；B项石决明平肝潜阳，兼能清肝明目；C项决明子",
+      "bbox": [
+        55.13,
+        628.875,
+        296.487,
+        638.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "益气固表，敛阴止汗。",
+      "bbox": [
+        321.26,
+        628.885,
+        416.56,
+        638.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "平抑肝阳，兼能明目、润肠通便；D项天麻兼能祛风通",
+      "bbox": [
+        55.01,
+        643.404,
+        296.442,
+        652.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "46. A【解析】黑逍遥散出自《医略六书·女科指",
+      "bbox": [
+        341.92,
+        643.315,
+        562.054,
+        652.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "络、止痹痛；E项珍珠兼能明目消翳、解毒生肌、润肤",
+      "bbox": [
+        55.11,
+        657.674,
+        296.481,
+        667.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "要》，是由逍遥散加生地黄或熟地黄而成。",
+      "bbox": [
+        321.07,
+        658.024,
+        502.864,
+        667.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "养颜。",
+      "bbox": [
+        54.95,
+        673.425,
+        83.54,
+        682.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "47. E【解析】鹿茸甘、咸，温。归肾、肝经。补肾",
+      "bbox": [
+        341.83,
+        672.485,
+        562.169,
+        682.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "33. C【解析】巴豆有大毒，内服多制成巴豆霜用，",
+      "bbox": [
+        76.25,
+        687.214,
+        295.742,
+        697.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "阳、益精血，强筋骨，调冲任，托疮毒。服用本品宜从小",
+      "bbox": [
+        322.05,
+        687.314,
+        562.427,
+        696.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "0. 1～0.3g,多入丸散。",
+      "bbox": [
+        54.79,
+        702.065,
+        153.212,
+        711.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "量开始，缓缓增加，不可骤用大量，以免阳升风动、头晕",
+      "bbox": [
+        321.11,
+        701.924,
+        562.404,
+        711.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "34. E【解析】甘遂有效成分不溶于水，宜入丸散；",
+      "bbox": [
+        76.31,
+        716.665,
+        295.533,
+        726.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "目赤或伤阴动血。凡发热者均当忌服。",
+      "bbox": [
+        322.8,
+        716.685,
+        492.282,
+        726.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "芒硝宜冲入药汁或开水溶化后服；番泻叶用开水泡服，",
+      "bbox": [
+        55.14,
+        730.905,
+        295.51,
+        740.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "48. D【解析】先煎：主要指有效成分难溶于水的",
+      "bbox": [
+        341.74,
+        731.415,
+        561.831,
+        740.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "入汤剂应后下；火麻仁和牵牛子均可入汤剂。",
+      "bbox": [
+        55.11,
+        745.454,
+        252.486,
+        755.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "一些矿物、介壳类药物，应打碎先煎，煮沸30～60分",
+      "bbox": [
+        320.89,
+        745.957,
+        562.456,
+        755.227
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "35. B【解析】地榆苦寒能泻火解毒，味酸涩能敛",
+      "bbox": [
+        76.41,
+        760.025,
+        296.062,
+        769.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "钟，再下其他药物同煎，以使有效成分充分析出，如磁",
+      "bbox": [
+        320.97,
+        760.367,
+        562.228,
+        769.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "疮，为治水火烫伤之要药，可单味研末麻油调敷，或配",
+      "bbox": [
+        55.06,
+        774.505,
+        295.869,
+        784.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "石、代赭石、生铁落、龙骨、寒水石、牡蛎、石决明、龟甲、",
+      "bbox": [
+        320.83,
+        774.787,
+        571.93,
+        784.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "大黄粉，或配黄连、冰片研末调敷。大黄治烧烫伤，可",
+      "bbox": [
+        55.36,
+        788.904,
+        296.014,
+        798.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "鳖甲等。此外，附子、乌头等毒副作用较强的药物，宜",
+      "bbox": [
+        321.04,
+        789.387,
+        562.116,
+        798.667
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "——",
+      "bbox": [
+        278.17,
+        807.471,
+        296.63,
+        816.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "192—",
+      "bbox": [
+        300.09,
+        806.789,
+        335.59,
+        816.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

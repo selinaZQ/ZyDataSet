@@ -1,0 +1,1207 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 38,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        66.96,
+        45.969,
+        259.984,
+        56.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 补益气血，清心安神开窍",
+      "bbox": [
+        87.93,
+        75.644,
+        220.76,
+        86.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "16. 以下为乳核肿块特点，除了（）",
+      "bbox": [
+        343.45,
+        74.664,
+        528.453,
+        85.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 温补脾肾，清心开窍",
+      "bbox": [
+        87.57,
+        92.134,
+        197.68,
+        102.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 生长缓慢",
+      "bbox": [
+        343.19,
+        90.354,
+        403.186,
+        100.984
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 托毒透邪，养阴清心开窍",
+      "bbox": [
+        87.33,
+        108.664,
+        221.734,
+        119.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 活动度好，表面光滑",
+      "bbox": [
+        342.97,
+        106.284,
+        454.255,
+        116.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 按之如橡皮球",
+      "bbox": [
+        343.06,
+        121.794,
+        425.57,
+        132.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 生津养胃，清心解毒",
+      "bbox": [
+        87.52,
+        124.814,
+        197.865,
+        135.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 乳房皮肤有橘皮样改变",
+      "bbox": [
+        343.05,
+        137.714,
+        472.895,
+        148.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "10. 疮疡的半阴半阳证，外用药物宜选",
+      "bbox": [
+        87.64,
+        141.583,
+        295.079,
+        152.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 妊娠期可迅速增大，排除恶变者",
+      "bbox": [
+        343.15,
+        153.454,
+        513.454,
+        164.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "用（）",
+      "bbox": [
+        64.19,
+        158.254,
+        108.49,
+        168.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "17. 下列外治法，可用于治疗白秃疮、肥疮",
+      "bbox": [
+        343.57,
+        169.484,
+        551.454,
+        180.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 冲和膏",
+      "bbox": [
+        87.51,
+        174.663,
+        134.913,
+        185.313
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "的是（）",
+      "bbox": [
+        320.52,
+        185.654,
+        376.33,
+        196.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 太乙膏",
+      "bbox": [
+        87.07,
+        191.844,
+        133.523,
+        202.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 拔发法",
+      "bbox": [
+        343.22,
+        201.574,
+        391.673,
+        212.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 阳和解凝膏",
+      "bbox": [
+        86.9,
+        208.394,
+        157.198,
+        219.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 挑治法",
+      "bbox": [
+        343.01,
+        217.424,
+        389.654,
+        228.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 咬头膏",
+      "bbox": [
+        86.66,
+        225.234,
+        134.157,
+        235.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 挂线法",
+      "bbox": [
+        343.26,
+        233.204,
+        390.085,
+        243.834
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 以上都不是",
+      "bbox": [
+        86.89,
+        241.944,
+        157.231,
+        252.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 结扎法",
+      "bbox": [
+        343.07,
+        249.104,
+        390.427,
+        259.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "11. 疥疮的发病因素或致病途径是（）",
+      "bbox": [
+        87.34,
+        258.613,
+        289.663,
+        269.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 熏法",
+      "bbox": [
+        343.22,
+        265.104,
+        378.415,
+        275.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 由于体虚感受风、湿、虫、毒而成",
+      "bbox": [
+        86.92,
+        275.284,
+        258.289,
+        285.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "18. 下列各项，不属溺渍法适应证的是（）",
+      "bbox": [
+        343.55,
+        281.094,
+        551.193,
+        291.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 因被虫叮咬，邪毒侵入，阻于肌肤而发",
+      "bbox": [
+        86.78,
+        292.094,
+        285.791,
+        302.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 阳证疮疡初起",
+      "bbox": [
+        343.23,
+        297.063,
+        426.463,
+        307.723
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 由密切接触带虫者而传染",
+      "bbox": [
+        86.76,
+        308.743,
+        227.99,
+        319.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 阴证疮疡",
+      "bbox": [
+        343.08,
+        312.734,
+        401.089,
+        323.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 接触虫体的有毒毛刺，邪毒侵入肌肤，",
+      "bbox": [
+        86.53,
+        324.723,
+        294.759,
+        335.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 美容",
+      "bbox": [
+        343.36,
+        328.604,
+        378.46,
+        339.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "过敏而成本病",
+      "bbox": [
+        63.27,
+        342.163,
+        132.175,
+        352.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 保健",
+      "bbox": [
+        343.23,
+        344.404,
+        378.957,
+        355.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 通过体液和血液进行传染",
+      "bbox": [
+        86.58,
+        358.473,
+        228.0,
+        369.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 创面干燥，僵而不敛",
+      "bbox": [
+        343.29,
+        360.474,
+        453.922,
+        371.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "12. 疥疮的特异性皮损是（）",
+      "bbox": [
+        87.01,
+        375.453,
+        243.116,
+        386.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "19. 下列疗疮，容易损筋伤骨的是（）",
+      "bbox": [
+        343.59,
+        376.574,
+        539.55,
+        387.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 丘疹",
+      "bbox": [
+        86.62,
+        391.124,
+        123.839,
+        401.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 烂疔",
+      "bbox": [
+        343.25,
+        392.164,
+        379.605,
+        402.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 丘疱疹",
+      "bbox": [
+        86.29,
+        407.074,
+        133.789,
+        417.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 红丝疔",
+      "bbox": [
+        343.15,
+        408.384,
+        389.476,
+        419.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 小水疱",
+      "bbox": [
+        86.5,
+        423.013,
+        133.892,
+        433.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 颜面疔",
+      "bbox": [
+        343.12,
+        424.004,
+        389.69,
+        434.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 隧道",
+      "bbox": [
+        86.53,
+        439.114,
+        122.895,
+        449.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 疫疔",
+      "bbox": [
+        343.03,
+        440.304,
+        378.648,
+        450.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 结节",
+      "bbox": [
+        86.52,
+        455.204,
+        122.176,
+        465.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 手足疔",
+      "bbox": [
+        343.14,
+        455.934,
+        389.741,
+        466.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "13. 适用于乳漏疮口漏乳不止，脓腐已脱",
+      "bbox": [
+        86.84,
+        471.263,
+        295.883,
+        481.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "20. 下列各项，不属下肢丹毒防护要点的",
+      "bbox": [
+        343.1,
+        471.744,
+        550.218,
+        482.384
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "尽后的外治法是（）",
+      "bbox": [
+        62.52,
+        487.594,
+        178.94,
+        498.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "是（）",
+      "bbox": [
+        319.88,
+        488.174,
+        364.1,
+        498.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 腐蚀法",
+      "bbox": [
+        86.44,
+        503.904,
+        135.189,
+        514.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 患者应卧床休息",
+      "bbox": [
+        343.23,
+        503.684,
+        437.086,
+        514.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 垫棉法",
+      "bbox": [
+        86.34,
+        520.004,
+        133.571,
+        530.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 患者所用敷料、器械须严格消毒",
+      "bbox": [
+        343.09,
+        519.614,
+        512.043,
+        530.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 切开法",
+      "bbox": [
+        86.35,
+        536.174,
+        133.679,
+        546.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 积极治疗脚湿气",
+      "bbox": [
+        343.11,
+        535.694,
+        435.899,
+        546.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 挂线法",
+      "bbox": [
+        86.32,
+        552.584,
+        134.168,
+        563.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 多饮开水，床边隔离",
+      "bbox": [
+        343.07,
+        551.814,
+        454.111,
+        562.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 结扎法",
+      "bbox": [
+        86.48,
+        568.624,
+        133.698,
+        579.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 保持患肢下垂位，以防热毒上攻",
+      "bbox": [
+        343.2,
+        567.824,
+        512.875,
+        578.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "14. 药毒重复用药的潜伏期是（）",
+      "bbox": [
+        86.92,
+        583.864,
+        266.506,
+        594.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "21. 乳痈初起，证属肝气不舒，胃热壅滞。",
+      "bbox": [
+        343.2,
+        583.844,
+        550.723,
+        594.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 1 ～2天",
+      "bbox": [
+        86.6,
+        601.004,
+        138.38,
+        613.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "内治应首选（）",
+      "bbox": [
+        320.97,
+        600.044,
+        410.933,
+        610.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 3～4天",
+      "bbox": [
+        86.59,
+        617.154,
+        136.56,
+        628.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 逍遥散",
+      "bbox": [
+        343.44,
+        616.024,
+        391.488,
+        626.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 5～20天",
+      "bbox": [
+        86.57,
+        633.384,
+        142.334,
+        644.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 透脓散",
+      "bbox": [
+        343.15,
+        632.214,
+        389.635,
+        642.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 7天",
+      "bbox": [
+        86.57,
+        649.654,
+        120.15,
+        661.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 四妙汤",
+      "bbox": [
+        343.14,
+        648.404,
+        389.742,
+        659.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 24小时",
+      "bbox": [
+        86.78,
+        665.824,
+        136.765,
+        676.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 瓜蒌牛蒡汤",
+      "bbox": [
+        343.13,
+        664.414,
+        413.766,
+        675.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "15. 治疗牛皮癣风湿蕴肤证，应首选的方",
+      "bbox": [
+        87.19,
+        681.493,
+        295.575,
+        692.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 牛蒡解肌汤",
+      "bbox": [
+        343.28,
+        680.524,
+        413.023,
+        691.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "剂是（）",
+      "bbox": [
+        63.02,
+        698.624,
+        120.183,
+        709.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "22. 乳岩的特点是（）",
+      "bbox": [
+        343.29,
+        696.584,
+        463.266,
+        707.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 龙胆泻肝汤",
+      "bbox": [
+        86.89,
+        714.224,
+        158.561,
+        724.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 乳块肿痛，皮色微红，按后痛甚",
+      "bbox": [
+        343.17,
+        712.584,
+        508.339,
+        723.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 当归饮子",
+      "bbox": [
+        86.84,
+        730.593,
+        145.245,
+        741.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 乳块皮肉相连，溃破脓稀薄",
+      "bbox": [
+        343.13,
+        728.474,
+        488.869,
+        739.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 消风散",
+      "bbox": [
+        86.75,
+        746.454,
+        134.29,
+        757.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 乳块呈卵圆形，表面光滑，推之活动",
+      "bbox": [
+        343.21,
+        744.384,
+        530.043,
+        755.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 桃红四物汤",
+      "bbox": [
+        86.81,
+        762.764,
+        157.832,
+        773.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 乳块质地较软，月经后缩小",
+      "bbox": [
+        343.01,
+        760.364,
+        489.651,
+        770.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 竹叶石膏汤",
+      "bbox": [
+        86.85,
+        778.644,
+        157.617,
+        789.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 肿块高低不平，质硬，推之不动",
+      "bbox": [
+        343.26,
+        776.144,
+        506.702,
+        786.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        280.43,
+        796.169,
+        289.32,
+        805.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "180—",
+      "bbox": [
+        299.35,
+        794.836,
+        334.19,
+        805.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

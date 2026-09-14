@@ -1,0 +1,1233 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 21,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        428.69,
+        49.406,
+        547.495,
+        60.856
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "糖耐量降低，其诊断是（）",
+      "bbox": [
+        52.1,
+        82.353,
+        202.649,
+        94.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "儿无女，仅与66岁的老伴相依为命，如果是肺",
+      "bbox": [
+        319.67,
+        82.153,
+        563.11,
+        94.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 2型糖尿病",
+      "bbox": [
+        75.69,
+        98.163,
+        146.569,
+        109.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "癌，不要将病情告诉他的老伴，以免她冠心病",
+      "bbox": [
+        318.85,
+        97.103,
+        562.39,
+        109.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 1型糖尿病",
+      "bbox": [
+        74.94,
+        114.183,
+        144.644,
+        126.223
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "发作；如果手术，可以自己签字。医生此时怎",
+      "bbox": [
+        318.73,
+        112.733,
+        559.844,
+        124.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 糖尿病酮症酸中毒",
+      "bbox": [
+        75.01,
+        128.913,
+        184.826,
+        140.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "样做在道德上最佳（）",
+      "bbox": [
+        318.81,
+        129.253,
+        453.259,
+        141.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 肾炎",
+      "bbox": [
+        74.84,
+        146.133,
+        111.239,
+        157.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 对患者家属保密，而对患者不保密",
+      "bbox": [
+        343.44,
+        143.733,
+        534.946,
+        155.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 肾病",
+      "bbox": [
+        75.03,
+        161.133,
+        111.319,
+        172.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 对患者本人不保密，但如何告知家属由",
+      "bbox": [
+        343.32,
+        159.793,
+        560.29,
+        171.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "99. 王某1997年于中医药大学毕业分配到",
+      "bbox": [
+        74.54,
+        176.753,
+        292.942,
+        188.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "患者决定",
+      "bbox": [
+        318.98,
+        177.163,
+        366.347,
+        188.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "市级中医院工作，并于1998年取得了中医师执",
+      "bbox": [
+        50.98,
+        192.723,
+        293.373,
+        204.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 对患者和家属都保密",
+      "bbox": [
+        343.29,
+        190.723,
+        465.953,
+        202.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "业资格。《中华人民共和国执业医师法》施行",
+      "bbox": [
+        50.95,
+        208.543,
+        293.291,
+        220.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 对患者和家属都不保密",
+      "bbox": [
+        343.26,
+        206.673,
+        478.945,
+        218.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "当年，其依照有关开办医疗机构的规定申请个",
+      "bbox": [
+        52.77,
+        224.503,
+        293.24,
+        236.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 对患者家属不保密，对患者保密",
+      "bbox": [
+        343.19,
+        222.513,
+        521.159,
+        234.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "体开业。依据《中华人民共和国医师法》的规",
+      "bbox": [
+        50.8,
+        240.413,
+        293.455,
+        252.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "103. 患者胸骨下部显著前突，左、右胸廓",
+      "bbox": [
+        344.2,
+        238.473,
+        560.545,
+        250.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "定，卫生行政部门应（）",
+      "bbox": [
+        50.9,
+        256.563,
+        190.149,
+        268.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "塌陷。肋骨与肋软骨交界处变厚增大，上下相",
+      "bbox": [
+        318.56,
+        254.343,
+        560.102,
+        266.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 批准其个体行医资格申请",
+      "bbox": [
+        74.73,
+        272.543,
+        223.564,
+        284.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "连呈串珠状，其诊断是（）",
+      "bbox": [
+        318.28,
+        271.813,
+        470.899,
+        283.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 要求其应具备主治医师资格",
+      "bbox": [
+        74.43,
+        288.603,
+        233.862,
+        300.313
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 肺结核",
+      "bbox": [
+        342.98,
+        287.713,
+        392.962,
+        299.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 要求其参加国家临床中医专业技术资",
+      "bbox": [
+        74.86,
+        304.363,
+        293.345,
+        316.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 佝偻病",
+      "bbox": [
+        342.81,
+        303.833,
+        390.663,
+        315.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "格考试",
+      "bbox": [
+        50.8,
+        321.133,
+        86.773,
+        332.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 肺气肿",
+      "bbox": [
+        342.88,
+        319.433,
+        390.809,
+        331.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 要求其能保证个体行医质量，才能予以",
+      "bbox": [
+        74.87,
+        336.423,
+        295.12,
+        348.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 支气管哮喘",
+      "bbox": [
+        342.72,
+        335.443,
+        416.687,
+        347.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "受理申请",
+      "bbox": [
+        51.29,
+        352.783,
+        98.727,
+        364.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 肺纤维化",
+      "bbox": [
+        342.75,
+        351.733,
+        403.742,
+        363.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 要求其经执业医师注册后在医疗机构",
+      "bbox": [
+        75.11,
+        367.643,
+        292.647,
+        379.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "104. 患者，男，46岁。有胃癌家族史，本人",
+      "bbox": [
+        343.78,
+        366.463,
+        567.24,
+        378.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "中执业满5年",
+      "bbox": [
+        52.51,
+        385.113,
+        122.829,
+        396.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "因胃部不适行胃镜检查，结果显示：幽门螺杆",
+      "bbox": [
+        319.87,
+        382.323,
+        560.3,
+        394.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "100. 某药店经营者为贪图利益而销售超",
+      "bbox": [
+        76.19,
+        399.653,
+        292.942,
+        411.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "菌（Hp）相关性慢性胃炎伴重度肠上皮化生和",
+      "bbox": [
+        318.44,
+        398.413,
+        559.682,
+        410.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "过有效期的药品。结果造成患者服用后死亡",
+      "bbox": [
+        51.12,
+        414.893,
+        293.634,
+        426.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "活动性炎。对此患者最好的处理为（）",
+      "bbox": [
+        317.95,
+        414.763,
+        537.523,
+        426.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "的特别严重后果，依据《中华人民共和国刑",
+      "bbox": [
+        52.77,
+        430.583,
+        292.339,
+        442.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 定期胃镜复查",
+      "bbox": [
+        342.2,
+        430.403,
+        429.037,
+        442.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "法》。给经营者的刑罚是（）",
+      "bbox": [
+        51.11,
+        446.043,
+        214.936,
+        458.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 定期X线造影复查",
+      "bbox": [
+        342.43,
+        446.423,
+        454.14,
+        458.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 处3年以下有期徒刑或拘役，并处罚金",
+      "bbox": [
+        75.08,
+        462.773,
+        292.31,
+        474.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 根除Hp治疗",
+      "bbox": [
+        342.44,
+        462.633,
+        426.095,
+        474.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 处3年以上7年以下有期徒刑，并处罚",
+      "bbox": [
+        75.17,
+        478.453,
+        293.304,
+        490.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 手术切除胃，预防胃癌",
+      "bbox": [
+        342.32,
+        478.503,
+        472.857,
+        490.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "金",
+      "bbox": [
+        51.3,
+        496.133,
+        63.02,
+        507.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 黏膜保护剂治疗",
+      "bbox": [
+        342.41,
+        494.713,
+        440.036,
+        506.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 处3年以上10年以下有期徒刑，并处罚",
+      "bbox": [
+        75.33,
+        510.413,
+        294.4,
+        522.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "105. 患者，男，30岁。上腹突发刀割样疼",
+      "bbox": [
+        343.28,
+        510.713,
+        560.059,
+        522.453
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "金",
+      "bbox": [
+        51.34,
+        528.183,
+        63.04,
+        539.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "痛，很快波及全腹，体温39，腹部呈板状，有",
+      "bbox": [
+        317.62,
+        526.643,
+        569.67,
+        538.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 处10年以上20年以下有期徒刑，并处罚",
+      "bbox": [
+        75.06,
+        542.583,
+        288.924,
+        554.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "明显压痛、反跳痛和肌紧张，肝浊音界消失，肠",
+      "bbox": [
+        319.41,
+        541.233,
+        575.36,
+        552.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "金",
+      "bbox": [
+        51.3,
+        560.303,
+        63.0,
+        572.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "鸣音消失。最可能的诊断是（）",
+      "bbox": [
+        318.62,
+        558.733,
+        500.899,
+        570.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 处10年以上有期徒刑或无期徒刑，并处",
+      "bbox": [
+        75.28,
+        574.683,
+        293.145,
+        586.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 急性化脓性胆囊炎",
+      "bbox": [
+        342.25,
+        573.783,
+        453.985,
+        585.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "罚金",
+      "bbox": [
+        51.26,
+        592.133,
+        74.835,
+        603.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 胃十二指肠溃疡穿孔",
+      "bbox": [
+        342.35,
+        589.683,
+        464.404,
+        601.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "101. 医师王某，2010年5月前在某县医院",
+      "bbox": [
+        76.34,
+        606.763,
+        292.514,
+        618.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 急性阑尾炎穿孔",
+      "bbox": [
+        342.34,
+        605.623,
+        440.444,
+        617.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "内科工作，后借调到县团委工作，2012年6月",
+      "bbox": [
+        53.09,
+        622.703,
+        294.8,
+        634.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 急性出血性胰腺炎",
+      "bbox": [
+        342.32,
+        622.793,
+        453.2,
+        634.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "回县医院工作，王某应当经所在地的县级以上",
+      "bbox": [
+        53.16,
+        638.333,
+        292.7,
+        650.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 急性梗阻性化脓性胆管炎",
+      "bbox": [
+        342.44,
+        637.803,
+        490.387,
+        649.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "卫生健康主管部门委托的机构或者组织考核",
+      "bbox": [
+        51.33,
+        654.653,
+        293.212,
+        666.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "106. 患者腹部膨隆呈球形。转动体位时",
+      "bbox": [
+        343.63,
+        653.503,
+        560.733,
+        665.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "合格，并依法申请办理（）",
+      "bbox": [
+        51.23,
+        670.683,
+        196.779,
+        682.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "形状改变不明显。应首先考虑的是（）",
+      "bbox": [
+        317.74,
+        669.913,
+        538.169,
+        683.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 准予注册手续",
+      "bbox": [
+        75.83,
+        686.623,
+        161.895,
+        698.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 肝硬化",
+      "bbox": [
+        342.69,
+        685.733,
+        393.506,
+        697.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 中止注册手续",
+      "bbox": [
+        75.33,
+        702.633,
+        159.724,
+        714.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 右心功能不全",
+      "bbox": [
+        342.32,
+        703.123,
+        428.397,
+        714.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 注销注册手续",
+      "bbox": [
+        75.35,
+        717.773,
+        159.824,
+        729.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 缩窄性心包炎",
+      "bbox": [
+        342.5,
+        718.733,
+        428.448,
+        730.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 变更注册手续",
+      "bbox": [
+        75.3,
+        733.773,
+        160.35,
+        745.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 肾病综合征",
+      "bbox": [
+        342.56,
+        734.823,
+        416.474,
+        746.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 重新注册手续",
+      "bbox": [
+        75.09,
+        749.803,
+        160.468,
+        761.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 肠麻痹",
+      "bbox": [
+        342.54,
+        750.843,
+        391.411,
+        762.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "102. 患者，男，67岁。知识分子，医生以肺",
+      "bbox": [
+        76.2,
+        765.723,
+        302.94,
+        777.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "107. 患儿近日常感无力，精神萎靡，食欲",
+      "bbox": [
+        343.27,
+        766.633,
+        559.987,
+        778.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "部肿物待查收入院。住院后确诊为肺癌，但尚",
+      "bbox": [
+        51.47,
+        781.313,
+        295.96,
+        793.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "不佳，并诉右上腹隐痛。检查：面色黄，肝于肋",
+      "bbox": [
+        317.71,
+        781.763,
+        573.62,
+        793.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "未告诉患者和家属。而患者告诉医生自己无",
+      "bbox": [
+        51.53,
+        797.723,
+        292.573,
+        809.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "缘下3cm可触及，有压痛。实验室检查：尿胆",
+      "bbox": [
+        317.6,
+        797.883,
+        562.1,
+        809.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "115",
+      "bbox": [
+        296.88,
+        821.014,
+        310.785,
+        830.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

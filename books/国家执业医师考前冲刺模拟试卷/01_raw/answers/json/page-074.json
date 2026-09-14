@@ -1,0 +1,1103 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 74,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        62.07,
+        47.218,
+        260.149,
+        57.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        135.08,
+        110.539,
+        481.802,
+        129.639
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        205.51,
+        136.618,
+        408.761,
+        155.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "11. B【解析】大肠主传泻糟粕，是水谷废物排泄",
+      "bbox": [
+        338.06,
+        178.545,
+        557.683,
+        188.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "的通路。从胃的受纳、腐熟及脾的运化，经过小肠的泌",
+      "bbox": [
+        317.49,
+        193.094,
+        557.719,
+        202.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "第一单元",
+      "bbox": [
+        141.68,
+        203.721,
+        214.08,
+        221.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "别清浊，后由大肠排泄，构成一个水谷运化、吸收、排泄",
+      "bbox": [
+        316.73,
+        207.914,
+        557.961,
+        217.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "的过程，所以大便下利或秘结都是大肠的传导失常。",
+      "bbox": [
+        317.35,
+        222.294,
+        544.113,
+        231.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "12. C【解析】风性善行而数变：“善行”，指风性善",
+      "bbox": [
+        337.78,
+        237.345,
+        564.26,
+        247.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "1. D【解析】“克我”和“我克”，在《内经》中称作",
+      "bbox": [
+        77.17,
+        249.975,
+        309.11,
+        260.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "动不居，游走不定。",
+      "bbox": [
+        316.78,
+        252.674,
+        402.82,
+        262.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "“所不胜”和“所胜”；“克我”者是“所不胜”，“我克”者是",
+      "bbox": [
+        56.39,
+        264.764,
+        334.5,
+        274.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "13. E【解析】足少阳胆经耳部分支循行：从耳后",
+      "bbox": [
+        337.39,
+        266.684,
+        557.669,
+        276.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "“所胜”，火的“所胜”，即火“所克”者；水克火，火克金进，入耳中，出走耳前到目外眦后方。",
+      "bbox": [
+        56.13,
+        279.734,
+        472.043,
+        291.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "金克木，木克土，土克水。",
+      "bbox": [
+        56.08,
+        294.784,
+        171.28,
+        304.384
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "14. D【解析】太阴、阳明在前缘；厥阴、少阳在中",
+      "bbox": [
+        337.51,
+        296.155,
+        557.504,
+        306.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "2. B【解析】胃是机体对饮食物进行消化吸收的",
+      "bbox": [
+        76.67,
+        308.874,
+        295.571,
+        319.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "线；少阴、太阳在后缘；阴经行于内侧，阳经行于外侧，",
+      "bbox": [
+        316.41,
+        311.294,
+        557.391,
+        320.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "重要脏器，主受纳腐熟水谷，有“太仓”、“水谷之海”",
+      "bbox": [
+        55.68,
+        324.034,
+        296.93,
+        333.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "手太阴肺经，在内侧前缘。",
+      "bbox": [
+        316.35,
+        326.134,
+        431.79,
+        335.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "之称。",
+      "bbox": [
+        55.62,
+        338.813,
+        84.6,
+        348.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "15. A【解析】冲脉为血海、十二经之海；任脉为阴",
+      "bbox": [
+        337.36,
+        340.404,
+        557.398,
+        350.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "3. B【解析】昼夜变化影响着疾病的过程，《灵",
+      "bbox": [
+        76.41,
+        353.714,
+        295.757,
+        363.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "脉之海；督脉为阳脉之海；带脉，约束纵行经脉，主司妇",
+      "bbox": [
+        316.26,
+        355.294,
+        557.599,
+        364.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "枢·顺气一日分为四时》说：“夫百病者，多以旦慧、昼",
+      "bbox": [
+        55.67,
+        368.474,
+        296.67,
+        378.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "女的带下；维脉，具有维护和联络全身阴经、阳经的",
+      "bbox": [
+        316.35,
+        369.784,
+        557.407,
+        379.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "安、夕加、夜甚。”并进一步指出：“朝则人气始生，病气",
+      "bbox": [
+        55.5,
+        383.114,
+        306.14,
+        392.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "作用。",
+      "bbox": [
+        316.13,
+        384.894,
+        344.9,
+        394.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "衰，故旦慧；日中人气长，长则胜邪，故安；夕则人气始",
+      "bbox": [
+        55.92,
+        398.214,
+        297.17,
+        407.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "16. C【解析】内寒指机体阳气虚衰，温煦作用减",
+      "bbox": [
+        337.13,
+        399.344,
+        557.717,
+        409.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "衰，邪气始生，故加；夜半人气如脏，邪气独居于身，故",
+      "bbox": [
+        55.88,
+        412.894,
+        296.88,
+        422.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "退，阳不制阴而虚寒内生的病理变化。多因先天禀赋",
+      "bbox": [
+        316.24,
+        414.154,
+        557.857,
+        423.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "甚也。”病“安”的时间是昼。",
+      "bbox": [
+        55.59,
+        427.803,
+        190.83,
+        437.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "不足，阳气素虚，或久病伤阳，或外感寒邪，过食生冷，",
+      "bbox": [
+        316.05,
+        429.023,
+        557.55,
+        438.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "4. B【解析】“壮水之主，以制阳光”是王冰对于",
+      "bbox": [
+        76.5,
+        442.065,
+        295.591,
+        452.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "损伤阳气，以致阳气虚衰所致。内寒病机多见于心",
+      "bbox": [
+        316.0,
+        443.604,
+        557.577,
+        453.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "“诸寒之而热者取之阴”的注语，后又简称为“壮水制",
+      "bbox": [
+        55.63,
+        456.774,
+        295.22,
+        466.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "脾肾。",
+      "bbox": [
+        316.13,
+        458.104,
+        345.02,
+        467.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "阳”“滋水制火”“滋阴涵阳”，是用滋阴壮水之法，治疗",
+      "bbox": [
+        56.57,
+        471.774,
+        306.95,
+        481.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "17. C【解析】情志的五行归属：怒属肝，喜属心，",
+      "bbox": [
+        337.07,
+        472.464,
+        557.407,
+        482.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "阴虚则热之证。",
+      "bbox": [
+        56.34,
+        486.635,
+        123.177,
+        496.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "思属脾，悲属肺，恐属肾。金克木，故悲克怒。",
+      "bbox": [
+        316.18,
+        487.614,
+        517.78,
+        497.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "5. B【解析】阴阳转化是指阴阳对立双方，在一定",
+      "bbox": [
+        76.59,
+        501.094,
+        295.556,
+        511.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "18. B【解析】实，是指邪气盛；虚，是指正气虚。",
+      "bbox": [
+        337.17,
+        502.185,
+        552.73,
+        512.317
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "的条件下，可以各自向其相反的方向转化，是在量变基",
+      "bbox": [
+        56.35,
+        515.844,
+        295.638,
+        525.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "19. E【解析】因塞证而用塞法。前“塞”为塞法，",
+      "bbox": [
+        337.2,
+        516.655,
+        557.465,
+        526.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "础上的质变。",
+      "bbox": [
+        55.63,
+        531.224,
+        113.53,
+        540.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "指补养固涩；后“塞”为塞证，指本虚标实之满胀不通的",
+      "bbox": [
+        316.12,
+        531.344,
+        557.774,
+        540.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "6. A【解析】脑是元神之府，又名髓海。",
+      "bbox": [
+        76.78,
+        545.394,
+        251.96,
+        555.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "病证。脾虚腹胀，腹胀为脾虚引起，为本虚标实；血虚",
+      "bbox": [
+        316.07,
+        545.984,
+        558.013,
+        555.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "7. E【解析】女子胞功能的生理因素有三个方面：",
+      "bbox": [
+        76.72,
+        559.974,
+        294.878,
+        570.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "便秘、血枯经闭、肾虚尿闭均为本虚标实；血瘀经闭，血",
+      "bbox": [
+        316.12,
+        560.594,
+        558.236,
+        570.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "一是肾和“天癸”的作用；二是冲、任二脉的作用；三是",
+      "bbox": [
+        55.97,
+        574.374,
+        296.97,
+        584.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "瘀为实证，经闭为实证，故不能用塞因塞用治法。",
+      "bbox": [
+        316.17,
+        575.654,
+        528.452,
+        585.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "心、肝、脾、肾四脏的作用。",
+      "bbox": [
+        56.06,
+        590.104,
+        181.51,
+        599.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "20. E【解析】火热内生的机制：①阳气过盛化火；",
+      "bbox": [
+        336.84,
+        589.914,
+        557.514,
+        600.09
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "8. D【解析】肝藏血，是指肝脏具有贮藏血液、调",
+      "bbox": [
+        77.02,
+        604.634,
+        295.432,
+        614.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "②邪郁化火；③五志过极化火；④阴虚火旺。外感暑热",
+      "bbox": [
+        316.2,
+        604.824,
+        558.113,
+        614.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "节血量的生理功能。脾统血，是指脾具有统摄血液在",
+      "bbox": [
+        56.26,
+        619.374,
+        295.546,
+        629.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "阳邪为外感。",
+      "bbox": [
+        317.08,
+        619.524,
+        374.8,
+        629.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "经脉内运行防御其溢出脉外的功能，故肝藏血与脾统",
+      "bbox": [
+        56.43,
+        634.194,
+        295.504,
+        643.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "21. E【解析】《素问·宣明五气篇》：“心藏神，肺",
+      "bbox": [
+        336.91,
+        633.764,
+        563.97,
+        643.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "血的共同生理功能是防止出血。",
+      "bbox": [
+        56.43,
+        649.534,
+        194.881,
+        659.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "藏魄，肝藏魂，脾藏意，肾藏志。”",
+      "bbox": [
+        316.39,
+        649.144,
+        470.31,
+        658.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "9. B【解析】肝属木，肾属水；心属火，脾属土，肺",
+      "bbox": [
+        77.36,
+        663.874,
+        298.67,
+        674.037
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "22. E【解析】归经的理论基础是脏腑经络理论。",
+      "bbox": [
+        336.84,
+        663.725,
+        550.363,
+        673.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "属金，水火既济指的是心、肾两脏。",
+      "bbox": [
+        56.31,
+        678.984,
+        209.75,
+        688.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "23. A【解析】元气，是人体生命活动的原动力；宗",
+      "bbox": [
+        336.97,
+        678.644,
+        557.849,
+        688.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "10. D【解析】宗气积于胸中，上行喉咙，助肺司呼",
+      "bbox": [
+        77.76,
+        693.475,
+        295.308,
+        703.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "气，是积于胸中的后天宗始之气；营气，是与血共同行",
+      "bbox": [
+        316.28,
+        693.334,
+        558.032,
+        702.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "吸。呼吸的强弱与宗气的盛衰有密切联系。声音出于",
+      "bbox": [
+        56.83,
+        708.154,
+        295.444,
+        717.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "于脉中之气；卫气，运行于脉外，起护卫、保卫作用",
+      "bbox": [
+        316.37,
+        707.924,
+        557.601,
+        717.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "喉咙，喉为气出入之门户，为声音之枢，所以语言、声音",
+      "bbox": [
+        56.55,
+        723.044,
+        297.05,
+        732.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "之气。",
+      "bbox": [
+        316.21,
+        723.334,
+        344.92,
+        732.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "的强弱，与宗气的盛衰有关。宗气聚于胸中，灌注于心",
+      "bbox": [
+        56.89,
+        737.724,
+        295.403,
+        747.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "24. D【解析】手之三阴，从胸走手；手之三阳，从",
+      "bbox": [
+        336.91,
+        737.494,
+        558.002,
+        747.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "脉，助心行气血。气血的运行，心搏强弱、节律、心率",
+      "bbox": [
+        56.26,
+        752.294,
+        295.575,
+        761.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "手走头；足之三阳，从头走足；足之三阴，从足走腹。",
+      "bbox": [
+        316.26,
+        752.404,
+        546.66,
+        762.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "等，均与宗气盛衰有关，故联结“肺主呼吸”和“心主血",
+      "bbox": [
+        56.39,
+        767.044,
+        296.64,
+        776.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "25. E【解析】《素问·生气通天论》说：“味过于",
+      "bbox": [
+        336.86,
+        766.794,
+        557.9,
+        776.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "脉”的中心环节是宗气的贯通和运行。",
+      "bbox": [
+        56.03,
+        781.534,
+        220.356,
+        791.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "酸，肝气以津，脾气乃绝；味过于咸，大骨气劳，短肌，心",
+      "bbox": [
+        316.53,
+        781.694,
+        566.39,
+        791.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "—",
+      "bbox": [
+        275.78,
+        799.373,
+        286.43,
+        810.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "264—",
+      "bbox": [
+        295.62,
+        799.344,
+        334.51,
+        809.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

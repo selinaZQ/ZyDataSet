@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 90,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        54.95,
+        45.818,
+        259.584,
+        56.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "107. A【解析】呕吐的辨证、处方。从本患者的症",
+      "bbox": [
+        74.04,
+        75.41,
+        297.587,
+        86.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "子养亲汤。外寒内热的寒包火哮用厚朴麻黄汤。",
+      "bbox": [
+        319.12,
+        75.92,
+        536.248,
+        85.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "状可诊断为呕吐（热邪内蕴），治疗应清热降逆止呕，选",
+      "bbox": [
+        52.35,
+        91.18,
+        297.625,
+        101.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "123. E",
+      "bbox": [
+        340.24,
+        91.8,
+        368.588,
+        101.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "项A中的各穴均能清热，故为正确答案。",
+      "bbox": [
+        52.14,
+        106.21,
+        233.382,
+        116.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "124. A【解析】痫病发作期以治标为主。着重清",
+      "bbox": [
+        340.21,
+        106.35,
+        566.297,
+        116.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "108. A【解析】根据题干症状诊断：月经先期。月",
+      "bbox": [
+        73.76,
+        121.47,
+        295.702,
+        132.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "泻肝火，豁痰息风，开窍定痫；平时病缓，则补虚以治其",
+      "bbox": [
+        318.63,
+        122.11,
+        567.88,
+        132.08
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "经先期针灸治疗主穴：关元、三阴交、血海，配穴：实热",
+      "bbox": [
+        52.11,
+        136.98,
+        301.61,
+        146.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "本，宜益气养血，健脾化痰，滋补肝肾，宁心安神。",
+      "bbox": [
+        318.48,
+        137.54,
+        548.02,
+        147.52
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "配行间；虚热配太溪；气虚配足三里、脾俞。月经过多",
+      "bbox": [
+        52.32,
+        152.48,
+        297.103,
+        162.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "125. A",
+      "bbox": [
+        340.08,
+        152.611,
+        369.562,
+        162.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "配隐白。",
+      "bbox": [
+        52.27,
+        168.11,
+        92.15,
+        178.08
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "126. B【解析】气厥只有气机逆乱，实证特点是口",
+      "bbox": [
+        339.91,
+        168.041,
+        565.433,
+        178.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "109. E【解析】相关部位扭伤的针灸主穴：阿是",
+      "bbox": [
+        73.36,
+        183.21,
+        297.148,
+        193.839
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "噤握拳，呼吸气粗；虚证特点是面白肢冷，呼吸微弱。",
+      "bbox": [
+        318.35,
+        184.03,
+        566.344,
+        194.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "穴、局部腧穴。腰部：阿是穴、大肠俞、腰痛点、委中。",
+      "bbox": [
+        51.92,
+        198.95,
+        301.42,
+        208.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "血厥还有血菀于上，实证表现为面赤唇紫，头晕胀痛；",
+      "bbox": [
+        318.25,
+        199.62,
+        566.014,
+        209.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "110. D【解析】本患者所患病症归经为手少阴心",
+      "bbox": [
+        73.06,
+        214.411,
+        296.9,
+        224.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "虚证表现为口唇不华，四肢震颤。",
+      "bbox": [
+        318.14,
+        215.13,
+        467.54,
+        225.09
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "经。神门穴属于心经，可宁心安神，主要治疗心与神志",
+      "bbox": [
+        51.59,
+        230.04,
+        296.832,
+        240.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "127. E",
+      "bbox": [
+        339.52,
+        230.181,
+        367.811,
+        240.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "病证。三阴交穴的主要功能是健脾利湿兼调胃脾；足",
+      "bbox": [
+        51.31,
+        245.32,
+        296.851,
+        255.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "128. A【解析】呃逆是胃气上逆动膈，气逆上冲，",
+      "bbox": [
+        339.42,
+        245.9,
+        565.896,
+        256.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "三里主治胃肠疾病、水湿病、癫狂等神志病，并为强壮",
+      "bbox": [
+        51.48,
+        260.65,
+        296.968,
+        270.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "喉间发声的病证，病机为胃失和降，逆气动膈。BC项",
+      "bbox": [
+        318.23,
+        261.38,
+        566.184,
+        271.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "保健要穴；太溪为足少阴肾经之输穴、原穴，可治疗咽",
+      "bbox": [
+        51.14,
+        276.44,
+        296.382,
+        286.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "仅说明了其中一种病因，不够全面。噎膈是食管干涩",
+      "bbox": [
+        317.66,
+        276.88,
+        566.491,
+        286.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "喉肿痛、齿痛、耳聋、耳鸣等阴虚性五官病证，肾虚病证",
+      "bbox": [
+        51.47,
+        291.54,
+        300.72,
+        301.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "或狭窄造成食物吞咽困难的病证，病因为内伤饮食、情",
+      "bbox": [
+        317.81,
+        292.22,
+        566.492,
+        302.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "以及一些虚性肺部疾病；合谷为手阳明经原穴，主治五",
+      "bbox": [
+        52.04,
+        307.55,
+        296.839,
+        317.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "志、年老肾亏，使气滞、血瘀、痰阻三邪交于食道，故病",
+      "bbox": [
+        317.89,
+        307.86,
+        567.14,
+        317.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "官诸疾、外感病证。",
+      "bbox": [
+        51.22,
+        322.86,
+        140.95,
+        332.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "机为痰瘀互结，食道狭窄。",
+      "bbox": [
+        317.59,
+        323.16,
+        437.23,
+        333.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "111. B【解析】蛇串疮肝胆火盛，治疗应选用的穴",
+      "bbox": [
+        72.54,
+        338.381,
+        296.5,
+        348.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "129. A【解析】胁痛肝胆湿热证用龙胆泻肝汤清",
+      "bbox": [
+        338.95,
+        338.431,
+        566.212,
+        348.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "位是行间、大敦、阳陵泉。",
+      "bbox": [
+        51.16,
+        353.62,
+        170.8,
+        363.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "热利湿。",
+      "bbox": [
+        317.39,
+        353.94,
+        357.23,
+        363.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "112. C【解析】呕吐的辨证、处方。热邪内蕴型呕",
+      "bbox": [
+        72.43,
+        369.061,
+        296.502,
+        379.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "130. C【解析】胁痛瘀血停着证用旋覆花汤祛瘀",
+      "bbox": [
+        338.71,
+        369.13,
+        566.285,
+        379.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "吐，治疗应清热降逆止呕，C项中的各穴均能清热，故",
+      "bbox": [
+        51.48,
+        384.65,
+        296.513,
+        394.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "通络。",
+      "bbox": [
+        317.29,
+        384.94,
+        347.2,
+        394.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "为正确答案。",
+      "bbox": [
+        51.39,
+        400.361,
+        111.03,
+        410.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "131. A",
+      "bbox": [
+        338.53,
+        399.911,
+        367.953,
+        409.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "113. D【解析】根据题干症状诊断为咽喉肿痛虚",
+      "bbox": [
+        72.52,
+        415.491,
+        296.094,
+        426.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "132. D【解析】痉证邪壅经络证证机概要：风寒湿",
+      "bbox": [
+        338.45,
+        415.301,
+        566.015,
+        425.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "证。咽喉肿痛虚证的主穴：太溪、照海、列缺、鱼际。",
+      "bbox": [
+        51.13,
+        430.91,
+        290.17,
+        440.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "邪侵于肌表，壅滞经络。治法：祛风散寒，燥湿和营。",
+      "bbox": [
+        316.89,
+        431.07,
+        565.592,
+        441.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "114. A【解析】从本患者的症状可诊断为胃痛（肝",
+      "bbox": [
+        72.34,
+        446.231,
+        296.381,
+        456.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "方用羌活胜湿汤加减。痉证肝经热盛证方选羚角钩",
+      "bbox": [
+        316.92,
+        446.44,
+        565.572,
+        456.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "气犯胃型），病变部位主要在肝、胃，治疗应取胃经和肝",
+      "bbox": [
+        51.14,
+        461.74,
+        296.133,
+        471.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "藤汤。",
+      "bbox": [
+        316.78,
+        461.64,
+        346.69,
+        471.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "经的穴位。",
+      "bbox": [
+        51.21,
+        477.72,
+        101.11,
+        487.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "133. B",
+      "bbox": [
+        337.99,
+        476.841,
+        366.309,
+        486.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "115. C【解析】便秘的辨证、处方。从本患者的症",
+      "bbox": [
+        72.6,
+        492.49,
+        295.713,
+        503.078
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "134. A【解析】肝火犯胃应清肝泻火，用龙胆泻肝",
+      "bbox": [
+        338.02,
+        491.821,
+        565.965,
+        502.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "状可诊断为便秘（气机郁滞型），大肠俞募相配可疏通",
+      "bbox": [
+        51.21,
+        507.51,
+        295.55,
+        517.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "汤。胃热炽盛应清胃泻火，凉血止血，用玉女煎。C项",
+      "bbox": [
+        316.77,
+        507.29,
+        565.472,
+        517.26
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "大肠腑气，下合穴上巨虚行滞通腑，故为正确答案。",
+      "bbox": [
+        51.37,
+        523.28,
+        280.68,
+        533.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "用于肝火犯肺。DE项用于胃中积火的吐血证。",
+      "bbox": [
+        316.4,
+        523.01,
+        530.087,
+        532.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "116. A【解析】根据题干症状诊断：胆绞痛。胆绞",
+      "bbox": [
+        72.52,
+        538.42,
+        295.618,
+        549.078
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "135. A【解析】自汗是由气虚导致的，可见白昼时",
+      "bbox": [
+        337.94,
+        537.8,
+        565.751,
+        548.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "痛的主穴：胆囊穴、阳陵泉、胆俞、日月。",
+      "bbox": [
+        51.29,
+        553.74,
+        240.72,
+        563.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "时汗出，动则益甚。",
+      "bbox": [
+        316.78,
+        553.4,
+        406.51,
+        563.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "117. D【解析】该患者为眩晕肾精不足证，应在主",
+      "bbox": [
+        72.55,
+        569.74,
+        295.564,
+        580.357
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "136. C【解析】脱汗是气不固摄所致，可见冷汗如",
+      "bbox": [
+        337.88,
+        568.651,
+        565.433,
+        579.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "穴百会、风池、肝俞、肾俞、足三里的基础上加用太溪、",
+      "bbox": [
+        51.26,
+        584.44,
+        300.51,
+        594.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "珠，气息微弱。",
+      "bbox": [
+        316.34,
+        584.37,
+        386.13,
+        594.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "悬钟、三阴交。A项用于肝阳上亢证，B项用于痰湿中",
+      "bbox": [
+        51.52,
+        600.12,
+        294.882,
+        610.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "137. A【解析】治疗咽喉疼痛，应首先考虑与咽喉",
+      "bbox": [
+        337.84,
+        599.45,
+        565.477,
+        610.128
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "阻证，C项用于气血两虚证。",
+      "bbox": [
+        51.77,
+        616.58,
+        176.814,
+        626.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "部位有关的经络。手太阴肺经循行属于肺脏，从“肺系",
+      "bbox": [
+        316.36,
+        615.5,
+        565.042,
+        625.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "118. A【解析】近取大肠募穴天枢与大肠俞同用",
+      "bbox": [
+        72.68,
+        631.07,
+        294.916,
+        642.319
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "（肺与喉咙相联系的部位）横出来（中府）”，……所以治",
+      "bbox": [
+        316.94,
+        630.03,
+        565.402,
+        640.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "为俞募配穴，远取大肠下合穴上巨虚，“合治内腑”，三",
+      "bbox": [
+        51.53,
+        646.89,
+        300.78,
+        656.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "疗时选取肺经少商穴，此穴可清肺利咽，苏厥开窍。",
+      "bbox": [
+        315.95,
+        646.59,
+        545.479,
+        656.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "穴同用通调大肠腑气，理肠通便；支沟宣通三焦，行气",
+      "bbox": [
+        51.32,
+        662.14,
+        294.957,
+        672.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "138. B【解析】治疗乳汁缺乏应首选少泽穴。因",
+      "bbox": [
+        337.57,
+        661.49,
+        564.859,
+        672.179
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "导滞，为通便之经验效穴。",
+      "bbox": [
+        51.53,
+        678.87,
+        171.17,
+        688.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "少泽穴是通乳效穴，故正确答案是B。少泽穴与膻中、",
+      "bbox": [
+        316.04,
+        677.23,
+        565.121,
+        687.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "119. C【解析】身肿日久，腰以下为甚，按之凹陷",
+      "bbox": [
+        72.68,
+        693.68,
+        294.387,
+        704.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "乳根穴合用，则经脉得通，气血得养，乳少自愈。",
+      "bbox": [
+        315.87,
+        693.02,
+        534.99,
+        702.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "不易恢复，脘腹胀闷，纳减便溏，神疲乏力，四肢倦怠，",
+      "bbox": [
+        51.3,
+        709.71,
+        300.3,
+        719.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "139. E【解析】间接灸是常用灸法的一种，它是用",
+      "bbox": [
+        337.4,
+        708.521,
+        564.84,
+        719.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "苔白腻，脉沉缓，辨证为水肿脾阳虚衰证。",
+      "bbox": [
+        51.53,
+        725.25,
+        240.77,
+        735.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "药物将艾炷与施灸腧穴部位的皮肤隔开，进行施灸的",
+      "bbox": [
+        315.82,
+        724.51,
+        564.84,
+        734.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "120. E【解析】首选方剂为实脾饮加减。",
+      "bbox": [
+        72.7,
+        740.461,
+        250.25,
+        750.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "方法，既有温灸的作用也有所用药物的作用。治疗疮",
+      "bbox": [
+        315.63,
+        740.17,
+        564.93,
+        750.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "121. D",
+      "bbox": [
+        72.69,
+        756.171,
+        101.467,
+        766.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "疡久溃不敛，应用隔附子饼灸，起到补正祛邪，增加抗",
+      "bbox": [
+        315.63,
+        755.97,
+        564.77,
+        765.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "122. B【解析】哮病寒哮用射干麻黄汤。热哮用",
+      "bbox": [
+        72.75,
+        770.83,
+        294.221,
+        781.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "病能力的作用。",
+      "bbox": [
+        315.6,
+        771.02,
+        385.32,
+        780.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "定喘汤。痰浊哮用二陈汤合三子养亲汤。风痰哮用三",
+      "bbox": [
+        51.6,
+        785.99,
+        294.509,
+        795.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "140. B【解析】治疗风寒痹痛，要加强散寒和中的",
+      "bbox": [
+        337.19,
+        786.681,
+        564.157,
+        797.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "-",
+      "bbox": [
+        275.15,
+        804.246,
+        278.173,
+        813.296
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "280一",
+      "bbox": [
+        295.64,
+        802.92,
+        332.23,
+        813.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

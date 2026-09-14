@@ -1,0 +1,1173 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 24,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        166.0,
+        40.0,
+        573.0,
+        80.0
+      ],
+      "confidence": 0.998756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        619.0,
+        40.0,
+        859.0,
+        82.0
+      ],
+      "confidence": 0.999142,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 30个工作日内",
+      "bbox": [
+        239.0,
+        153.0,
+        550.0,
+        202.0
+      ],
+      "confidence": 0.997376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 全腹剧痛",
+      "bbox": [
+        1142.0,
+        147.0,
+        1366.0,
+        201.0
+      ],
+      "confidence": 0.997305,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 90个工作日内",
+      "bbox": [
+        240.0,
+        211.0,
+        548.0,
+        256.0
+      ],
+      "confidence": 0.944228,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "147. 胆道结石，常出现(",
+      "bbox": [
+        1146.0,
+        208.0,
+        1655.0,
+        253.0
+      ],
+      "confidence": 0.959955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        1640.0,
+        210.0,
+        1676.0,
+        249.0
+      ],
+      "confidence": 0.992574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "145. 医患双方共同向医疗纠纷人民调解",
+      "bbox": [
+        240.0,
+        268.0,
+        982.0,
+        313.0
+      ],
+      "confidence": 0.998877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "148. 消化性溃疡，常出现(",
+      "bbox": [
+        1146.0,
+        263.0,
+        1614.0,
+        308.0
+      ],
+      "confidence": 0.956871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        1691.0,
+        273.0,
+        1712.0,
+        301.0
+      ],
+      "confidence": 0.992098,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "委员会提出申请的，医疗纠纷人民调解委员会",
+      "bbox": [
+        158.0,
+        323.0,
+        982.0,
+        368.0
+      ],
+      "confidence": 0.996786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "(149～150题共用备选答案）",
+      "bbox": [
+        1149.0,
+        319.0,
+        1662.0,
+        364.0
+      ],
+      "confidence": 0.919666,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "应当自受理之日起多久完成调解（）",
+      "bbox": [
+        158.0,
+        378.0,
+        866.0,
+        423.0
+      ],
+      "confidence": 0.945198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 呼吸道感染",
+      "bbox": [
+        1148.0,
+        374.0,
+        1412.0,
+        420.0
+      ],
+      "confidence": 0.998417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "146. 医患双方申请医疗纠纷行政调解的，",
+      "bbox": [
+        239.0,
+        434.0,
+        981.0,
+        479.0
+      ],
+      "confidence": 0.997173,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 心力衰竭",
+      "bbox": [
+        1145.0,
+        429.0,
+        1367.0,
+        479.0
+      ],
+      "confidence": 0.996205,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "卫生主管部门应当自收到申请之日起多久作",
+      "bbox": [
+        155.0,
+        486.0,
+        982.0,
+        536.0
+      ],
+      "confidence": 0.998877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 心律不齐",
+      "bbox": [
+        1145.0,
+        485.0,
+        1368.0,
+        535.0
+      ],
+      "confidence": 0.997599,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "出是否受理的决定（)",
+      "bbox": [
+        155.0,
+        540.0,
+        626.0,
+        592.0
+      ],
+      "confidence": 0.926648,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 亚急性感染性心内膜炎",
+      "bbox": [
+        1146.0,
+        543.0,
+        1618.0,
+        588.0
+      ],
+      "confidence": 0.998008,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        236.0,
+        598.0,
+        754.0,
+        643.0
+      ],
+      "confidence": 0.922405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 栓塞",
+      "bbox": [
+        1144.0,
+        597.0,
+        1285.0,
+        646.0
+      ],
+      "confidence": 0.997759,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 慢性规律性的上腹痛",
+      "bbox": [
+        235.0,
+        654.0,
+        664.0,
+        699.0
+      ],
+      "confidence": 0.996485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "149. 风心病最常见的并发症是()",
+      "bbox": [
+        1149.0,
+        657.0,
+        1822.0,
+        698.0
+      ],
+      "confidence": 0.97151,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 无规律性的上腹痛",
+      "bbox": [
+        231.0,
+        707.0,
+        615.0,
+        754.0
+      ],
+      "confidence": 0.999171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "150. 风心病二尖瓣狭窄伴房颤最易出",
+      "bbox": [
+        1146.0,
+        708.0,
+        1897.0,
+        759.0
+      ],
+      "confidence": 0.994686,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 右上腹绞痛",
+      "bbox": [
+        231.0,
+        761.0,
+        491.0,
+        808.0
+      ],
+      "confidence": 0.998533,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "现（)",
+      "bbox": [
+        1055.0,
+        756.0,
+        1250.0,
+        820.0
+      ],
+      "confidence": 0.708836,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 左上腹剧痛",
+      "bbox": [
+        230.0,
+        818.0,
+        491.0,
+        864.0
+      ],
+      "confidence": 0.996359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "第三单元",
+      "bbox": [
+        895.0,
+        999.0,
+        1154.0,
+        1072.0
+      ],
+      "confidence": 0.999767,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A1 型选择题(1～75题)",
+      "bbox": [
+        806.0,
+        1134.0,
+        1240.0,
+        1182.0
+      ],
+      "confidence": 0.972511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "答题说明：每一道考试题下面有A、B、CD、E五个备选答案，请从中选择一个最佳答案，并",
+      "bbox": [
+        246.0,
+        1227.0,
+        1887.0,
+        1274.0
+      ],
+      "confidence": 0.953881,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        167.0,
+        1288.0,
+        1107.0,
+        1329.0
+      ],
+      "confidence": 0.998939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "1. 古人采用验痰和验口味的方法以诊断",
+      "bbox": [
+        223.0,
+        1379.0,
+        981.0,
+        1427.0
+      ],
+      "confidence": 0.999172,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 小建中汤",
+      "bbox": [
+        1146.0,
+        1379.0,
+        1367.0,
+        1425.0
+      ],
+      "confidence": 0.998138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "的疾患是(",
+      "bbox": [
+        140.0,
+        1433.0,
+        335.0,
+        1487.0
+      ],
+      "confidence": 0.911744,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "）",
+      "bbox": [
+        409.0,
+        1440.0,
+        434.0,
+        1475.0
+      ],
+      "confidence": 0.9372,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 大建中汤",
+      "bbox": [
+        1146.0,
+        1434.0,
+        1366.0,
+        1480.0
+      ],
+      "confidence": 0.997674,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 肺痨",
+      "bbox": [
+        220.0,
+        1489.0,
+        364.0,
+        1542.0
+      ],
+      "confidence": 0.959747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "5. 痰饮的治疗原则为(",
+      "bbox": [
+        1148.0,
+        1491.0,
+        1550.0,
+        1533.0
+      ],
+      "confidence": 0.959379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "）",
+      "bbox": [
+        1631.0,
+        1495.0,
+        1655.0,
+        1529.0
+      ],
+      "confidence": 0.991888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 肺痈",
+      "bbox": [
+        219.0,
+        1546.0,
+        359.0,
+        1598.0
+      ],
+      "confidence": 0.993465,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 宣肺",
+      "bbox": [
+        1145.0,
+        1546.0,
+        1289.0,
+        1595.0
+      ],
+      "confidence": 0.9966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 哮病",
+      "bbox": [
+        220.0,
+        1601.0,
+        359.0,
+        1653.0
+      ],
+      "confidence": 0.99636,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 健脾",
+      "bbox": [
+        1141.0,
+        1599.0,
+        1284.0,
+        1655.0
+      ],
+      "confidence": 0.995786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 喘证",
+      "bbox": [
+        219.0,
+        1657.0,
+        362.0,
+        1709.0
+      ],
+      "confidence": 0.997055,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 温化",
+      "bbox": [
+        1142.0,
+        1657.0,
+        1284.0,
+        1712.0
+      ],
+      "confidence": 0.998756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 咳嗽",
+      "bbox": [
+        219.0,
+        1714.0,
+        359.0,
+        1763.0
+      ],
+      "confidence": 0.998365,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 补肾",
+      "bbox": [
+        1145.0,
+        1717.0,
+        1284.0,
+        1765.0
+      ],
+      "confidence": 0.997575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "2. 下列各项，不是实证不寐的病理因素的",
+      "bbox": [
+        220.0,
+        1769.0,
+        978.0,
+        1817.0
+      ],
+      "confidence": 0.99383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 发汗",
+      "bbox": [
+        1141.0,
+        1770.0,
+        1285.0,
+        1825.0
+      ],
+      "confidence": 0.998483,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "是（",
+      "bbox": [
+        138.0,
+        1826.0,
+        216.0,
+        1875.0
+      ],
+      "confidence": 0.899557,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        222.0,
+        1825.0,
+        316.0,
+        1875.0
+      ],
+      "confidence": 0.831229,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "6. 胸痹气阴两虚证胸痛的类型为（",
+      "bbox": [
+        1146.0,
+        1832.0,
+        1765.0,
+        1876.0
+      ],
+      "confidence": 0.973074,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "）",
+      "bbox": [
+        1848.0,
+        1845.0,
+        1864.0,
+        1868.0
+      ],
+      "confidence": 0.984097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 肝郁化火",
+      "bbox": [
+        220.0,
+        1881.0,
+        443.0,
+        1931.0
+      ],
+      "confidence": 0.998767,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 胸闷重而心痛微",
+      "bbox": [
+        1149.0,
+        1890.0,
+        1498.0,
+        1935.0
+      ],
+      "confidence": 0.999414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 心肾不交",
+      "bbox": [
+        219.0,
+        1936.0,
+        439.0,
+        1986.0
+      ],
+      "confidence": 0.997684,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 心胸隐痛",
+      "bbox": [
+        1145.0,
+        1946.0,
+        1364.0,
+        1992.0
+      ],
+      "confidence": 0.998933,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 食滞",
+      "bbox": [
+        216.0,
+        1989.0,
+        358.0,
+        2046.0
+      ],
+      "confidence": 0.995971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 心痛如绞",
+      "bbox": [
+        1146.0,
+        2003.0,
+        1367.0,
+        2049.0
+      ],
+      "confidence": 0.998426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 痰浊",
+      "bbox": [
+        216.0,
+        2045.0,
+        361.0,
+        2102.0
+      ],
+      "confidence": 0.997814,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 心痛憋闷或灼痛",
+      "bbox": [
+        1146.0,
+        2060.0,
+        1493.0,
+        2105.0
+      ],
+      "confidence": 0.989325,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 胃腑不和",
+      "bbox": [
+        218.0,
+        2101.0,
+        442.0,
+        2155.0
+      ],
+      "confidence": 0.998701,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 心悸而痛",
+      "bbox": [
+        1146.0,
+        2117.0,
+        1367.0,
+        2164.0
+      ],
+      "confidence": 0.997946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "3. 咳嗽初起，用药不当，易致“闭门留寇”，",
+      "bbox": [
+        222.0,
+        2161.0,
+        977.0,
+        2206.0
+      ],
+      "confidence": 0.982096,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "7. 肺痨的外在致病因素是（",
+      "bbox": [
+        1148.0,
+        2175.0,
+        1638.0,
+        2220.0
+      ],
+      "confidence": 0.954129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "下列哪类药物最为明显（",
+      "bbox": [
+        140.0,
+        2214.0,
+        584.0,
+        2265.0
+      ],
+      "confidence": 0.984375,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        661.0,
+        2223.0,
+        686.0,
+        2258.0
+      ],
+      "confidence": 0.979319,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 燥邪",
+      "bbox": [
+        1145.0,
+        2228.0,
+        1290.0,
+        2281.0
+      ],
+      "confidence": 0.999363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 镇咳药",
+      "bbox": [
+        219.0,
+        2267.0,
+        407.0,
+        2322.0
+      ],
+      "confidence": 0.998017,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 痨虫",
+      "bbox": [
+        1143.0,
+        2287.0,
+        1285.0,
+        2339.0
+      ],
+      "confidence": 0.98353,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 通下药",
+      "bbox": [
+        218.0,
+        2326.0,
+        400.0,
+        2377.0
+      ],
+      "confidence": 0.996624,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 痰浊",
+      "bbox": [
+        1145.0,
+        2345.0,
+        1284.0,
+        2394.0
+      ],
+      "confidence": 0.996326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 温补药",
+      "bbox": [
+        219.0,
+        2382.0,
+        402.0,
+        2433.0
+      ],
+      "confidence": 0.998811,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 瘀血",
+      "bbox": [
+        1144.0,
+        2403.0,
+        1285.0,
+        2451.0
+      ],
+      "confidence": 0.997074,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 苦寒药",
+      "bbox": [
+        218.0,
+        2435.0,
+        403.0,
+        2491.0
+      ],
+      "confidence": 0.998918,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 水饮",
+      "bbox": [
+        1145.0,
+        2460.0,
+        1284.0,
+        2509.0
+      ],
+      "confidence": 0.997789,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 收涩药",
+      "bbox": [
+        219.0,
+        2493.0,
+        403.0,
+        2544.0
+      ],
+      "confidence": 0.994377,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "8. 肺胀晚期病变为主的脏是（",
+      "bbox": [
+        1146.0,
+        2518.0,
+        1681.0,
+        2563.0
+      ],
+      "confidence": 0.976427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "）",
+      "bbox": [
+        1753.0,
+        2515.0,
+        1793.0,
+        2568.0
+      ],
+      "confidence": 0.849919,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "4. 治疗胃痛饮食停滞证，应首选(",
+      "bbox": [
+        219.0,
+        2550.0,
+        817.0,
+        2599.0
+      ],
+      "confidence": 0.977231,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 肺、脾、肝",
+      "bbox": [
+        1146.0,
+        2572.0,
+        1374.0,
+        2622.0
+      ],
+      "confidence": 0.99734,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 良附丸",
+      "bbox": [
+        220.0,
+        2606.0,
+        407.0,
+        2654.0
+      ],
+      "confidence": 0.995403,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 肺、脾、心",
+      "bbox": [
+        1146.0,
+        2632.0,
+        1366.0,
+        2678.0
+      ],
+      "confidence": 0.994096,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 理中汤",
+      "bbox": [
+        219.0,
+        2662.0,
+        401.0,
+        2710.0
+      ],
+      "confidence": 0.998641,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 肺、肾、心",
+      "bbox": [
+        1145.0,
+        2686.0,
+        1367.0,
+        2736.0
+      ],
+      "confidence": 0.995138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 保和丸",
+      "bbox": [
+        219.0,
+        2717.0,
+        403.0,
+        2768.0
+      ],
+      "confidence": 0.99883,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "- 24 -",
+      "bbox": [
+        916.0,
+        2772.0,
+        1125.0,
+        2838.0
+      ],
+      "confidence": 0.826435,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

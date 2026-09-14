@@ -1,0 +1,1207 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 40,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        60.62,
+        52.684,
+        263.138,
+        64.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 胞阻",
+      "bbox": [
+        82.36,
+        84.125,
+        120.453,
+        96.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "47. 肝火引起经行头痛的特点是（）",
+      "bbox": [
+        348.86,
+        84.075,
+        552.183,
+        95.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 子冒",
+      "bbox": [
+        82.55,
+        98.885,
+        117.12,
+        111.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 头晕，头部绵绵作痛",
+      "bbox": [
+        349.5,
+        98.625,
+        470.53,
+        111.79
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "42. 经期延长阴虚血热证的发病机制",
+      "bbox": [
+        81.56,
+        114.084,
+        299.542,
+        125.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 巅顶掣痛，头晕目眩",
+      "bbox": [
+        349.29,
+        114.614,
+        467.754,
+        127.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "是（）",
+      "bbox": [
+        58.58,
+        131.545,
+        105.123,
+        144.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 头痛剧烈，痛如锥刺",
+      "bbox": [
+        349.68,
+        130.685,
+        470.63,
+        143.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 阴虚失守，冲任不固",
+      "bbox": [
+        82.16,
+        146.645,
+        202.92,
+        159.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 头部胀痛重着",
+      "bbox": [
+        349.57,
+        146.765,
+        437.21,
+        159.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 肝郁气滞，疏泄失常",
+      "bbox": [
+        81.99,
+        162.595,
+        201.5,
+        175.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 头痛如裹，头晕目眩",
+      "bbox": [
+        349.66,
+        162.625,
+        470.37,
+        175.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 肾阴不足，封藏失职",
+      "bbox": [
+        82.17,
+        178.545,
+        202.0,
+        191.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "48. 产后发热临证（）",
+      "bbox": [
+        349.35,
+        178.785,
+        478.256,
+        190.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 阴虚内热，热扰冲任",
+      "bbox": [
+        82.16,
+        194.695,
+        202.24,
+        206.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 应参照恶露的量、色、质及气味，以及兼",
+      "bbox": [
+        349.71,
+        194.625,
+        570.799,
+        207.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 湿热下注，血热妄行",
+      "bbox": [
+        82.53,
+        210.425,
+        198.632,
+        223.589
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "症、舌脉，辨其虚实寒热",
+      "bbox": [
+        324.74,
+        210.395,
+        451.13,
+        221.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "43. 以下哪项属于异位妊娠的手术适应",
+      "bbox": [
+        81.81,
+        226.325,
+        300.61,
+        238.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 应根据腹痛的性质，以及兼症、舌脉，辨",
+      "bbox": [
+        349.65,
+        226.325,
+        575.51,
+        239.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "证（）",
+      "bbox": [
+        58.15,
+        243.105,
+        104.976,
+        255.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "其虚实寒热",
+      "bbox": [
+        324.9,
+        242.685,
+        385.627,
+        254.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 停经时间长，疑为输卵管间质部或残角",
+      "bbox": [
+        82.5,
+        258.375,
+        298.11,
+        271.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 应根据发热的特点，以及兼症、舌脉，辨",
+      "bbox": [
+        349.68,
+        258.345,
+        575.31,
+        271.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "子宫妊娠者",
+      "bbox": [
+        58.23,
+        275.695,
+        118.042,
+        287.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "其虚实寒热",
+      "bbox": [
+        324.91,
+        274.585,
+        385.643,
+        286.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 休克严重，内出血多或持续出血，虽经",
+      "bbox": [
+        82.62,
+        289.565,
+        303.91,
+        302.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 应根据发热的特点、恶露、小腹痛的情",
+      "bbox": [
+        349.38,
+        290.385,
+        570.724,
+        303.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "抢救而不易控制者",
+      "bbox": [
+        57.72,
+        307.755,
+        154.715,
+        319.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "况以及伴随的全身症状综合分析明辨",
+      "bbox": [
+        325.15,
+        307.145,
+        522.259,
+        318.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 妊娠试验持续阳性，包块继续长大，杀",
+      "bbox": [
+        82.78,
+        322.425,
+        304.4,
+        335.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 应根据发热的特点、恶露特点及伴随的",
+      "bbox": [
+        349.61,
+        322.365,
+        569.808,
+        335.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "胚药无效",
+      "bbox": [
+        58.28,
+        339.785,
+        106.764,
+        351.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "全身症状综合分析明辨",
+      "bbox": [
+        324.76,
+        338.685,
+        447.425,
+        350.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 愿意同时施行绝育术者",
+      "bbox": [
+        82.6,
+        354.645,
+        219.038,
+        367.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "49. 下列除哪项外，均是妊娠禁药（）",
+      "bbox": [
+        348.96,
+        354.455,
+        558.733,
+        366.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 以上均是",
+      "bbox": [
+        82.98,
+        371.065,
+        144.797,
+        383.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 峻下剂",
+      "bbox": [
+        349.56,
+        370.655,
+        400.311,
+        383.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "44. 妇科杂病的定义是（）",
+      "bbox": [
+        81.87,
+        387.675,
+        235.662,
+        400.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 破血剂",
+      "bbox": [
+        349.81,
+        386.665,
+        398.759,
+        399.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 凡不属于经、带、胎、产范围的疾病",
+      "bbox": [
+        82.93,
+        402.345,
+        278.06,
+        415.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 逐瘀剂",
+      "bbox": [
+        349.86,
+        402.705,
+        398.75,
+        415.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 凡不属于经、带、胎、产疾病范围，而又与",
+      "bbox": [
+        82.78,
+        418.335,
+        309.797,
+        429.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 和血剂",
+      "bbox": [
+        349.46,
+        418.655,
+        399.125,
+        431.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "妇女解剖、生理、病机特点密切相关的各种妇科",
+      "bbox": [
+        58.08,
+        434.365,
+        301.438,
+        445.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 有毒剂",
+      "bbox": [
+        349.6,
+        434.645,
+        398.547,
+        447.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "疾病",
+      "bbox": [
+        57.71,
+        451.945,
+        81.598,
+        463.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "50. 下列除哪项外，均为妊娠病的发病机",
+      "bbox": [
+        349.74,
+        449.384,
+        570.829,
+        461.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 凡不属于经、带、胎、产疾病范围，而又与",
+      "bbox": [
+        83.0,
+        466.655,
+        311.64,
+        479.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "制（）",
+      "bbox": [
+        325.31,
+        466.775,
+        372.51,
+        479.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "妇女解剖、生理、病机特点不密切相关的各种妇",
+      "bbox": [
+        58.12,
+        482.635,
+        300.29,
+        494.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 血聚养胎，阴血偏虚，阳气偏亢",
+      "bbox": [
+        349.49,
+        481.365,
+        528.71,
+        492.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "科疾病",
+      "bbox": [
+        57.63,
+        500.175,
+        93.173,
+        511.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 胎体渐大，气机升降失调",
+      "bbox": [
+        349.69,
+        497.405,
+        493.57,
+        510.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 凡属于经、带、胎、产疾病范围，而又与",
+      "bbox": [
+        82.61,
+        514.575,
+        300.5,
+        527.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 寒湿停聚，冲任受阻",
+      "bbox": [
+        349.8,
+        513.265,
+        470.42,
+        526.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "妇女解剖、生理、病机特点无关的各种妇科疾",
+      "bbox": [
+        57.58,
+        530.585,
+        298.732,
+        542.075
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 肾气不足，无力系胞，胎元不固",
+      "bbox": [
+        349.38,
+        529.225,
+        527.61,
+        542.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "病",
+      "bbox": [
+        57.68,
+        548.355,
+        69.18,
+        559.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 脾胃虚弱，化源不足，影响胎元",
+      "bbox": [
+        349.77,
+        545.215,
+        527.62,
+        558.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 凡属于经、带、胎、产疾病范围，而又与妇",
+      "bbox": [
+        82.37,
+        562.635,
+        310.71,
+        575.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "51. 产后恶露不绝的主要病因是（）",
+      "bbox": [
+        349.76,
+        562.695,
+        553.216,
+        574.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "女解剖、生理、病机特点密切相关的各种妇科",
+      "bbox": [
+        57.51,
+        578.615,
+        301.494,
+        590.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 气虚、血热、血瘀",
+      "bbox": [
+        349.62,
+        578.735,
+        452.32,
+        591.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "疾病",
+      "bbox": [
+        57.62,
+        596.125,
+        81.239,
+        607.635
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 气虚、血虚、血瘀",
+      "bbox": [
+        349.46,
+        594.725,
+        451.87,
+        607.887
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "45. 清热固经汤适合于下列哪型崩漏（）",
+      "bbox": [
+        81.85,
+        610.635,
+        295.899,
+        622.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 气虚、血虚、血热",
+      "bbox": [
+        349.73,
+        610.815,
+        451.74,
+        623.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 虚热",
+      "bbox": [
+        82.25,
+        628.365,
+        121.261,
+        641.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 气虚、血虚、寒湿",
+      "bbox": [
+        349.39,
+        626.655,
+        452.36,
+        639.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 实热",
+      "bbox": [
+        82.14,
+        644.145,
+        119.362,
+        656.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 气虚、肝郁、血热",
+      "bbox": [
+        349.48,
+        642.405,
+        451.11,
+        655.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 肾阴虚",
+      "bbox": [
+        82.22,
+        660.095,
+        131.781,
+        672.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "52. 孕后出现腰酸腹痛，下腹坠胀，或阴道",
+      "bbox": [
+        349.76,
+        658.275,
+        573.5,
+        669.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 血瘀",
+      "bbox": [
+        82.33,
+        676.345,
+        120.803,
+        689.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "有少量出血者，称为（）",
+      "bbox": [
+        324.42,
+        674.885,
+        465.62,
+        687.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 脾虚",
+      "bbox": [
+        82.57,
+        692.295,
+        119.845,
+        705.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 胞阻",
+      "bbox": [
+        349.83,
+        692.075,
+        389.139,
+        704.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "46. 下列哪项不属于闭经的病机（）",
+      "bbox": [
+        81.86,
+        707.755,
+        282.586,
+        720.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 胞漏",
+      "bbox": [
+        349.53,
+        708.035,
+        387.059,
+        720.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 气滞血瘀",
+      "bbox": [
+        82.28,
+        724.035,
+        145.687,
+        736.887
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 胎漏",
+      "bbox": [
+        349.74,
+        723.845,
+        387.035,
+        736.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 痰湿阻滞",
+      "bbox": [
+        82.47,
+        740.005,
+        143.643,
+        752.576
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 堕胎",
+      "bbox": [
+        349.43,
+        739.595,
+        388.624,
+        752.099
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 阴虚血燥",
+      "bbox": [
+        82.53,
+        756.145,
+        144.176,
+        768.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 胎动不安",
+      "bbox": [
+        349.85,
+        755.245,
+        411.823,
+        767.906
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 气血虚弱",
+      "bbox": [
+        82.53,
+        772.155,
+        144.022,
+        784.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "53. 产后三急是指（）",
+      "bbox": [
+        349.86,
+        770.955,
+        478.283,
+        782.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 湿毒壅盛",
+      "bbox": [
+        82.81,
+        787.665,
+        144.829,
+        799.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 呕吐、泄泻、盗汗",
+      "bbox": [
+        349.66,
+        786.915,
+        452.88,
+        800.075
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "134",
+      "bbox": [
+        304.56,
+        811.015,
+        317.55,
+        819.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

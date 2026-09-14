@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 13,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        327.51,
+        35.952,
+        548.695,
+        46.796
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "途径；②有关病历资料、现场实物封存和启封的规定；",
+      "bbox": [
+        45.36,
+        65.783,
+        288.779,
+        75.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "抵抗力下降，容易发生感染，感染一旦控制不理想则会",
+      "bbox": [
+        315.18,
+        66.042,
+        562.019,
+        75.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "③有关病历资料查阅、复制的规定。患者死亡的，还应",
+      "bbox": [
+        45.26,
+        80.552,
+        289.178,
+        90.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "出现感染性心内膜炎；当患者瓣膜病变严重时，影响了",
+      "bbox": [
+        316.06,
+        80.553,
+        561.497,
+        90.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "当告知其近亲属有关尸检的规定。",
+      "bbox": [
+        45.67,
+        94.882,
+        196.512,
+        104.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "血流动力学和心腔的压力，加重心脏负荷，则会并发心",
+      "bbox": [
+        315.2,
+        95.142,
+        562.319,
+        104.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "135. D",
+      "bbox": [
+        66.22,
+        109.773,
+        94.215,
+        119.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "功能不全、心衰、心律不齐、肺水肿、呼吸道感染等。而",
+      "bbox": [
+        315.36,
+        109.413,
+        562.386,
+        119.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "136. E【解析】两肺都出现干啰音见于急、慢性支",
+      "bbox": [
+        66.21,
+        123.522,
+        289.353,
+        134.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "风心病二尖瓣狭窄伴房颤对左房血流影响甚大，会导",
+      "bbox": [
+        315.38,
+        124.442,
+        562.303,
+        134.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "气管炎，支气管哮喘，支气管肺炎，心源性哮喘等；两肺",
+      "bbox": [
+        44.85,
+        137.903,
+        289.302,
+        147.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "致血流缓慢、形成涡流、血液瘀滞，血栓形成，脱落后造",
+      "bbox": [
+        315.28,
+        138.853,
+        562.414,
+        148.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "散在湿啰音常见于支气管炎、支气管肺炎、血行播散型",
+      "bbox": [
+        44.77,
+        152.362,
+        289.174,
+        163.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "成栓塞。",
+      "bbox": [
+        315.27,
+        153.622,
+        354.31,
+        163.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "肺结核、肺水肿。肺炎肺组织实变时，可见呼吸动度呈",
+      "bbox": [
+        44.48,
+        166.822,
+        289.122,
+        176.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "局限性减弱或消失，触觉语颤增强，叩诊呈浊音，肺泡",
+      "bbox": [
+        44.45,
+        181.512,
+        289.39,
+        191.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "呼吸音消失，可听到病理性支气管呼吸音响亮性湿啰",
+      "bbox": [
+        44.75,
+        196.252,
+        289.34,
+        207.277
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "第三单元",
+      "bbox": [
+        403.14,
+        193.796,
+        474.905,
+        209.226
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "音，听觉语音增强及支气管语音、胸语音或胸耳语音。",
+      "bbox": [
+        44.42,
+        210.882,
+        281.839,
+        220.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "137. B【解析】霍乱的特征性改变是米泔水样",
+      "bbox": [
+        65.83,
+        225.483,
+        289.332,
+        235.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "大便。",
+      "bbox": [
+        44.35,
+        240.963,
+        73.51,
+        250.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "1. B【解析】验痰法：肺痈患者咳痰，吐在水中，沉",
+      "bbox": [
+        336.99,
+        240.553,
+        562.893,
+        250.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "138. A【解析】细菌性痢疾的特征性病变是黏液",
+      "bbox": [
+        65.67,
+        255.193,
+        289.681,
+        265.486
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "者是痈脓，浮者是痰。《医学入门·卷五·肺痈肺痿》",
+      "bbox": [
+        315.23,
+        255.933,
+        563.265,
+        265.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "性脓血便。",
+      "bbox": [
+        44.25,
+        270.372,
+        93.15,
+        280.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "说：“肺痈……，咳唾脓血腥臭，置之水中则沉。”验口",
+      "bbox": [
+        315.18,
+        270.682,
+        561.842,
+        281.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "139. A",
+      "bbox": [
+        65.66,
+        285.173,
+        94.37,
+        294.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "味：肺痈患者吃生黄豆或生豆汁不觉其腥。《寿世保",
+      "bbox": [
+        315.64,
+        285.883,
+        563.231,
+        295.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "140. E【解析】消化性溃疡的最终形成是由于胃",
+      "bbox": [
+        65.66,
+        299.433,
+        288.706,
+        309.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "元·肺痈》曾说：“用黄豆一粒，予病人口嚼，不觉豆之",
+      "bbox": [
+        315.02,
+        301.242,
+        563.256,
+        311.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "酸—胃蛋白酶自身消化所致，对十二指肠球部溃疡的",
+      "bbox": [
+        44.41,
+        314.342,
+        289.248,
+        324.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "气味，是肺痈也。”",
+      "bbox": [
+        315.06,
+        316.492,
+        403.26,
+        326.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "治疗最主要的是抑制胃酸分泌；Hp感染是影响溃疡复",
+      "bbox": [
+        44.19,
+        329.082,
+        289.576,
+        338.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "2. B【解析】不寐的病机有虚实之分，实证由肝郁",
+      "bbox": [
+        336.52,
+        331.353,
+        563.23,
+        341.676
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "发的可去除的危险因素，所以根除Hp是主要的预防",
+      "bbox": [
+        44.46,
+        343.552,
+        289.562,
+        353.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "化火，痰热内扰，阳盛不得入于阴而致；虚证多由心脾",
+      "bbox": [
+        315.14,
+        346.672,
+        563.188,
+        356.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "办法之一。",
+      "bbox": [
+        44.33,
+        358.762,
+        93.13,
+        368.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "两虚，心虚胆怯，心肾不交，水火不济，心神失养，阴虚",
+      "bbox": [
+        315.27,
+        361.772,
+        563.291,
+        371.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "141. A",
+      "bbox": [
+        65.66,
+        372.853,
+        94.341,
+        382.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "不能纳阳而发。",
+      "bbox": [
+        315.1,
+        377.072,
+        383.63,
+        386.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "142. E【解析】“无恒德者，不可以作医，人命死生",
+      "bbox": [
+        65.65,
+        387.483,
+        291.2,
+        397.896
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "3. E【解析】收涩之药大多数性味酸涩，主要作用",
+      "bbox": [
+        336.45,
+        391.913,
+        563.199,
+        402.297
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "之系”。出自的著作是《省心录·论医》。“启我爱医",
+      "bbox": [
+        44.41,
+        402.382,
+        289.302,
+        412.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "是收敛固涩，若应用于咳嗽初起，邪气正盛之时，必然",
+      "bbox": [
+        315.11,
+        407.052,
+        563.58,
+        416.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "术，复爱世间人，愿绝名利心，尽力为病人，无分爱与",
+      "bbox": [
+        44.35,
+        417.422,
+        289.266,
+        427.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "导致邪气滞留，邪恋正虚，病情难以治愈。",
+      "bbox": [
+        315.18,
+        422.532,
+        501.176,
+        432.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "憎；不问富与贫，凡诸疾病者，一视如同仁”。出自是迈",
+      "bbox": [
+        44.35,
+        432.142,
+        289.35,
+        441.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "4. C【解析】胃痛有明显的伤食史，吐不消化食",
+      "bbox": [
+        336.14,
+        437.383,
+        563.925,
+        447.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "蒙尼提斯祷文。",
+      "bbox": [
+        44.41,
+        446.852,
+        112.94,
+        456.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "物，食积中阻，故脘腹胀满，嗳腐吞酸，治宜消食导滞，",
+      "bbox": [
+        315.11,
+        452.783,
+        562.838,
+        462.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "143. A",
+      "bbox": [
+        65.65,
+        461.423,
+        94.39,
+        471.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "用保和丸，故选C。寒邪客胃、气滞寒凝用良附丸。脾",
+      "bbox": [
+        314.88,
+        468.233,
+        563.445,
+        477.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "144. D【解析】急性胰腺炎起病后6～12小时血",
+      "bbox": [
+        65.76,
+        475.443,
+        289.604,
+        486.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "阳虚用理中丸、大小建中汤。",
+      "bbox": [
+        315.79,
+        483.353,
+        441.89,
+        493.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "清淀粉酶开始升高，48小时开始下降，持续3～5天。",
+      "bbox": [
+        44.36,
+        490.672,
+        289.163,
+        501.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "5. C【解析】痰饮总的病理性质是阳虚阴盛，为阴",
+      "bbox": [
+        336.06,
+        498.473,
+        562.85,
+        508.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "血清脂肪酶常在发病后4～8小时开始升高，持续8～",
+      "bbox": [
+        44.19,
+        505.712,
+        289.28,
+        515.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "邪，遇寒则凝，得温则行，故总的治疗原则应以温阳化",
+      "bbox": [
+        314.86,
+        513.312,
+        563.018,
+        523.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "14天，对病后就诊较晚的急性胰腺炎患者有诊断价",
+      "bbox": [
+        44.59,
+        520.182,
+        289.67,
+        529.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "饮为根本，以振奋阳气，开发腠理，通行水道，故选C；",
+      "bbox": [
+        314.75,
+        528.612,
+        562.166,
+        538.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "值，而且特异性也较高。出血坏死性胰腺炎时，红细胞",
+      "bbox": [
+        44.14,
+        534.762,
+        289.683,
+        544.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "若有肺失宣降，可佐以宣肺，脾阳虚可健脾，肾阳虚可",
+      "bbox": [
+        314.73,
+        543.802,
+        562.468,
+        553.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "破坏释放出血红素，经脂肪酸和弹力蛋白酶作用，变为",
+      "bbox": [
+        44.05,
+        549.982,
+        289.393,
+        559.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "补肾，饮停于表可发汗，但这些都是配合方法，总的治",
+      "bbox": [
+        314.81,
+        558.532,
+        562.294,
+        568.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "正铁血红素，与白蛋白结合成正铁白蛋白，在起病72",
+      "bbox": [
+        44.07,
+        564.542,
+        290.148,
+        574.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "则还是温化，故排除ABDE。",
+      "bbox": [
+        314.69,
+        573.963,
+        439.602,
+        583.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "小时内常为阳性。",
+      "bbox": [
+        43.96,
+        579.083,
+        122.63,
+        588.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "6. B【解析】胸痹气阴两虚证证候：心胸隐痛，时",
+      "bbox": [
+        336.01,
+        588.813,
+        561.983,
+        599.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "145. D【解析】医疗纠纷人民调解委员会应当自",
+      "bbox": [
+        65.58,
+        593.733,
+        287.973,
+        604.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "作时休，心悸气短，动则益甚，伴倦怠乏力，声息低微，",
+      "bbox": [
+        314.76,
+        603.963,
+        561.279,
+        613.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "受理之日起30个工作日内完成调解。",
+      "bbox": [
+        43.74,
+        608.803,
+        213.5,
+        618.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "面色白易汗出，舌质淡红，舌体胖且边有齿痕，苔薄白，",
+      "bbox": [
+        315.12,
+        619.003,
+        560.958,
+        628.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "146. A【解析】卫生主管部门应当自收到申请之",
+      "bbox": [
+        65.51,
+        623.263,
+        289.688,
+        633.535
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "脉虚细缓或结代。",
+      "bbox": [
+        314.93,
+        633.882,
+        393.17,
+        643.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "日起5个工作日内作出是否受理的决定。",
+      "bbox": [
+        45.71,
+        638.202,
+        229.401,
+        648.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "7. B【解析】肺痨的外在致病因素是感染“痨虫”。",
+      "bbox": [
+        336.05,
+        649.103,
+        560.59,
+        659.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "147. C【解析】由于胆石在肠道内的移动使胆囊",
+      "bbox": [
+        65.46,
+        652.593,
+        289.381,
+        662.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "8. D【解析】肺胀为本虚标实。早期在肺，继则影",
+      "bbox": [
+        335.96,
+        664.323,
+        560.987,
+        674.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "或胆总管平滑肌扩张及痉挛而产生胆绞痛，一般在中",
+      "bbox": [
+        44.01,
+        667.572,
+        289.098,
+        677.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "响脾、肾，后期病及于心。因肺为气之主，肾为气之根，",
+      "bbox": [
+        315.44,
+        679.642,
+        560.175,
+        689.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "上腹或右上腹持续加重。",
+      "bbox": [
+        43.71,
+        682.682,
+        154.435,
+        692.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "148. A【解析】由于溃疡发生后可自行愈合，但",
+      "bbox": [
+        65.62,
+        697.003,
+        289.562,
+        707.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "金不生水，肺伤及肾。子盗母气，肺气虚导致脾气虚。",
+      "bbox": [
+        314.96,
+        694.823,
+        560.145,
+        704.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "每于愈合后又好复发，故常有上腹疼痛长期反复发作",
+      "bbox": [
+        44.16,
+        711.902,
+        289.54,
+        721.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "后期脾肾阳虚水饮泛溢，上凌于心。",
+      "bbox": [
+        314.84,
+        710.002,
+        472.318,
+        719.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "的特点，并且与饮食之间的关系具有明显的相关性和",
+      "bbox": [
+        44.65,
+        726.372,
+        289.42,
+        736.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "9. A【解析】桑菊饮为辛凉轻剂，银翘散为辛凉",
+      "bbox": [
+        336.22,
+        724.883,
+        559.975,
+        735.256
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "节律性。",
+      "bbox": [
+        43.99,
+        741.113,
+        82.91,
+        750.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "平剂，白虎汤为辛凉重剂。",
+      "bbox": [
+        315.01,
+        740.133,
+        430.81,
+        749.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "149. D",
+      "bbox": [
+        65.82,
+        756.044,
+        93.728,
+        765.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "10. D【解析】肺痈初期宜疏散风热，清肺散邪，用",
+      "bbox": [
+        336.58,
+        754.994,
+        558.78,
+        765.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "150. E【解析】风心病多累及到多个瓣膜的病变，",
+      "bbox": [
+        65.92,
+        770.463,
+        288.949,
+        780.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "银翘散。成痈期宜清肺解毒，化瘀消痈，用千金苇茎汤",
+      "bbox": [
+        315.13,
+        769.972,
+        558.574,
+        779.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "病情发展缓慢，且常年受风湿病的困扰，逐渐出现患者",
+      "bbox": [
+        44.22,
+        785.042,
+        289.538,
+        794.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "合如金解毒散。溃脓期应排脓解毒，用加味桔梗汤。",
+      "bbox": [
+        315.0,
+        784.612,
+        557.896,
+        794.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "203",
+      "bbox": [
+        293.52,
+        802.802,
+        308.09,
+        812.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

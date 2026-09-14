@@ -1,0 +1,1233 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 41,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        411.31,
+        44.654,
+        530.177,
+        56.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 高热、昏迷、自汗",
+      "bbox": [
+        65.67,
+        75.004,
+        168.9,
+        88.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 辛凉宣肺，清热化痰",
+      "bbox": [
+        328.15,
+        76.864,
+        447.18,
+        90.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C,心悸、气短、抽搐",
+      "bbox": [
+        65.29,
+        91.325,
+        175.66,
+        102.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 开肺化痰，止咳平喘",
+      "bbox": [
+        327.89,
+        92.104,
+        447.14,
+        105.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 尿闭、便难、冷汗",
+      "bbox": [
+        65.36,
+        106.664,
+        168.68,
+        119.938
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 清热涤痰，开肺定喘",
+      "bbox": [
+        328.02,
+        108.024,
+        447.92,
+        121.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 下血、腹痛、心悸",
+      "bbox": [
+        65.64,
+        122.494,
+        167.49,
+        135.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 清热解毒，宣肺开闭",
+      "bbox": [
+        327.96,
+        123.254,
+        446.8,
+        136.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "54. 生化汤治疗血虚寒凝，瘀阻胞宫而致",
+      "bbox": [
+        65.64,
+        139.224,
+        280.296,
+        150.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "61. 小儿“稚阴稚阳”学说，是指其生理状",
+      "bbox": [
+        328.37,
+        139.144,
+        544.663,
+        150.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "的产后恶露淋漓不尽，常加用的药物是（）",
+      "bbox": [
+        44.37,
+        154.934,
+        274.823,
+        167.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "态为（）",
+      "bbox": [
+        303.83,
+        155.394,
+        362.186,
+        167.064
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 桃仁、赤芍",
+      "bbox": [
+        65.12,
+        171.674,
+        133.9,
+        184.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 阳常有余，阴常不足",
+      "bbox": [
+        328.43,
+        171.254,
+        448.15,
+        184.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 红花、赤芍",
+      "bbox": [
+        65.57,
+        186.884,
+        133.52,
+        200.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 脏腑娇嫩，形气未充",
+      "bbox": [
+        327.9,
+        187.474,
+        447.44,
+        200.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 蒲黄、五灵脂",
+      "bbox": [
+        65.27,
+        203.644,
+        145.04,
+        216.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 生机蓬勃，发育迅速",
+      "bbox": [
+        328.17,
+        203.424,
+        442.85,
+        216.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 蒲黄、益母草",
+      "bbox": [
+        65.36,
+        219.894,
+        145.44,
+        233.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 脏气清灵，易趋健康",
+      "bbox": [
+        328.0,
+        218.434,
+        448.36,
+        231.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 黑荆芥、茜草",
+      "bbox": [
+        65.24,
+        235.744,
+        144.75,
+        249.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 脾常不足，肝常有余",
+      "bbox": [
+        328.08,
+        234.604,
+        447.24,
+        247.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "55. 妊娠恶阻脾胃虚弱证的特点是（）",
+      "bbox": [
+        65.65,
+        252.004,
+        274.886,
+        263.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "62. 小儿面呈红色，证候多属（）",
+      "bbox": [
+        328.23,
+        251.264,
+        507.393,
+        262.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 呕吐痰涎",
+      "bbox": [
+        65.85,
+        267.614,
+        126.225,
+        280.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 热",
+      "bbox": [
+        328.31,
+        267.714,
+        354.43,
+        280.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 食入即吐、呕吐清涎",
+      "bbox": [
+        65.55,
+        283.264,
+        180.57,
+        296.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 湿",
+      "bbox": [
+        328.02,
+        283.634,
+        352.59,
+        296.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 呕吐黏痰",
+      "bbox": [
+        65.47,
+        300.634,
+        125.375,
+        313.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 燥",
+      "bbox": [
+        327.92,
+        299.684,
+        353.0,
+        312.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 呕吐酸水或苦水",
+      "bbox": [
+        65.42,
+        316.574,
+        162.5,
+        329.287
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 虚",
+      "bbox": [
+        328.17,
+        315.594,
+        353.37,
+        328.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 呕吐血性分泌物",
+      "bbox": [
+        65.58,
+        332.674,
+        161.2,
+        345.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 实",
+      "bbox": [
+        328.25,
+        331.374,
+        353.5,
+        344.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "56. 学龄前期是（）",
+      "bbox": [
+        65.86,
+        348.344,
+        178.649,
+        360.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "63. 小儿疾病谱中最为多见的是（）",
+      "bbox": [
+        328.5,
+        346.634,
+        526.229,
+        358.803
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 1周岁",
+      "bbox": [
+        66.03,
+        364.794,
+        110.641,
+        378.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 肺肾系病证",
+      "bbox": [
+        328.33,
+        363.254,
+        402.054,
+        375.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 2周岁",
+      "bbox": [
+        65.63,
+        380.813,
+        108.774,
+        393.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 心肺系病证",
+      "bbox": [
+        328.29,
+        379.173,
+        400.473,
+        392.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 3～7周岁",
+      "bbox": [
+        65.83,
+        396.714,
+        127.9,
+        409.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 肺脾系病证",
+      "bbox": [
+        328.23,
+        395.514,
+        400.63,
+        408.136
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 8～12周岁",
+      "bbox": [
+        65.83,
+        411.764,
+        135.35,
+        424.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 心肝系病证",
+      "bbox": [
+        328.26,
+        411.154,
+        401.08,
+        424.136
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 以上均非",
+      "bbox": [
+        65.66,
+        428.674,
+        125.901,
+        441.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 肝肾系病证",
+      "bbox": [
+        328.32,
+        427.203,
+        400.909,
+        440.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "57. 小儿营养不良是指体重低于正常均值",
+      "bbox": [
+        65.78,
+        442.934,
+        281.157,
+        454.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "64. 小儿指纹淡红，其证候是（）",
+      "bbox": [
+        328.62,
+        442.534,
+        507.333,
+        455.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "的（）",
+      "bbox": [
+        44.95,
+        460.654,
+        88.409,
+        472.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 虚寒",
+      "bbox": [
+        328.44,
+        459.154,
+        365.578,
+        472.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 食积",
+      "bbox": [
+        328.55,
+        474.804,
+        365.309,
+        487.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 66%",
+      "bbox": [
+        65.61,
+        478.64,
+        98.372,
+        490.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 70%",
+      "bbox": [
+        65.48,
+        493.207,
+        97.545,
+        504.867
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 痰热",
+      "bbox": [
+        328.21,
+        490.824,
+        364.576,
+        503.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 85%",
+      "bbox": [
+        65.69,
+        509.197,
+        97.755,
+        520.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 虚热",
+      "bbox": [
+        328.26,
+        506.624,
+        365.055,
+        519.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 95%",
+      "bbox": [
+        65.44,
+        525.146,
+        98.118,
+        536.796
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 实热",
+      "bbox": [
+        328.38,
+        522.834,
+        365.004,
+        535.934
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "65. 不换金正气散治疗厌食的证候是",
+      "bbox": [
+        328.34,
+        537.334,
+        544.856,
+        548.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 90%",
+      "bbox": [
+        65.48,
+        541.065,
+        96.838,
+        552.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "58. 小儿正常舌质的颜色是（）",
+      "bbox": [
+        65.51,
+        553.984,
+        239.049,
+        565.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "（）",
+      "bbox": [
+        305.29,
+        555.973,
+        338.666,
+        567.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 淡白",
+      "bbox": [
+        65.19,
+        570.704,
+        101.55,
+        583.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 脾失健运证",
+      "bbox": [
+        328.38,
+        570.154,
+        402.4,
+        582.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 淡红",
+      "bbox": [
+        65.42,
+        586.664,
+        101.894,
+        599.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 脾胃气虚证",
+      "bbox": [
+        328.34,
+        586.134,
+        400.295,
+        598.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 紫暗",
+      "bbox": [
+        65.58,
+        602.164,
+        101.997,
+        615.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 脾胃阴虚证",
+      "bbox": [
+        328.53,
+        602.144,
+        400.467,
+        614.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 暗红",
+      "bbox": [
+        65.73,
+        619.274,
+        102.496,
+        632.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 脾胃阳虚证",
+      "bbox": [
+        328.2,
+        618.124,
+        401.498,
+        630.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 绛红",
+      "bbox": [
+        65.74,
+        635.584,
+        102.41,
+        648.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 脾胃虚寒证",
+      "bbox": [
+        328.38,
+        633.694,
+        400.787,
+        646.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "59. 小儿易患五迟、五软、解颅、遗尿等病，",
+      "bbox": [
+        65.83,
+        649.464,
+        289.188,
+        661.064
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "66. 下列除哪项外，均属病理性黄疸（）",
+      "bbox": [
+        328.44,
+        649.394,
+        538.863,
+        661.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "原因主要是（）",
+      "bbox": [
+        42.66,
+        666.404,
+        135.299,
+        678.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 生后24小时内出现",
+      "bbox": [
+        328.48,
+        665.864,
+        444.856,
+        679.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 肺脏娇嫩",
+      "bbox": [
+        65.78,
+        682.764,
+        127.502,
+        695.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 黄疸10～14天消退",
+      "bbox": [
+        328.43,
+        681.534,
+        442.29,
+        694.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 脾常不足",
+      "bbox": [
+        65.71,
+        699.104,
+        124.924,
+        711.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 黄疸退而复现",
+      "bbox": [
+        328.38,
+        697.644,
+        413.313,
+        710.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 肾常虚",
+      "bbox": [
+        65.49,
+        714.724,
+        113.852,
+        727.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 黄疸持续加深",
+      "bbox": [
+        328.31,
+        713.624,
+        413.552,
+        726.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 稚阴稚阳",
+      "bbox": [
+        65.36,
+        730.684,
+        125.19,
+        743.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 黄疸3周后仍不消退",
+      "bbox": [
+        328.2,
+        729.164,
+        449.089,
+        741.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 纯阳之体",
+      "bbox": [
+        65.23,
+        745.244,
+        126.322,
+        758.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "67. 可治疗风热感冒与时邪感冒的方剂",
+      "bbox": [
+        328.44,
+        743.373,
+        544.053,
+        755.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "60. 小儿肺炎喘嗽痰热闭肺证的治法",
+      "bbox": [
+        65.11,
+        760.733,
+        280.836,
+        772.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "是（）",
+      "bbox": [
+        304.2,
+        761.003,
+        350.623,
+        773.223
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "是（）",
+      "bbox": [
+        42.06,
+        778.064,
+        87.313,
+        789.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 银翘散",
+      "bbox": [
+        328.67,
+        776.194,
+        378.58,
+        789.086
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "A. 辛温宣肺，化痰止咳",
+      "bbox": [
+        64.77,
+        792.804,
+        185.48,
+        806.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "B. 桑菊饮",
+      "bbox": [
+        328.27,
+        791.734,
+        377.113,
+        804.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "135",
+      "bbox": [
+        283.71,
+        813.671,
+        297.532,
+        822.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

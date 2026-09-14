@@ -1,0 +1,1324 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 23,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        323.62,
+        42.62,
+        538.702,
+        53.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "腻，脉弦数，为肝经湿热表现，故选B。",
+      "bbox": [
+        45.98,
+        72.792,
+        221.194,
+        82.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "的作用，多用于小儿肺炎喘嗽、腹痛、哮喘、遗尿等；推",
+      "bbox": [
+        312.02,
+        72.842,
+        557.27,
+        82.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "106. A【解析】一般采用与乳头方向呈放射状的",
+      "bbox": [
+        66.73,
+        87.082,
+        286.737,
+        97.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "拿疗法有促进气血流行、经络通畅、神气安定、脏腑调",
+      "bbox": [
+        311.62,
+        87.362,
+        551.121,
+        97.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "切口，切口位置选择脓肿稍低的部位，切口长度与脓腔",
+      "bbox": [
+        45.78,
+        101.472,
+        287.106,
+        111.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "和的作用，临床中多用于泄泻、惊风、腹痛等证。",
+      "bbox": [
+        311.89,
+        102.082,
+        527.93,
+        111.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "基底的大小一致，使引流通畅不致袋脓，但需避免手术",
+      "bbox": [
+        45.85,
+        116.752,
+        287.156,
+        126.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "118. B【解析】五迟、五软。患儿2岁不能言语，",
+      "bbox": [
+        333.03,
+        117.132,
+        550.986,
+        126.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "损伤乳络形成乳瘘。因为乳腺每一腺叶有单独的腺管",
+      "bbox": [
+        45.67,
+        131.542,
+        287.085,
+        141.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "精神呆滞，智力低下，发稀萎黄，四肢萎软，口角流涎，",
+      "bbox": [
+        311.77,
+        131.822,
+        557.27,
+        141.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "（乳管）呈放射状聚向乳头，并分别开口于乳头，故",
+      "bbox": [
+        46.23,
+        146.192,
+        287.291,
+        156.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "纳食欠佳，大便秘结，舌淡胖，苔少，指纹色淡，其证候",
+      "bbox": [
+        311.95,
+        146.662,
+        557.45,
+        156.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "选A。",
+      "bbox": [
+        45.88,
+        161.423,
+        75.06,
+        171.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "表现符合五迟、五软之心脾两虚证。",
+      "bbox": [
+        311.96,
+        161.072,
+        468.44,
+        170.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "107. D【解析】由题干带下量多、色黄白、有臭气，",
+      "bbox": [
+        66.68,
+        175.722,
+        292.29,
+        185.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "119. A【解析】根据患儿的临床表现可诊断为风",
+      "bbox": [
+        333.28,
+        176.072,
+        551.76,
+        186.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "纳呆，大便黏腻不爽，舌苔黄腻，脉濡数，诊断为带下过",
+      "bbox": [
+        45.85,
+        190.902,
+        291.1,
+        200.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "疹之邪犯肺卫证。邪犯肺卫证的证候：发热恶风，喷嚏",
+      "bbox": [
+        311.99,
+        190.732,
+        551.698,
+        200.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "多湿热下注证。",
+      "bbox": [
+        45.98,
+        205.682,
+        114.65,
+        215.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "流涕，轻微咳嗽，胃纳欠佳，精神倦怠，疹色淡红，稀疏",
+      "bbox": [
+        312.21,
+        205.862,
+        557.46,
+        215.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "108. E【解析】由题干孕50天，呕吐酸水或苦水，",
+      "bbox": [
+        66.76,
+        220.392,
+        286.991,
+        231.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "细小，分布均匀，微有痒感，耳后、枕后及颈部淋巴结肿",
+      "bbox": [
+        312.36,
+        220.972,
+        557.61,
+        230.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "胸满胁痛，嗳气叹息，烦渴口苦，舌淡红，苔微黄，脉滑",
+      "bbox": [
+        45.81,
+        235.362,
+        291.31,
+        245.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "大，舌尖红，苔薄黄，脉浮数。",
+      "bbox": [
+        312.31,
+        235.992,
+        449.65,
+        245.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "数，诊断为妊娠恶阻肝胃不和证，代表方剂是橘皮竹",
+      "bbox": [
+        45.84,
+        250.432,
+        287.872,
+        260.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "120. A【解析】风疹的临床表现为前驱期多数为",
+      "bbox": [
+        333.43,
+        250.872,
+        551.809,
+        260.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "茹汤。",
+      "bbox": [
+        45.76,
+        265.282,
+        75.19,
+        275.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "1～ 2天，低或中度发热，轻咳、咽痛、流涕，或轻度呕",
+      "bbox": [
+        312.73,
+        265.682,
+        551.867,
+        275.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "109. C【解析】产后恶露不绝血瘀型的治法。产",
+      "bbox": [
+        66.67,
+        280.032,
+        287.908,
+        289.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "吐、腹泻等。耳后、枕后及颈部淋巴结肿大，有轻度压",
+      "bbox": [
+        312.63,
+        280.292,
+        551.906,
+        290.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "后4周恶露不止，属产后恶露不绝；根据恶露量、色、质",
+      "bbox": [
+        45.8,
+        294.842,
+        291.43,
+        304.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "痛。出疹期多数病人发热1天左右出疹，皮疹多为散",
+      "bbox": [
+        312.35,
+        296.092,
+        552.019,
+        305.892
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "及伴随症状、舌脉，属血瘀证，治以活血化瘀止血。",
+      "bbox": [
+        45.76,
+        309.982,
+        271.39,
+        319.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "在淡红色斑丘疹，也可呈大片皮肤发红或针尖状猩红",
+      "bbox": [
+        312.25,
+        310.962,
+        551.937,
+        320.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "110. D【解析】由题干带下量多，黄绿如脓，诊断",
+      "bbox": [
+        66.59,
+        324.292,
+        288.141,
+        334.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "热样皮疹。",
+      "bbox": [
+        312.47,
+        325.522,
+        361.47,
+        335.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "为带下病。由质黏腻，臭秽难闻，小腹疼痛，腰骶酸痛，",
+      "bbox": [
+        46.06,
+        339.802,
+        291.06,
+        349.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "121. A",
+      "bbox": [
+        333.8,
+        340.363,
+        362.688,
+        350.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "烦热头晕，口苦咽干，小便短赤，大便干结，舌红苔黄",
+      "bbox": [
+        45.74,
+        354.792,
+        288.4,
+        364.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "122. B【解析】肛裂、肛瘘检查法。肛门局部望诊",
+      "bbox": [
+        333.74,
+        355.123,
+        552.127,
+        365.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "腻，脉滑数，辨证为热毒蕴结证。",
+      "bbox": [
+        45.88,
+        369.062,
+        192.58,
+        378.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "可以看见有无肛裂；探针检查可以探知肛瘘瘘管的方",
+      "bbox": [
+        312.62,
+        370.342,
+        552.034,
+        380.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "111. B【解析】临床可用以下公式推算小儿体重：",
+      "bbox": [
+        66.51,
+        383.833,
+        287.651,
+        394.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "向、深度、长度等。",
+      "bbox": [
+        313.46,
+        385.072,
+        401.66,
+        394.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "1至6岁体重（kg）=8+2×年龄。2岁后至12岁儿童",
+      "bbox": [
+        46.28,
+        398.962,
+        288.352,
+        409.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "123. A",
+      "bbox": [
+        334.03,
+        400.053,
+        362.918,
+        409.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "的身高（身长）：身高（cm）=75+7×年龄，将患儿的年",
+      "bbox": [
+        46.51,
+        413.972,
+        288.448,
+        423.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "124. D【解析】火毒炽盛多因过食肥甘、辛辣、醇",
+      "bbox": [
+        334.01,
+        414.812,
+        552.578,
+        425.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "龄代入计算，其理想体重应该为14kg，理想身长为",
+      "bbox": [
+        46.07,
+        428.672,
+        288.226,
+        438.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "酒等物，湿热内生，下注大肠，经络阻塞，气血凝滞，蕴",
+      "bbox": [
+        312.66,
+        430.042,
+        557.91,
+        439.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "96cm，对比后可知体重正常，身长偏低。",
+      "bbox": [
+        45.95,
+        443.962,
+        223.56,
+        453.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "阻肛门。治法：清热解毒透脓。方用透脓散。阴虚毒",
+      "bbox": [
+        313.32,
+        444.962,
+        552.331,
+        454.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "112. A【解析】该患儿为胎怯肾精薄弱证。治",
+      "bbox": [
+        66.66,
+        458.782,
+        288.594,
+        468.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "恋证中热盛伤阴，故肛周肿痛，皮色暗红，溃后脓出稀",
+      "bbox": [
+        312.87,
+        459.842,
+        552.371,
+        469.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "法：益精充髓，补肾温阳。代表方：补肾地黄丸。",
+      "bbox": [
+        45.99,
+        474.052,
+        261.81,
+        483.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "薄，伴午后潮热，心烦口干，舌红苔少，脉细数。治法：",
+      "bbox": [
+        313.24,
+        474.902,
+        558.49,
+        484.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "113. A【解析】风寒感冒证的症状为恶寒，无汗，",
+      "bbox": [
+        66.78,
+        488.983,
+        288.097,
+        498.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "养阴清热，祛湿解毒。方用青蒿鳖甲汤合三妙丸。另",
+      "bbox": [
+        312.94,
+        489.702,
+        551.923,
+        499.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "头痛，鼻塞流清涕，喷嚏咳嗽，口不渴，咽不红，舌苔薄",
+      "bbox": [
+        46.13,
+        503.742,
+        291.38,
+        513.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "肛痈热毒蕴结证治以清热解毒，方用仙方活命饮、黄连",
+      "bbox": [
+        312.99,
+        504.812,
+        552.491,
+        514.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "白，脉浮紧，故选A。风热感冒以“发热重，有汗或少",
+      "bbox": [
+        47.18,
+        518.902,
+        288.697,
+        528.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "解毒汤。",
+      "bbox": [
+        312.69,
+        519.752,
+        351.77,
+        529.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "汗，咽红肿痛，舌红，苔薄黄或指纹浮紫”为特征；暑邪",
+      "bbox": [
+        46.21,
+        533.412,
+        290.71,
+        543.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "125. E",
+      "bbox": [
+        334.04,
+        534.373,
+        361.561,
+        544.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "感冒发于夏季，以“发热，头痛，身重困倦，食欲不振，舌",
+      "bbox": [
+        45.98,
+        548.522,
+        300.78,
+        558.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "126. A【解析】鼠乳治疗可用消毒针头挑破患",
+      "bbox": [
+        334.19,
+        549.093,
+        552.047,
+        559.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "红，苔黄腻”为特征；感冒挟痰以“咳嗽加剧，痰多，喉间",
+      "bbox": [
+        46.14,
+        563.322,
+        301.46,
+        573.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "处，挤尽白色乳酪样物，再用碘酒或浓石炭酸溶液点患",
+      "bbox": [
+        313.01,
+        564.532,
+        552.06,
+        574.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "痰鸣”为特征；感冒挟滞以“脘腹胀满，不思饮食，大便",
+      "bbox": [
+        45.77,
+        578.312,
+        291.02,
+        588.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "处。若损害较多，应分批治疗，注意保护周围皮肤。治",
+      "bbox": [
+        312.85,
+        579.532,
+        552.351,
+        589.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "不调，小便短黄，舌苔厚腻，脉滑”为特征。",
+      "bbox": [
+        45.77,
+        593.772,
+        241.97,
+        603.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "疗白秃疮、肥疮，采用拔发疗法，方法：剪发后每天以",
+      "bbox": [
+        312.6,
+        594.442,
+        551.876,
+        604.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "114. C【解析】本证多见于肺炎喘嗽的中期，痰热",
+      "bbox": [
+        66.78,
+        608.632,
+        288.751,
+        618.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "0. 5%明矾水或热肥皂水洗头，然后在病灶处敷药，可",
+      "bbox": [
+        312.65,
+        609.122,
+        552.279,
+        618.892
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "俱甚，郁闭于肺，而见上述诸症。临床以发热、咳嗽、痰",
+      "bbox": [
+        45.76,
+        623.562,
+        291.01,
+        633.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "用5%硫黄软膏或雄黄膏，用薄膜盖上，包扎或戴帽固",
+      "bbox": [
+        312.95,
+        624.012,
+        551.816,
+        633.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "壅、气急、鼻扇为特征。",
+      "bbox": [
+        46.32,
+        638.792,
+        154.34,
+        648.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "定。每天如上法换药1次。敷药1周，用镊子将病发",
+      "bbox": [
+        312.69,
+        639.032,
+        552.277,
+        650.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "115. E【解析】患儿病程日久，分析证候，属百日",
+      "bbox": [
+        66.94,
+        653.522,
+        287.066,
+        663.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "连根拔除。拔发后继续涂原用药膏，每天1次，连",
+      "bbox": [
+        312.84,
+        653.652,
+        554.61,
+        665.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "咳之恢复期，证属痰热留肺，久咳未愈，肺阴必损，治以",
+      "bbox": [
+        46.47,
+        668.852,
+        291.97,
+        678.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "续2～3周。",
+      "bbox": [
+        312.71,
+        668.842,
+        360.661,
+        678.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "清养肺阴，佐以化痰止咳，方选沙参麦冬汤。",
+      "bbox": [
+        45.99,
+        683.432,
+        242.19,
+        693.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "127. A",
+      "bbox": [
+        333.94,
+        683.753,
+        362.68,
+        693.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "116. C【解析】“口渴心烦，眼眶凹陷，皮肤干燥，",
+      "bbox": [
+        67.11,
+        698.442,
+        293.77,
+        708.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "128. B【解析】皮肤黏膜淋巴结综合征好发于婴",
+      "bbox": [
+        333.96,
+        698.312,
+        551.838,
+        709.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "小便短赤，舌红少津，苔少”表明患儿阴津耗伤，此为泄",
+      "bbox": [
+        46.01,
+        713.062,
+        291.51,
+        722.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "幼儿，是以全身血管炎症病变为主要病理的急性发热",
+      "bbox": [
+        312.91,
+        713.672,
+        551.732,
+        723.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "泻之变证。治疗时除止泻外应及时敛阴生津。",
+      "bbox": [
+        46.09,
+        727.922,
+        249.888,
+        737.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "性出疹性疾病，以不明原因发热、多形性红斑、球黏膜",
+      "bbox": [
+        312.8,
+        728.902,
+        551.606,
+        738.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "117. D【解析】该病证为厌食证的脾胃虚弱证，推",
+      "bbox": [
+        67.4,
+        743.122,
+        288.521,
+        752.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "充血、草莓舌和颈淋巴结肿大，手足硬肿为特征。病因",
+      "bbox": [
+        312.86,
+        744.063,
+        550.675,
+        753.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "拿疗法最为适宜，而拔罐更适于有外邪导致的泄泻。",
+      "bbox": [
+        46.13,
+        757.702,
+        288.44,
+        767.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "为温热邪毒，病机为热盛血瘀，其卫气同病首选A，气",
+      "bbox": [
+        313.13,
+        758.796,
+        551.044,
+        768.166
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "熏洗法和擦拭法多用于局部的体表病证；割治疗法一",
+      "bbox": [
+        46.45,
+        772.652,
+        288.729,
+        782.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "阴两伤选B。",
+      "bbox": [
+        313.44,
+        773.447,
+        367.997,
+        782.727
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "般用于疳证和哮喘病证；拔罐疗法有祛风、散寒、止痛",
+      "bbox": [
+        46.5,
+        787.502,
+        288.483,
+        797.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "129. A",
+      "bbox": [
+        333.9,
+        787.99,
+        361.982,
+        797.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "—",
+      "bbox": [
+        270.88,
+        805.502,
+        279.65,
+        814.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "213—",
+      "bbox": [
+        290.85,
+        804.399,
+        330.54,
+        816.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

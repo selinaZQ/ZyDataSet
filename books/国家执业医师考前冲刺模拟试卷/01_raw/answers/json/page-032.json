@@ -1,0 +1,1337 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 32,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        56.82,
+        30.401,
+        257.876,
+        41.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "炎、急性腹膜炎等呕吐的特点是有恶心先兆，呕吐后不",
+      "bbox": [
+        54.76,
+        59.699,
+        297.4,
+        69.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "期家庭氧疗的氧流量是1～2 L /min，吸氧持续时间为",
+      "bbox": [
+        318.58,
+        58.959,
+        568.664,
+        70.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "觉轻松；②其他、如异味刺激、急慢性咽炎、肺炎、急性",
+      "bbox": [
+        54.39,
+        73.909,
+        307.14,
+        84.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "10～15 h/d.",
+      "bbox": [
+        318.76,
+        72.899,
+        368.075,
+        84.927
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "胸膜炎、肺梗死、急性心肌梗死、充血性心力衰竭、急性",
+      "bbox": [
+        54.37,
+        88.429,
+        307.12,
+        98.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "24. C【解析】肝火上炎证的临床表现：头晕胀痛，",
+      "bbox": [
+        340.11,
+        87.559,
+        568.715,
+        99.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "肾炎急性中毒等也可引起呕吐，BCDE项引起的都是",
+      "bbox": [
+        54.49,
+        103.039,
+        296.583,
+        114.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "痛如刀劈，而红目赤，口苦口干，急躁易怒，耳鸣如潮。",
+      "bbox": [
+        318.67,
+        102.159,
+        571.17,
+        112.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "中枢性的呕吐。",
+      "bbox": [
+        54.14,
+        118.879,
+        124.91,
+        128.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "甚或突发耳聋，失眠，噩梦纷纭，或胁肋灼痛，吐血，每",
+      "bbox": [
+        318.78,
+        116.249,
+        571.53,
+        126.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "13. A【解析】左后分支阻滞、右心室肥大、广泛心",
+      "bbox": [
+        74.73,
+        132.169,
+        300.1,
+        144.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "血，小便短黄，大便秘结，舌红苔黄，脉弦数。肝阳上亢",
+      "bbox": [
+        318.62,
+        130.829,
+        571.12,
+        140.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "肌梗死、肺气肿、垂直位心脏等，可使心电轴右偏。左",
+      "bbox": [
+        53.26,
+        146.299,
+        297.063,
+        156.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "证的临床表现：眩晕耳鸣，头目胀痛，而红目赤，急躁易",
+      "bbox": [
+        319.06,
+        145.509,
+        571.81,
+        155.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "前分支阻滞、左心室肥大、大量腹水、肥胖、妊娠、横位",
+      "bbox": [
+        53.19,
+        160.889,
+        306.19,
+        171.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "怒，失眠多梦，头重脚轻，腰膝酸软，舌红少津，脉弦有",
+      "bbox": [
+        319.22,
+        160.089,
+        571.97,
+        170.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "心脏等，可使心电轴左偏。",
+      "bbox": [
+        53.01,
+        176.939,
+        174.33,
+        187.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "力或弦细数。",
+      "bbox": [
+        318.82,
+        174.979,
+        379.48,
+        185.089
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "14. E【解析】头痛的病因：颅内病变见于脑出血、",
+      "bbox": [
+        73.96,
+        191.169,
+        299.28,
+        202.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "25. B【解析】急性脑血管疾病多表现为潮式呼吸",
+      "bbox": [
+        340.72,
+        189.179,
+        570.342,
+        200.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "蛛网膜下腔出血、脑肿瘤、颅脑外伤、流行性脑脊髓膜",
+      "bbox": [
+        52.66,
+        205.649,
+        297.393,
+        215.759
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "和间停呼吸。癔症多表现为精神性呼吸困难。急性感",
+      "bbox": [
+        319.26,
+        204.039,
+        570.473,
+        214.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "炎等。颅外病变见于颈椎病、三叉神经痛、口腔及鼻部",
+      "bbox": [
+        52.54,
+        220.449,
+        297.505,
+        230.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "染所致的毒血症表现为潮式呼吸和间停呼吸。慢性阴",
+      "bbox": [
+        319.16,
+        219.069,
+        569.928,
+        229.179
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "炎症等。全身性疾病见于各种感染发热、高血压病、中",
+      "bbox": [
+        52.52,
+        234.839,
+        297.02,
+        244.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "塞性肺气肿多表现为呼气性呼吸困难。左心功能不全",
+      "bbox": [
+        319.65,
+        233.769,
+        570.196,
+        243.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "毒、中暑、月经期及绝经期头痛等。神经症，如神经衰",
+      "bbox": [
+        52.27,
+        250.429,
+        297.933,
+        260.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "多表现为夜间阵发性呼吸困难。",
+      "bbox": [
+        319.68,
+        248.309,
+        466.871,
+        258.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "弱及癔症性头痛等。",
+      "bbox": [
+        52.25,
+        265.609,
+        143.24,
+        275.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "26. B【解析】正常人立位或坐位时颈外静脉常不",
+      "bbox": [
+        341.07,
+        263.419,
+        570.601,
+        274.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "15. A【解析】血管壁结构与功能异常：①先天性",
+      "bbox": [
+        72.89,
+        280.049,
+        298.053,
+        291.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "显露，平卧时可稍见充盈，充盈的水平仅限于锁骨上缘",
+      "bbox": [
+        319.85,
+        278.669,
+        570.629,
+        288.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "疾病，如遗传性出血性毛细血管扩张症、血管性假性血",
+      "bbox": [
+        51.32,
+        295.139,
+        298.146,
+        305.249
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "至下颌角距离的下2/3以内。若取30°～45°的半卧位",
+      "bbox": [
+        320.06,
+        293.339,
+        575.091,
+        303.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "友病、家族性单纯性紫癜等；②获得性过敏性紫癜、药",
+      "bbox": [
+        51.44,
+        310.009,
+        298.266,
+        320.119
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "时静脉充盈度超过正常水平，称为颈静脉怒张。颈静",
+      "bbox": [
+        320.12,
+        308.379,
+        570.666,
+        318.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "物性紫癜、感染性紫癜、中毒性紫癜、结缔组织疾病、维",
+      "bbox": [
+        51.39,
+        324.899,
+        304.39,
+        335.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "脉怒张提示右房压力的升高和静脉回流受阻（静脉压",
+      "bbox": [
+        320.03,
+        322.759,
+        570.778,
+        332.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "生素C缺乏症、单纯性紫癜等。",
+      "bbox": [
+        51.4,
+        340.029,
+        195.25,
+        351.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "增高），常见于右心衰竭、缩窄性心包炎、心包积液或上",
+      "bbox": [
+        319.88,
+        338.129,
+        570.739,
+        348.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "16. E【解析】病历书写的格式与内容。病历书写",
+      "bbox": [
+        72.51,
+        354.629,
+        298.224,
+        366.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "腔静脉阻塞综合征。",
+      "bbox": [
+        320.09,
+        352.909,
+        411.565,
+        363.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "格式规定：个人史项中包括居住地区情况；而既往史应",
+      "bbox": [
+        51.28,
+        370.039,
+        298.571,
+        380.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "27. C【解析】过清音是属于鼓音范畴的一种变",
+      "bbox": [
+        341.73,
+        367.699,
+        570.827,
+        379.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "采录的内容是过去健康状况、预防接种史、传染病史、",
+      "bbox": [
+        51.14,
+        384.129,
+        298.663,
+        394.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "音，介于鼓音与清音之间。过清音的出现提示肺组织",
+      "bbox": [
+        320.33,
+        382.989,
+        570.876,
+        393.099
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "含气量增多，弹性减弱，临床常见于肺气肿。",
+      "bbox": [
+        320.25,
+        397.279,
+        522.45,
+        407.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "过敏史等。",
+      "bbox": [
+        51.23,
+        400.219,
+        101.78,
+        410.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "17. E【解析】缺铁的诊断依据。骨髓小粒可染铁",
+      "bbox": [
+        72.64,
+        414.399,
+        299.088,
+        425.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "28. B【解析】高血压病常常导致急性脑血管病，",
+      "bbox": [
+        341.93,
+        412.359,
+        570.371,
+        423.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "是代表体内的贮存铁，骨髓小粒可染铁消失，即表示体",
+      "bbox": [
+        51.12,
+        429.069,
+        299.108,
+        439.179
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "而急性脑血管病是一种威胁中老年人生命的常见病，",
+      "bbox": [
+        320.66,
+        427.149,
+        570.316,
+        437.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "内已无贮存铁，故可肯定诊断缺铁。而其他几项检查",
+      "bbox": [
+        52.02,
+        444.159,
+        299.007,
+        454.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "在我国城乡约居各类死因的第2位，是全世界引起死",
+      "bbox": [
+        320.77,
+        441.949,
+        570.843,
+        452.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "或病史则不能完全肯定缺铁，如在慢性疾病贫血时，虽",
+      "bbox": [
+        51.06,
+        458.739,
+        299.281,
+        468.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "亡的三大病证之一。",
+      "bbox": [
+        320.59,
+        457.039,
+        412.056,
+        467.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "然血清铁降低，但存铁可能正常或偏高。",
+      "bbox": [
+        51.09,
+        474.259,
+        233.07,
+        484.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "29. A【解析】蜘蛛痣是由一支中央小动脉和许多",
+      "bbox": [
+        342.3,
+        471.789,
+        570.671,
+        483.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "18. E【解析】白细胞减少的病因。甲巯咪唑、氯",
+      "bbox": [
+        72.32,
+        488.489,
+        299.221,
+        500.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "向外辐射的细小血管形成，形如蜘蛛，检查时用火柴棍",
+      "bbox": [
+        321.82,
+        487.089,
+        571.189,
+        497.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "霉素、磺胺类、氨基比林均易引起白细胞减少，碳酸锂",
+      "bbox": [
+        51.11,
+        503.349,
+        299.331,
+        513.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "压迫中央，则周围扩张的小血管充血消失，多出现在上",
+      "bbox": [
+        320.98,
+        501.829,
+        571.061,
+        511.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "有刺激骨髓生成粒细胞的作用，不会引起白细胞减少。",
+      "bbox": [
+        51.04,
+        518.229,
+        295.308,
+        528.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "腔静脉分布的区域内，见于急、慢性肝炎及肝硬化",
+      "bbox": [
+        321.04,
+        516.509,
+        571.06,
+        526.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "19. E【解析】胰头癌压迫胆总管致胆囊肿大时无",
+      "bbox": [
+        72.3,
+        533.109,
+        299.638,
+        545.26
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "患者。",
+      "bbox": [
+        321.24,
+        532.669,
+        351.54,
+        542.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "压痛，但有逐渐加深的黄疸，称库瓦济埃征阳性。胆囊",
+      "bbox": [
+        51.16,
+        548.299,
+        299.381,
+        558.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "30. B【解析】有机磷中毒的治疗。当有机磷中毒",
+      "bbox": [
+        342.82,
+        546.869,
+        571.171,
+        558.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "炎只引起胆囊的肿大；胆囊肿大，有实感性，见于胆囊",
+      "bbox": [
+        51.16,
+        563.239,
+        299.393,
+        573.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "用阿托品治疗过程中，出现阿托品中毒时，应立即输液",
+      "bbox": [
+        321.3,
+        561.939,
+        571.381,
+        572.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "结石或胆囊癌。",
+      "bbox": [
+        50.96,
+        579.709,
+        121.66,
+        589.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "促进阿托品排泄，并给拟胆碱药毛果芸香碱，以对抗外",
+      "bbox": [
+        321.2,
+        577.099,
+        571.498,
+        587.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "20. D【解析】金属调的咳嗽可由于纵隔肿瘤或支",
+      "bbox": [
+        72.3,
+        593.039,
+        299.488,
+        605.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "周M样作用。",
+      "bbox": [
+        321.39,
+        592.449,
+        387.9,
+        603.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "气管癌等。声音嘶哑的咳嗽多见于声带炎、喉炎、喉癌",
+      "bbox": [
+        51.19,
+        608.159,
+        299.643,
+        618.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "31. E【解析】SARS治疗应用糖皮质激素的目的",
+      "bbox": [
+        343.12,
+        607.169,
+        570.992,
+        618.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "以及喉返神经受压等。",
+      "bbox": [
+        51.77,
+        624.539,
+        152.97,
+        634.659
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "在于抑制异常的免疫病理反应，减轻全身炎症反应状",
+      "bbox": [
+        321.59,
+        622.859,
+        571.691,
+        632.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "21. B【解析】感染性发热包括病毒、细菌、支原",
+      "bbox": [
+        72.19,
+        638.409,
+        299.734,
+        650.5
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "态。治疗指征：X线胸片示大片阴影并在48小时之内",
+      "bbox": [
+        321.76,
+        637.989,
+        570.578,
+        649.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "体、立克次体、螺旋体、真菌、寄生虫等感染引起的发",
+      "bbox": [
+        51.68,
+        653.819,
+        299.655,
+        663.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "病灶面积增大>50%且在正位胸片上病灶面积占双肺",
+      "bbox": [
+        321.67,
+        652.849,
+        571.309,
+        663.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "热。脊髓灰质炎是由脊髓灰质炎病毒感染引起的一种",
+      "bbox": [
+        51.99,
+        669.089,
+        299.422,
+        679.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "总面积的1/4以上；达到急性肺损伤的诊断标准；出现",
+      "bbox": [
+        322.08,
+        668.139,
+        571.2,
+        680.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "疾病，故属于感染性发热，其余选项属于非感染性",
+      "bbox": [
+        51.78,
+        684.409,
+        299.89,
+        694.519
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "ARDS。而中毒症状重，持续发热，经对症治疗3天以",
+      "bbox": [
+        322.18,
+        683.749,
+        571.094,
+        693.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "发热。",
+      "bbox": [
+        52.47,
+        699.279,
+        82.8,
+        709.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "上，体温仍超过38不属于糖皮质激素治疗的指征。",
+      "bbox": [
+        321.94,
+        699.099,
+        560.612,
+        709.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "22. C【解析】十二指肠溃疡：绝大部分发生在球",
+      "bbox": [
+        73.41,
+        714.039,
+        299.645,
+        725.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "32. A【解析】静脉性杂音为连续的嗡鸣声或“潺",
+      "bbox": [
+        343.8,
+        713.419,
+        571.059,
+        726.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "部，溃疡已造成球部变形；球部龛影或球部变形是十二",
+      "bbox": [
+        52.96,
+        729.109,
+        299.797,
+        739.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "潺”声，无收缩期与舒张期性质。常出现于脐周或上腹",
+      "bbox": [
+        321.99,
+        729.227,
+        571.317,
+        739.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "指肠溃疡的直接X线征象。间接征象：①激惹征；②幽",
+      "bbox": [
+        53.11,
+        743.709,
+        299.348,
+        753.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "部，尤其是腹壁静脉曲张严重处。此音提示门静脉高",
+      "bbox": [
+        322.06,
+        744.267,
+        570.999,
+        754.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "门痉挛，开放延迟；③胃分泌增多和胃张力及蠕动方面",
+      "bbox": [
+        53.87,
+        758.489,
+        300.009,
+        768.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "压时的侧支循环形成。",
+      "bbox": [
+        321.93,
+        759.357,
+        425.308,
+        769.667
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "的改变；④球部固定压痛。",
+      "bbox": [
+        54.31,
+        772.999,
+        175.63,
+        783.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "33. E【解析】辗转体位：患者辗转反侧，坐卧不",
+      "bbox": [
+        343.88,
+        774.087,
+        571.024,
+        785.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "23. B【解析】慢性阻塞性肺疾病（COPD）患者长",
+      "bbox": [
+        74.53,
+        787.089,
+        299.793,
+        799.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "安，见于胆石症、胆道蛔虫症、肾绞痛等。",
+      "bbox": [
+        322.21,
+        788.877,
+        518.1,
+        799.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "222—",
+      "bbox": [
+        301.63,
+        807.821,
+        340.97,
+        818.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

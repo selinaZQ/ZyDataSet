@@ -1,0 +1,1246 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 59,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        313.09,
+        42.237,
+        518.759,
+        53.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "间内产生疗效。发作时心电图可见ST段下移及T波",
+      "bbox": [
+        48.65,
+        72.554,
+        279.943,
+        82.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "疾病均不支持。",
+      "bbox": [
+        299.83,
+        72.324,
+        366.96,
+        81.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "倒置，故选A。B项定义为最近1个月内初次发生劳力",
+      "bbox": [
+        48.33,
+        87.804,
+        279.42,
+        97.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "81. C【解析】AD项都伴有肾功能受损的指标升",
+      "bbox": [
+        319.29,
+        86.795,
+        530.57,
+        97.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "型心绞痛；C项恶化型指3个月内疼痛的频率、程度、时",
+      "bbox": [
+        47.49,
+        102.644,
+        279.626,
+        112.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "高，如BUN、Cr₁B项会出现体循环淤血、表现为下肢浮",
+      "bbox": [
+        299.95,
+        102.174,
+        530.539,
+        113.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "限、诱因经常变动，进行性恶化。可发作于安静或熟睡",
+      "bbox": [
+        47.58,
+        118.014,
+        279.526,
+        127.614
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "肿、胸闷心慌等；E项多有皮肤黄染、食欲差、乏力等表",
+      "bbox": [
+        299.6,
+        117.544,
+        534.751,
+        127.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "时，ST段可压低或抬高；E项发作时疼痛时间常超过",
+      "bbox": [
+        47.63,
+        132.864,
+        279.873,
+        142.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "现；蜘蛛痣是肝硬化的特殊体征，且患者左肋缘下触及",
+      "bbox": [
+        299.57,
+        133.184,
+        530.632,
+        142.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "30分钟，且休息或硝酸甘油不缓解，心电图亦不符合，",
+      "bbox": [
+        47.34,
+        148.224,
+        279.249,
+        157.834
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "脾脏，腹部叩诊出现移动性浊音，大便反复带有鲜血，",
+      "bbox": [
+        299.4,
+        148.654,
+        530.261,
+        158.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "故排除。",
+      "bbox": [
+        47.38,
+        163.284,
+        85.7,
+        172.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "说明已出现门脉高压，是肝硬化失代偿的表现。",
+      "bbox": [
+        299.32,
+        163.894,
+        501.13,
+        173.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "74. E【解析】中年患者，上腹部胀痛，与饮食有",
+      "bbox": [
+        64.66,
+        178.624,
+        279.522,
+        189.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "82. C【解析】皮肤反复出血，外周血小板减少，骨",
+      "bbox": [
+        318.85,
+        179.224,
+        533.06,
+        188.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "关，偶反酸嗳气、应为胃部疾病、结合病史，应为慢性胃",
+      "bbox": [
+        46.7,
+        193.974,
+        287.2,
+        203.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "髓增生活跃，颗粒型巨核细胞增多，可推断产板型巨核",
+      "bbox": [
+        299.11,
+        194.874,
+        530.654,
+        204.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "爽，故选E。胃溃疡腹痛常有规律，为进食后痛；胆囊",
+      "bbox": [
+        46.34,
+        208.814,
+        279.738,
+        218.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "细胞减少，故首先诊断为特发性血小板减少性紫癜、",
+      "bbox": [
+        299.32,
+        210.264,
+        530.469,
+        219.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "炎、心绞痛疼痛性质、部位与本例不符。",
+      "bbox": [
+        46.38,
+        224.924,
+        219.36,
+        234.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "检查结果未见红细胞及白细胞的减少，骨髓未见增生",
+      "bbox": [
+        298.9,
+        225.584,
+        530.319,
+        235.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "75. C【解析】40岁女性患者，近端指骨间关节、腕",
+      "bbox": [
+        64.39,
+        240.254,
+        279.876,
+        251.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "低下，故排除A。脾亢及过敏性紫癜不出现该患者的",
+      "bbox": [
+        298.87,
+        241.004,
+        530.038,
+        250.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "关节肿痛，颈椎、颞颌关节也受累，有晨僵现象，依据以",
+      "bbox": [
+        46.1,
+        255.944,
+        286.1,
+        265.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "骨髓变化，故排除DE。患者病程半年，除巨细胞外其",
+      "bbox": [
+        299.04,
+        256.594,
+        530.332,
+        266.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "上临床表现考虑类风湿关节炎。类风湿因子或抗环瓜",
+      "bbox": [
+        46.25,
+        271.484,
+        279.785,
+        281.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "他系均正常，骨髓增生活跃而不是极度活跃，综合考虑",
+      "bbox": [
+        298.87,
+        272.004,
+        530.193,
+        281.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "氨酸肽抗体检查对明确诊断有重要意义。",
+      "bbox": [
+        46.86,
+        287.294,
+        222.146,
+        296.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "可排除B,故选C。",
+      "bbox": [
+        299.05,
+        287.704,
+        377.261,
+        297.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "76. D【解析】A项经抗感染治疗后多好转，B项",
+      "bbox": [
+        64.3,
+        302.474,
+        279.33,
+        313.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "83. B【解析】本病例青壮年男性，发病急，发热、",
+      "bbox": [
+        317.99,
+        303.274,
+        532.52,
+        312.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "有结核中毒表现：低热、盗汗、消瘦、乏力等；C项有脓",
+      "bbox": [
+        46.76,
+        318.334,
+        282.854,
+        327.954
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "胸痛，咳嗽、咳痰，X线肺实变阴影，符合肺炎球菌肺炎",
+      "bbox": [
+        298.82,
+        319.024,
+        535.649,
+        328.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "臭痰，X线检查有空洞及液气平面；D项常有吸烟史，",
+      "bbox": [
+        46.73,
+        333.954,
+        279.119,
+        343.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "的诊断；而急性支气管炎早期X线检查无异常；病毒、",
+      "bbox": [
+        299.42,
+        334.024,
+        530.156,
+        343.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "咳嗽咯痰，痰中带血，X片的表现是由于肿瘤造成的阻",
+      "bbox": [
+        47.27,
+        349.944,
+        279.573,
+        359.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "支原体引起的肺炎病情较轻，症状不重；肺结核多有先",
+      "bbox": [
+        298.89,
+        349.664,
+        530.173,
+        359.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "塞性肺炎，一般抗感染治疗效果多不明显。E项为咳",
+      "bbox": [
+        46.87,
+        365.294,
+        279.574,
+        374.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "期的低热、乏力等结核中毒症状。",
+      "bbox": [
+        298.56,
+        365.174,
+        442.56,
+        374.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "嗽咳痰，反复咯血，X片见双轨影。",
+      "bbox": [
+        46.97,
+        381.624,
+        196.84,
+        391.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "84. D【解析】患者P波高尖,电压≥0.25mv,在",
+      "bbox": [
+        317.84,
+        380.695,
+        530.049,
+        390.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "77. C【解析】复杂部分性发作：均有意识障碍，发",
+      "bbox": [
+        64.63,
+        396.594,
+        279.66,
+        407.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "Ⅱ、Ⅲ、aVF导联最突出，可诊断为右心房肥大。",
+      "bbox": [
+        300.49,
+        396.534,
+        510.389,
+        406.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "作时患者对外界刺激无反应，发作后不能或部分不能",
+      "bbox": [
+        46.78,
+        412.184,
+        279.407,
+        421.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "85. E【解析】癫痫持续状态是指1次发作持续时",
+      "bbox": [
+        317.78,
+        411.644,
+        530.039,
+        421.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "复述发作的细节。典型发作特征为发作起始出现错",
+      "bbox": [
+        47.1,
+        427.654,
+        279.548,
+        437.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "间超过30分钟，或者发作次数频繁且两次发作间歇期",
+      "bbox": [
+        299.1,
+        427.564,
+        529.634,
+        437.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "觉、幻觉、似曾相识感、恐惧、胃气上升感、心悸等症状，患者意识不恢复。",
+      "bbox": [
+        47.08,
+        443.224,
+        375.9,
+        452.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "随后出现意识障碍、自动症和遗忘症；有时发作开始即",
+      "bbox": [
+        47.36,
+        458.654,
+        279.125,
+        468.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "86. D【解析】肺癌剧烈干咳，痰中带血丝。肺脓",
+      "bbox": [
+        317.58,
+        458.624,
+        529.528,
+        469.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "为意识障碍，持续数分钟至数十分钟；有的仅有意识",
+      "bbox": [
+        47.38,
+        474.354,
+        279.857,
+        483.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "肿咳脓痰。肺结核痰中带血丝，伴低热，盗汗。急性肺",
+      "bbox": [
+        298.51,
+        474.164,
+        529.39,
+        483.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "障碍。",
+      "bbox": [
+        47.6,
+        490.714,
+        76.31,
+        500.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "水肿为粉红色泡沫样痰。支气管扩张痰量较多，为湿",
+      "bbox": [
+        298.41,
+        489.294,
+        529.165,
+        498.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "78. D【解析】患者有10年乙肝病史,且",
+      "bbox": [
+        65.12,
+        504.874,
+        279.491,
+        516.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "性咳嗽。",
+      "bbox": [
+        298.59,
+        504.854,
+        336.95,
+        514.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "HBsAg（+）；体检发现蜘蛛痣、右上腹压痛、肝大、质",
+      "bbox": [
+        47.64,
+        520.084,
+        279.593,
+        529.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "87. D【解析】腰肌劳损腰部有压痛。脑膜炎、蛛",
+      "bbox": [
+        317.58,
+        519.664,
+        528.987,
+        531.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "硬，为肝硬化表现；查AFP升高，故首先考虑为乙肝一",
+      "bbox": [
+        47.19,
+        536.384,
+        279.575,
+        545.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "网膜下腔出血有脑膜刺激征。腰椎间盘突出可以有腰",
+      "bbox": [
+        299.21,
+        535.684,
+        528.641,
+        545.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "肝硬化一原发性肝癌这三阶梯，目前已达第三阶段，故",
+      "bbox": [
+        47.07,
+        551.844,
+        279.278,
+        561.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "痛，腰部活动受限。检查：脊柱叩击痛，坐骨神经刺激",
+      "bbox": [
+        298.59,
+        550.954,
+        529.23,
+        560.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "选D。HBV是我国原发性肝癌的重要致病因素之一。",
+      "bbox": [
+        47.34,
+        567.094,
+        279.121,
+        576.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "征（+）。肾下垂腰部酸痛占92%，故选D。",
+      "bbox": [
+        298.41,
+        566.424,
+        475.707,
+        576.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "需要指出的是，AFP诊断肝细胞癌的标准应：AFP >",
+      "bbox": [
+        47.06,
+        582.224,
+        275.123,
+        593.736
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "88. B【解析】肌力的分级如下。Ⅰ级：可见肌肉",
+      "bbox": [
+        317.61,
+        581.794,
+        527.877,
+        592.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "500μg/ L持续4周,或> 200μg/ L持续8周。",
+      "bbox": [
+        47.17,
+        598.604,
+        237.282,
+        610.826
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "轻微收缩。Ⅱ级：肢体能在床上平行移动。Ⅲ级：肢体",
+      "bbox": [
+        298.52,
+        597.554,
+        528.68,
+        607.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "79. A【解析】稽留热指体温在39以上持续数",
+      "bbox": [
+        64.85,
+        614.104,
+        279.129,
+        625.866
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "可以克服地心吸收力，能抬离床面。Ⅳ级：肢体能做对",
+      "bbox": [
+        298.84,
+        613.704,
+        528.76,
+        623.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "天或数周，24小时内体温波动范围不超过1，多见于",
+      "bbox": [
+        47.26,
+        630.014,
+        284.02,
+        640.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "抗外界阻力的运动。Ⅴ级：肌力正常，运动自如。患者",
+      "bbox": [
+        298.55,
+        629.314,
+        528.95,
+        638.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "肺炎球菌性肺炎、伤寒等。",
+      "bbox": [
+        47.01,
+        646.564,
+        162.33,
+        656.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "发病时血压200/ 120mmHg，结合发作时眩晕、失语、肢",
+      "bbox": [
+        298.59,
+        644.384,
+        532.779,
+        655.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "80. D【解析】呕血是上消化道疾病（指屈氏韧带",
+      "bbox": [
+        64.82,
+        661.024,
+        279.338,
+        672.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "体只能在床上平行移动及神经反射消失的表现，可诊",
+      "bbox": [
+        298.48,
+        660.154,
+        528.601,
+        669.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "以上的消化器官，包括食管、胃、十二指肠、肝、胆、胰疾断为高血压脑病，Ⅱ级肌力。",
+      "bbox": [
+        47.95,
+        676.334,
+        423.68,
+        686.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "病）或全身性疾病所致的急性上消化道出血，血液经口",
+      "bbox": [
+        47.15,
+        692.954,
+        278.453,
+        702.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "89. A【解析】左心室肥厚、增大，主动脉增宽、延",
+      "bbox": [
+        317.88,
+        691.485,
+        533.76,
+        702.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "腔呕出。该例中年男性患者突然大量呕血（表现是呕",
+      "bbox": [
+        47.14,
+        708.594,
+        279.278,
+        718.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "长、迂曲，有肺淤血和肺水肿征象，均为高血压心脏病",
+      "bbox": [
+        298.85,
+        707.424,
+        529.01,
+        717.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "出鲜血1000ml，并出现心悸、头晕、血压下降等失血性",
+      "bbox": [
+        47.63,
+        724.324,
+        279.334,
+        733.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "X线的特征性表现。",
+      "bbox": [
+        298.74,
+        723.594,
+        381.55,
+        733.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "休克表现），患者20年前患乙型肝炎，现在查体可见蜘",
+      "bbox": [
+        47.0,
+        740.334,
+        279.088,
+        749.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "90. B【解析】右下肺受肝脏影响叩诊稍浊，如在",
+      "bbox": [
+        317.95,
+        739.094,
+        527.545,
+        748.694
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "蛛痣、脾肿大），因此容易有侧支循环形成，尽管未提到",
+      "bbox": [
+        47.31,
+        755.844,
+        280.907,
+        765.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "正常肺泡呼吸音部位听到支气管呼吸音，即为异常支",
+      "bbox": [
+        298.93,
+        755.128,
+        527.35,
+        764.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "腹壁静脉曲张，但是如此大量的出血最可能还是食管",
+      "bbox": [
+        47.27,
+        771.524,
+        279.264,
+        781.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "气管呼吸者，或称管状呼吸音。常见于肺组织实变、肺",
+      "bbox": [
+        298.72,
+        770.607,
+        527.528,
+        779.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "静脉曲张（侧支循环形成）破裂出血，故选D，其余四种",
+      "bbox": [
+        47.46,
+        787.024,
+        279.002,
+        796.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "内大空腔、压迫性肺不张。",
+      "bbox": [
+        299.52,
+        785.698,
+        410.52,
+        794.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "—249",
+      "bbox": [
+        260.74,
+        805.238,
+        294.96,
+        815.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "—",
+      "bbox": [
+        306.36,
+        805.408,
+        316.52,
+        815.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

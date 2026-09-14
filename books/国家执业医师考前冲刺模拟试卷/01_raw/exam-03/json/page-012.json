@@ -1,0 +1,1012 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 12,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        66.31,
+        55.251,
+        267.87,
+        67.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "疗应选用（）",
+      "bbox": [
+        63.44,
+        84.631,
+        146.836,
+        97.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 温肾暖肝",
+      "bbox": [
+        352.27,
+        85.511,
+        414.728,
+        98.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        88.66,
+        100.791,
+        230.861,
+        114.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "147. 肉桂在真人养脏汤中的作用是",
+      "bbox": [
+        353.62,
+        100.441,
+        571.434,
+        112.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 太阳伤寒",
+      "bbox": [
+        87.66,
+        116.221,
+        150.396,
+        129.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "（）",
+      "bbox": [
+        329.21,
+        118.806,
+        363.283,
+        130.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 太阳中风",
+      "bbox": [
+        87.94,
+        132.251,
+        148.995,
+        145.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "148. 肉豆蔻在四神丸中的作用是（）",
+      "bbox": [
+        353.63,
+        131.071,
+        560.193,
+        144.639
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 卫分证",
+      "bbox": [
+        87.84,
+        148.501,
+        137.391,
+        161.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        353.26,
+        146.781,
+        502.586,
+        160.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 气分证",
+      "bbox": [
+        87.75,
+        164.361,
+        137.807,
+        177.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 气血两虚",
+      "bbox": [
+        352.66,
+        162.341,
+        416.034,
+        175.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 少阳证",
+      "bbox": [
+        88.03,
+        180.191,
+        137.231,
+        193.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 气血失和",
+      "bbox": [
+        352.73,
+        178.191,
+        413.518,
+        191.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "145. 发热微恶寒，口干微渴，头痛，脉浮数",
+      "bbox": [
+        88.61,
+        195.411,
+        309.84,
+        209.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 气滞血瘀",
+      "bbox": [
+        352.39,
+        194.171,
+        414.375,
+        207.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "是（）",
+      "bbox": [
+        63.8,
+        212.091,
+        110.919,
+        225.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 气不摄血",
+      "bbox": [
+        352.7,
+        210.191,
+        415.036,
+        223.346
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "146. 恶风发热，头痛，汗出，脉浮缓（是",
+      "bbox": [
+        88.61,
+        227.472,
+        285.1,
+        241.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "） E.气随血脱",
+      "bbox": [
+        296.75,
+        225.171,
+        415.013,
+        241.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "题共用备选答案）",
+      "bbox": [
+        143.28,
+        242.641,
+        234.419,
+        256.064
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "149. 两胁胀痛，舌紫暗及瘀斑，其病机",
+      "bbox": [
+        353.75,
+        240.321,
+        571.78,
+        252.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "（147～148",
+      "bbox": [
+        88.45,
+        244.172,
+        134.357,
+        256.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 温经散寒",
+      "bbox": [
+        87.48,
+        258.081,
+        150.001,
+        271.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "是（）",
+      "bbox": [
+        328.49,
+        257.201,
+        375.646,
+        269.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 温肾暖脾",
+      "bbox": [
+        87.31,
+        274.081,
+        148.917,
+        287.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "150. 气短乏力，兼见月经量多，其病机",
+      "bbox": [
+        353.4,
+        271.481,
+        571.7,
+        284.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 温肾纳气",
+      "bbox": [
+        87.22,
+        290.171,
+        149.148,
+        302.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "是（）",
+      "bbox": [
+        328.4,
+        287.411,
+        375.136,
+        300.976
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 温脾暖胃",
+      "bbox": [
+        87.24,
+        305.131,
+        147.323,
+        317.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "第二单元",
+      "bbox": [
+        282.09,
+        374.661,
+        350.68,
+        390.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A1 型选择题（1～62题）",
+      "bbox": [
+        255.33,
+        409.632,
+        376.511,
+        423.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "1. 心脏瓣膜病中常出现头部搏动感及节",
+      "bbox": [
+        88.72,
+        478.671,
+        305.053,
+        491.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "4. 下列关于甲状腺功能亢进症的叙述，正",
+      "bbox": [
+        352.31,
+        477.691,
+        574.54,
+        491.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "律性点头运动的是（）",
+      "bbox": [
+        63.31,
+        494.481,
+        196.083,
+        508.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "确的是（）",
+      "bbox": [
+        328.08,
+        494.151,
+        400.233,
+        507.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 二尖瓣狭窄",
+      "bbox": [
+        87.67,
+        509.671,
+        162.998,
+        522.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. T₄、T₃均增高时,才能诊断",
+      "bbox": [
+        352.78,
+        509.392,
+        508.708,
+        523.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 二尖瓣关闭不全",
+      "bbox": [
+        87.52,
+        525.661,
+        186.661,
+        538.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. T4、T₃均降低时,才能诊断",
+      "bbox": [
+        352.65,
+        524.461,
+        505.977,
+        538.396
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 主动脉瓣狭窄",
+      "bbox": [
+        87.47,
+        540.631,
+        174.218,
+        553.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 仅有T₃增高即可诊断",
+      "bbox": [
+        352.88,
+        540.751,
+        484.899,
+        554.337
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 主动脉瓣关闭不全",
+      "bbox": [
+        87.33,
+        556.681,
+        199.36,
+        569.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. T₃增高时,T₄则降低",
+      "bbox": [
+        352.73,
+        555.881,
+        480.195,
+        569.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 肺动脉瓣狭窄",
+      "bbox": [
+        87.41,
+        572.701,
+        173.846,
+        585.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 以上均非",
+      "bbox": [
+        352.87,
+        572.061,
+        414.39,
+        585.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "2. 下列各项，不符合淤胆型肝炎临床表现",
+      "bbox": [
+        87.3,
+        587.391,
+        305.02,
+        600.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "5. 下列关于哮喘持续状态的紧急处理哪",
+      "bbox": [
+        353.06,
+        587.381,
+        570.451,
+        599.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "的是（）",
+      "bbox": [
+        64.77,
+        605.231,
+        122.686,
+        617.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "项是错误的（）",
+      "bbox": [
+        328.15,
+        603.601,
+        425.256,
+        617.146
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 黄疸深",
+      "bbox": [
+        87.5,
+        619.781,
+        138.841,
+        632.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 静滴地塞米松",
+      "bbox": [
+        352.85,
+        618.731,
+        441.663,
+        631.934
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 自觉症状重",
+      "bbox": [
+        87.38,
+        635.721,
+        160.806,
+        648.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 补充水、电解质",
+      "bbox": [
+        353.02,
+        634.631,
+        446.86,
+        648.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 皮肤瘙痒",
+      "bbox": [
+        87.39,
+        651.101,
+        149.02,
+        664.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 纠正酸中毒",
+      "bbox": [
+        352.81,
+        651.161,
+        426.904,
+        664.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 大便颜色变浅",
+      "bbox": [
+        87.3,
+        666.861,
+        173.549,
+        680.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 吸氧",
+      "bbox": [
+        352.6,
+        667.591,
+        390.965,
+        680.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 血清胆固醇升高",
+      "bbox": [
+        87.74,
+        682.792,
+        184.978,
+        695.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 口服氨茶碱",
+      "bbox": [
+        352.89,
+        683.161,
+        427.771,
+        696.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "3. 阵发性室上性心动过速的心电图诊断，",
+      "bbox": [
+        87.78,
+        697.632,
+        299.33,
+        709.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "6. 诊断肺心病的主要依据是（）",
+      "bbox": [
+        352.86,
+        697.831,
+        541.576,
+        711.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "下列哪项不正确（）",
+      "bbox": [
+        63.86,
+        713.691,
+        182.753,
+        727.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 长期肺结核病",
+      "bbox": [
+        353.02,
+        714.221,
+        441.382,
+        727.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 心室率150～250次/分",
+      "bbox": [
+        87.91,
+        729.811,
+        223.445,
+        743.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 长期慢性支气管炎",
+      "bbox": [
+        352.86,
+        730.241,
+        464.841,
+        743.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 节律一般规则，但亦可有不规则",
+      "bbox": [
+        87.92,
+        744.791,
+        264.99,
+        758.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 肺动脉高压及右心室肥大",
+      "bbox": [
+        352.97,
+        745.191,
+        502.093,
+        758.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. QRS波群形态可不正常",
+      "bbox": [
+        87.9,
+        761.251,
+        223.427,
+        774.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 肺动脉狭窄",
+      "bbox": [
+        352.72,
+        762.181,
+        427.676,
+        775.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 可见到逆行P波",
+      "bbox": [
+        88.03,
+        776.231,
+        188.16,
+        789.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 两下肢浮肿",
+      "bbox": [
+        352.96,
+        777.591,
+        427.318,
+        790.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 起始及终止突然",
+      "bbox": [
+        88.28,
+        791.331,
+        185.3,
+        804.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "7. 伴痛风的高血压病患者，应禁用的降压",
+      "bbox": [
+        353.19,
+        792.491,
+        573.44,
+        806.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "—",
+      "bbox": [
+        287.02,
+        813.779,
+        297.74,
+        824.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "106—",
+      "bbox": [
+        306.85,
+        813.883,
+        345.08,
+        824.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

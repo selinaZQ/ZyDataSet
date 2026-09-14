@@ -1,0 +1,1038 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 10,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试。中医执业医师",
+      "bbox": [
+        59.39,
+        49.171,
+        257.15,
+        60.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 苓桂术甘汤",
+      "bbox": [
+        80.43,
+        78.149,
+        151.084,
+        89.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "黄而干，脉数，其证候是（）",
+      "bbox": [
+        315.07,
+        78.279,
+        468.42,
+        89.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "112. 患儿，3岁。自汗明显，伴盗汗，汗出",
+      "bbox": [
+        80.6,
+        94.359,
+        289.236,
+        105.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 心阴虚证",
+      "bbox": [
+        338.94,
+        93.779,
+        400.345,
+        104.839
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "以头部、肩背明显，动则益甚。面色少华，少气",
+      "bbox": [
+        57.42,
+        110.409,
+        290.1,
+        121.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 气血两虚证",
+      "bbox": [
+        338.92,
+        109.71,
+        410.606,
+        120.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "乏力，平时容易感冒，舌淡苔少，脉细弱，其证",
+      "bbox": [
+        56.19,
+        126.269,
+        290.411,
+        137.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 肝火上炎证",
+      "bbox": [
+        338.79,
+        125.879,
+        411.034,
+        136.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "候是（）",
+      "bbox": [
+        55.87,
+        142.699,
+        112.343,
+        153.799
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 心血虚证",
+      "bbox": [
+        338.75,
+        142.14,
+        399.8,
+        153.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 表虚不固",
+      "bbox": [
+        79.21,
+        158.689,
+        139.219,
+        169.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 心火亢盛证",
+      "bbox": [
+        338.91,
+        158.35,
+        411.388,
+        169.38
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 营卫不和",
+      "bbox": [
+        78.73,
+        174.779,
+        137.49,
+        185.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "117. 患者恶寒发热，无汗，头痛，身痛，喘",
+      "bbox": [
+        339.36,
+        174.58,
+        549.724,
+        185.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 气阴虚弱",
+      "bbox": [
+        78.45,
+        191.019,
+        137.475,
+        202.089
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "咳，其证候是（）",
+      "bbox": [
+        315.82,
+        191.4,
+        414.78,
+        202.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 心脾两虚",
+      "bbox": [
+        78.4,
+        207.72,
+        138.513,
+        218.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 湿淫",
+      "bbox": [
+        339.05,
+        207.42,
+        376.328,
+        218.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 肝肾阴虚",
+      "bbox": [
+        78.33,
+        223.849,
+        137.975,
+        234.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 暑淫",
+      "bbox": [
+        338.95,
+        224.13,
+        374.39,
+        235.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "113. 患者口淡乏味，常提示的是（）",
+      "bbox": [
+        78.6,
+        240.279,
+        272.736,
+        251.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 寒淫",
+      "bbox": [
+        338.95,
+        240.44,
+        374.753,
+        251.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 痰热内盛",
+      "bbox": [
+        78.36,
+        256.439,
+        139.466,
+        267.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 风淫",
+      "bbox": [
+        338.88,
+        257.01,
+        375.389,
+        268.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 湿热蕴脾",
+      "bbox": [
+        78.24,
+        272.649,
+        137.512,
+        283.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 燥淫",
+      "bbox": [
+        339.01,
+        273.22,
+        374.903,
+        284.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 肝胃郁热",
+      "bbox": [
+        78.08,
+        289.019,
+        137.912,
+        300.099
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "118. 患儿,22天。面目皮肤发黄20天。",
+      "bbox": [
+        339.38,
+        289.149,
+        556.03,
+        300.57
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 脾胃虚弱",
+      "bbox": [
+        78.13,
+        305.659,
+        137.973,
+        316.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "色泽鲜明如橘皮。精神疲倦，不欲吮乳。尿黄",
+      "bbox": [
+        315.4,
+        305.519,
+        549.63,
+        316.589
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 食滞胃脘",
+      "bbox": [
+        78.03,
+        321.959,
+        138.039,
+        333.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "便秘，舌红苔黄，其证候是（）",
+      "bbox": [
+        314.98,
+        322.02,
+        480.92,
+        333.08
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "114. 患者腹部痞胀，纳呆呕恶，肢体困重。",
+      "bbox": [
+        78.43,
+        338.29,
+        289.923,
+        349.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 肝失疏泄",
+      "bbox": [
+        339.09,
+        338.21,
+        400.634,
+        349.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "身热起伏。汗出热不解，尿黄便溏，其舌象应",
+      "bbox": [
+        54.74,
+        354.449,
+        290.445,
+        365.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 气滞血瘀",
+      "bbox": [
+        338.99,
+        354.61,
+        399.102,
+        365.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "是（）",
+      "bbox": [
+        54.33,
+        370.719,
+        99.893,
+        381.799
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 寒湿阻滞",
+      "bbox": [
+        339.12,
+        370.65,
+        399.133,
+        381.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 舌红苔黄腻",
+      "bbox": [
+        78.06,
+        386.829,
+        151.841,
+        397.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 湿热熏蒸",
+      "bbox": [
+        339.08,
+        387.02,
+        399.899,
+        398.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 舌红苔黄糙",
+      "bbox": [
+        77.94,
+        403.249,
+        150.202,
+        414.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 胆道不利",
+      "bbox": [
+        339.26,
+        403.209,
+        398.797,
+        414.26
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 舌绛苔少而干",
+      "bbox": [
+        78.06,
+        419.489,
+        162.192,
+        430.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "119. 患者寒邪客于脘腹，脘腹痛甚，拒按，",
+      "bbox": [
+        339.62,
+        419.459,
+        549.238,
+        430.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 舌绛苔少而润",
+      "bbox": [
+        77.83,
+        435.619,
+        162.273,
+        446.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "舌苔白厚，其脉象应是（）",
+      "bbox": [
+        315.3,
+        435.65,
+        463.006,
+        446.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 舌红苔白而干",
+      "bbox": [
+        77.93,
+        451.91,
+        162.153,
+        462.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 结代",
+      "bbox": [
+        339.3,
+        451.81,
+        376.644,
+        462.8
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "115. 患者，男，40岁。素有高血压病病史，",
+      "bbox": [
+        78.36,
+        468.429,
+        289.735,
+        479.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 滑数",
+      "bbox": [
+        339.31,
+        467.98,
+        375.081,
+        479.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "现眩晕耳鸣，面红头胀，腰膝酸软，失眠多梦，",
+      "bbox": [
+        54.13,
+        484.819,
+        289.7,
+        495.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 弦紧",
+      "bbox": [
+        339.23,
+        484.55,
+        375.387,
+        495.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "时有遗精或性欲亢进，舌红，脉沉弦细，其病机",
+      "bbox": [
+        54.66,
+        501.23,
+        290.695,
+        512.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 细涩",
+      "bbox": [
+        339.27,
+        500.9,
+        375.997,
+        511.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "是（）",
+      "bbox": [
+        54.18,
+        517.87,
+        99.78,
+        528.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 迟弱",
+      "bbox": [
+        339.45,
+        517.21,
+        374.807,
+        528.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 阴虚内热",
+      "bbox": [
+        77.79,
+        534.07,
+        139.04,
+        545.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "120. 患者心烦不得卧，口燥咽干，舌尖红，",
+      "bbox": [
+        339.81,
+        533.43,
+        548.474,
+        544.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 阴损及阳",
+      "bbox": [
+        77.88,
+        550.44,
+        136.701,
+        561.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "脉细数，其诊断是（）",
+      "bbox": [
+        315.58,
+        550.08,
+        439.31,
+        561.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 阴虚阳亢",
+      "bbox": [
+        78.0,
+        566.91,
+        137.253,
+        577.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 太阴病证",
+      "bbox": [
+        339.52,
+        566.311,
+        401.371,
+        577.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 阳损及阴",
+      "bbox": [
+        77.74,
+        583.31,
+        137.5,
+        594.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 厥阴病证",
+      "bbox": [
+        339.4,
+        582.62,
+        399.735,
+        593.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 阴虚火旺",
+      "bbox": [
+        77.86,
+        599.759,
+        137.451,
+        610.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 少阳病证",
+      "bbox": [
+        339.5,
+        599.01,
+        400.066,
+        609.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "116. 患者，男，19岁。因考试过劳紧张，近",
+      "bbox": [
+        78.43,
+        615.73,
+        290.553,
+        626.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 少阴热化证",
+      "bbox": [
+        339.44,
+        615.43,
+        412.48,
+        626.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "一周来心情烦躁，入夜难眠，咽干欲饮，舌红苔",
+      "bbox": [
+        54.0,
+        632.139,
+        290.447,
+        643.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 少阴寒化证",
+      "bbox": [
+        339.76,
+        631.92,
+        412.238,
+        642.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        234.1,
+        665.11,
+        371.071,
+        676.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        78.67,
+        743.88,
+        221.801,
+        754.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 燥化",
+      "bbox": [
+        339.74,
+        743.27,
+        376.062,
+        754.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 寒化",
+      "bbox": [
+        78.06,
+        760.18,
+        115.199,
+        771.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 湿化",
+      "bbox": [
+        339.48,
+        759.75,
+        376.559,
+        770.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 热化",
+      "bbox": [
+        77.95,
+        776.63,
+        113.82,
+        787.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 火化",
+      "bbox": [
+        339.62,
+        775.48,
+        376.041,
+        786.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "152—",
+      "bbox": [
+        294.85,
+        800.632,
+        330.53,
+        811.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

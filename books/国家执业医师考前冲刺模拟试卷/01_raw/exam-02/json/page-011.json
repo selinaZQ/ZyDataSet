@@ -1,0 +1,1355 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 11,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1448.0,
+        54.0,
+        1861.0,
+        91.0
+      ],
+      "confidence": 0.968554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 上肢外侧中线",
+      "bbox": [
+        218.0,
+        167.0,
+        527.0,
+        213.0
+      ],
+      "confidence": 0.998078,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 远志",
+      "bbox": [
+        1145.0,
+        163.0,
+        1290.0,
+        217.0
+      ],
+      "confidence": 0.998448,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 上肢内侧后缘",
+      "bbox": [
+        218.0,
+        225.0,
+        527.0,
+        272.0
+      ],
+      "confidence": 0.998393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 琥珀",
+      "bbox": [
+        1145.0,
+        222.0,
+        1291.0,
+        275.0
+      ],
+      "confidence": 0.996946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "125. 患者疼痛沿膀胱经放散，其疼痛部位",
+      "bbox": [
+        218.0,
+        283.0,
+        983.0,
+        331.0
+      ],
+      "confidence": 0.984547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 磁石",
+      "bbox": [
+        1146.0,
+        283.0,
+        1288.0,
+        331.0
+      ],
+      "confidence": 0.998027,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "在（）",
+      "bbox": [
+        131.0,
+        337.0,
+        317.0,
+        393.0
+      ],
+      "confidence": 0.818758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "135. 既能活血消肿，又能解郁安神的药物",
+      "bbox": [
+        1151.0,
+        344.0,
+        1905.0,
+        385.0
+      ],
+      "confidence": 0.992363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "126. 患者病发心绞痛，沿手少阴经放散，",
+      "bbox": [
+        219.0,
+        401.0,
+        983.0,
+        446.0
+      ],
+      "confidence": 0.992202,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "是（）",
+      "bbox": [
+        1059.0,
+        392.0,
+        1247.0,
+        452.0
+      ],
+      "confidence": 0.777853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "其疼痛部位在（）",
+      "bbox": [
+        134.0,
+        456.0,
+        526.0,
+        508.0
+      ],
+      "confidence": 0.882259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "136. 既能活血散瘀，又能镇惊安神的药物",
+      "bbox": [
+        1149.0,
+        457.0,
+        1908.0,
+        503.0
+      ],
+      "confidence": 0.991517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        219.0,
+        515.0,
+        742.0,
+        564.0
+      ],
+      "confidence": 0.941338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "是（）",
+      "bbox": [
+        1060.0,
+        510.0,
+        1246.0,
+        567.0
+      ],
+      "confidence": 0.704409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 怒则气上",
+      "bbox": [
+        219.0,
+        576.0,
+        443.0,
+        623.0
+      ],
+      "confidence": 0.997646,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "（137～138题共用备选答案）",
+      "bbox": [
+        1152.0,
+        575.0,
+        1666.0,
+        616.0
+      ],
+      "confidence": 0.931357,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 悲则气消",
+      "bbox": [
+        215.0,
+        630.0,
+        439.0,
+        684.0
+      ],
+      "confidence": 0.985035,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 食积便秘",
+      "bbox": [
+        1149.0,
+        629.0,
+        1377.0,
+        679.0
+      ],
+      "confidence": 0.996399,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 喜则气缓",
+      "bbox": [
+        217.0,
+        690.0,
+        440.0,
+        741.0
+      ],
+      "confidence": 0.99826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 血虚便秘",
+      "bbox": [
+        1148.0,
+        690.0,
+        1369.0,
+        736.0
+      ],
+      "confidence": 0.997603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 思则气结",
+      "bbox": [
+        216.0,
+        748.0,
+        441.0,
+        798.0
+      ],
+      "confidence": 0.996431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 气虚便秘",
+      "bbox": [
+        1146.0,
+        744.0,
+        1372.0,
+        794.0
+      ],
+      "confidence": 0.997954,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 恐则气下",
+      "bbox": [
+        216.0,
+        805.0,
+        439.0,
+        854.0
+      ],
+      "confidence": 0.998449,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 脾约便秘",
+      "bbox": [
+        1146.0,
+        803.0,
+        1374.0,
+        853.0
+      ],
+      "confidence": 0.996414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "127. 患者因受精神刺激而致食减纳呆，便",
+      "bbox": [
+        219.0,
+        866.0,
+        981.0,
+        911.0
+      ],
+      "confidence": 0.994045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 冷积便秘",
+      "bbox": [
+        1148.0,
+        863.0,
+        1370.0,
+        909.0
+      ],
+      "confidence": 0.997291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "溏、其病机是（）",
+      "bbox": [
+        135.0,
+        920.0,
+        506.0,
+        972.0
+      ],
+      "confidence": 0.888938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "137. 麻子仁丸主治的是（）",
+      "bbox": [
+        1147.0,
+        919.0,
+        1690.0,
+        966.0
+      ],
+      "confidence": 0.94626,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "7",
+      "bbox": [
+        1673.0,
+        923.0,
+        1708.0,
+        959.0
+      ],
+      "confidence": 0.494832,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "128. 患者因受精神刺激而气逆喘息，面红",
+      "bbox": [
+        216.0,
+        979.0,
+        981.0,
+        1027.0
+      ],
+      "confidence": 0.994146,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "138. 大黄附子汤主治的是（",
+      "bbox": [
+        1149.0,
+        977.0,
+        1649.0,
+        1025.0
+      ],
+      "confidence": 0.96202,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "）",
+      "bbox": [
+        1724.0,
+        986.0,
+        1743.0,
+        1015.0
+      ],
+      "confidence": 0.44179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "目赤，呕血，昏厥猝倒，其病机是（",
+      "bbox": [
+        140.0,
+        1037.0,
+        730.0,
+        1086.0
+      ],
+      "confidence": 0.950212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "）",
+      "bbox": [
+        808.0,
+        1042.0,
+        837.0,
+        1079.0
+      ],
+      "confidence": 0.987683,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "（139～140题共用备选答案）",
+      "bbox": [
+        1151.0,
+        1034.0,
+        1671.0,
+        1083.0
+      ],
+      "confidence": 0.967921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        218.0,
+        1095.0,
+        737.0,
+        1143.0
+      ],
+      "confidence": 0.949902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 枳实导滞丸",
+      "bbox": [
+        1149.0,
+        1095.0,
+        1420.0,
+        1142.0
+      ],
+      "confidence": 0.95157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 太子参",
+      "bbox": [
+        216.0,
+        1153.0,
+        401.0,
+        1204.0
+      ],
+      "confidence": 0.999157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 普济消毒饮",
+      "bbox": [
+        1148.0,
+        1154.0,
+        1412.0,
+        1200.0
+      ],
+      "confidence": 0.998823,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 西洋参",
+      "bbox": [
+        213.0,
+        1211.0,
+        395.0,
+        1262.0
+      ],
+      "confidence": 0.999454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 龙胆泻肝汤",
+      "bbox": [
+        1148.0,
+        1212.0,
+        1413.0,
+        1259.0
+      ],
+      "confidence": 0.998107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 甘草",
+      "bbox": [
+        213.0,
+        1270.0,
+        353.0,
+        1322.0
+      ],
+      "confidence": 0.999103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 芍药汤",
+      "bbox": [
+        1145.0,
+        1268.0,
+        1333.0,
+        1319.0
+      ],
+      "confidence": 0.998252,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 白术",
+      "bbox": [
+        213.0,
+        1327.0,
+        354.0,
+        1379.0
+      ],
+      "confidence": 0.995976,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 清营汤",
+      "bbox": [
+        1146.0,
+        1329.0,
+        1329.0,
+        1377.0
+      ],
+      "confidence": 0.998913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 山药",
+      "bbox": [
+        213.0,
+        1386.0,
+        352.0,
+        1435.0
+      ],
+      "confidence": 0.997873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "139. 组成药物中不含黄连的方剂是（",
+      "bbox": [
+        1150.0,
+        1390.0,
+        1780.0,
+        1432.0
+      ],
+      "confidence": 0.973024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "）",
+      "bbox": [
+        1855.0,
+        1396.0,
+        1877.0,
+        1429.0
+      ],
+      "confidence": 0.357182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "129. 被誉为“脾脏补气健脾第一要药”的",
+      "bbox": [
+        214.0,
+        1446.0,
+        977.0,
+        1492.0
+      ],
+      "confidence": 0.993948,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "140. 组成药物中不含黄芩的方剂是（",
+      "bbox": [
+        1151.0,
+        1450.0,
+        1780.0,
+        1490.0
+      ],
+      "confidence": 0.977062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "）",
+      "bbox": [
+        1854.0,
+        1453.0,
+        1878.0,
+        1486.0
+      ],
+      "confidence": 0.986048,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "药物是（）",
+      "bbox": [
+        130.0,
+        1503.0,
+        392.0,
+        1553.0
+      ],
+      "confidence": 0.912568,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "（141～142题共用备选答案）",
+      "bbox": [
+        1154.0,
+        1510.0,
+        1671.0,
+        1547.0
+      ],
+      "confidence": 0.938908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "130. 能“助参芪成气虚之功”的药物是",
+      "bbox": [
+        214.0,
+        1563.0,
+        978.0,
+        1609.0
+      ],
+      "confidence": 0.989718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 银翘散",
+      "bbox": [
+        1149.0,
+        1564.0,
+        1335.0,
+        1611.0
+      ],
+      "confidence": 0.998187,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "（",
+      "bbox": [
+        133.0,
+        1624.0,
+        162.0,
+        1667.0
+      ],
+      "confidence": 0.563474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "）",
+      "bbox": [
+        228.0,
+        1623.0,
+        266.0,
+        1667.0
+      ],
+      "confidence": 0.967997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 桑菊饮",
+      "bbox": [
+        1146.0,
+        1622.0,
+        1329.0,
+        1669.0
+      ],
+      "confidence": 0.996164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        218.0,
+        1680.0,
+        733.0,
+        1725.0
+      ],
+      "confidence": 0.93012,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 麻杏石甘汤",
+      "bbox": [
+        1149.0,
+        1683.0,
+        1412.0,
+        1725.0
+      ],
+      "confidence": 0.999032,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 连翘",
+      "bbox": [
+        212.0,
+        1735.0,
+        358.0,
+        1787.0
+      ],
+      "confidence": 0.994946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 白虎汤",
+      "bbox": [
+        1146.0,
+        1736.0,
+        1333.0,
+        1787.0
+      ],
+      "confidence": 0.997897,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 白头翁",
+      "bbox": [
+        212.0,
+        1795.0,
+        390.0,
+        1842.0
+      ],
+      "confidence": 0.997587,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 竹叶石膏汤",
+      "bbox": [
+        1149.0,
+        1799.0,
+        1413.0,
+        1842.0
+      ],
+      "confidence": 0.998313,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 土茯苓",
+      "bbox": [
+        212.0,
+        1852.0,
+        393.0,
+        1903.0
+      ],
+      "confidence": 0.996066,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "141. 吴塘称作辛凉轻剂的是（",
+      "bbox": [
+        1150.0,
+        1858.0,
+        1687.0,
+        1899.0
+      ],
+      "confidence": 0.966255,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "）",
+      "bbox": [
+        1764.0,
+        1860.0,
+        1788.0,
+        1897.0
+      ],
+      "confidence": 0.735747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 蒲公英",
+      "bbox": [
+        212.0,
+        1910.0,
+        396.0,
+        1962.0
+      ],
+      "confidence": 0.997805,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "142. 吴塘称作辛凉重剂的是（",
+      "bbox": [
+        1151.0,
+        1916.0,
+        1685.0,
+        1958.0
+      ],
+      "confidence": 0.938412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "）",
+      "bbox": [
+        1764.0,
+        1920.0,
+        1788.0,
+        1953.0
+      ],
+      "confidence": 0.991105,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 板蓝根",
+      "bbox": [
+        211.0,
+        1970.0,
+        391.0,
+        2018.0
+      ],
+      "confidence": 0.996423,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "（143～144题共用备选答案）",
+      "bbox": [
+        1152.0,
+        1975.0,
+        1673.0,
+        2016.0
+      ],
+      "confidence": 0.935362,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "131. 被誉为“治痢要药”的药物是（",
+      "bbox": [
+        214.0,
+        2031.0,
+        833.0,
+        2072.0
+      ],
+      "confidence": 0.962461,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "）",
+      "bbox": [
+        916.0,
+        2033.0,
+        943.0,
+        2074.0
+      ],
+      "confidence": 0.235053,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 滑苔",
+      "bbox": [
+        1148.0,
+        2030.0,
+        1292.0,
+        2078.0
+      ],
+      "confidence": 0.998301,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "132. 被誉为“疮家圣药”的药物是（",
+      "bbox": [
+        214.0,
+        2086.0,
+        836.0,
+        2133.0
+      ],
+      "confidence": 0.97239,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "）",
+      "bbox": [
+        915.0,
+        2091.0,
+        944.0,
+        2130.0
+      ],
+      "confidence": 0.958718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 燥苔",
+      "bbox": [
+        1145.0,
+        2086.0,
+        1288.0,
+        2138.0
+      ],
+      "confidence": 0.99801,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "（133～134题共用备选答案）",
+      "bbox": [
+        218.0,
+        2147.0,
+        737.0,
+        2188.0
+      ],
+      "confidence": 0.925962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 脓腐苔",
+      "bbox": [
+        1146.0,
+        2144.0,
+        1331.0,
+        2195.0
+      ],
+      "confidence": 0.998983,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 化湿和胃",
+      "bbox": [
+        213.0,
+        2203.0,
+        437.0,
+        2249.0
+      ],
+      "confidence": 0.998166,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 白腻苔",
+      "bbox": [
+        1146.0,
+        2203.0,
+        1333.0,
+        2254.0
+      ],
+      "confidence": 0.998004,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 凉血消肿",
+      "bbox": [
+        213.0,
+        2259.0,
+        436.0,
+        2309.0
+      ],
+      "confidence": 0.997708,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 花剥苔",
+      "bbox": [
+        1148.0,
+        2262.0,
+        1330.0,
+        2310.0
+      ],
+      "confidence": 0.99686,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 活血止痛",
+      "bbox": [
+        213.0,
+        2317.0,
+        436.0,
+        2367.0
+      ],
+      "confidence": 0.998978,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "143. 吐泻之后，舌苔为（",
+      "bbox": [
+        1150.0,
+        2322.0,
+        1664.0,
+        2364.0
+      ],
+      "confidence": 0.955275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 清热解毒",
+      "bbox": [
+        212.0,
+        2375.0,
+        437.0,
+        2424.0
+      ],
+      "confidence": 0.997528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "144. 内痈或邪毒内结，舌苔为（",
+      "bbox": [
+        1149.0,
+        2376.0,
+        1703.0,
+        2425.0
+      ],
+      "confidence": 0.96352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "）",
+      "bbox": [
+        1782.0,
+        2382.0,
+        1808.0,
+        2415.0
+      ],
+      "confidence": 0.993921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 清退虚热",
+      "bbox": [
+        213.0,
+        2433.0,
+        439.0,
+        2483.0
+      ],
+      "confidence": 0.997279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        1149.0,
+        2433.0,
+        1670.0,
+        2481.0
+      ],
+      "confidence": 0.941769,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "133. 豨签草具有的功效是（",
+      "bbox": [
+        216.0,
+        2493.0,
+        710.0,
+        2538.0
+      ],
+      "confidence": 0.935407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "）",
+      "bbox": [
+        788.0,
+        2498.0,
+        815.0,
+        2530.0
+      ],
+      "confidence": 0.989768,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "A. 茵陈鳖甲汤",
+      "bbox": [
+        1151.0,
+        2495.0,
+        1417.0,
+        2538.0
+      ],
+      "confidence": 0.978384,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "134. 络石藤具有的功效是（",
+      "bbox": [
+        216.0,
+        2549.0,
+        708.0,
+        2596.0
+      ],
+      "confidence": 0.967991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "B. 茵陈蒿汤",
+      "bbox": [
+        1148.0,
+        2549.0,
+        1370.0,
+        2599.0
+      ],
+      "confidence": 0.992893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "（135～136题共用备选答案）",
+      "bbox": [
+        217.0,
+        2606.0,
+        737.0,
+        2654.0
+      ],
+      "confidence": 0.938445,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "C. 半夏泻心汤",
+      "bbox": [
+        1146.0,
+        2605.0,
+        1412.0,
+        2657.0
+      ],
+      "confidence": 0.997989,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "A. 合欢皮",
+      "bbox": [
+        216.0,
+        2664.0,
+        403.0,
+        2716.0
+      ],
+      "confidence": 0.998542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "D. 四逆散",
+      "bbox": [
+        1145.0,
+        2662.0,
+        1333.0,
+        2716.0
+      ],
+      "confidence": 0.99903,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "B. 酸枣仁",
+      "bbox": [
+        212.0,
+        2719.0,
+        397.0,
+        2773.0
+      ],
+      "confidence": 0.999256,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "E. 蒿芩清胆汤",
+      "bbox": [
+        1149.0,
+        2723.0,
+        1412.0,
+        2769.0
+      ],
+      "confidence": 0.994002,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

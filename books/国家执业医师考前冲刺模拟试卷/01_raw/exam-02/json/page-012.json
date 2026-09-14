@@ -1,0 +1,1121 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 12,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        156.0,
+        106.0,
+        883.0,
+        146.0
+      ],
+      "confidence": 0.999196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "145. 清胆利湿、和胃化痰的方剂是（",
+      "bbox": [
+        238.0,
+        219.0,
+        887.0,
+        260.0
+      ],
+      "confidence": 0.983901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "）",
+      "bbox": [
+        970.0,
+        221.0,
+        995.0,
+        257.0
+      ],
+      "confidence": 0.965504,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        1185.0,
+        213.0,
+        1710.0,
+        258.0
+      ],
+      "confidence": 0.926765,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "146. 寒热平调、消痞散结的方剂是（",
+      "bbox": [
+        238.0,
+        277.0,
+        887.0,
+        318.0
+      ],
+      "confidence": 0.968739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "）",
+      "bbox": [
+        968.0,
+        277.0,
+        999.0,
+        317.0
+      ],
+      "confidence": 0.954777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 经济标准",
+      "bbox": [
+        1185.0,
+        274.0,
+        1411.0,
+        317.0
+      ],
+      "confidence": 0.998806,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        240.0,
+        336.0,
+        766.0,
+        374.0
+      ],
+      "confidence": 0.94052,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 疗效标准",
+      "bbox": [
+        1182.0,
+        329.0,
+        1408.0,
+        379.0
+      ],
+      "confidence": 0.99898,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 1:1",
+      "bbox": [
+        235.0,
+        391.0,
+        362.0,
+        435.0
+      ],
+      "confidence": 0.927077,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 社会标准",
+      "bbox": [
+        1182.0,
+        387.0,
+        1409.0,
+        437.0
+      ],
+      "confidence": 0.998358,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 2:1",
+      "bbox": [
+        231.0,
+        447.0,
+        357.0,
+        495.0
+      ],
+      "confidence": 0.9673,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 行为标准",
+      "bbox": [
+        1182.0,
+        445.0,
+        1412.0,
+        495.0
+      ],
+      "confidence": 0.998588,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 5:1",
+      "bbox": [
+        231.0,
+        506.0,
+        357.0,
+        553.0
+      ],
+      "confidence": 0.985113,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 科学标准",
+      "bbox": [
+        1183.0,
+        503.0,
+        1412.0,
+        553.0
+      ],
+      "confidence": 0.99929,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 6:1",
+      "bbox": [
+        231.0,
+        565.0,
+        357.0,
+        609.0
+      ],
+      "confidence": 0.991321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "149. 评价医务人员医疗行为善恶的出发",
+      "bbox": [
+        1184.0,
+        562.0,
+        1959.0,
+        608.0
+      ],
+      "confidence": 0.998788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 7:1",
+      "bbox": [
+        231.0,
+        624.0,
+        356.0,
+        668.0
+      ],
+      "confidence": 0.976819,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "点和根本标准是（）",
+      "bbox": [
+        1101.0,
+        618.0,
+        1540.0,
+        669.0
+      ],
+      "confidence": 0.934243,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "147. 竹叶石膏汤中麦门冬与半夏的用量",
+      "bbox": [
+        234.0,
+        683.0,
+        1010.0,
+        725.0
+      ],
+      "confidence": 0.997006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "150. 评价医疗行为是否有利于人类生存",
+      "bbox": [
+        1185.0,
+        677.0,
+        1959.0,
+        725.0
+      ],
+      "confidence": 0.999415,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "比例是（",
+      "bbox": [
+        149.0,
+        740.0,
+        325.0,
+        786.0
+      ],
+      "confidence": 0.963374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "）",
+      "bbox": [
+        374.0,
+        744.0,
+        408.0,
+        780.0
+      ],
+      "confidence": 0.993108,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "环境的保护和改善，是否有利于人类健康符",
+      "bbox": [
+        1100.0,
+        736.0,
+        1959.0,
+        783.0
+      ],
+      "confidence": 0.994062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "148. 麦门冬汤中麦门冬与半夏的比例是",
+      "bbox": [
+        233.0,
+        798.0,
+        1010.0,
+        843.0
+      ],
+      "confidence": 0.996694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "合（）",
+      "bbox": [
+        1094.0,
+        791.0,
+        1286.0,
+        850.0
+      ],
+      "confidence": 0.864237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "（",
+      "bbox": [
+        146.0,
+        859.0,
+        182.0,
+        902.0
+      ],
+      "confidence": 0.707972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "）",
+      "bbox": [
+        244.0,
+        859.0,
+        283.0,
+        902.0
+      ],
+      "confidence": 0.98809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "第二单元",
+      "bbox": [
+        923.0,
+        1060.0,
+        1192.0,
+        1137.0
+      ],
+      "confidence": 0.999678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "A1 型选择题（1～76题）",
+      "bbox": [
+        836.0,
+        1240.0,
+        1282.0,
+        1285.0
+      ],
+      "confidence": 0.970091,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "答题说明:每一道考试题下面有A、B、C,D、E五个备选答案，请从中选择一个最佳答案，并",
+      "bbox": [
+        250.0,
+        1335.0,
+        1942.0,
+        1386.0
+      ],
+      "confidence": 0.93796,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        171.0,
+        1401.0,
+        1141.0,
+        1443.0
+      ],
+      "confidence": 0.998397,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "1. 正常人两上肢血压的差别一般是",
+      "bbox": [
+        241.0,
+        1495.0,
+        1014.0,
+        1542.0
+      ],
+      "confidence": 0.993219,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 肺源性心脏病",
+      "bbox": [
+        1183.0,
+        1492.0,
+        1498.0,
+        1541.0
+      ],
+      "confidence": 0.999669,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "（",
+      "bbox": [
+        145.0,
+        1558.0,
+        174.0,
+        1598.0
+      ],
+      "confidence": 0.763341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "）",
+      "bbox": [
+        236.0,
+        1553.0,
+        290.0,
+        1603.0
+      ],
+      "confidence": 0.97053,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 左侧心力衰竭",
+      "bbox": [
+        1184.0,
+        1552.0,
+        1500.0,
+        1601.0
+      ],
+      "confidence": 0.997726,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 5～10mmHg",
+      "bbox": [
+        230.0,
+        1613.0,
+        531.0,
+        1663.0
+      ],
+      "confidence": 0.981338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 高度房室传导阻滞",
+      "bbox": [
+        1184.0,
+        1612.0,
+        1587.0,
+        1659.0
+      ],
+      "confidence": 0.996742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 11～15mmHg",
+      "bbox": [
+        229.0,
+        1673.0,
+        546.0,
+        1719.0
+      ],
+      "confidence": 0.976738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 肺动脉瓣狭窄",
+      "bbox": [
+        1185.0,
+        1672.0,
+        1500.0,
+        1717.0
+      ],
+      "confidence": 0.99793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 16～20mmHg",
+      "bbox": [
+        229.0,
+        1734.0,
+        547.0,
+        1780.0
+      ],
+      "confidence": 0.979589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "5. 腹壁强直，硬如木板，多见于（",
+      "bbox": [
+        1184.0,
+        1730.0,
+        1788.0,
+        1778.0
+      ],
+      "confidence": 0.958556,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "）",
+      "bbox": [
+        1858.0,
+        1739.0,
+        1877.0,
+        1767.0
+      ],
+      "confidence": 0.99013,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 21～25mmHg",
+      "bbox": [
+        229.0,
+        1792.0,
+        548.0,
+        1837.0
+      ],
+      "confidence": 0.973495,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 大量腹水",
+      "bbox": [
+        1186.0,
+        1791.0,
+        1417.0,
+        1837.0
+      ],
+      "confidence": 0.999195,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 26～30mmHg",
+      "bbox": [
+        229.0,
+        1852.0,
+        546.0,
+        1897.0
+      ],
+      "confidence": 0.987941,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 急性胆囊炎",
+      "bbox": [
+        1183.0,
+        1846.0,
+        1455.0,
+        1898.0
+      ],
+      "confidence": 0.999046,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "2. 混合性呼吸困难可见于（",
+      "bbox": [
+        230.0,
+        1910.0,
+        737.0,
+        1955.0
+      ],
+      "confidence": 0.984354,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        815.0,
+        1913.0,
+        844.0,
+        1952.0
+      ],
+      "confidence": 0.985395,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 阑尾炎",
+      "bbox": [
+        1184.0,
+        1905.0,
+        1370.0,
+        1957.0
+      ],
+      "confidence": 0.987401,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 喉癌",
+      "bbox": [
+        228.0,
+        1965.0,
+        378.0,
+        2018.0
+      ],
+      "confidence": 0.886149,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 肠痉挛",
+      "bbox": [
+        1184.0,
+        1965.0,
+        1372.0,
+        2013.0
+      ],
+      "confidence": 0.999062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 喉痉挛",
+      "bbox": [
+        229.0,
+        2026.0,
+        413.0,
+        2074.0
+      ],
+      "confidence": 0.997777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 急性胃肠穿孔",
+      "bbox": [
+        1184.0,
+        2022.0,
+        1498.0,
+        2071.0
+      ],
+      "confidence": 0.998885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 气胸",
+      "bbox": [
+        228.0,
+        2081.0,
+        374.0,
+        2135.0
+      ],
+      "confidence": 0.996846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "6. 甲亢危象的治疗，下列哪组最理想",
+      "bbox": [
+        1185.0,
+        2082.0,
+        1960.0,
+        2130.0
+      ],
+      "confidence": 0.995773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 脑出血",
+      "bbox": [
+        230.0,
+        2144.0,
+        418.0,
+        2192.0
+      ],
+      "confidence": 0.997373,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "（",
+      "bbox": [
+        1099.0,
+        2147.0,
+        1128.0,
+        2187.0
+      ],
+      "confidence": 0.657771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "）",
+      "bbox": [
+        1193.0,
+        2142.0,
+        1240.0,
+        2188.0
+      ],
+      "confidence": 0.98522,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 肺气肿",
+      "bbox": [
+        230.0,
+        2203.0,
+        415.0,
+        2250.0
+      ],
+      "confidence": 0.997785,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 丙硫氧嘧啶+碘剂+普萘洛尔+泼",
+      "bbox": [
+        1186.0,
+        2200.0,
+        1960.0,
+        2245.0
+      ],
+      "confidence": 0.895026,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "3. 血清总胆红素增高，以非结合胆红素为",
+      "bbox": [
+        234.0,
+        2264.0,
+        1011.0,
+        2309.0
+      ],
+      "confidence": 0.996197,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "尼松",
+      "bbox": [
+        1094.0,
+        2256.0,
+        1193.0,
+        2312.0
+      ],
+      "confidence": 0.999074,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "主，粪便颜色加深，常提示（",
+      "bbox": [
+        151.0,
+        2318.0,
+        652.0,
+        2367.0
+      ],
+      "confidence": 0.947238,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 丙硫氧嘧啶＋泼尼松",
+      "bbox": [
+        1182.0,
+        2315.0,
+        1628.0,
+        2364.0
+      ],
+      "confidence": 0.950437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "）",
+      "bbox": [
+        728.0,
+        2327.0,
+        755.0,
+        2359.0
+      ],
+      "confidence": 0.994879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 溶血性黄疸",
+      "bbox": [
+        235.0,
+        2376.0,
+        511.0,
+        2428.0
+      ],
+      "confidence": 0.981059,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 甲巯咪唑+普萘洛尔+泼尼松",
+      "bbox": [
+        1183.0,
+        2371.0,
+        1801.0,
+        2423.0
+      ],
+      "confidence": 0.920623,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 肝细胞性黄疸",
+      "bbox": [
+        231.0,
+        2434.0,
+        550.0,
+        2487.0
+      ],
+      "confidence": 0.993613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 丙硫氧嘧啶+普萘洛尔+甲巯咪唑",
+      "bbox": [
+        1182.0,
+        2431.0,
+        1887.0,
+        2482.0
+      ],
+      "confidence": 0.931825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 胆汁淤积性黄疸",
+      "bbox": [
+        235.0,
+        2495.0,
+        591.0,
+        2541.0
+      ],
+      "confidence": 0.982114,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 碘剂+甲巯咪唑",
+      "bbox": [
+        1183.0,
+        2491.0,
+        1540.0,
+        2538.0
+      ],
+      "confidence": 0.930392,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "D. Rotor综合征",
+      "bbox": [
+        234.0,
+        2554.0,
+        540.0,
+        2600.0
+      ],
+      "confidence": 0.997685,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "7. 支气管哮喘呼吸困难的类型是（",
+      "bbox": [
+        1185.0,
+        2552.0,
+        1817.0,
+        2597.0
+      ],
+      "confidence": 0.97847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "）",
+      "bbox": [
+        1895.0,
+        2557.0,
+        1920.0,
+        2593.0
+      ],
+      "confidence": 0.984525,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 核黄疸",
+      "bbox": [
+        233.0,
+        2613.0,
+        423.0,
+        2660.0
+      ],
+      "confidence": 0.990791,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 吸气性",
+      "bbox": [
+        1184.0,
+        2608.0,
+        1370.0,
+        2656.0
+      ],
+      "confidence": 0.998782,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 呼气性",
+      "bbox": [
+        1180.0,
+        2662.0,
+        1367.0,
+        2716.0
+      ],
+      "confidence": 0.999204,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "4. 下列各项最常出现心尖部舒张早期奔",
+      "bbox": [
+        233.0,
+        2671.0,
+        1014.0,
+        2718.0
+      ],
+      "confidence": 0.99785,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "马律的是（）",
+      "bbox": [
+        141.0,
+        2726.0,
+        464.0,
+        2780.0
+      ],
+      "confidence": 0.880292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 混合性",
+      "bbox": [
+        1183.0,
+        2722.0,
+        1367.0,
+        2773.0
+      ],
+      "confidence": 0.997534,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 阵发性",
+      "bbox": [
+        1180.0,
+        2781.0,
+        1367.0,
+        2834.0
+      ],
+      "confidence": 0.995128,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 心包炎",
+      "bbox": [
+        229.0,
+        2789.0,
+        422.0,
+        2839.0
+      ],
+      "confidence": 0.995609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "58",
+      "bbox": [
+        1028.0,
+        2861.0,
+        1082.0,
+        2900.0
+      ],
+      "confidence": 0.994401,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

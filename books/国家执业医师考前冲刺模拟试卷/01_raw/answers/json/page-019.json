@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 19,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        319.46,
+        41.101,
+        531.875,
+        51.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "关疏风清热。咽喉肿痛肺胃实热者，加内庭、鱼际清泻",
+      "bbox": [
+        46.75,
+        71.395,
+        282.398,
+        80.895
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "13. E【解析】ABCD项都可以成为癌症肿块的特",
+      "bbox": [
+        328.53,
+        71.206,
+        544.39,
+        81.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "肺胃之实热。",
+      "bbox": [
+        46.43,
+        86.795,
+        103.37,
+        96.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "征，而表面光滑很明显不属于癌性肿块的特性。",
+      "bbox": [
+        307.43,
+        85.905,
+        511.603,
+        95.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "14. A【解析】外科疾病致病因素。外科疾病致",
+      "bbox": [
+        328.58,
+        100.426,
+        544.589,
+        110.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "病因素有外感六淫，内伤七情，饮食不节，外来伤害，劳",
+      "bbox": [
+        307.36,
+        115.265,
+        545.11,
+        124.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "第四单元",
+      "bbox": [
+        129.72,
+        125.983,
+        198.511,
+        141.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "伤虚损，感受特殊之毒，痰饮瘀血。",
+      "bbox": [
+        307.38,
+        129.845,
+        459.06,
+        139.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "15. B【解析】根据临床特征辨证为湿热下注，所",
+      "bbox": [
+        328.49,
+        144.546,
+        544.807,
+        154.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "以选萆薢渗湿汤。",
+      "bbox": [
+        308.08,
+        159.456,
+        383.6,
+        170.076
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "1. B【解析】血栓性浅静脉炎因湿邪为患，与热搏",
+      "bbox": [
+        67.06,
+        171.736,
+        282.39,
+        181.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "16. D【解析】此为肝郁痰凝，阻隔经络所致，故治",
+      "bbox": [
+        328.4,
+        174.446,
+        544.716,
+        184.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "结致使气血不畅形成。",
+      "bbox": [
+        46.05,
+        186.855,
+        141.462,
+        196.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "法宜疏肝解郁，化痰散结，故选D。A项散结效果好，",
+      "bbox": [
+        307.2,
+        189.195,
+        544.339,
+        198.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "2. E【解析】A项为部位命名，B项为脏腑命名，C",
+      "bbox": [
+        66.55,
+        201.606,
+        283.319,
+        211.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "但是不能化痰；B项只是疏肝，不能散结；C项化痰和",
+      "bbox": [
+        307.21,
+        204.175,
+        544.803,
+        213.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "项为病因命名，D项为颜色命名，E项为疾病特性命",
+      "bbox": [
+        45.84,
+        216.595,
+        282.599,
+        226.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "散结效果都不好。E项化痰效果好，但是不能散结。",
+      "bbox": [
+        307.35,
+        219.155,
+        531.124,
+        228.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "名,故选E。",
+      "bbox": [
+        46.04,
+        231.626,
+        95.915,
+        241.056
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "17. A【解析】脱疽是寒邪侵袭或元阳不足，导致",
+      "bbox": [
+        328.32,
+        234.056,
+        544.96,
+        244.074
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "3. C【解析】痈包括颈痈、腋痈、脐痈、委中毒。臀",
+      "bbox": [
+        66.29,
+        246.436,
+        283.72,
+        256.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "四肢末端经脉闭塞，气血运行受阻，不能濡养四末引起",
+      "bbox": [
+        308.16,
+        249.116,
+        545.142,
+        258.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "痈和锁喉痈属于发。",
+      "bbox": [
+        45.92,
+        261.415,
+        131.33,
+        270.905
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "的，故治疗以温阳通脉，活血化瘀为原则。",
+      "bbox": [
+        307.91,
+        264.175,
+        487.84,
+        273.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "4. B【解析】按触法、穿刺法、点压法、透光法属于",
+      "bbox": [
+        66.19,
+        276.556,
+        284.03,
+        286.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "18. C【解析】初期：颈部或耳之前后肿块，形如粟",
+      "bbox": [
+        328.19,
+        278.935,
+        545.102,
+        289.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "辨脓的方法，而推拿法则属于禁忌证。",
+      "bbox": [
+        46.0,
+        291.705,
+        208.525,
+        301.185
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "子，顶突根深，按之坚硬，推之不移，皮色不变，局部无",
+      "bbox": [
+        307.45,
+        294.165,
+        545.156,
+        303.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "5. B【解析】白降丹，适用于溃疡疮口太小，脓腐",
+      "bbox": [
+        66.24,
+        306.456,
+        282.569,
+        316.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "热及疼痛，全身无明显不适，为肝郁痰凝，阻隔经络所",
+      "bbox": [
+        307.51,
+        308.915,
+        545.092,
+        318.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "难去，用桑皮纸或丝绵纸做成裹药，插入疮口，使疮口",
+      "bbox": [
+        45.96,
+        321.505,
+        281.608,
+        331.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "致，故治法宜疏肝解郁，化痰散结，其他都是气血亏虚",
+      "bbox": [
+        307.37,
+        323.925,
+        544.984,
+        333.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "开大，脓腐易出。",
+      "bbox": [
+        46.05,
+        336.575,
+        121.97,
+        346.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "的中后期治法。",
+      "bbox": [
+        308.02,
+        338.895,
+        374.38,
+        348.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "6. E【解析】溺是将饱含药液的纱布或棉絮湿敷",
+      "bbox": [
+        66.41,
+        351.096,
+        282.832,
+        361.134
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "19. C【解析】砭镰法适用于急性阳证疮疡，如下",
+      "bbox": [
+        328.26,
+        353.565,
+        544.997,
+        363.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "患处，渍是将患处浸泡在药液中。溺渍法是通过湿敷、",
+      "bbox": [
+        46.27,
+        366.405,
+        282.73,
+        375.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "肢丹毒、红丝疔及疖、疮、痈肿初期、外伤瘀血肿痛、痔",
+      "bbox": [
+        307.45,
+        368.275,
+        545.36,
+        377.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "淋洗、浸泡对患处的物理作用，以及不同药物对患部的",
+      "bbox": [
+        46.13,
+        380.985,
+        282.558,
+        390.455
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "疮肿痛等。",
+      "bbox": [
+        307.36,
+        383.285,
+        354.66,
+        392.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "药效作用，从而达到治疗目的的一种方法。溺渍法用",
+      "bbox": [
+        46.25,
+        396.165,
+        282.345,
+        405.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "20. C【解析】便血是直肠癌最常见的早期症状。",
+      "bbox": [
+        328.02,
+        398.216,
+        545.151,
+        408.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "于阳证疮疡初期、半阴半阳证及阴证疮疡、美容、保",
+      "bbox": [
+        46.31,
+        411.075,
+        283.033,
+        420.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "大便带血，血为鲜红或暗红，量不多，常同时伴有黏液，",
+      "bbox": [
+        307.59,
+        413.235,
+        545.045,
+        422.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "健等。",
+      "bbox": [
+        46.11,
+        425.995,
+        74.61,
+        435.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "呈持续性，此时常被误认为“痔疮”。病情进一步发展，",
+      "bbox": [
+        307.5,
+        428.105,
+        544.978,
+        437.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "7. B【解析】疖是一种生于皮肤浅表的急性化脓",
+      "bbox": [
+        66.54,
+        440.675,
+        283.028,
+        450.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "可出现大便次数增多，有里急后重，排便不尽感，粪便",
+      "bbox": [
+        307.51,
+        442.875,
+        545.747,
+        452.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "性疾患，随处可生，小儿、青年多见。本病多发于发际、",
+      "bbox": [
+        45.99,
+        455.885,
+        282.49,
+        465.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "中有血、脓、黏液，并有特殊的臭味。",
+      "bbox": [
+        308.31,
+        457.885,
+        469.3,
+        467.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "背部、臀部，但有因治疗或护理不当形成“蝼蛄疖”，或",
+      "bbox": [
+        46.25,
+        470.766,
+        282.703,
+        480.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "21. A【解析】消、托、补法是外科内治总的治则，",
+      "bbox": [
+        327.97,
+        472.426,
+        544.969,
+        482.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "反复发作、日久不愈的“多发性疖病”，则不易治愈。消",
+      "bbox": [
+        46.14,
+        485.805,
+        283.64,
+        495.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "其应用应根据临床中疾病的发生发展过程，特别是三",
+      "bbox": [
+        307.33,
+        487.565,
+        545.476,
+        497.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "渴病患者或脾虚便溏患者，病久后气阴双亏，容易感染",
+      "bbox": [
+        46.08,
+        500.875,
+        282.54,
+        510.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "个发展阶段，所确立的治疗原则。但绝不是每种外科",
+      "bbox": [
+        307.31,
+        502.575,
+        545.537,
+        512.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "邪毒，而致多发性疖病。",
+      "bbox": [
+        46.01,
+        515.855,
+        150.4,
+        525.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "病的内治严格遵循消、托、补法的顺序。",
+      "bbox": [
+        307.25,
+        517.445,
+        477.71,
+        526.915
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "8. E【解析】以醋调者，取其散瘀解毒；以酒调者，",
+      "bbox": [
+        66.19,
+        530.796,
+        284.56,
+        540.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "22. B【解析】瘿痈是以急性发病，结喉两侧结块，",
+      "bbox": [
+        327.81,
+        532.536,
+        544.759,
+        542.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "取其助行药力；以葱、姜、韭、蒜捣汁调者，取其辛香散",
+      "bbox": [
+        45.77,
+        545.665,
+        283.02,
+        555.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "肿胀，色红灼热，疼痛为主要表现的急性炎症性疾病。",
+      "bbox": [
+        307.2,
+        547.265,
+        545.0,
+        556.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "邪；以菊花汁、丝瓜叶汁、银花藤调者，取其清凉解毒，",
+      "bbox": [
+        45.6,
+        560.675,
+        282.85,
+        570.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "而B项皮色不变的只有气瘿和石瘿的前期，其他瘿病",
+      "bbox": [
+        307.48,
+        562.565,
+        545.305,
+        572.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "而其中用丝瓜叶汁调制的玉露散治疗暑天疖肿效果较",
+      "bbox": [
+        45.98,
+        575.915,
+        282.623,
+        585.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "均有皮色改变。",
+      "bbox": [
+        307.15,
+        577.305,
+        373.44,
+        586.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "好；以鸡子清调者，取其缓和刺激；以油类调者，取其润",
+      "bbox": [
+        45.58,
+        590.665,
+        282.33,
+        600.135
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "23. B【解析】石瘿由于情志内伤，肝气郁结，脾失",
+      "bbox": [
+        327.72,
+        591.736,
+        544.791,
+        601.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "泽肌肤。",
+      "bbox": [
+        45.88,
+        605.765,
+        83.8,
+        615.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "健运，痰湿内生，气郁痰浊结聚不散，气滞则血瘀，积久",
+      "bbox": [
+        307.15,
+        606.735,
+        545.083,
+        616.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "9. D【解析】湿肿而皮肉重垂胀急，深则按之如烂",
+      "bbox": [
+        66.08,
+        620.535,
+        282.507,
+        630.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "瘀凝成毒，气郁、痰浊、瘀毒三者痼结，上逆于颈部",
+      "bbox": [
+        306.96,
+        621.845,
+        544.855,
+        631.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "棉不起，浅则光亮如水疱，搔破流黄水，浸淫皮肤。",
+      "bbox": [
+        45.51,
+        635.745,
+        264.01,
+        645.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "而成。",
+      "bbox": [
+        307.29,
+        636.545,
+        335.79,
+        646.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "10. B【解析】失荣指颈部或耳前后肿块，伴面容",
+      "bbox": [
+        66.5,
+        650.405,
+        282.5,
+        660.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "24. E【解析】临床症状常会出现尿频、尿急、尿",
+      "bbox": [
+        327.49,
+        651.355,
+        545.037,
+        661.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "憔悴、形体消瘦、状如枯树。",
+      "bbox": [
+        45.47,
+        665.895,
+        168.97,
+        675.395
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "痛、尿道内灼热不适和尿末会滴出白色分泌物。",
+      "bbox": [
+        307.02,
+        666.305,
+        511.295,
+        675.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "11. C【解析】股肿的并发症。股肿如果血栓脱",
+      "bbox": [
+        66.56,
+        680.655,
+        282.402,
+        690.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "25. B【解析】本病早期可出现急性股动脉痉挛和",
+      "bbox": [
+        327.55,
+        681.115,
+        544.442,
+        691.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "落，可引起肺栓塞。",
+      "bbox": [
+        45.72,
+        695.625,
+        131.13,
+        705.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "肺动脉栓塞两种危重性并发症。",
+      "bbox": [
+        306.89,
+        696.355,
+        443.88,
+        705.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "12. B【解析】先检查健侧乳房，再检查患侧，以便",
+      "bbox": [
+        66.54,
+        710.726,
+        282.389,
+        720.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "26. B【解析】热肿为肿而色红，皮薄光泽，炊热疼",
+      "bbox": [
+        327.57,
+        711.156,
+        544.425,
+        721.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "对比。将手指并拢平放乳房上轻轻按触，切勿用手指",
+      "bbox": [
+        45.62,
+        725.475,
+        282.222,
+        734.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "痛。寒肿为肿而不硬，皮色不泽，不红不热，常伴有酸",
+      "bbox": [
+        307.21,
+        726.025,
+        544.542,
+        735.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "去抓捏，否则会将所抓捏的腺体组织错误地认为乳房",
+      "bbox": [
+        45.8,
+        740.385,
+        282.274,
+        749.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "痛。风肿为漫肿宣浮，或游走不定，不红微热，轻微疼",
+      "bbox": [
+        307.16,
+        741.115,
+        544.056,
+        750.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "肿块。以乳头为中心，将乳房分为四个象限，依次检查",
+      "bbox": [
+        45.72,
+        755.425,
+        282.242,
+        764.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "痛。湿肿为肿而皮肉重垂胀急，深按如烂棉不起，浅则",
+      "bbox": [
+        307.2,
+        755.895,
+        543.721,
+        765.395
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "乳房外上（包括腋尾部）→外下→内下→内上各象限及",
+      "bbox": [
+        45.84,
+        770.195,
+        282.485,
+        779.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "水亮如水疱，搔破流黄水，浸淫皮肤。痰肿为肿势或软",
+      "bbox": [
+        307.04,
+        770.485,
+        543.749,
+        779.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "中央区做全面检查。先查健侧，后查患侧，故选B。",
+      "bbox": [
+        46.72,
+        784.895,
+        263.842,
+        794.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "如棉，或硬如馒，不红不热。",
+      "bbox": [
+        307.33,
+        785.105,
+        430.57,
+        794.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "一209",
+      "bbox": [
+        266.16,
+        802.125,
+        299.646,
+        812.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "一",
+      "bbox": [
+        312.67,
+        801.959,
+        320.98,
+        810.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

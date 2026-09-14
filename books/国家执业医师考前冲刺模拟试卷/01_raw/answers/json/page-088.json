@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 88,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        56.79,
+        43.813,
+        259.356,
+        53.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "伸肌腱与拇长伸肌腱之间的凹陷中。",
+      "bbox": [
+        54.44,
+        74.202,
+        215.259,
+        84.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "62. D【解析】丰隆为足阳明胃经的络穴。大钟为",
+      "bbox": [
+        339.75,
+        74.042,
+        564.818,
+        85.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "51. E【解析】手太阳小肠经经脉腧穴：少泽、前",
+      "bbox": [
+        74.59,
+        89.062,
+        297.829,
+        100.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "足少阴肾经的络穴。飞扬为足太阳膀胱经的络穴。光",
+      "bbox": [
+        318.72,
+        89.492,
+        565.173,
+        99.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "谷、后溪、腕骨、阳谷、养老、支正、小海、肩贞、臑俞、天明为足少阳胆经的络穴。蠡沟为足厥阴肝经的络穴。",
+      "bbox": [
+        54.07,
+        104.482,
+        555.987,
+        115.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "宗、秉风、曲垣、肩外俞、肩中俞、天窗、天容、颧髎、听",
+      "bbox": [
+        53.78,
+        119.712,
+        309.62,
+        130.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "63. B【解析】颈椎病，病在太阳经配申脉。",
+      "bbox": [
+        339.65,
+        120.252,
+        531.51,
+        131.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "宫，共19穴，左右合计38穴。肩髎穴属于手少阳三",
+      "bbox": [
+        53.8,
+        134.991,
+        297.352,
+        146.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "64. C【解析】胃、大肠、小肠、胆、膀胱、三焦的下",
+      "bbox": [
+        339.71,
+        134.882,
+        573.24,
+        146.676
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "焦经。",
+      "bbox": [
+        53.69,
+        150.962,
+        83.18,
+        160.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "合穴依次为足三里、上巨虚、下巨虚、阳陵泉、委中、",
+      "bbox": [
+        318.22,
+        150.382,
+        565.218,
+        160.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "52. A【解析】复溜主治：①水肿、腹胀、腹泻等胃",
+      "bbox": [
+        73.85,
+        165.792,
+        297.72,
+        177.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "委阳。",
+      "bbox": [
+        318.47,
+        166.272,
+        347.81,
+        176.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "肠病证；②水肿、汗证（盗汗、无汗或多汗）等津液输布",
+      "bbox": [
+        53.21,
+        181.292,
+        297.158,
+        191.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "65. B【解析】治疗咽喉肿痛肺胃实热证，在主穴",
+      "bbox": [
+        339.32,
+        181.533,
+        565.23,
+        193.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "失调病证；③腰脊强痛，下肢痿痹。",
+      "bbox": [
+        53.17,
+        196.802,
+        210.61,
+        206.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "基础上，配内庭、鱼际。",
+      "bbox": [
+        318.35,
+        197.142,
+        426.37,
+        206.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "53. B【解析】三棱针刺具有开窍泄热、消肿止痛、",
+      "bbox": [
+        73.49,
+        211.572,
+        297.277,
+        223.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "66. D【解析】郁证针灸治疗的主穴：百会、印堂、",
+      "bbox": [
+        339.23,
+        212.433,
+        565.067,
+        223.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "疏经通络的作用，适应范围广，凡各种实证、热证、瘀血",
+      "bbox": [
+        52.73,
+        227.462,
+        298.48,
+        237.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "水沟、内关、神门、太冲。",
+      "bbox": [
+        318.16,
+        228.352,
+        436.0,
+        238.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "和经络瘀滞、疼痛等均可使用。中风脱证为虚极之证，",
+      "bbox": [
+        53.07,
+        243.002,
+        296.655,
+        252.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "67. B【解析】孔最为肺经的郄穴，养老为小肠经",
+      "bbox": [
+        339.15,
+        243.342,
+        565.341,
+        255.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "不宜用三棱针。",
+      "bbox": [
+        52.6,
+        258.801,
+        121.55,
+        268.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "的郄穴，阳交为阳维脉的郄穴，交信为阴跷脉的郄穴，",
+      "bbox": [
+        318.63,
+        259.262,
+        564.925,
+        269.082
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "54. D【解析】八会穴,是指脏、腑、气、血、筋、脉、",
+      "bbox": [
+        73.15,
+        273.702,
+        309.64,
+        285.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "外丘为胆经的郄穴。",
+      "bbox": [
+        318.11,
+        274.412,
+        406.4,
+        284.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "骨、髓等精气所会聚的腧穴。“会”，是聚会的意思。",
+      "bbox": [
+        52.72,
+        289.652,
+        288.64,
+        299.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "68. A【解析】痹证配穴：行痹配膈俞、血海；痛痹",
+      "bbox": [
+        338.93,
+        289.782,
+        565.156,
+        301.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "55. A【解析】阿是穴又称压痛点、天应穴、不定穴",
+      "bbox": [
+        73.35,
+        304.092,
+        297.127,
+        315.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "配肾俞、关元；着痹配阴陵泉、足三里；热痹配大椎、曲",
+      "bbox": [
+        318.1,
+        305.362,
+        564.572,
+        315.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "等。这一类腧穴既无具体名称，又无固定位置，而是以",
+      "bbox": [
+        52.61,
+        320.892,
+        296.691,
+        330.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "池。另可根据疼痛的部位循经配穴。",
+      "bbox": [
+        317.83,
+        320.782,
+        481.303,
+        330.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "压痛点或其他反应点作为针灸部位。阿是穴多位于病",
+      "bbox": [
+        52.4,
+        335.902,
+        297.121,
+        345.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "69. E【解析】五输穴中，井主心下满，荥主身热，",
+      "bbox": [
+        338.79,
+        336.202,
+        564.445,
+        347.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "变的附近，也可在与其距离较远的部位。临床上医生",
+      "bbox": [
+        52.47,
+        351.772,
+        296.974,
+        361.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "输主体重节痛，经主喘咳寒热，合主逆气而泄。",
+      "bbox": [
+        317.77,
+        351.682,
+        524.383,
+        361.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "根据按压时患者有酸、麻、胀、痛、重等感觉和皮肤变化",
+      "bbox": [
+        52.44,
+        367.432,
+        297.94,
+        377.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "70. A【解析】章门、期门属肝经，梁门属胃经，带",
+      "bbox": [
+        338.76,
+        366.663,
+        564.977,
+        378.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "等而予以临时认定。",
+      "bbox": [
+        52.5,
+        382.622,
+        141.217,
+        392.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "脉属胆经。",
+      "bbox": [
+        317.81,
+        382.252,
+        367.01,
+        392.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "56. C【解析】以《灵枢·骨度》篇规定的人体各部",
+      "bbox": [
+        73.24,
+        397.963,
+        296.782,
+        409.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "71. B【解析】十四经腧穴中，尤其是十二经脉在",
+      "bbox": [
+        338.45,
+        397.792,
+        564.591,
+        409.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "的分寸为基础，结合历代学者创用的折量分寸作为定",
+      "bbox": [
+        53.05,
+        413.222,
+        296.905,
+        423.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "四肢肘、膝关节以下的腧穴，不仅能治局部病证，还可",
+      "bbox": [
+        318.6,
+        413.192,
+        564.694,
+        423.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "位的依据，规定耻骨联合上缘至股骨内上髁上缘的骨",
+      "bbox": [
+        52.34,
+        428.991,
+        296.876,
+        438.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "以治疗本经循行所及的远隔部位的脏腑、组织、器官的",
+      "bbox": [
+        318.5,
+        428.122,
+        564.368,
+        437.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "度分寸是18寸，其余选项均不符。",
+      "bbox": [
+        52.19,
+        444.332,
+        204.024,
+        454.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "病证，有的甚至具有影响全身的作用。",
+      "bbox": [
+        317.48,
+        443.862,
+        486.006,
+        453.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "57. C【解析】“针灸铜人”，简称“铜人”，指刻有穴",
+      "bbox": [
+        73.22,
+        459.372,
+        313.94,
+        470.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "72. E【解析】胃之募穴是中脘，故选用胃俞、",
+      "bbox": [
+        338.33,
+        458.942,
+        564.495,
+        470.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "名的人体铜像，是形象直观的针灸穴位模型。北宋王",
+      "bbox": [
+        52.31,
+        474.832,
+        296.598,
+        484.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "中脘。",
+      "bbox": [
+        318.2,
+        474.822,
+        347.69,
+        484.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "惟一创造性地用青铜铸造了两具针灸铜人。",
+      "bbox": [
+        52.11,
+        490.262,
+        245.937,
+        500.082
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "73. C【解析】血海穴属足太阴脾经；少海穴属手",
+      "bbox": [
+        338.14,
+        490.023,
+        564.704,
+        501.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "58. E【解析】郄穴是各经经气深聚的部位，多分",
+      "bbox": [
+        73.18,
+        505.392,
+        296.665,
+        517.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "少阴心经；小海穴属手太阳小肠经；照海穴属足少阴肾",
+      "bbox": [
+        317.37,
+        505.022,
+        564.569,
+        514.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "布于四肢肘膝部以下。阴郄属心经郄穴，其余选项均",
+      "bbox": [
+        52.39,
+        520.842,
+        296.213,
+        530.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "经；气海穴属任脉。",
+      "bbox": [
+        317.34,
+        520.262,
+        405.72,
+        530.082
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "与本题目不符。",
+      "bbox": [
+        52.69,
+        537.692,
+        121.5,
+        547.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "74. E【解析】脾经主治脾胃病、妇科病、前阴病，",
+      "bbox": [
+        338.24,
+        535.773,
+        564.14,
+        547.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "59. 【解析】考查足经在大腿部的穴位定位。胃",
+      "bbox": [
+        73.19,
+        551.512,
+        295.47,
+        562.453
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "肝经主治肝病、妇科病、前阴病，肾经主治肾病、肺病、",
+      "bbox": [
+        317.07,
+        551.192,
+        564.64,
+        560.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C",
+      "bbox": [
+        89.21,
+        554.452,
+        95.74,
+        564.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "经在大腿部有髀关等，脾经在大腿部有箕门等，肝经在",
+      "bbox": [
+        52.37,
+        567.402,
+        296.181,
+        577.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "咽喉病、妇科病、前阴病。",
+      "bbox": [
+        317.43,
+        566.702,
+        434.79,
+        576.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "大腿部有足五里等，胆经在大腿部有风市等。",
+      "bbox": [
+        52.44,
+        582.952,
+        250.519,
+        592.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "75. C【解析】足厥阴肝经布胁肋，循咽喉之后，上",
+      "bbox": [
+        338.06,
+        582.032,
+        564.984,
+        593.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "60. B【解析】《灵枢·经脉》：大肠手阳明之脉，起",
+      "bbox": [
+        73.05,
+        598.712,
+        300.76,
+        610.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "入颃颡，其余选项均为错误选项。",
+      "bbox": [
+        316.92,
+        598.012,
+        464.305,
+        607.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "于大指次指之端，循指上廉，出合谷两骨（第1、第2掌",
+      "bbox": [
+        52.96,
+        613.952,
+        296.4,
+        623.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "76. D【解析】咳逆气喘息促不能平卧，喜向右侧",
+      "bbox": [
+        337.97,
+        613.362,
+        564.89,
+        624.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "骨）之间，上入两筋（拇长伸肌腱与拇短伸肌腱）之中，",
+      "bbox": [
+        52.67,
+        629.492,
+        295.253,
+        639.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "偏卧，右侧肋间胀满——饮邪，胸胁疼痛——部位为胸",
+      "bbox": [
+        316.82,
+        628.952,
+        565.079,
+        638.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "循臂上廉，入肘外廉，上臑外前廉，上肩，出髃骨（肩胛",
+      "bbox": [
+        52.49,
+        645.182,
+        295.622,
+        656.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "胁，诊断为悬饮饮停胸胁证，当泻肺祛饮，方予椒目瓜",
+      "bbox": [
+        316.9,
+        645.022,
+        565.255,
+        654.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "骨肩峰部）之前廉，上出于柱骨（颈椎骨）之会上，下入",
+      "bbox": [
+        52.73,
+        660.982,
+        295.796,
+        670.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "蒌汤合十枣汤加减或用控涎丹加减。",
+      "bbox": [
+        316.68,
+        660.552,
+        481.018,
+        670.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "缺盆，络肺，下膈，属大肠，其支者，从缺盆上颈，贯颊，",
+      "bbox": [
+        52.98,
+        676.952,
+        308.3,
+        686.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "77. D【解析】厥证的辨证论治。从患者症、舌、脉",
+      "bbox": [
+        337.82,
+        676.182,
+        565.099,
+        687.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "入下齿中；还出夹口，交人中——左之右、右之左，上夹",
+      "bbox": [
+        52.81,
+        692.622,
+        298.56,
+        702.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "判断为痰厥，治以导痰汤行气豁痰。",
+      "bbox": [
+        316.58,
+        692.072,
+        475.438,
+        701.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "鼻孔。",
+      "bbox": [
+        53.13,
+        708.232,
+        82.62,
+        718.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "78. E【解析】本患者有神志恍惚，谵妄，烦躁不",
+      "bbox": [
+        337.59,
+        706.982,
+        564.762,
+        718.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "61. A【解析】本经原穴，与其相为表里经的络穴",
+      "bbox": [
+        73.47,
+        723.462,
+        295.09,
+        734.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "安，或有嗜睡的表现，为神志异常，属于痰蒙神窍。",
+      "bbox": [
+        316.66,
+        723.382,
+        541.83,
+        733.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "相互配合应用时，称为原络配穴法。合谷为阳明大肠",
+      "bbox": [
+        53.16,
+        739.102,
+        295.007,
+        748.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "79. B【解析】噎膈瘀血内结证病机：蓄瘀留着，阻",
+      "bbox": [
+        337.45,
+        738.532,
+        564.901,
+        750.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "经原穴，列缺为手太阴肺经络穴，两穴合用，即为原络",
+      "bbox": [
+        53.5,
+        754.352,
+        295.092,
+        764.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "滞食道，通降失司，肌肤失养。",
+      "bbox": [
+        316.12,
+        754.402,
+        453.6,
+        764.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "配穴法，其余选项中均同属一经原穴与络穴，并非表里",
+      "bbox": [
+        53.79,
+        769.452,
+        294.91,
+        779.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "80. D【解析】心肾阴虚，血瘀凝滞痹阻心脉，故见",
+      "bbox": [
+        337.28,
+        769.902,
+        564.584,
+        781.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "两经相配，故并非原络配穴法。",
+      "bbox": [
+        53.96,
+        784.692,
+        191.72,
+        794.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "胸闷且痛，后面证候俱为阴虚火旺之象，治宜滋阴益",
+      "bbox": [
+        316.13,
+        785.122,
+        564.711,
+        794.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "—",
+      "bbox": [
+        276.54,
+        803.332,
+        286.33,
+        813.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "278",
+      "bbox": [
+        295.65,
+        803.646,
+        310.376,
+        813.086
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

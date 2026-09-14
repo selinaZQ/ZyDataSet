@@ -1,0 +1,1264 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 34,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        102.0,
+        90.0,
+        537.0,
+        133.0
+      ],
+      "confidence": 0.998922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        580.0,
+        91.0,
+        838.0,
+        133.0
+      ],
+      "confidence": 0.999803,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "取主穴外，还应选用的穴位是（",
+      "bbox": [
+        97.0,
+        200.0,
+        668.0,
+        251.0
+      ],
+      "confidence": 0.963598,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "）",
+      "bbox": [
+        749.0,
+        207.0,
+        775.0,
+        244.0
+      ],
+      "confidence": 0.978475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 风府、三阴交、太冲",
+      "bbox": [
+        1136.0,
+        200.0,
+        1541.0,
+        252.0
+      ],
+      "confidence": 0.995798,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 膏育",
+      "bbox": [
+        182.0,
+        257.0,
+        331.0,
+        309.0
+      ],
+      "confidence": 0.981758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 水沟、风府、足三里",
+      "bbox": [
+        1138.0,
+        258.0,
+        1543.0,
+        308.0
+      ],
+      "confidence": 0.996241,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 膈俞",
+      "bbox": [
+        180.0,
+        314.0,
+        326.0,
+        368.0
+      ],
+      "confidence": 0.995796,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 命门、志室、太溪",
+      "bbox": [
+        1136.0,
+        312.0,
+        1500.0,
+        367.0
+      ],
+      "confidence": 0.995086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 志室",
+      "bbox": [
+        182.0,
+        374.0,
+        326.0,
+        426.0
+      ],
+      "confidence": 0.998517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "112. 患者，女，53岁。2小时前突然发现",
+      "bbox": [
+        1138.0,
+        370.0,
+        1932.0,
+        424.0
+      ],
+      "confidence": 0.979967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 腰阳关",
+      "bbox": [
+        180.0,
+        431.0,
+        372.0,
+        485.0
+      ],
+      "confidence": 0.998826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "右半身麻木，口角歪斜，言语不利。现神志清，",
+      "bbox": [
+        1055.0,
+        431.0,
+        1931.0,
+        480.0
+      ],
+      "confidence": 0.990948,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 环跳",
+      "bbox": [
+        180.0,
+        492.0,
+        324.0,
+        541.0
+      ],
+      "confidence": 0.997368,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "头晕目眩，苔白腻，脉弦滑，其诊断是（）",
+      "bbox": [
+        1052.0,
+        486.0,
+        1871.0,
+        537.0
+      ],
+      "confidence": 0.946658,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "107. 患者，女，23岁。每至经期第3、第4",
+      "bbox": [
+        184.0,
+        551.0,
+        970.0,
+        601.0
+      ],
+      "confidence": 0.983772,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 中经络，风痰阻络证",
+      "bbox": [
+        1139.0,
+        541.0,
+        1573.0,
+        593.0
+      ],
+      "confidence": 0.992024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "天出现腹痛，痛势绵绵，按则痛减，月经色淡，",
+      "bbox": [
+        97.0,
+        605.0,
+        968.0,
+        662.0
+      ],
+      "confidence": 0.976901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 中经络，肝阳暴亢证",
+      "bbox": [
+        1138.0,
+        598.0,
+        1565.0,
+        651.0
+      ],
+      "confidence": 0.99778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "量少，伴面色苍白，倦怠无力，舌质淡，脉细弱。",
+      "bbox": [
+        97.0,
+        668.0,
+        967.0,
+        719.0
+      ],
+      "confidence": 0.98936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 中经络，阴虚风动证",
+      "bbox": [
+        1138.0,
+        657.0,
+        1568.0,
+        708.0
+      ],
+      "confidence": 0.995715,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "治疗除三阴交外，宜选取（）",
+      "bbox": [
+        99.0,
+        721.0,
+        692.0,
+        776.0
+      ],
+      "confidence": 0.966476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 中脏腑，气虚血瘀证",
+      "bbox": [
+        1140.0,
+        718.0,
+        1568.0,
+        763.0
+      ],
+      "confidence": 0.990794,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 中脏腑，阴虚风动证",
+      "bbox": [
+        1140.0,
+        776.0,
+        1568.0,
+        821.0
+      ],
+      "confidence": 0.994343,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 中极、次、太冲、地机",
+      "bbox": [
+        184.0,
+        786.0,
+        653.0,
+        832.0
+      ],
+      "confidence": 0.996368,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "113. 患者，男，22岁。发热恶寒，寒重热",
+      "bbox": [
+        1139.0,
+        827.0,
+        1933.0,
+        881.0
+      ],
+      "confidence": 0.98907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 中极、次髎、归来、地机",
+      "bbox": [
+        182.0,
+        846.0,
+        646.0,
+        892.0
+      ],
+      "confidence": 0.938888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "轻，头身疼痛，鼻塞流涕，咳嗽，咯痰清稀，舌苔",
+      "bbox": [
+        1054.0,
+        887.0,
+        1932.0,
+        938.0
+      ],
+      "confidence": 0.98064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 中极、气海、悬钟、归来",
+      "bbox": [
+        183.0,
+        905.0,
+        646.0,
+        950.0
+      ],
+      "confidence": 0.996217,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "薄白，脉浮紧。治疗应选取何经穴为主（",
+      "bbox": [
+        1055.0,
+        947.0,
+        1814.0,
+        994.0
+      ],
+      "confidence": 0.990971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "（）",
+      "bbox": [
+        1792.0,
+        947.0,
+        1919.0,
+        991.0
+      ],
+      "confidence": 0.492825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 足三里、气海、太溪、肾俞",
+      "bbox": [
+        180.0,
+        961.0,
+        692.0,
+        1010.0
+      ],
+      "confidence": 0.994825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 手少阴、手太阳、手太阴经",
+      "bbox": [
+        1144.0,
+        1006.0,
+        1682.0,
+        1051.0
+      ],
+      "confidence": 0.996596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 足三里、气海、脾俞、关元",
+      "bbox": [
+        180.0,
+        1021.0,
+        691.0,
+        1070.0
+      ],
+      "confidence": 0.992831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 手太阴、手阳明、足太阳经",
+      "bbox": [
+        1140.0,
+        1062.0,
+        1676.0,
+        1110.0
+      ],
+      "confidence": 0.997635,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "108. 患者，女，26岁。痛经9年，经行不",
+      "bbox": [
+        178.0,
+        1076.0,
+        966.0,
+        1129.0
+      ],
+      "confidence": 0.980193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 手太阴、足太阳、手少阳经",
+      "bbox": [
+        1141.0,
+        1120.0,
+        1677.0,
+        1167.0
+      ],
+      "confidence": 0.976569,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "畅，小腹胀痛，拒按，经色紫红，夹有血块，脉沉",
+      "bbox": [
+        97.0,
+        1139.0,
+        967.0,
+        1188.0
+      ],
+      "confidence": 0.985579,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 手阳明、足阳明、手太阴经",
+      "bbox": [
+        1140.0,
+        1178.0,
+        1679.0,
+        1226.0
+      ],
+      "confidence": 0.996532,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "涩。治疗应首选（）",
+      "bbox": [
+        96.0,
+        1194.0,
+        536.0,
+        1248.0
+      ],
+      "confidence": 0.936359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 手太阴、手少阳、足少阳经",
+      "bbox": [
+        1143.0,
+        1239.0,
+        1677.0,
+        1280.0
+      ],
+      "confidence": 0.994952,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 足三里、太冲、三阴交",
+      "bbox": [
+        180.0,
+        1257.0,
+        627.0,
+        1302.0
+      ],
+      "confidence": 0.991694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "114. 患者，女，53岁。咳嗽月余，加重1",
+      "bbox": [
+        1144.0,
+        1298.0,
+        1932.0,
+        1339.0
+      ],
+      "confidence": 0.991862,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 合谷、气海、三阴交",
+      "bbox": [
+        178.0,
+        1316.0,
+        577.0,
+        1362.0
+      ],
+      "confidence": 0.997382,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "周，咳引胸胁疼痛，痰少而稠，面赤咽干，舌苔",
+      "bbox": [
+        1056.0,
+        1351.0,
+        1933.0,
+        1399.0
+      ],
+      "confidence": 0.992474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 曲池、内庭、三阴交",
+      "bbox": [
+        179.0,
+        1375.0,
+        577.0,
+        1422.0
+      ],
+      "confidence": 0.995906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "黄少津，脉弦数。治疗应选取的主要经穴",
+      "bbox": [
+        1056.0,
+        1411.0,
+        1933.0,
+        1457.0
+      ],
+      "confidence": 0.998199,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 中极、次體、地机",
+      "bbox": [
+        178.0,
+        1434.0,
+        536.0,
+        1480.0
+      ],
+      "confidence": 0.911454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "是（）",
+      "bbox": [
+        1050.0,
+        1463.0,
+        1241.0,
+        1516.0
+      ],
+      "confidence": 0.733117,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 合谷、归来、脾俞",
+      "bbox": [
+        175.0,
+        1490.0,
+        537.0,
+        1541.0
+      ],
+      "confidence": 0.990224,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 手太阴、手阳明经",
+      "bbox": [
+        1144.0,
+        1525.0,
+        1530.0,
+        1570.0
+      ],
+      "confidence": 0.998039,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "109. 患者，男，30岁。口角歪向右侧，左眼",
+      "bbox": [
+        179.0,
+        1552.0,
+        965.0,
+        1600.0
+      ],
+      "confidence": 0.985922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 手太阴、足太阴经",
+      "bbox": [
+        1140.0,
+        1580.0,
+        1524.0,
+        1629.0
+      ],
+      "confidence": 0.997893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "不能闭合2天，左侧额纹消失，治疗应选取何经",
+      "bbox": [
+        99.0,
+        1613.0,
+        966.0,
+        1658.0
+      ],
+      "confidence": 0.991143,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 足阳明、手阳明经",
+      "bbox": [
+        1143.0,
+        1640.0,
+        1525.0,
+        1685.0
+      ],
+      "confidence": 0.997861,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "穴为主（）",
+      "bbox": [
+        95.0,
+        1668.0,
+        364.0,
+        1722.0
+      ],
+      "confidence": 0.865836,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 足太阴、足厥阴经",
+      "bbox": [
+        1140.0,
+        1696.0,
+        1526.0,
+        1745.0
+      ],
+      "confidence": 0.997682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 手、足少阳经",
+      "bbox": [
+        182.0,
+        1731.0,
+        475.0,
+        1778.0
+      ],
+      "confidence": 0.995664,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 足厥阴、手太阴经",
+      "bbox": [
+        1139.0,
+        1751.0,
+        1528.0,
+        1805.0
+      ],
+      "confidence": 0.996899,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 手、足太阴经",
+      "bbox": [
+        182.0,
+        1790.0,
+        470.0,
+        1836.0
+      ],
+      "confidence": 0.995854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "115. 患者，男，25岁。3日来头痛如裹，痛",
+      "bbox": [
+        1140.0,
+        1810.0,
+        1933.0,
+        1865.0
+      ],
+      "confidence": 0.976949,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 手、足少阴经",
+      "bbox": [
+        181.0,
+        1847.0,
+        472.0,
+        1897.0
+      ],
+      "confidence": 0.994926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "无休止，肢体困重，苔白腻，脉濡。针灸治疗除",
+      "bbox": [
+        1057.0,
+        1871.0,
+        1933.0,
+        1920.0
+      ],
+      "confidence": 0.994326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 手、足厥阴经",
+      "bbox": [
+        180.0,
+        1907.0,
+        474.0,
+        1957.0
+      ],
+      "confidence": 0.996732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "百会、太阳、风池、合谷外，宜取（）",
+      "bbox": [
+        1057.0,
+        1930.0,
+        1766.0,
+        1976.0
+      ],
+      "confidence": 0.95258,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 手、足阳明经",
+      "bbox": [
+        180.0,
+        1966.0,
+        474.0,
+        2015.0
+      ],
+      "confidence": 0.996899,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 风门",
+      "bbox": [
+        1141.0,
+        1986.0,
+        1290.0,
+        2035.0
+      ],
+      "confidence": 0.996581,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "110. 面部疼痛突然发作，呈闪电样、刀割",
+      "bbox": [
+        181.0,
+        2026.0,
+        969.0,
+        2079.0
+      ],
+      "confidence": 0.994283,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 曲池",
+      "bbox": [
+        1139.0,
+        2042.0,
+        1285.0,
+        2094.0
+      ],
+      "confidence": 0.99925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "样剧烈疼痛，持续数秒到2分钟，痛处有灼热",
+      "bbox": [
+        96.0,
+        2085.0,
+        969.0,
+        2137.0
+      ],
+      "confidence": 0.977805,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 丰隆",
+      "bbox": [
+        1140.0,
+        2099.0,
+        1288.0,
+        2152.0
+      ],
+      "confidence": 0.998039,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "感，流涎，目赤流泪，苔薄黄，脉数。治疗除取",
+      "bbox": [
+        96.0,
+        2143.0,
+        969.0,
+        2196.0
+      ],
+      "confidence": 0.990249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 阴陵泉",
+      "bbox": [
+        1141.0,
+        2160.0,
+        1329.0,
+        2208.0
+      ],
+      "confidence": 0.997921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "主穴外，还应选取（）",
+      "bbox": [
+        99.0,
+        2204.0,
+        563.0,
+        2253.0
+      ],
+      "confidence": 0.895772,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 足临泣",
+      "bbox": [
+        1140.0,
+        2216.0,
+        1330.0,
+        2267.0
+      ],
+      "confidence": 0.996581,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 丝竹空、阳白、外关",
+      "bbox": [
+        184.0,
+        2264.0,
+        591.0,
+        2311.0
+      ],
+      "confidence": 0.996716,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "116. 患儿，男，7岁。尿床2年，症见睡中",
+      "bbox": [
+        1143.0,
+        2273.0,
+        1932.0,
+        2326.0
+      ],
+      "confidence": 0.986493,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 颧髎、迎香",
+      "bbox": [
+        182.0,
+        2322.0,
+        435.0,
+        2372.0
+      ],
+      "confidence": 0.849897,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "遗尿，醒后方觉，神疲乏力，小便频数，量少，食",
+      "bbox": [
+        1056.0,
+        2333.0,
+        1933.0,
+        2384.0
+      ],
+      "confidence": 0.98396,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 列缺、太阳",
+      "bbox": [
+        184.0,
+        2383.0,
+        435.0,
+        2429.0
+      ],
+      "confidence": 0.996323,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "欲差，大便稀溏。舌质淡，脉沉细无力。治疗",
+      "bbox": [
+        1059.0,
+        2392.0,
+        1932.0,
+        2440.0
+      ],
+      "confidence": 0.989515,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 曲池、外关",
+      "bbox": [
+        182.0,
+        2440.0,
+        439.0,
+        2490.0
+      ],
+      "confidence": 0.995567,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "宜首选（）",
+      "bbox": [
+        1055.0,
+        2442.0,
+        1332.0,
+        2499.0
+      ],
+      "confidence": 0.861478,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 太冲、三阴交",
+      "bbox": [
+        183.0,
+        2500.0,
+        480.0,
+        2546.0
+      ],
+      "confidence": 0.995314,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 关元、中极、三阴交、水分",
+      "bbox": [
+        1144.0,
+        2506.0,
+        1660.0,
+        2555.0
+      ],
+      "confidence": 0.996406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "111. 患者，女，62岁。腰部隐隐作痛2年，",
+      "bbox": [
+        185.0,
+        2560.0,
+        968.0,
+        2607.0
+      ],
+      "confidence": 0.975712,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "B. 气海、太溪、三阴交、水道",
+      "bbox": [
+        1143.0,
+        2563.0,
+        1653.0,
+        2611.0
+      ],
+      "confidence": 0.995112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "下肢酸软乏力，腰冷，脉细。治疗除选取主穴",
+      "bbox": [
+        96.0,
+        2618.0,
+        970.0,
+        2666.0
+      ],
+      "confidence": 0.993225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "C. 中渚、膀胱俞、三阴交、水道",
+      "bbox": [
+        1143.0,
+        2621.0,
+        1699.0,
+        2669.0
+      ],
+      "confidence": 0.993186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "外，应加用的腧穴是（）",
+      "bbox": [
+        97.0,
+        2678.0,
+        604.0,
+        2723.0
+      ],
+      "confidence": 0.935711,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "D. 阴廉、中极、关元、血海",
+      "bbox": [
+        1141.0,
+        2678.0,
+        1612.0,
+        2727.0
+      ],
+      "confidence": 0.995745,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "A. 风府、大杼、阳陵泉",
+      "bbox": [
+        185.0,
+        2735.0,
+        590.0,
+        2780.0
+      ],
+      "confidence": 0.996702,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "E. 中极、膀胱俞、三阴交、关元",
+      "bbox": [
+        1143.0,
+        2736.0,
+        1699.0,
+        2786.0
+      ],
+      "confidence": 0.995234,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "B. 风府、足三里、血海",
+      "bbox": [
+        185.0,
+        2795.0,
+        582.0,
+        2839.0
+      ],
+      "confidence": 0.99741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "117. 患者，女，26岁。非周期性子宫出血，",
+      "bbox": [
+        1142.0,
+        2795.0,
+        1932.0,
+        2849.0
+      ],
+      "confidence": 0.985212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "80",
+      "bbox": [
+        985.0,
+        2870.0,
+        1037.0,
+        2911.0
+      ],
+      "confidence": 0.99988,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

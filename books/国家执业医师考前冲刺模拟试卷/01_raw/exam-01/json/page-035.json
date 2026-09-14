@@ -1,0 +1,1147 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 35,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷(一）",
+      "bbox": [
+        1428.0,
+        27.0,
+        1848.0,
+        72.0
+      ],
+      "confidence": 0.912019,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 合穴",
+      "bbox": [
+        184.0,
+        139.0,
+        339.0,
+        201.0
+      ],
+      "confidence": 0.998964,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "146. 善于治疗急性腰扭伤的腧穴是",
+      "bbox": [
+        1127.0,
+        141.0,
+        1896.0,
+        194.0
+      ],
+      "confidence": 0.968929,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 经穴",
+      "bbox": [
+        186.0,
+        202.0,
+        340.0,
+        260.0
+      ],
+      "confidence": 0.999314,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        1140.0,
+        203.0,
+        1183.0,
+        251.0
+      ],
+      "confidence": 0.978508,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 输穴",
+      "bbox": [
+        186.0,
+        260.0,
+        337.0,
+        317.0
+      ],
+      "confidence": 0.998261,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "(147～148题共用备选答案）",
+      "bbox": [
+        1132.0,
+        262.0,
+        1654.0,
+        307.0
+      ],
+      "confidence": 0.921869,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "141. 曲池在五输穴中属（",
+      "bbox": [
+        190.0,
+        322.0,
+        652.0,
+        370.0
+      ],
+      "confidence": 0.967845,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "）",
+      "bbox": [
+        722.0,
+        325.0,
+        752.0,
+        364.0
+      ],
+      "confidence": 0.989316,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 肾俞、太溪",
+      "bbox": [
+        1128.0,
+        318.0,
+        1379.0,
+        368.0
+      ],
+      "confidence": 0.993449,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "142. 太溪在五输穴中属（",
+      "bbox": [
+        190.0,
+        380.0,
+        651.0,
+        429.0
+      ],
+      "confidence": 0.97038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 太溪、行间",
+      "bbox": [
+        1126.0,
+        375.0,
+        1373.0,
+        426.0
+      ],
+      "confidence": 0.997018,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "）",
+      "bbox": [
+        727.0,
+        385.0,
+        750.0,
+        420.0
+      ],
+      "confidence": 0.513195,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 内庭、二间",
+      "bbox": [
+        1125.0,
+        432.0,
+        1374.0,
+        486.0
+      ],
+      "confidence": 0.997214,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "(143～144题共用备选答案)",
+      "bbox": [
+        192.0,
+        437.0,
+        718.0,
+        489.0
+      ],
+      "confidence": 0.941006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 足太阳膀胱经",
+      "bbox": [
+        190.0,
+        497.0,
+        509.0,
+        548.0
+      ],
+      "confidence": 0.997773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 外关、风池",
+      "bbox": [
+        1124.0,
+        491.0,
+        1377.0,
+        545.0
+      ],
+      "confidence": 0.99736,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 足阳明胃经",
+      "bbox": [
+        190.0,
+        557.0,
+        460.0,
+        607.0
+      ],
+      "confidence": 0.998746,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 大抒、束骨",
+      "bbox": [
+        1125.0,
+        549.0,
+        1375.0,
+        603.0
+      ],
+      "confidence": 0.994311,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 足少阳胆经",
+      "bbox": [
+        189.0,
+        614.0,
+        459.0,
+        664.0
+      ],
+      "confidence": 0.997436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "147. 治疗胃火牙痛，在基本处方的基础上",
+      "bbox": [
+        1127.0,
+        610.0,
+        1894.0,
+        665.0
+      ],
+      "confidence": 0.994647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 手少阳三焦经",
+      "bbox": [
+        191.0,
+        675.0,
+        503.0,
+        721.0
+      ],
+      "confidence": 0.998872,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "宜配用（）",
+      "bbox": [
+        1043.0,
+        670.0,
+        1312.0,
+        721.0
+      ],
+      "confidence": 0.964792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 手太阳小肠经",
+      "bbox": [
+        191.0,
+        733.0,
+        501.0,
+        780.0
+      ],
+      "confidence": 0.998411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "148. 治疗阴虚牙痛，在基本处方的基础上",
+      "bbox": [
+        1129.0,
+        730.0,
+        1893.0,
+        779.0
+      ],
+      "confidence": 0.989169,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "143. 起于目锐眦，下耳后，人耳中，出耳前",
+      "bbox": [
+        191.0,
+        789.0,
+        959.0,
+        838.0
+      ],
+      "confidence": 0.98733,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "宜配用（）",
+      "bbox": [
+        1040.0,
+        784.0,
+        1313.0,
+        842.0
+      ],
+      "confidence": 0.943603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "的经脉是（)",
+      "bbox": [
+        107.0,
+        847.0,
+        414.0,
+        900.0
+      ],
+      "confidence": 0.875179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "(149～150题共用备选答案）",
+      "bbox": [
+        1132.0,
+        849.0,
+        1654.0,
+        894.0
+      ],
+      "confidence": 0.931997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "144. 从耳后，人耳中……前，交颊，至目锐",
+      "bbox": [
+        189.0,
+        906.0,
+        960.0,
+        956.0
+      ],
+      "confidence": 0.985875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 风池、外关",
+      "bbox": [
+        1128.0,
+        905.0,
+        1381.0,
+        956.0
+      ],
+      "confidence": 0.998028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "眦的经脉是（)",
+      "bbox": [
+        106.0,
+        962.0,
+        463.0,
+        1017.0
+      ],
+      "confidence": 0.884762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 太溪、照海",
+      "bbox": [
+        1127.0,
+        964.0,
+        1375.0,
+        1015.0
+      ],
+      "confidence": 0.997509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "(145～146题共用备选答案）",
+      "bbox": [
+        192.0,
+        1023.0,
+        713.0,
+        1072.0
+      ],
+      "confidence": 0.917563,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 内庭、鱼际",
+      "bbox": [
+        1127.0,
+        1022.0,
+        1377.0,
+        1073.0
+      ],
+      "confidence": 0.996429,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 大抒",
+      "bbox": [
+        189.0,
+        1079.0,
+        341.0,
+        1137.0
+      ],
+      "confidence": 0.998914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 列缺、照海",
+      "bbox": [
+        1125.0,
+        1078.0,
+        1378.0,
+        1132.0
+      ],
+      "confidence": 0.998236,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 膏育",
+      "bbox": [
+        188.0,
+        1138.0,
+        335.0,
+        1195.0
+      ],
+      "confidence": 0.959222,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 陷谷、关冲",
+      "bbox": [
+        1127.0,
+        1140.0,
+        1377.0,
+        1190.0
+      ],
+      "confidence": 0.997964,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 申脉",
+      "bbox": [
+        188.0,
+        1198.0,
+        334.0,
+        1251.0
+      ],
+      "confidence": 0.994,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "149. 外感风热型咽喉肿痛在基本处方的",
+      "bbox": [
+        1129.0,
+        1201.0,
+        1893.0,
+        1246.0
+      ],
+      "confidence": 0.997007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 攒竹",
+      "bbox": [
+        189.0,
+        1256.0,
+        336.0,
+        1310.0
+      ],
+      "confidence": 0.99512,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "基础上再加（)",
+      "bbox": [
+        1044.0,
+        1257.0,
+        1395.0,
+        1306.0
+      ],
+      "confidence": 0.908233,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 志室",
+      "bbox": [
+        189.0,
+        1317.0,
+        334.0,
+        1366.0
+      ],
+      "confidence": 0.99845,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "150. 肺胃实热型咽喉肿痛在基本处方的",
+      "bbox": [
+        1129.0,
+        1316.0,
+        1893.0,
+        1363.0
+      ],
+      "confidence": 0.985488,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "145. 善于治疗呃逆的腧穴是（",
+      "bbox": [
+        191.0,
+        1374.0,
+        732.0,
+        1422.0
+      ],
+      "confidence": 0.972088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "）",
+      "bbox": [
+        810.0,
+        1383.0,
+        833.0,
+        1412.0
+      ],
+      "confidence": 0.985067,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "基础上再加（",
+      "bbox": [
+        1044.0,
+        1374.0,
+        1289.0,
+        1423.0
+      ],
+      "confidence": 0.9828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "第四单元",
+      "bbox": [
+        873.0,
+        1563.0,
+        1134.0,
+        1636.0
+      ],
+      "confidence": 0.999742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A1 型选择题(1～75题)",
+      "bbox": [
+        782.0,
+        1704.0,
+        1228.0,
+        1755.0
+      ],
+      "confidence": 0.963439,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "答题说明:每一道考试题下面有A、B、C、D、E五个备选答案，请从中选择一个最佳答案，并",
+      "bbox": [
+        214.0,
+        1804.0,
+        1874.0,
+        1853.0
+      ],
+      "confidence": 0.933312,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        130.0,
+        1865.0,
+        1088.0,
+        1910.0
+      ],
+      "confidence": 0.999346,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "1. 血栓性浅静脉炎的发病原因是（",
+      "bbox": [
+        189.0,
+        1961.0,
+        821.0,
+        2009.0
+      ],
+      "confidence": 0.976285,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 臀痈",
+      "bbox": [
+        1123.0,
+        1958.0,
+        1271.0,
+        2014.0
+      ],
+      "confidence": 0.988236,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "）",
+      "bbox": [
+        893.0,
+        1969.0,
+        920.0,
+        1999.0
+      ],
+      "confidence": 0.98851,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 寒湿之邪外侵",
+      "bbox": [
+        189.0,
+        2020.0,
+        507.0,
+        2070.0
+      ],
+      "confidence": 0.998224,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 脐痈",
+      "bbox": [
+        1123.0,
+        2018.0,
+        1273.0,
+        2070.0
+      ],
+      "confidence": 0.996333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 湿热之邪外侵",
+      "bbox": [
+        188.0,
+        2078.0,
+        499.0,
+        2128.0
+      ],
+      "confidence": 0.998962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 委中毒",
+      "bbox": [
+        1123.0,
+        2073.0,
+        1312.0,
+        2127.0
+      ],
+      "confidence": 0.999378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 外感风热之邪",
+      "bbox": [
+        189.0,
+        2137.0,
+        502.0,
+        2187.0
+      ],
+      "confidence": 0.999226,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "4. 下列各项，不属辨认成脓方法的是（",
+      "bbox": [
+        1125.0,
+        2132.0,
+        1779.0,
+        2181.0
+      ],
+      "confidence": 0.973842,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "）",
+      "bbox": [
+        1850.0,
+        2141.0,
+        1870.0,
+        2169.0
+      ],
+      "confidence": 0.990296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 肝肾不足，气虚血亏",
+      "bbox": [
+        189.0,
+        2195.0,
+        608.0,
+        2244.0
+      ],
+      "confidence": 0.99219,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 按触法",
+      "bbox": [
+        1124.0,
+        2188.0,
+        1317.0,
+        2242.0
+      ],
+      "confidence": 0.997955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 胃积热下迫",
+      "bbox": [
+        189.0,
+        2253.0,
+        460.0,
+        2303.0
+      ],
+      "confidence": 0.99873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 推拿法",
+      "bbox": [
+        1124.0,
+        2247.0,
+        1311.0,
+        2298.0
+      ],
+      "confidence": 0.999025,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 穿刺法",
+      "bbox": [
+        1123.0,
+        2301.0,
+        1311.0,
+        2355.0
+      ],
+      "confidence": 0.999142,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "2. 以疾病特性命名的外科疾病是（",
+      "bbox": [
+        189.0,
+        2311.0,
+        815.0,
+        2360.0
+      ],
+      "confidence": 0.969094,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        893.0,
+        2316.0,
+        920.0,
+        2356.0
+      ],
+      "confidence": 0.919783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 背疽",
+      "bbox": [
+        189.0,
+        2367.0,
+        341.0,
+        2422.0
+      ],
+      "confidence": 0.992465,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 透光法",
+      "bbox": [
+        1124.0,
+        2361.0,
+        1312.0,
+        2412.0
+      ],
+      "confidence": 0.999405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 肺痈",
+      "bbox": [
+        186.0,
+        2426.0,
+        333.0,
+        2479.0
+      ],
+      "confidence": 0.991476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 点压法",
+      "bbox": [
+        1124.0,
+        2418.0,
+        1311.0,
+        2470.0
+      ],
+      "confidence": 0.998924,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 破伤风",
+      "bbox": [
+        186.0,
+        2483.0,
+        378.0,
+        2537.0
+      ],
+      "confidence": 0.996877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "5. 溃疡疮口太小，脓腐难去，常用的腐蚀",
+      "bbox": [
+        1127.0,
+        2478.0,
+        1893.0,
+        2523.0
+      ],
+      "confidence": 0.992692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "药是（)",
+      "bbox": [
+        1038.0,
+        2528.0,
+        1267.0,
+        2588.0
+      ],
+      "confidence": 0.867658,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 白驳风",
+      "bbox": [
+        186.0,
+        2541.0,
+        380.0,
+        2596.0
+      ],
+      "confidence": 0.997937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 红灵丹",
+      "bbox": [
+        1126.0,
+        2588.0,
+        1316.0,
+        2639.0
+      ],
+      "confidence": 0.999158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 流注",
+      "bbox": [
+        185.0,
+        2600.0,
+        334.0,
+        2652.0
+      ],
+      "confidence": 0.999446,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 白降丹",
+      "bbox": [
+        1123.0,
+        2643.0,
+        1311.0,
+        2700.0
+      ],
+      "confidence": 0.933462,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "3. 下列不属于痈的是（",
+      "bbox": [
+        187.0,
+        2658.0,
+        608.0,
+        2711.0
+      ],
+      "confidence": 0.9411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "）",
+      "bbox": [
+        683.0,
+        2663.0,
+        709.0,
+        2700.0
+      ],
+      "confidence": 0.969776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 七三丹",
+      "bbox": [
+        1123.0,
+        2702.0,
+        1311.0,
+        2757.0
+      ],
+      "confidence": 0.998511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 颈痈",
+      "bbox": [
+        186.0,
+        2717.0,
+        341.0,
+        2773.0
+      ],
+      "confidence": 0.986562,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 八宝丹",
+      "bbox": [
+        1122.0,
+        2761.0,
+        1313.0,
+        2815.0
+      ],
+      "confidence": 0.998081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 腋痈",
+      "bbox": [
+        185.0,
+        2778.0,
+        335.0,
+        2831.0
+      ],
+      "confidence": 0.88294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "一",
+      "bbox": [
+        1031.0,
+        2876.0,
+        1098.0,
+        2909.0
+      ],
+      "confidence": 0.499105,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

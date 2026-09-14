@@ -1,0 +1,5 @@
+.venv-ocr/
+.cache/
+tmp/
+__pycache__/
+*.py[cod]

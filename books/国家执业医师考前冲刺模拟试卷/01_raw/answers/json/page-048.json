@@ -1,0 +1,1116 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 48,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        58.71,
+        47.12,
+        257.718,
+        58.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "苔白，脉沉细滑，尺脉弱。胎动不安肾虚证治法：固肾",
+      "bbox": [
+        57.14,
+        77.594,
+        294.111,
+        87.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "137. B",
+      "bbox": [
+        335.39,
+        77.866,
+        361.516,
+        89.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "安胎，佐以益气。",
+      "bbox": [
+        57.2,
+        92.205,
+        133.44,
+        101.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "138. E【解析】产后腹痛的分型：气血两虚，治法",
+      "bbox": [
+        335.52,
+        91.915,
+        550.077,
+        103.156
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "121. C【解析】特殊之毒包括虫毒、蛇毒、疯犬毒、",
+      "bbox": [
+        78.06,
+        106.325,
+        297.68,
+        117.427
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "为补血益气，方用肠宁汤；瘀滞子宫证，治法为活血化",
+      "bbox": [
+        314.91,
+        106.485,
+        550.397,
+        116.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "漆毒、药毒、食物毒和疫毒、无名毒。某些人由于禀性",
+      "bbox": [
+        56.72,
+        120.815,
+        294.615,
+        130.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "瘀，温经止痛。",
+      "bbox": [
+        314.84,
+        121.015,
+        381.41,
+        130.525
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "不耐，接触生漆后而发漆疮。",
+      "bbox": [
+        56.84,
+        135.485,
+        180.99,
+        145.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "139. C",
+      "bbox": [
+        335.67,
+        135.286,
+        361.42,
+        146.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "122. D【解析】凡跌打损伤、沸水、火焰、冷冻等，",
+      "bbox": [
+        78.09,
+        149.555,
+        298.96,
+        160.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "140. D【解析】本着“急则治标，缓则治本”的原",
+      "bbox": [
+        335.52,
+        149.276,
+        550.436,
+        160.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "都可直接伤害人体，属于外来伤害。",
+      "bbox": [
+        56.88,
+        164.725,
+        209.611,
+        174.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "则。体质较强的癥瘕患者，其治法是先攻后补；久病体",
+      "bbox": [
+        314.87,
+        163.575,
+        550.592,
+        174.296
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "123. E",
+      "bbox": [
+        78.06,
+        179.246,
+        104.1,
+        190.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "弱的癥瘕患者，其治法是攻补兼施。",
+      "bbox": [
+        314.9,
+        178.885,
+        467.06,
+        189.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "124. B【解析】“色紫黑，有小血块，少腹胀痛”为",
+      "bbox": [
+        78.27,
+        193.266,
+        297.38,
+        204.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "141. C",
+      "bbox": [
+        335.6,
+        193.056,
+        361.426,
+        204.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "血瘀证典型表现。“色红质黏腻，胸闷，烦躁”为湿热证",
+      "bbox": [
+        57.09,
+        207.915,
+        294.773,
+        217.395
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "142. B【解析】小儿脾常不足，饮食不节，感冒之",
+      "bbox": [
+        335.56,
+        207.285,
+        551.101,
+        218.185
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "典型表现。经间期出血之血瘀证，治以化瘀止血，代表",
+      "bbox": [
+        57.14,
+        222.545,
+        294.754,
+        232.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "后，脾运失司，乳食停滞，阻滞中焦，则腹胀纳呆，或伴",
+      "bbox": [
+        314.83,
+        221.625,
+        552.33,
+        231.125
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "方为逐瘀止血汤。经间期出血之湿热证，治以清利湿",
+      "bbox": [
+        56.98,
+        236.715,
+        294.749,
+        246.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "吐泻，此为感冒夹滞；小儿神气怯弱，肝气未盛，感邪之",
+      "bbox": [
+        315.37,
+        235.795,
+        552.37,
+        245.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "热，固冲止血，代表方为清肝止淋汤（去阿胶、红枣，加",
+      "bbox": [
+        57.31,
+        251.215,
+        294.38,
+        260.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "后，热扰心肝，引动肝风，扰乱心神，易致睡卧不宁，惊",
+      "bbox": [
+        314.84,
+        250.215,
+        552.09,
+        259.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "小蓟、茯苓）。",
+      "bbox": [
+        57.32,
+        265.375,
+        117.23,
+        274.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "惕抽风，此为感冒夹惊。",
+      "bbox": [
+        314.67,
+        265.115,
+        418.84,
+        274.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "125. A",
+      "bbox": [
+        78.41,
+        279.706,
+        105.818,
+        291.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "143. E",
+      "bbox": [
+        335.38,
+        279.676,
+        361.235,
+        290.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "126. C【解析】推疣法用于治疗头大蒂小，明显高",
+      "bbox": [
+        78.45,
+        293.995,
+        294.284,
+        304.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "144. A【解析】滑胎孕前宜以补肾健脾，益气养",
+      "bbox": [
+        335.43,
+        293.476,
+        550.95,
+        304.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "出皮面的疣，主要针对寻常疣的外治。传染性软疣主",
+      "bbox": [
+        58.08,
+        308.705,
+        294.71,
+        318.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "血，调理冲任为主；孕后即应积极进行保胎治疗，并应",
+      "bbox": [
+        315.02,
+        308.075,
+        551.001,
+        317.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "要用敷贴法和挑刺法。跖疣主要用挖除法、外敷法、电",
+      "bbox": [
+        57.34,
+        322.804,
+        294.447,
+        332.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "维持超过既往堕胎、小产时间2周，万不可等到发生流",
+      "bbox": [
+        314.96,
+        322.335,
+        551.132,
+        331.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "灼法；丝状疣主要用结扎法。",
+      "bbox": [
+        57.24,
+        337.525,
+        181.0,
+        347.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "产先兆以后再进行诊治。堕胎、小产的治疗原则以下",
+      "bbox": [
+        314.73,
+        336.545,
+        550.902,
+        346.075
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "127. B【解析】一期梅毒主要表现为疳疮（硬下",
+      "bbox": [
+        78.48,
+        351.345,
+        294.512,
+        362.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "胎益母为主，若胎堕完全者应按产后处理，宜调养气血",
+      "bbox": [
+        314.96,
+        350.995,
+        551.104,
+        360.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "疳），发生于不洁性交后2～4周。",
+      "bbox": [
+        57.26,
+        366.206,
+        200.128,
+        375.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "为主。",
+      "bbox": [
+        315.18,
+        365.606,
+        343.5,
+        375.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "128. D【解析】二期梅毒杨梅疮一般发生在感染",
+      "bbox": [
+        78.3,
+        379.916,
+        294.713,
+        391.467
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "145. B【解析】幼儿急疹起病急骤，常突然高热，",
+      "bbox": [
+        335.4,
+        379.576,
+        550.549,
+        390.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "后7～10周或硬下疳出现后6～8周。",
+      "bbox": [
+        57.23,
+        394.545,
+        220.326,
+        404.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "持续3～4天后热退疹出，皮疹呈玫瑰红色，以躯干、臀",
+      "bbox": [
+        314.99,
+        393.985,
+        551.245,
+        403.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "129. C",
+      "bbox": [
+        78.48,
+        409.356,
+        105.21,
+        420.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "部较多，面部及四肢较少。皮疹出现1～2天后消退，",
+      "bbox": [
+        314.95,
+        408.545,
+        550.602,
+        419.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "130. E【解析】油风气滞血瘀证治法：通窍活血，",
+      "bbox": [
+        78.45,
+        423.175,
+        294.265,
+        434.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "疹退后无脱屑及色素沉着。",
+      "bbox": [
+        314.93,
+        422.635,
+        429.903,
+        432.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "祛瘀生发。代表方：通窍活血汤加减。油风肝肾不足",
+      "bbox": [
+        57.25,
+        437.275,
+        294.89,
+        446.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "146. D【解析】麻疹初热期有发热、咳嗽、喷嚏等",
+      "bbox": [
+        335.65,
+        436.825,
+        550.93,
+        448.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "证治法：滋补肝肾。代表方：七宝美髯丹加减。",
+      "bbox": [
+        57.36,
+        452.175,
+        257.28,
+        461.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "类似感冒的表现，但发热渐高，目赤多泪，畏光，于发病",
+      "bbox": [
+        314.95,
+        451.725,
+        552.7,
+        461.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "131. A【解析】治疗经期出血脾气虚证，应首选归",
+      "bbox": [
+        78.42,
+        466.025,
+        294.405,
+        477.297
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "2～3天时，口腔出现麻疹黏膜斑。发热3～4天后进入",
+      "bbox": [
+        315.1,
+        465.875,
+        550.96,
+        475.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "脾汤。",
+      "bbox": [
+        57.21,
+        481.046,
+        85.5,
+        490.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "见形期，此期高热起伏，咳嗽加剧，纳呆嗜睡，分批出",
+      "bbox": [
+        314.9,
+        480.275,
+        550.358,
+        489.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "132. C【解析】治疗经间期出血湿热证，应首选清",
+      "bbox": [
+        78.39,
+        494.875,
+        294.893,
+        505.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "疹。皮疹先见于耳后、发际，渐遍及全身，最后达手心",
+      "bbox": [
+        315.1,
+        494.495,
+        551.025,
+        504.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "肝止淋汤。",
+      "bbox": [
+        57.25,
+        509.805,
+        104.55,
+        519.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "与足心，3～4天出齐，并进入恢复期。恢复期皮疹按出",
+      "bbox": [
+        315.42,
+        509.245,
+        550.535,
+        518.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "133. B【解析】育龄期妇女与肝肾密切相关，故致",
+      "bbox": [
+        78.32,
+        523.725,
+        294.974,
+        534.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "疹顺序消退，疹退后皮肤见脱屑及色素沉着，体温渐",
+      "bbox": [
+        315.01,
+        523.455,
+        551.43,
+        532.995
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "病多以肝肾为主。",
+      "bbox": [
+        57.29,
+        538.725,
+        133.623,
+        548.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "降，全身症状随之好转。",
+      "bbox": [
+        315.54,
+        538.105,
+        420.15,
+        547.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "134. C【解析】围绝经期妇女脾肾功能开始衰退，",
+      "bbox": [
+        78.35,
+        552.356,
+        294.597,
+        563.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "147. A",
+      "bbox": [
+        335.78,
+        552.406,
+        362.411,
+        563.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "故致病多以脾肾亏虚为主。",
+      "bbox": [
+        57.53,
+        567.195,
+        174.474,
+        576.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "148. E【解析】蛔虫病肠虫证疼痛部位在脐周，蛔",
+      "bbox": [
+        335.94,
+        566.856,
+        551.047,
+        577.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "135. D【解析】由题干患者产后高热，小腹剧痛，",
+      "bbox": [
+        78.4,
+        580.905,
+        294.43,
+        592.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "厥证疼痛部位在右上腹或剑突下。",
+      "bbox": [
+        315.13,
+        581.635,
+        460.729,
+        591.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "恶露有臭气，大便秘结，诊断为产后发热，热结阳明，治",
+      "bbox": [
+        57.57,
+        595.635,
+        295.002,
+        605.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "149. A",
+      "bbox": [
+        335.95,
+        595.767,
+        362.266,
+        607.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "疗应首选大黄牡丹汤，峻下热结。",
+      "bbox": [
+        57.28,
+        610.516,
+        199.918,
+        619.946
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "150. E【解析】①卫气同病辛凉透表，清热解毒，",
+      "bbox": [
+        335.85,
+        610.616,
+        551.028,
+        621.677
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "136. B【解析】由题干患者产后寒热时作，恶露甚",
+      "bbox": [
+        78.58,
+        624.636,
+        294.757,
+        635.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "银翘散加减；②气营两燔宜清气凉营，解毒化瘀，清瘟",
+      "bbox": [
+        315.12,
+        625.255,
+        551.58,
+        634.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "少，色紫暗，腹痛拒按，口干不欲饮，诊断为产后发热血",
+      "bbox": [
+        57.72,
+        639.185,
+        295.47,
+        648.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "败毒饮加减；③气阴两伤宜益气养阴，清解余热，沙参",
+      "bbox": [
+        315.26,
+        639.825,
+        551.593,
+        649.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "瘀证，治疗应首选生化汤。",
+      "bbox": [
+        57.39,
+        653.735,
+        171.39,
+        663.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "麦冬汤加减。",
+      "bbox": [
+        315.32,
+        653.765,
+        372.32,
+        663.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "—",
+      "bbox": [
+        275.55,
+        805.772,
+        286.37,
+        816.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "238",
+      "bbox": [
+        295.25,
+        806.829,
+        310.21,
+        816.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 29,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        412.61,
+        45.313,
+        530.354,
+        55.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 腑病",
+      "bbox": [
+        64.31,
+        75.019,
+        100.034,
+        86.079
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 高热惊厥",
+      "bbox": [
+        328.51,
+        74.719,
+        390.446,
+        85.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 痛证",
+      "bbox": [
+        64.13,
+        90.889,
+        100.46,
+        101.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 中风脱证",
+      "bbox": [
+        328.03,
+        90.74,
+        389.146,
+        101.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 血证",
+      "bbox": [
+        64.04,
+        107.13,
+        100.141,
+        118.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 中暑昏迷",
+      "bbox": [
+        328.19,
+        106.55,
+        388.92,
+        117.52
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "47. 内关穴主治除哪项以外的病证（）",
+      "bbox": [
+        63.33,
+        123.239,
+        272.806,
+        134.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 急性腰扭伤",
+      "bbox": [
+        327.93,
+        122.381,
+        401.666,
+        133.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 心悸，心痛",
+      "bbox": [
+        63.9,
+        139.271,
+        130.305,
+        150.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 喉蛾",
+      "bbox": [
+        328.16,
+        138.791,
+        364.75,
+        149.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 小便不利，水肿",
+      "bbox": [
+        63.59,
+        155.45,
+        152.415,
+        166.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "54. 八会穴是指与以下哪8种精气有关的",
+      "bbox": [
+        328.23,
+        154.889,
+        543.878,
+        165.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 胃痛，呃逆，呕吐",
+      "bbox": [
+        63.3,
+        171.921,
+        160.966,
+        182.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "腧穴（）",
+      "bbox": [
+        303.83,
+        171.0,
+        362.436,
+        182.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 失眠，癫狂，痫",
+      "bbox": [
+        63.23,
+        187.962,
+        149.844,
+        198.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 气、血、脑、髓、筋、脉、胆、女子胞",
+      "bbox": [
+        328.06,
+        187.391,
+        524.546,
+        198.261
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 热病，疟疾",
+      "bbox": [
+        63.56,
+        204.481,
+        128.942,
+        215.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 气、血、骨、髓、液、津、筋、脉",
+      "bbox": [
+        327.97,
+        203.853,
+        499.337,
+        214.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "48. 下列除哪项外，均是厥证的病因",
+      "bbox": [
+        63.23,
+        221.207,
+        277.919,
+        232.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 气、血、脏、腑、脑、髓、筋、脉",
+      "bbox": [
+        327.91,
+        220.131,
+        501.787,
+        231.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "（）",
+      "bbox": [
+        41.44,
+        237.651,
+        72.886,
+        248.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 脏、腑、气、血、筋、脉、骨、髓",
+      "bbox": [
+        327.75,
+        236.843,
+        498.523,
+        247.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 情志内伤",
+      "bbox": [
+        63.54,
+        253.42,
+        124.249,
+        264.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 脏、腑、气、血、经、脉、津、液",
+      "bbox": [
+        327.89,
+        253.201,
+        501.97,
+        264.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 体虚劳倦",
+      "bbox": [
+        63.31,
+        270.02,
+        122.872,
+        281.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "55. “以痛为腧”指的穴位是（）",
+      "bbox": [
+        327.93,
+        269.619,
+        501.816,
+        280.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 亡血失津",
+      "bbox": [
+        63.31,
+        286.809,
+        123.078,
+        297.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 阿是穴",
+      "bbox": [
+        327.81,
+        286.169,
+        377.623,
+        297.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 饮食不节",
+      "bbox": [
+        63.41,
+        302.869,
+        123.632,
+        313.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 五输穴",
+      "bbox": [
+        327.5,
+        302.509,
+        375.674,
+        313.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 感受暑热",
+      "bbox": [
+        63.42,
+        319.159,
+        123.296,
+        330.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 奇穴",
+      "bbox": [
+        327.61,
+        318.789,
+        363.963,
+        329.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "49. 足大趾内侧趾甲根角旁约0.1寸的穴",
+      "bbox": [
+        63.29,
+        335.867,
+        278.308,
+        347.157
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 原穴",
+      "bbox": [
+        327.57,
+        335.559,
+        364.777,
+        346.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "位是（）",
+      "bbox": [
+        40.81,
+        352.45,
+        96.9,
+        363.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 郄穴",
+      "bbox": [
+        327.86,
+        352.08,
+        364.215,
+        363.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 隐白",
+      "bbox": [
+        63.67,
+        368.459,
+        99.825,
+        379.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "56. 耻骨联合上缘至股骨内上髁上缘的骨",
+      "bbox": [
+        327.68,
+        368.339,
+        544.337,
+        379.469
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 大敦",
+      "bbox": [
+        63.47,
+        384.91,
+        99.495,
+        395.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "度分寸是（）",
+      "bbox": [
+        303.42,
+        385.11,
+        385.673,
+        396.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 厉兑",
+      "bbox": [
+        63.51,
+        401.419,
+        99.665,
+        412.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 21寸",
+      "bbox": [
+        327.56,
+        401.379,
+        368.283,
+        412.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 至阴",
+      "bbox": [
+        63.45,
+        417.959,
+        99.591,
+        429.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 22寸",
+      "bbox": [
+        327.49,
+        417.849,
+        366.343,
+        428.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 足临泣",
+      "bbox": [
+        63.66,
+        434.589,
+        111.594,
+        445.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 18寸",
+      "bbox": [
+        327.54,
+        434.349,
+        366.547,
+        445.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "50. 位于腕背横纹桡侧，当拇短伸肌腱与",
+      "bbox": [
+        63.64,
+        450.438,
+        278.063,
+        461.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 19寸",
+      "bbox": [
+        327.63,
+        450.618,
+        367.244,
+        461.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "拇长伸肌腱之间的凹陷中的穴位是（）",
+      "bbox": [
+        40.43,
+        466.649,
+        254.7,
+        477.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 20寸",
+      "bbox": [
+        327.64,
+        466.979,
+        366.817,
+        478.049
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 大陵",
+      "bbox": [
+        63.37,
+        484.309,
+        100.686,
+        495.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "57. 最早制作针灸铜人模型的医家是",
+      "bbox": [
+        327.66,
+        483.329,
+        544.572,
+        494.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 太渊",
+      "bbox": [
+        63.34,
+        500.711,
+        98.862,
+        511.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "（）",
+      "bbox": [
+        304.29,
+        500.011,
+        337.553,
+        511.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 阳溪",
+      "bbox": [
+        63.58,
+        517.38,
+        99.439,
+        528.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 皇甫谧",
+      "bbox": [
+        327.7,
+        515.98,
+        377.231,
+        526.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 神门",
+      "bbox": [
+        63.43,
+        534.05,
+        99.201,
+        545.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 孙思邈",
+      "bbox": [
+        327.42,
+        532.54,
+        375.842,
+        543.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 阳池",
+      "bbox": [
+        63.55,
+        550.71,
+        99.652,
+        561.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 王惟一",
+      "bbox": [
+        327.52,
+        549.43,
+        375.799,
+        560.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "51. 肩胛部腧穴中，不属于手太阳小肠经",
+      "bbox": [
+        63.68,
+        566.339,
+        278.585,
+        577.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 杨继洲",
+      "bbox": [
+        327.48,
+        565.521,
+        376.098,
+        576.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "的穴位有（）",
+      "bbox": [
+        41.3,
+        583.87,
+        121.33,
+        594.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 李学川",
+      "bbox": [
+        327.68,
+        582.211,
+        375.16,
+        593.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 曲垣",
+      "bbox": [
+        63.74,
+        600.55,
+        101.096,
+        611.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "58. 心经的郄穴是（）",
+      "bbox": [
+        327.85,
+        598.95,
+        453.093,
+        609.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 天宗",
+      "bbox": [
+        63.61,
+        616.97,
+        99.24,
+        627.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 灵道",
+      "bbox": [
+        327.63,
+        615.341,
+        365.561,
+        626.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 肩贞",
+      "bbox": [
+        63.62,
+        633.59,
+        98.872,
+        644.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 通里",
+      "bbox": [
+        327.7,
+        632.291,
+        363.583,
+        643.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 臑俞",
+      "bbox": [
+        63.64,
+        650.34,
+        100.69,
+        662.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 少府",
+      "bbox": [
+        327.86,
+        649.021,
+        364.18,
+        659.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 肩髎",
+      "bbox": [
+        63.7,
+        667.07,
+        100.06,
+        679.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 神门",
+      "bbox": [
+        327.75,
+        665.94,
+        364.017,
+        676.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "52. 下列腧穴中，治疗汗证首选（）",
+      "bbox": [
+        63.56,
+        683.98,
+        254.47,
+        695.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 阴郄",
+      "bbox": [
+        327.94,
+        682.39,
+        364.504,
+        693.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 复溜",
+      "bbox": [
+        63.53,
+        700.2,
+        100.713,
+        711.24
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "59. 在大腿部位没有经穴的经脉是（）",
+      "bbox": [
+        328.0,
+        699.319,
+        539.046,
+        710.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 然谷",
+      "bbox": [
+        63.48,
+        717.27,
+        99.285,
+        728.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 胃经",
+      "bbox": [
+        327.85,
+        716.291,
+        365.747,
+        727.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 太溪",
+      "bbox": [
+        63.77,
+        733.8,
+        100.07,
+        744.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 胆经",
+      "bbox": [
+        327.85,
+        732.471,
+        364.018,
+        743.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 阴谷",
+      "bbox": [
+        63.53,
+        750.61,
+        100.444,
+        761.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 肾经",
+      "bbox": [
+        327.9,
+        749.231,
+        364.326,
+        760.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 大钟",
+      "bbox": [
+        63.63,
+        767.02,
+        99.941,
+        778.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 脾经",
+      "bbox": [
+        327.73,
+        765.532,
+        364.768,
+        776.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "53. 下列病证，不宜用三棱针治疗的是（）",
+      "bbox": [
+        63.88,
+        783.63,
+        272.83,
+        794.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 肝经",
+      "bbox": [
+        327.96,
+        782.211,
+        364.367,
+        793.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—171",
+      "bbox": [
+        261.71,
+        803.032,
+        296.373,
+        812.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        313.2,
+        800.711,
+        322.67,
+        810.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1394 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 29,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1423.0,
+        93.0,
+        1809.0,
+        130.0
+      ],
+      "confidence": 0.946833,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 中脘",
+      "bbox": [
+        260.0,
+        193.0,
+        408.0,
+        254.0
+      ],
+      "confidence": 0.966754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 手第1～4指掌侧，近端指骨关节横纹",
+      "bbox": [
+        1145.0,
+        201.0,
+        1850.0,
+        246.0
+      ],
+      "confidence": 0.977857,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 百会",
+      "bbox": [
+        262.0,
+        252.0,
+        406.0,
+        309.0
+      ],
+      "confidence": 0.998517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "中点处",
+      "bbox": [
+        1063.0,
+        256.0,
+        1193.0,
+        309.0
+      ],
+      "confidence": 0.999647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "50. 迎香穴位于（",
+      "bbox": [
+        267.0,
+        313.0,
+        563.0,
+        362.0
+      ],
+      "confidence": 0.968366,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        624.0,
+        316.0,
+        655.0,
+        354.0
+      ],
+      "confidence": 0.990494,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 手第2～5指掌侧，掌指关节横纹中",
+      "bbox": [
+        1145.0,
+        317.0,
+        1850.0,
+        358.0
+      ],
+      "confidence": 0.96757,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 鼻孔外缘，旁开0.5寸",
+      "bbox": [
+        270.0,
+        370.0,
+        704.0,
+        415.0
+      ],
+      "confidence": 0.991524,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "点处",
+      "bbox": [
+        1062.0,
+        368.0,
+        1155.0,
+        424.0
+      ],
+      "confidence": 0.999797,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 鼻翼外缘，旁开0.5寸",
+      "bbox": [
+        269.0,
+        426.0,
+        699.0,
+        473.0
+      ],
+      "confidence": 0.989224,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "57. 既可治疗晕厥又可治疗闪挫腰痛的穴",
+      "bbox": [
+        1148.0,
+        433.0,
+        1852.0,
+        474.0
+      ],
+      "confidence": 0.984666,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 鼻翼外缘中点，旁开0.5寸",
+      "bbox": [
+        268.0,
+        481.0,
+        780.0,
+        530.0
+      ],
+      "confidence": 0.989225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "位为（",
+      "bbox": [
+        1065.0,
+        485.0,
+        1183.0,
+        539.0
+      ],
+      "confidence": 0.931587,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "）",
+      "bbox": [
+        1240.0,
+        492.0,
+        1273.0,
+        530.0
+      ],
+      "confidence": 0.978279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 鼻翼上缘中点，旁开0.5寸",
+      "bbox": [
+        268.0,
+        537.0,
+        780.0,
+        585.0
+      ],
+      "confidence": 0.98419,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 百会",
+      "bbox": [
+        1143.0,
+        542.0,
+        1283.0,
+        595.0
+      ],
+      "confidence": 0.998113,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 平鼻孔，当鼻唇沟中",
+      "bbox": [
+        269.0,
+        596.0,
+        659.0,
+        641.0
+      ],
+      "confidence": 0.994586,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 内关",
+      "bbox": [
+        1141.0,
+        598.0,
+        1278.0,
+        652.0
+      ],
+      "confidence": 0.925398,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "51. 腕横纹尺侧端，尺侧腕屈肌腱桡侧凹",
+      "bbox": [
+        269.0,
+        652.0,
+        990.0,
+        697.0
+      ],
+      "confidence": 0.943942,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 水泉",
+      "bbox": [
+        1141.0,
+        654.0,
+        1278.0,
+        708.0
+      ],
+      "confidence": 0.998605,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "陷中的腧穴是（",
+      "bbox": [
+        189.0,
+        708.0,
+        459.0,
+        754.0
+      ],
+      "confidence": 0.938652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 水道",
+      "bbox": [
+        1143.0,
+        713.0,
+        1280.0,
+        766.0
+      ],
+      "confidence": 0.996308,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 神门",
+      "bbox": [
+        267.0,
+        761.0,
+        408.0,
+        814.0
+      ],
+      "confidence": 0.998594,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 水沟",
+      "bbox": [
+        1141.0,
+        770.0,
+        1279.0,
+        822.0
+      ],
+      "confidence": 0.998777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 大陵",
+      "bbox": [
+        266.0,
+        818.0,
+        402.0,
+        870.0
+      ],
+      "confidence": 0.954129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "58. 与腰阳关穴在同一水平线上的腧穴",
+      "bbox": [
+        1145.0,
+        831.0,
+        1853.0,
+        878.0
+      ],
+      "confidence": 0.986546,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 列缺",
+      "bbox": [
+        264.0,
+        874.0,
+        402.0,
+        926.0
+      ],
+      "confidence": 0.998797,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "是（",
+      "bbox": [
+        1066.0,
+        888.0,
+        1140.0,
+        938.0
+      ],
+      "confidence": 0.874082,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "）",
+      "bbox": [
+        1146.0,
+        888.0,
+        1235.0,
+        936.0
+      ],
+      "confidence": 0.86505,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 太渊",
+      "bbox": [
+        263.0,
+        930.0,
+        403.0,
+        982.0
+      ],
+      "confidence": 0.997393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 胃俞",
+      "bbox": [
+        1144.0,
+        943.0,
+        1284.0,
+        995.0
+      ],
+      "confidence": 0.997978,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 内关",
+      "bbox": [
+        264.0,
+        986.0,
+        402.0,
+        1038.0
+      ],
+      "confidence": 0.99876,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 肾俞",
+      "bbox": [
+        1141.0,
+        997.0,
+        1279.0,
+        1054.0
+      ],
+      "confidence": 0.998224,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "52. 下列腧穴中，善治面诸疾的是（",
+      "bbox": [
+        268.0,
+        1045.0,
+        856.0,
+        1090.0
+      ],
+      "confidence": 0.947933,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "）",
+      "bbox": [
+        929.0,
+        1050.0,
+        951.0,
+        1083.0
+      ],
+      "confidence": 0.482056,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 膀胱俞",
+      "bbox": [
+        1144.0,
+        1059.0,
+        1318.0,
+        1110.0
+      ],
+      "confidence": 0.997995,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 商阳",
+      "bbox": [
+        266.0,
+        1099.0,
+        404.0,
+        1151.0
+      ],
+      "confidence": 0.998957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 大肠俞",
+      "bbox": [
+        1144.0,
+        1116.0,
+        1320.0,
+        1167.0
+      ],
+      "confidence": 0.998078,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 二间",
+      "bbox": [
+        263.0,
+        1155.0,
+        400.0,
+        1207.0
+      ],
+      "confidence": 0.888595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 肝俞",
+      "bbox": [
+        1144.0,
+        1173.0,
+        1280.0,
+        1226.0
+      ],
+      "confidence": 0.99917,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 合谷",
+      "bbox": [
+        264.0,
+        1211.0,
+        400.0,
+        1263.0
+      ],
+      "confidence": 0.99847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "59. 提插补泻法中，泻法的操作手法",
+      "bbox": [
+        1147.0,
+        1235.0,
+        1853.0,
+        1279.0
+      ],
+      "confidence": 0.994654,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 阳溪",
+      "bbox": [
+        263.0,
+        1268.0,
+        402.0,
+        1321.0
+      ],
+      "confidence": 0.997817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "是（",
+      "bbox": [
+        1063.0,
+        1289.0,
+        1140.0,
+        1343.0
+      ],
+      "confidence": 0.876112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "）",
+      "bbox": [
+        1145.0,
+        1291.0,
+        1239.0,
+        1338.0
+      ],
+      "confidence": 0.914225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 曲池",
+      "bbox": [
+        263.0,
+        1324.0,
+        400.0,
+        1377.0
+      ],
+      "confidence": 0.998142,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 重插轻提，幅度大，频率快",
+      "bbox": [
+        1151.0,
+        1351.0,
+        1635.0,
+        1393.0
+      ],
+      "confidence": 0.984223,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "53. 耳舟2区所主治的疾病是（",
+      "bbox": [
+        267.0,
+        1383.0,
+        791.0,
+        1427.0
+      ],
+      "confidence": 0.976528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        867.0,
+        1386.0,
+        892.0,
+        1422.0
+      ],
+      "confidence": 0.976449,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 重插轻提，幅度小，频率快",
+      "bbox": [
+        1150.0,
+        1411.0,
+        1629.0,
+        1449.0
+      ],
+      "confidence": 0.979415,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 肩关节周围炎",
+      "bbox": [
+        267.0,
+        1439.0,
+        558.0,
+        1485.0
+      ],
+      "confidence": 0.998744,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 重插轻提，幅度小，频率慢",
+      "bbox": [
+        1147.0,
+        1462.0,
+        1632.0,
+        1510.0
+      ],
+      "confidence": 0.989134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 手指麻木疼痛",
+      "bbox": [
+        266.0,
+        1496.0,
+        552.0,
+        1542.0
+      ],
+      "confidence": 0.99858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 轻插重提，幅度小，频率快",
+      "bbox": [
+        1150.0,
+        1524.0,
+        1634.0,
+        1566.0
+      ],
+      "confidence": 0.972771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 荨麻疹",
+      "bbox": [
+        264.0,
+        1549.0,
+        437.0,
+        1600.0
+      ],
+      "confidence": 0.996492,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 轻插重提，幅度大，频率快",
+      "bbox": [
+        1149.0,
+        1581.0,
+        1632.0,
+        1623.0
+      ],
+      "confidence": 0.959583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 肘部疼痛",
+      "bbox": [
+        266.0,
+        1608.0,
+        476.0,
+        1656.0
+      ],
+      "confidence": 0.998704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "60. 属手少阴心经的腧穴是（",
+      "bbox": [
+        1150.0,
+        1639.0,
+        1630.0,
+        1680.0
+      ],
+      "confidence": 0.935249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 腕部疼痛",
+      "bbox": [
+        266.0,
+        1665.0,
+        474.0,
+        1712.0
+      ],
+      "confidence": 0.99906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 照海",
+      "bbox": [
+        1146.0,
+        1693.0,
+        1284.0,
+        1742.0
+      ],
+      "confidence": 0.998664,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "54. 乳头直下，第7肋间隙的穴位是（",
+      "bbox": [
+        267.0,
+        1720.0,
+        877.0,
+        1767.0
+      ],
+      "confidence": 0.968377,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "）",
+      "bbox": [
+        954.0,
+        1725.0,
+        973.0,
+        1754.0
+      ],
+      "confidence": 0.694535,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 气海",
+      "bbox": [
+        1144.0,
+        1750.0,
+        1279.0,
+        1802.0
+      ],
+      "confidence": 0.997343,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 章门",
+      "bbox": [
+        262.0,
+        1774.0,
+        404.0,
+        1829.0
+      ],
+      "confidence": 0.998045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 血海",
+      "bbox": [
+        1145.0,
+        1809.0,
+        1279.0,
+        1858.0
+      ],
+      "confidence": 0.998976,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 期门",
+      "bbox": [
+        262.0,
+        1832.0,
+        398.0,
+        1885.0
+      ],
+      "confidence": 0.999196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 少海",
+      "bbox": [
+        1145.0,
+        1868.0,
+        1280.0,
+        1915.0
+      ],
+      "confidence": 0.998912,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 带脉",
+      "bbox": [
+        263.0,
+        1888.0,
+        400.0,
+        1941.0
+      ],
+      "confidence": 0.998002,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 小海",
+      "bbox": [
+        1145.0,
+        1925.0,
+        1279.0,
+        1974.0
+      ],
+      "confidence": 0.998815,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 京门",
+      "bbox": [
+        262.0,
+        1944.0,
+        401.0,
+        1997.0
+      ],
+      "confidence": 0.998501,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "61. 一般进针的角度可分为（",
+      "bbox": [
+        1151.0,
+        1988.0,
+        1634.0,
+        2026.0
+      ],
+      "confidence": 0.964305,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "）",
+      "bbox": [
+        1703.0,
+        1993.0,
+        1724.0,
+        2021.0
+      ],
+      "confidence": 0.981984,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 日月",
+      "bbox": [
+        263.0,
+        2003.0,
+        396.0,
+        2052.0
+      ],
+      "confidence": 0.998554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 针身与皮肤表面呈:90^{\\c、45{°c、15°",
+      "bbox": [
+        1151.0,
+        2042.0,
+        1737.0,
+        2085.0
+      ],
+      "confidence": 0.724091,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "55. 治疗肾阴虚证，应首选（",
+      "bbox": [
+        267.0,
+        2061.0,
+        731.0,
+        2106.0
+      ],
+      "confidence": 0.964696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "）",
+      "bbox": [
+        809.0,
+        2068.0,
+        827.0,
+        2097.0
+      ],
+      "confidence": 0.616902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 针身与皮肤表面呈:$120^{°c、45{\\c15°",
+      "bbox": [
+        1150.0,
+        2100.0,
+        1748.0,
+        2143.0
+      ],
+      "confidence": 0.756626,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 六味地黄丸",
+      "bbox": [
+        266.0,
+        2117.0,
+        520.0,
+        2164.0
+      ],
+      "confidence": 0.998051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 针身与皮肤表面呈:$90^{\\c、80^{\\c、70{\\}",
+      "bbox": [
+        1150.0,
+        2156.0,
+        1731.0,
+        2202.0
+      ],
+      "confidence": 0.629777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 一贯煎",
+      "bbox": [
+        263.0,
+        2171.0,
+        437.0,
+        2222.0
+      ],
+      "confidence": 0.980708,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 针身与皮肤表面呈：90^{°c45{°c、35°",
+      "bbox": [
+        1150.0,
+        2215.0,
+        1731.0,
+        2259.0
+      ],
+      "confidence": 0.726385,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 清骨散",
+      "bbox": [
+        266.0,
+        2230.0,
+        437.0,
+        2277.0
+      ],
+      "confidence": 0.998588,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 二阴煎",
+      "bbox": [
+        263.0,
+        2284.0,
+        440.0,
+        2336.0
+      ],
+      "confidence": 0.997675,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 针身与皮肤表面呈：$90°、45{°c、5{°",
+      "bbox": [
+        1147.0,
+        2271.0,
+        1714.0,
+        2320.0
+      ],
+      "confidence": 0.737059,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "62. 下列不属于艾灸的是（",
+      "bbox": [
+        1149.0,
+        2332.0,
+        1590.0,
+        2376.0
+      ],
+      "confidence": 0.968183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 三圣散",
+      "bbox": [
+        264.0,
+        2343.0,
+        439.0,
+        2389.0
+      ],
+      "confidence": 0.998631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "）",
+      "bbox": [
+        1660.0,
+        2336.0,
+        1687.0,
+        2370.0
+      ],
+      "confidence": 0.987476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 太乙针灸",
+      "bbox": [
+        1149.0,
+        2389.0,
+        1361.0,
+        2435.0
+      ],
+      "confidence": 0.998988,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "56. 四缝穴的位置在（",
+      "bbox": [
+        268.0,
+        2401.0,
+        640.0,
+        2443.0
+      ],
+      "confidence": 0.965444,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 悬灸",
+      "bbox": [
+        1144.0,
+        2444.0,
+        1279.0,
+        2496.0
+      ],
+      "confidence": 0.895917,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "A. 手第1～5指间，指蹼缘后方赤白肉",
+      "bbox": [
+        269.0,
+        2457.0,
+        985.0,
+        2499.0
+      ],
+      "confidence": 0.983267,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "际处",
+      "bbox": [
+        184.0,
+        2510.0,
+        275.0,
+        2562.0
+      ],
+      "confidence": 0.999285,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "C. 间接灸",
+      "bbox": [
+        1148.0,
+        2504.0,
+        1317.0,
+        2551.0
+      ],
+      "confidence": 0.99825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "B. 手第1～4指掌侧，指骨关节横纹中",
+      "bbox": [
+        266.0,
+        2568.0,
+        987.0,
+        2613.0
+      ],
+      "confidence": 0.978824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "D. 实按灸",
+      "bbox": [
+        1146.0,
+        2560.0,
+        1318.0,
+        2607.0
+      ],
+      "confidence": 0.999356,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "点处",
+      "bbox": [
+        181.0,
+        2619.0,
+        276.0,
+        2678.0
+      ],
+      "confidence": 0.999788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "E. 天灸",
+      "bbox": [
+        1146.0,
+        2618.0,
+        1278.0,
+        2667.0
+      ],
+      "confidence": 0.998448,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "C. 手第2～5指掌侧，近端指骨关节横纹",
+      "bbox": [
+        268.0,
+        2682.0,
+        990.0,
+        2727.0
+      ],
+      "confidence": 0.977203,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "63. 近视且易疲劳者，其配穴是（",
+      "bbox": [
+        1150.0,
+        2677.0,
+        1685.0,
+        2721.0
+      ],
+      "confidence": 0.973916,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "）",
+      "bbox": [
+        1764.0,
+        2682.0,
+        1782.0,
+        2710.0
+      ],
+      "confidence": 0.455606,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "中点处",
+      "bbox": [
+        182.0,
+        2735.0,
+        313.0,
+        2792.0
+      ],
+      "confidence": 0.999647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "A. 心俞、脾俞、足三里",
+      "bbox": [
+        1150.0,
+        2735.0,
+        1517.0,
+        2779.0
+      ],
+      "confidence": 0.992444,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "—",
+      "bbox": [
+        938.0,
+        2811.0,
+        995.0,
+        2842.0
+      ],
+      "confidence": 0.451185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "75",
+      "bbox": [
+        1006.0,
+        2806.0,
+        1060.0,
+        2848.0
+      ],
+      "confidence": 0.99892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 105,
+      "text": "—",
+      "bbox": [
+        1061.0,
+        2813.0,
+        1116.0,
+        2841.0
+      ],
+      "confidence": 0.804861,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

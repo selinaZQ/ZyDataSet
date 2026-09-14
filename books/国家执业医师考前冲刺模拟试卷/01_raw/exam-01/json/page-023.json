@@ -1,0 +1,1394 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 23,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1440.0,
+        50.0,
+        1846.0,
+        91.0
+      ],
+      "confidence": 0.937955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 甲状腺摄$1^I率",
+      "bbox": [
+        226.0,
+        155.0,
+        563.0,
+        209.0
+      ],
+      "confidence": 0.803587,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "135. 两肺散在于湿啰音，其多少及部位不",
+      "bbox": [
+        1149.0,
+        163.0,
+        1887.0,
+        206.0
+      ],
+      "confidence": 0.979708,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "125. 诊断甲亢的首选实验室检查（",
+      "bbox": [
+        229.0,
+        213.0,
+        849.0,
+        263.0
+      ],
+      "confidence": 0.995227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        918.0,
+        221.0,
+        947.0,
+        256.0
+      ],
+      "confidence": 0.837284,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "固定者，见于(",
+      "bbox": [
+        1068.0,
+        218.0,
+        1370.0,
+        263.0
+      ],
+      "confidence": 0.875992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        1390.0,
+        225.0,
+        1419.0,
+        256.0
+      ],
+      "confidence": 0.997548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "126. 甲亢内科治疗停药首选实验室检查（",
+      "bbox": [
+        228.0,
+        268.0,
+        899.0,
+        319.0
+      ],
+      "confidence": 0.978183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "）",
+      "bbox": [
+        964.0,
+        279.0,
+        985.0,
+        312.0
+      ],
+      "confidence": 0.548228,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "136. 患侧呼吸运动减弱，叩诊浊音，可闻",
+      "bbox": [
+        1150.0,
+        277.0,
+        1888.0,
+        317.0
+      ],
+      "confidence": 0.990503,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "(127～128题共用备选答案)",
+      "bbox": [
+        233.0,
+        325.0,
+        759.0,
+        374.0
+      ],
+      "confidence": 0.939015,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "及支气管呼吸音者，见于（）",
+      "bbox": [
+        1068.0,
+        330.0,
+        1630.0,
+        375.0
+      ],
+      "confidence": 0.945714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 急性粒细胞白血病",
+      "bbox": [
+        231.0,
+        380.0,
+        627.0,
+        430.0
+      ],
+      "confidence": 0.999294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "(137～138题共用备选答案）",
+      "bbox": [
+        1151.0,
+        384.0,
+        1659.0,
+        429.0
+      ],
+      "confidence": 0.914956,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 急性淋巴细胞白血病",
+      "bbox": [
+        230.0,
+        437.0,
+        658.0,
+        484.0
+      ],
+      "confidence": 0.996888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 黏液血便",
+      "bbox": [
+        1148.0,
+        437.0,
+        1373.0,
+        489.0
+      ],
+      "confidence": 0.997348,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 慢性粒细胞白血病",
+      "bbox": [
+        228.0,
+        491.0,
+        621.0,
+        543.0
+      ],
+      "confidence": 0.998586,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 水样便",
+      "bbox": [
+        1145.0,
+        493.0,
+        1325.0,
+        545.0
+      ],
+      "confidence": 0.998485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 慢性淋巴细胞白血病",
+      "bbox": [
+        228.0,
+        547.0,
+        662.0,
+        600.0
+      ],
+      "confidence": 0.99703,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 果酱样便",
+      "bbox": [
+        1146.0,
+        548.0,
+        1367.0,
+        601.0
+      ],
+      "confidence": 0.997478,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 慢性再生障碍性贫血",
+      "bbox": [
+        226.0,
+        602.0,
+        662.0,
+        656.0
+      ],
+      "confidence": 0.998051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 嗜酸性粒细胞减少",
+      "bbox": [
+        1149.0,
+        610.0,
+        1531.0,
+        652.0
+      ],
+      "confidence": 0.99855,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "127. VP方案常用于治疗（",
+      "bbox": [
+        228.0,
+        657.0,
+        724.0,
+        710.0
+      ],
+      "confidence": 0.972213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "）",
+      "bbox": [
+        781.0,
+        666.0,
+        805.0,
+        699.0
+      ],
+      "confidence": 0.972533,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 嗜酸性粒细胞增多",
+      "bbox": [
+        1148.0,
+        664.0,
+        1531.0,
+        710.0
+      ],
+      "confidence": 0.998076,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "128. HOAP方案常用于治疗（",
+      "bbox": [
+        228.0,
+        713.0,
+        771.0,
+        765.0
+      ],
+      "confidence": 0.975929,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "）",
+      "bbox": [
+        847.0,
+        721.0,
+        872.0,
+        757.0
+      ],
+      "confidence": 0.971878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "137. 霍乱多见()",
+      "bbox": [
+        1149.0,
+        720.0,
+        1531.0,
+        766.0
+      ],
+      "confidence": 0.947523,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "(129～130题共用备选答案)",
+      "bbox": [
+        229.0,
+        769.0,
+        752.0,
+        822.0
+      ],
+      "confidence": 0.937438,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "138. 细菌性痢疾多见(",
+      "bbox": [
+        1149.0,
+        776.0,
+        1552.0,
+        821.0
+      ],
+      "confidence": 0.966965,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "）",
+      "bbox": [
+        1537.0,
+        781.0,
+        1649.0,
+        816.0
+      ],
+      "confidence": 0.702165,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 瞳孔扩大",
+      "bbox": [
+        228.0,
+        826.0,
+        456.0,
+        880.0
+      ],
+      "confidence": 0.998206,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "(139～140题共用备选答案)",
+      "bbox": [
+        1152.0,
+        835.0,
+        1660.0,
+        876.0
+      ],
+      "confidence": 0.923335,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 瞳孔缩小",
+      "bbox": [
+        226.0,
+        886.0,
+        447.0,
+        935.0
+      ],
+      "confidence": 0.998103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 抑制胃酸分泌",
+      "bbox": [
+        1150.0,
+        888.0,
+        1454.0,
+        934.0
+      ],
+      "confidence": 0.998926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 瞳孔呈白色",
+      "bbox": [
+        230.0,
+        945.0,
+        488.0,
+        988.0
+      ],
+      "confidence": 0.996484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 保护胃黏膜",
+      "bbox": [
+        1146.0,
+        944.0,
+        1407.0,
+        991.0
+      ],
+      "confidence": 0.998737,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 两瞳孔大小不等",
+      "bbox": [
+        226.0,
+        996.0,
+        575.0,
+        1047.0
+      ],
+      "confidence": 0.996318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 早期手术",
+      "bbox": [
+        1146.0,
+        999.0,
+        1367.0,
+        1049.0
+      ],
+      "confidence": 0.998941,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 瞳孔形状不规则",
+      "bbox": [
+        226.0,
+        1054.0,
+        574.0,
+        1101.0
+      ],
+      "confidence": 0.998147,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 减少胆汁反流",
+      "bbox": [
+        1146.0,
+        1055.0,
+        1451.0,
+        1104.0
+      ],
+      "confidence": 0.996841,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "129. 有机磷农药中毒的瞳孔变化是（",
+      "bbox": [
+        228.0,
+        1109.0,
+        855.0,
+        1156.0
+      ],
+      "confidence": 0.979478,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "）",
+      "bbox": [
+        931.0,
+        1120.0,
+        950.0,
+        1148.0
+      ],
+      "confidence": 0.991143,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 根除幽门螺杆菌(Hp)",
+      "bbox": [
+        1148.0,
+        1114.0,
+        1588.0,
+        1159.0
+      ],
+      "confidence": 0.94976,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "130. 阿托品中毒的瞳孔变化是（",
+      "bbox": [
+        229.0,
+        1167.0,
+        800.0,
+        1212.0
+      ],
+      "confidence": 0.973871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "）",
+      "bbox": [
+        878.0,
+        1173.0,
+        903.0,
+        1206.0
+      ],
+      "confidence": 0.983967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "139. 十二指肠球部溃疡的治疗最主要的",
+      "bbox": [
+        1150.0,
+        1171.0,
+        1892.0,
+        1212.0
+      ],
+      "confidence": 0.994983,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "（131～132题共用备选答案)",
+      "bbox": [
+        229.0,
+        1222.0,
+        759.0,
+        1271.0
+      ],
+      "confidence": 0.921088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "是（",
+      "bbox": [
+        1062.0,
+        1223.0,
+        1139.0,
+        1274.0
+      ],
+      "confidence": 0.927315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        1180.0,
+        1224.0,
+        1241.0,
+        1270.0
+      ],
+      "confidence": 0.979929,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 多为上腹正中偏右疼痛",
+      "bbox": [
+        229.0,
+        1280.0,
+        704.0,
+        1326.0
+      ],
+      "confidence": 0.998006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "140. 防止溃疡复发的最主要的措施是(",
+      "bbox": [
+        1149.0,
+        1280.0,
+        1791.0,
+        1326.0
+      ],
+      "confidence": 0.98668,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        1855.0,
+        1289.0,
+        1875.0,
+        1315.0
+      ],
+      "confidence": 0.986497,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 多为剑突下正中偏左疼痛",
+      "bbox": [
+        228.0,
+        1338.0,
+        739.0,
+        1383.0
+      ],
+      "confidence": 0.997576,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "(141～142题共用备选答案)",
+      "bbox": [
+        1149.0,
+        1334.0,
+        1668.0,
+        1383.0
+      ],
+      "confidence": 0.927132,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 上腹痛无节律性并易引起呕吐",
+      "bbox": [
+        227.0,
+        1390.0,
+        824.0,
+        1441.0
+      ],
+      "confidence": 0.998978,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 《省心录·论医》",
+      "bbox": [
+        1148.0,
+        1394.0,
+        1502.0,
+        1439.0
+      ],
+      "confidence": 0.991565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 以右上腹痛、夜间痛、背部放射性疼痛",
+      "bbox": [
+        227.0,
+        1451.0,
+        981.0,
+        1496.0
+      ],
+      "confidence": 0.99777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 《备急千金要方》",
+      "bbox": [
+        1146.0,
+        1451.0,
+        1495.0,
+        1497.0
+      ],
+      "confidence": 0.992247,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "为主",
+      "bbox": [
+        140.0,
+        1502.0,
+        236.0,
+        1559.0
+      ],
+      "confidence": 0.999696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 《本草纲目》",
+      "bbox": [
+        1144.0,
+        1503.0,
+        1416.0,
+        1556.0
+      ],
+      "confidence": 0.998157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 胃、十二指肠都有溃疡",
+      "bbox": [
+        225.0,
+        1562.0,
+        679.0,
+        1608.0
+      ],
+      "confidence": 0.997755,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 《外科正宗》",
+      "bbox": [
+        1144.0,
+        1558.0,
+        1417.0,
+        1611.0
+      ],
+      "confidence": 0.997692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "131. 幽门管溃疡（）",
+      "bbox": [
+        223.0,
+        1613.0,
+        659.0,
+        1666.0
+      ],
+      "confidence": 0.913955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 《迈蒙尼提斯祷文》",
+      "bbox": [
+        1146.0,
+        1619.0,
+        1539.0,
+        1665.0
+      ],
+      "confidence": 0.992923,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "132. 球后溃疡（)",
+      "bbox": [
+        223.0,
+        1669.0,
+        617.0,
+        1723.0
+      ],
+      "confidence": 0.927069,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "141. “无恒德者，不可以作医，人命死生之",
+      "bbox": [
+        1145.0,
+        1674.0,
+        1895.0,
+        1722.0
+      ],
+      "confidence": 0.974694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "(133～134题共用备选答案）",
+      "bbox": [
+        227.0,
+        1726.0,
+        759.0,
+        1778.0
+      ],
+      "confidence": 0.926756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "系”。出自的著作是()",
+      "bbox": [
+        1066.0,
+        1729.0,
+        1558.0,
+        1778.0
+      ],
+      "confidence": 0.940038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 鉴定人员是医疗纠纷当事人的近亲属",
+      "bbox": [
+        227.0,
+        1786.0,
+        954.0,
+        1835.0
+      ],
+      "confidence": 0.998898,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "142. “启我爱医术，复爱世间人，愿绝名利",
+      "bbox": [
+        1144.0,
+        1784.0,
+        1897.0,
+        1836.0
+      ],
+      "confidence": 0.966999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 鉴定人员与医疗纠纷当事人有其他关",
+      "bbox": [
+        224.0,
+        1841.0,
+        984.0,
+        1895.0
+      ],
+      "confidence": 0.999161,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "心，尽力为病人，无分爱与憎，不问富与贫，凡",
+      "bbox": [
+        1065.0,
+        1842.0,
+        1898.0,
+        1892.0
+      ],
+      "confidence": 0.984606,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "系，可能影响医疗纠纷公正处理",
+      "bbox": [
+        145.0,
+        1897.0,
+        716.0,
+        1949.0
+      ],
+      "confidence": 0.976103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "诸疾病者，一视如同仁”。出自的著作是",
+      "bbox": [
+        1063.0,
+        1901.0,
+        1898.0,
+        1949.0
+      ],
+      "confidence": 0.994409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "C. 医疗过错在医疗损害中的责任程度",
+      "bbox": [
+        228.0,
+        1957.0,
+        906.0,
+        2007.0
+      ],
+      "confidence": 0.999359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "()",
+      "bbox": [
+        1054.0,
+        1948.0,
+        1208.0,
+        2010.0
+      ],
+      "confidence": 0.513574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "D. 患者病情、医疗措施、医疗风险、替代医",
+      "bbox": [
+        227.0,
+        2011.0,
+        983.0,
+        2063.0
+      ],
+      "confidence": 0.998925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "(143～144题共用备选答案)",
+      "bbox": [
+        1149.0,
+        2010.0,
+        1670.0,
+        2059.0
+      ],
+      "confidence": 0.922436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "疗方案",
+      "bbox": [
+        140.0,
+        2063.0,
+        280.0,
+        2120.0
+      ],
+      "confidence": 0.999549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 血清脂肪酶",
+      "bbox": [
+        1146.0,
+        2068.0,
+        1416.0,
+        2117.0
+      ],
+      "confidence": 0.998335,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 有关病历资料、现场实物封存和启封的",
+      "bbox": [
+        226.0,
+        2122.0,
+        983.0,
+        2176.0
+      ],
+      "confidence": 0.999044,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 血尿素氮",
+      "bbox": [
+        1144.0,
+        2122.0,
+        1367.0,
+        2174.0
+      ],
+      "confidence": 0.99923,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "规定",
+      "bbox": [
+        140.0,
+        2176.0,
+        238.0,
+        2233.0
+      ],
+      "confidence": 0.999793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 血清淀粉酶",
+      "bbox": [
+        1146.0,
+        2181.0,
+        1408.0,
+        2227.0
+      ],
+      "confidence": 0.998852,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "133. 医学会、司法鉴定机构作出的医疗损",
+      "bbox": [
+        228.0,
+        2238.0,
+        982.0,
+        2286.0
+      ],
+      "confidence": 0.997253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 血清正铁白蛋白",
+      "bbox": [
+        1145.0,
+        2236.0,
+        1491.0,
+        2286.0
+      ],
+      "confidence": 0.998496,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "害鉴定意见应当载明并详细论述()",
+      "bbox": [
+        145.0,
+        2294.0,
+        864.0,
+        2343.0
+      ],
+      "confidence": 0.962634,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 血清钙",
+      "bbox": [
+        1141.0,
+        2289.0,
+        1326.0,
+        2344.0
+      ],
+      "confidence": 0.998359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "134. 发生医疗纠纷，医疗机构应当告知患",
+      "bbox": [
+        227.0,
+        2351.0,
+        982.0,
+        2400.0
+      ],
+      "confidence": 0.995319,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "143. 对发病较晚的急性胰腺炎诊断有帮",
+      "bbox": [
+        1143.0,
+        2348.0,
+        1889.0,
+        2401.0
+      ],
+      "confidence": 0.99741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "者或者其近亲属（)",
+      "bbox": [
+        142.0,
+        2405.0,
+        579.0,
+        2459.0
+      ],
+      "confidence": 0.924359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "助的是（)",
+      "bbox": [
+        1062.0,
+        2404.0,
+        1324.0,
+        2458.0
+      ],
+      "confidence": 0.875927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "(135～136题共用备选答案）",
+      "bbox": [
+        228.0,
+        2462.0,
+        748.0,
+        2511.0
+      ],
+      "confidence": 0.925925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "144. 在急性水肿型胰腺炎时为阴性，在出",
+      "bbox": [
+        1145.0,
+        2466.0,
+        1886.0,
+        2511.0
+      ],
+      "confidence": 0.992301,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "A. 支气管扩张",
+      "bbox": [
+        228.0,
+        2520.0,
+        499.0,
+        2569.0
+      ],
+      "confidence": 0.998509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "血坏死性胰腺炎时为阳性的是（",
+      "bbox": [
+        1065.0,
+        2521.0,
+        1627.0,
+        2568.0
+      ],
+      "confidence": 0.973431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "B. 支气管哮喘",
+      "bbox": [
+        227.0,
+        2577.0,
+        495.0,
+        2627.0
+      ],
+      "confidence": 0.997293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "(145～146题共用备选答案)",
+      "bbox": [
+        1146.0,
+        2579.0,
+        1654.0,
+        2624.0
+      ],
+      "confidence": 0.92787,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "C. 心源性哮喘",
+      "bbox": [
+        228.0,
+        2632.0,
+        496.0,
+        2682.0
+      ],
+      "confidence": 0.997281,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "A. 5个工作日内",
+      "bbox": [
+        1144.0,
+        2630.0,
+        1438.0,
+        2683.0
+      ],
+      "confidence": 0.99595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "D. 慢性支气管炎",
+      "bbox": [
+        226.0,
+        2686.0,
+        537.0,
+        2740.0
+      ],
+      "confidence": 0.998119,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "B. 10个工作日内",
+      "bbox": [
+        1143.0,
+        2688.0,
+        1450.0,
+        2737.0
+      ],
+      "confidence": 0.993763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "E. 肺炎球菌肺炎",
+      "bbox": [
+        226.0,
+        2744.0,
+        536.0,
+        2796.0
+      ],
+      "confidence": 0.998399,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "C. 15个工作日内",
+      "bbox": [
+        1145.0,
+        2746.0,
+        1450.0,
+        2792.0
+      ],
+      "confidence": 0.996276,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 105,
+      "text": "- 23 -",
+      "bbox": [
+        921.0,
+        2808.0,
+        1122.0,
+        2863.0
+      ],
+      "confidence": 0.80393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

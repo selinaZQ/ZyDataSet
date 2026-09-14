@@ -1,0 +1,1298 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 33,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        418.82,
+        56.587,
+        538.675,
+        67.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "选（）",
+      "bbox": [
+        43.53,
+        89.697,
+        88.53,
+        100.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 心俞、胆俞、大陵、丘墟",
+      "bbox": [
+        333.75,
+        88.827,
+        466.821,
+        100.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 原穴",
+      "bbox": [
+        66.56,
+        104.207,
+        103.998,
+        116.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 肝俞、间使、太冲",
+      "bbox": [
+        333.62,
+        103.748,
+        433.036,
+        114.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 络穴",
+      "bbox": [
+        66.56,
+        119.347,
+        102.614,
+        132.119
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 脾俞、胃俞、足三里",
+      "bbox": [
+        333.7,
+        118.717,
+        443.868,
+        129.977
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 背俞穴",
+      "bbox": [
+        66.4,
+        134.166,
+        114.754,
+        146.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "106. 患者,女,43岁。眩晕半年,加重",
+      "bbox": [
+        334.92,
+        133.226,
+        552.496,
+        144.656
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 八会穴",
+      "bbox": [
+        66.57,
+        149.197,
+        115.579,
+        161.836
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "1周。伴神疲乏力，面色（cid:0）白，时有心悸，夜寐",
+      "bbox": [
+        310.69,
+        148.727,
+        555.67,
+        160.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 下合穴",
+      "bbox": [
+        66.56,
+        164.147,
+        115.241,
+        176.703
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "欠安。舌淡，脉细。治疗应首选（）",
+      "bbox": [
+        309.57,
+        163.547,
+        510.013,
+        174.867
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "101. 患儿,女,8岁。遗尿3个月余,每隔",
+      "bbox": [
+        67.75,
+        178.767,
+        285.13,
+        191.709
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 风池、肝俞、肾俞、行间",
+      "bbox": [
+        333.8,
+        179.107,
+        468.96,
+        192.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "3～5夜1次，面色萎黄，纳食不多，舌淡苔薄，脉",
+      "bbox": [
+        44.62,
+        194.717,
+        285.447,
+        206.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 中脘、内关、解溪、头维",
+      "bbox": [
+        333.61,
+        193.707,
+        466.432,
+        204.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "细弱。治疗应首选（）",
+      "bbox": [
+        43.58,
+        209.457,
+        174.71,
+        221.147
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 百会、上星、风池、丰隆",
+      "bbox": [
+        333.38,
+        209.077,
+        466.451,
+        220.337
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 中极、关元、三阴交、膀胱俞",
+      "bbox": [
+        66.78,
+        223.767,
+        224.5,
+        236.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 百会、太阳、印堂、合谷",
+      "bbox": [
+        333.6,
+        223.788,
+        466.648,
+        235.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 中极、天枢、足三里、阴陵泉、大冲",
+      "bbox": [
+        66.59,
+        239.797,
+        257.4,
+        252.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 脾俞、足三里、气海、百会",
+      "bbox": [
+        333.62,
+        239.138,
+        476.731,
+        250.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 关元、太溪、三阴交、至阴",
+      "bbox": [
+        66.44,
+        254.687,
+        212.63,
+        267.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "107. 患者,男,30岁。口角歪向右侧。左",
+      "bbox": [
+        334.76,
+        253.917,
+        552.626,
+        265.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 气海、太冲、行间、昆仑、曲池",
+      "bbox": [
+        66.52,
+        269.827,
+        235.22,
+        282.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "眼不能闭合2天，左侧额纹消失。治疗应选取",
+      "bbox": [
+        310.32,
+        269.207,
+        552.96,
+        280.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 曲骨、内庭、太溪、肾俞、气海",
+      "bbox": [
+        66.69,
+        285.137,
+        234.64,
+        298.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "何经穴为主（）",
+      "bbox": [
+        309.1,
+        284.147,
+        404.816,
+        295.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "102. 患者，男，45岁。关节肌肉疼痛，屈伸",
+      "bbox": [
+        68.03,
+        299.737,
+        288.69,
+        311.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 手、足少阳经",
+      "bbox": [
+        333.49,
+        298.628,
+        414.472,
+        311.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "不利，疼痛较剧，痛有定处，遇寒痛增，得热痛",
+      "bbox": [
+        43.84,
+        314.517,
+        284.994,
+        325.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 手、足太阴经",
+      "bbox": [
+        333.81,
+        313.757,
+        413.405,
+        326.626
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "减。局部皮色不红，触之不热，舌苔薄白，脉弦",
+      "bbox": [
+        43.45,
+        329.657,
+        288.96,
+        340.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 手、足太阳经",
+      "bbox": [
+        333.35,
+        328.777,
+        413.315,
+        341.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "紧。治疗除选用阿是穴、局部经穴外，还应选",
+      "bbox": [
+        45.14,
+        344.357,
+        285.525,
+        355.657
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 手、足厥阴经",
+      "bbox": [
+        333.26,
+        344.777,
+        413.755,
+        357.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "用的穴位是（）",
+      "bbox": [
+        44.2,
+        359.706,
+        138.53,
+        371.727
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 手、足阳明经",
+      "bbox": [
+        333.48,
+        359.697,
+        413.896,
+        372.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 肾俞、关元",
+      "bbox": [
+        67.34,
+        374.787,
+        136.562,
+        387.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "108. 患者，男，45岁。大便秘结不通，排便",
+      "bbox": [
+        334.5,
+        373.817,
+        552.468,
+        385.177
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 阴陵泉、足三里",
+      "bbox": [
+        67.25,
+        389.767,
+        159.232,
+        402.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "艰难，伴腹胀痛，身热，口干口臭，喜冷饮，舌",
+      "bbox": [
+        308.84,
+        388.837,
+        554.835,
+        400.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 大椎、曲池",
+      "bbox": [
+        67.25,
+        404.877,
+        135.611,
+        417.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "红，苔黄，脉滑数。治疗除取主穴外，还应选用",
+      "bbox": [
+        309.27,
+        404.137,
+        551.585,
+        415.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 膈俞、关元",
+      "bbox": [
+        67.18,
+        419.537,
+        135.727,
+        432.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "的穴位是（）",
+      "bbox": [
+        311.14,
+        419.767,
+        392.663,
+        431.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 膈俞、血海",
+      "bbox": [
+        67.67,
+        434.957,
+        135.202,
+        447.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 足三里、三阴交",
+      "bbox": [
+        333.59,
+        434.898,
+        426.578,
+        447.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "103. 患者，男，25岁。因夜吹风扇，晨起出",
+      "bbox": [
+        68.56,
+        449.647,
+        284.37,
+        460.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 中脘、太冲",
+      "bbox": [
+        333.37,
+        450.168,
+        399.739,
+        461.398
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "现右颈项痛，转动受限，并向同侧肩部放射。",
+      "bbox": [
+        43.59,
+        464.557,
+        281.73,
+        476.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 神阙、关元",
+      "bbox": [
+        333.5,
+        464.987,
+        401.081,
+        477.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "针灸治疗除外劳宫、肩井、后溪、悬钟、阿是穴",
+      "bbox": [
+        43.71,
+        479.427,
+        285.328,
+        490.707
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 合谷、内庭",
+      "bbox": [
+        333.26,
+        480.877,
+        401.376,
+        493.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "外,宜选取（）",
+      "bbox": [
+        43.81,
+        494.447,
+        132.906,
+        506.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 气海、脾俞",
+      "bbox": [
+        333.61,
+        495.137,
+        401.603,
+        508.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 血海、膈俞、肩髃",
+      "bbox": [
+        67.5,
+        509.597,
+        167.4,
+        522.817
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "109. 患者，女，41岁。精神抑郁善忧，情绪",
+      "bbox": [
+        334.62,
+        510.147,
+        552.748,
+        521.457
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 合谷、曲池、大椎",
+      "bbox": [
+        67.28,
+        524.737,
+        167.91,
+        537.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "不宁，伴胸胁胀满，脘闷嗳气。不思饮食，大便",
+      "bbox": [
+        309.32,
+        524.727,
+        556.15,
+        536.367
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 风池、内关、肩髃",
+      "bbox": [
+        67.4,
+        539.487,
+        166.26,
+        552.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "不调，脉弦。治疗除取主穴外，还应选用的穴",
+      "bbox": [
+        309.34,
+        539.577,
+        552.561,
+        550.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 风池、合谷、肩髃",
+      "bbox": [
+        66.98,
+        554.677,
+        166.35,
+        567.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "位是（）",
+      "bbox": [
+        309.24,
+        555.028,
+        368.27,
+        566.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 风池、合谷、天宗",
+      "bbox": [
+        67.52,
+        570.627,
+        167.51,
+        583.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 曲泉、膻中、期门",
+      "bbox": [
+        333.66,
+        569.938,
+        435.24,
+        582.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "104. 患者，男，55岁。1年来每日黎明之",
+      "bbox": [
+        68.58,
+        584.767,
+        285.424,
+        596.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 行间、侠溪、外关",
+      "bbox": [
+        333.74,
+        585.008,
+        433.69,
+        597.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "前腹微痛，痛即泄泻。或肠鸣而不痛，腹部和",
+      "bbox": [
+        43.5,
+        599.217,
+        286.87,
+        611.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 通里、心俞、三阴交、太溪",
+      "bbox": [
+        333.81,
+        599.778,
+        478.83,
+        612.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "下肢畏寒，舌淡苔白，脉沉细。治疗除取主穴",
+      "bbox": [
+        43.9,
+        615.217,
+        285.558,
+        626.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 太溪、三阴交、肝俞、肾俞",
+      "bbox": [
+        333.74,
+        614.897,
+        479.86,
+        627.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "外,还应加（）",
+      "bbox": [
+        43.4,
+        630.218,
+        132.556,
+        641.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 心俞、脾俞、足三里、三阴交",
+      "bbox": [
+        334.06,
+        629.778,
+        489.12,
+        642.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 胃俞、合谷",
+      "bbox": [
+        67.36,
+        645.597,
+        136.66,
+        658.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "110. 患者，女，23岁。痛经9个月，经行不",
+      "bbox": [
+        335.16,
+        644.738,
+        552.766,
+        655.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 肝俞、内关",
+      "bbox": [
+        67.75,
+        661.297,
+        135.02,
+        674.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "畅。小腹胀痛，拒按，经色紫红，夹有血块，血",
+      "bbox": [
+        310.35,
+        660.538,
+        557.06,
+        671.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 三焦俞、公孙",
+      "bbox": [
+        67.73,
+        676.337,
+        147.815,
+        687.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "块下后痛即缓解，脉沉涩。治疗应首选（）",
+      "bbox": [
+        309.29,
+        675.568,
+        547.096,
+        686.867
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 命门、关元",
+      "bbox": [
+        67.67,
+        691.217,
+        135.984,
+        702.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 足三里、太冲、三阴交",
+      "bbox": [
+        334.19,
+        691.098,
+        458.581,
+        703.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 关元俞、三阴交",
+      "bbox": [
+        67.75,
+        706.087,
+        159.782,
+        718.946
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 中极、次髎、地机",
+      "bbox": [
+        334.1,
+        705.918,
+        433.312,
+        718.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "105. 患者，女，45岁。失眠2年，经常多梦",
+      "bbox": [
+        68.75,
+        721.217,
+        285.788,
+        732.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 合谷、三阴交",
+      "bbox": [
+        334.3,
+        720.508,
+        414.566,
+        733.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "少寐，入睡迟，易惊醒，平常遇事惊怕，多疑善",
+      "bbox": [
+        43.84,
+        735.427,
+        286.31,
+        747.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 曲池、内庭",
+      "bbox": [
+        334.09,
+        735.697,
+        402.62,
+        748.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "感。气短头晕，舌淡，脉弦细。治疗除取主穴",
+      "bbox": [
+        43.91,
+        750.637,
+        285.692,
+        761.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 合谷、归来",
+      "bbox": [
+        334.46,
+        750.737,
+        402.38,
+        763.659
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "外，还应加（）",
+      "bbox": [
+        43.67,
+        765.697,
+        133.326,
+        777.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "111. 患者,女,26岁。下肢弛缓无力1年",
+      "bbox": [
+        335.12,
+        765.647,
+        552.027,
+        776.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "A. 心俞、厥阴俞、脾俞",
+      "bbox": [
+        67.69,
+        780.987,
+        180.22,
+        793.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "余。肌肉明显萎缩，功能严重受限，并感麻木，",
+      "bbox": [
+        309.57,
+        780.377,
+        553.87,
+        791.657
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "B. 心俞、肾俞、太溪、足三里",
+      "bbox": [
+        67.73,
+        795.947,
+        213.16,
+        808.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "发凉，腰痛，头晕。舌红少苔，脉细数。治疗应",
+      "bbox": [
+        310.0,
+        795.567,
+        553.94,
+        807.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "—127",
+      "bbox": [
+        267.1,
+        817.795,
+        304.97,
+        830.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "—",
+      "bbox": [
+        316.26,
+        817.764,
+        328.03,
+        829.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

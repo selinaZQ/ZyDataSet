@@ -1,0 +1,1129 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 34,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        72.43,
+        58.239,
+        271.947,
+        69.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "选取何经穴为主（）",
+      "bbox": [
+        69.78,
+        89.079,
+        189.272,
+        100.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "115. 患者,男,43岁。两耳轰鸣,按之不",
+      "bbox": [
+        357.62,
+        88.869,
+        568.325,
+        100.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 督脉经",
+      "bbox": [
+        93.62,
+        103.609,
+        143.717,
+        114.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "减，听力减退，兼见烦躁易怒，咽干，便秘，脉",
+      "bbox": [
+        332.39,
+        103.389,
+        572.46,
+        114.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 太阳经",
+      "bbox": [
+        93.25,
+        119.308,
+        141.864,
+        130.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "弦。治疗应首选（）",
+      "bbox": [
+        332.93,
+        118.999,
+        450.306,
+        130.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 阳明经",
+      "bbox": [
+        93.29,
+        133.728,
+        141.614,
+        144.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 手、足太阴经穴",
+      "bbox": [
+        356.32,
+        133.449,
+        447.72,
+        144.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 少阳经",
+      "bbox": [
+        93.17,
+        149.698,
+        142.275,
+        160.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 手、足少阴经穴",
+      "bbox": [
+        356.23,
+        148.729,
+        446.035,
+        159.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 厥阴经",
+      "bbox": [
+        93.45,
+        163.948,
+        141.672,
+        175.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 手、足少阳经穴",
+      "bbox": [
+        356.3,
+        163.779,
+        446.272,
+        174.899
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "112. 患者微恶风寒、发热重、浊涕，痰稠或",
+      "bbox": [
+        94.03,
+        179.829,
+        308.068,
+        190.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 手阳明经穴",
+      "bbox": [
+        356.24,
+        178.819,
+        428.709,
+        189.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "黄，咽喉肿痛，苔薄黄、脉浮数。治疗取大椎",
+      "bbox": [
+        69.28,
+        194.779,
+        308.097,
+        205.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 足太阳经穴",
+      "bbox": [
+        356.33,
+        194.879,
+        428.695,
+        206.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "穴，宜采用的刺灸法是（）",
+      "bbox": [
+        69.05,
+        209.919,
+        217.583,
+        222.707
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "116. 患者,男,36岁。上齿剧痛3天,伴口",
+      "bbox": [
+        357.21,
+        209.829,
+        566.923,
+        221.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 刺络拔罐法",
+      "bbox": [
+        92.97,
+        224.799,
+        167.296,
+        235.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "臭，口渴，便秘，舌苔黄，脉洪。治疗应",
+      "bbox": [
+        332.04,
+        224.459,
+        570.65,
+        236.319
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 毫针捻转补法",
+      "bbox": [
+        92.69,
+        239.768,
+        177.397,
+        250.918
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "首选（）",
+      "bbox": [
+        331.87,
+        240.009,
+        390.584,
+        251.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 毫针提插补法",
+      "bbox": [
+        92.86,
+        254.718,
+        177.721,
+        265.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 风池",
+      "bbox": [
+        356.14,
+        254.828,
+        394.14,
+        265.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 毫针平补平泻法",
+      "bbox": [
+        92.74,
+        270.668,
+        190.903,
+        281.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 外关",
+      "bbox": [
+        355.99,
+        270.608,
+        392.216,
+        281.759
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 温针灸",
+      "bbox": [
+        92.95,
+        285.948,
+        141.999,
+        297.099
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 足三里",
+      "bbox": [
+        356.34,
+        285.909,
+        404.367,
+        297.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "113. 患者，女，20岁。食海鲜后皮肤出现",
+      "bbox": [
+        93.9,
+        301.149,
+        308.438,
+        312.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 内庭",
+      "bbox": [
+        355.81,
+        300.718,
+        392.438,
+        311.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "大小不等、形状不一的风团，高起皮肤，边界清",
+      "bbox": [
+        69.28,
+        315.789,
+        308.36,
+        326.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 地仓",
+      "bbox": [
+        356.17,
+        316.119,
+        392.242,
+        327.249
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "楚，色红，瘙痒，伴恶心，肠鸣泄泻，舌红，苔黄",
+      "bbox": [
+        69.13,
+        330.639,
+        316.31,
+        342.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "117. 患者,男,24岁,目赤肿痛,眼涩难开,",
+      "bbox": [
+        357.15,
+        330.819,
+        570.14,
+        341.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "腻，脉滑数。除曲池、合谷、血海、膈俞、委中",
+      "bbox": [
+        69.08,
+        345.769,
+        307.17,
+        357.179
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "流泪，畏光，伴发热、恶风、头痛，舌苔薄黄，脉",
+      "bbox": [
+        332.0,
+        345.769,
+        579.232,
+        356.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "外，应加取（）",
+      "bbox": [
+        69.09,
+        361.529,
+        158.893,
+        373.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "浮数。治疗除取睛明、太阳、合谷、太冲外，还",
+      "bbox": [
+        332.06,
+        360.559,
+        569.361,
+        371.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 外关、风池",
+      "bbox": [
+        93.46,
+        376.809,
+        162.221,
+        387.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "应加（）",
+      "bbox": [
+        332.14,
+        376.639,
+        390.663,
+        387.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 足三里、天枢",
+      "bbox": [
+        93.27,
+        391.809,
+        172.616,
+        402.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 风池、侠溪",
+      "bbox": [
+        355.9,
+        391.159,
+        422.765,
+        402.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 三阴交、天枢",
+      "bbox": [
+        93.63,
+        406.789,
+        173.249,
+        417.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 印堂、内庭",
+      "bbox": [
+        356.07,
+        405.899,
+        421.178,
+        417.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 足三里、大横",
+      "bbox": [
+        93.33,
+        421.749,
+        173.427,
+        432.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 少商、上星",
+      "bbox": [
+        356.02,
+        421.029,
+        422.158,
+        432.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 三阴交、风池",
+      "bbox": [
+        93.52,
+        436.879,
+        173.128,
+        447.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 关冲、支沟",
+      "bbox": [
+        355.99,
+        437.069,
+        421.565,
+        448.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "114. 患者，女，45岁。2天前感觉胁肋部",
+      "bbox": [
+        94.19,
+        452.229,
+        307.527,
+        463.519
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 四白、养老",
+      "bbox": [
+        355.98,
+        451.809,
+        421.324,
+        462.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "皮肤灼热疼痛。皮色发红，继则出现簇集性粟",
+      "bbox": [
+        69.31,
+        467.689,
+        308.312,
+        478.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "118. 患者，男，25岁。昨天因俯身搬重物，",
+      "bbox": [
+        357.0,
+        467.019,
+        573.32,
+        478.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "粒状大小丘状疱疹，呈带状排列，兼见口苦，心",
+      "bbox": [
+        68.62,
+        482.869,
+        308.59,
+        494.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "不慎将腰部扭伤，检查：腰部正中有明显压痛",
+      "bbox": [
+        332.12,
+        481.699,
+        568.962,
+        493.349
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "烦，易怒，脉弦数。治疗除取主穴外。还应选",
+      "bbox": [
+        68.77,
+        497.519,
+        308.151,
+        509.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "点，腰痛不可俯仰，腰部侧弯尚可。针灸治疗",
+      "bbox": [
+        332.74,
+        496.849,
+        569.066,
+        508.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "用的穴位是（）",
+      "bbox": [
+        68.88,
+        512.899,
+        164.25,
+        524.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "取穴可用（）",
+      "bbox": [
+        332.15,
+        512.799,
+        413.78,
+        524.079
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 大椎、曲池、合谷",
+      "bbox": [
+        93.3,
+        527.809,
+        192.468,
+        538.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 手三里、三间",
+      "bbox": [
+        355.88,
+        527.759,
+        433.935,
+        538.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 行间、大敦、阳陵泉",
+      "bbox": [
+        93.14,
+        542.879,
+        202.438,
+        553.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 人中、后溪",
+      "bbox": [
+        356.04,
+        542.969,
+        421.308,
+        554.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 血海、隐白、内庭",
+      "bbox": [
+        93.27,
+        558.849,
+        191.414,
+        569.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 后溪、申脉",
+      "bbox": [
+        355.96,
+        557.839,
+        421.935,
+        568.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 足三里、阴陵泉、阳陵泉",
+      "bbox": [
+        93.14,
+        573.819,
+        226.845,
+        584.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 攒竹、昆仑",
+      "bbox": [
+        355.99,
+        572.869,
+        422.955,
+        583.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 内庭、曲池、太白",
+      "bbox": [
+        93.47,
+        588.899,
+        190.448,
+        600.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 阿是穴、大肠俞",
+      "bbox": [
+        356.03,
+        588.839,
+        446.399,
+        599.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        250.59,
+        619.799,
+        388.025,
+        631.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        94.88,
+        696.588,
+        214.46,
+        709.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 湿热阻胃证",
+      "bbox": [
+        356.05,
+        696.669,
+        428.508,
+        707.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "患者，男，4岁。因饮食不规律5年前出",
+      "bbox": [
+        94.59,
+        712.408,
+        305.167,
+        723.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 肝胃不和证",
+      "bbox": [
+        356.44,
+        711.608,
+        428.64,
+        722.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "现胃脘部胀满，经治疗后好转，时发时止。1天",
+      "bbox": [
+        69.75,
+        727.369,
+        307.923,
+        738.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 饮食伤胃证",
+      "bbox": [
+        356.22,
+        726.689,
+        429.042,
+        737.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "前因与人争吵，胃脘胀痛，胀满拒按，痛连两",
+      "bbox": [
+        69.96,
+        742.439,
+        308.96,
+        753.589
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 肝气犯胃证",
+      "bbox": [
+        356.23,
+        742.559,
+        428.697,
+        753.689
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "胁，矢气则舒，舌苔薄白，脉弦。",
+      "bbox": [
+        69.94,
+        757.279,
+        240.27,
+        768.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "120. 该患者的选方为（）",
+      "bbox": [
+        357.12,
+        756.488,
+        498.54,
+        767.659
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "119. 该患者可辨证为（）",
+      "bbox": [
+        95.11,
+        771.758,
+        231.106,
+        783.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 枳实导滞丸加减",
+      "bbox": [
+        356.15,
+        771.638,
+        453.839,
+        782.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 痰湿中阻证",
+      "bbox": [
+        94.38,
+        786.369,
+        167.993,
+        797.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 二陈平胃汤加减",
+      "bbox": [
+        355.94,
+        786.438,
+        452.005,
+        797.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "—",
+      "bbox": [
+        290.22,
+        819.255,
+        299.95,
+        828.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "128—",
+      "bbox": [
+        309.99,
+        818.76,
+        347.66,
+        829.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

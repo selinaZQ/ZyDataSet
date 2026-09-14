@@ -1,0 +1,1225 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 19,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1425.0,
+        61.0,
+        1858.0,
+        105.0
+      ],
+      "confidence": 0.927279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "颤抖，体重下降5kg。血TSH、FT₃、FT，检查",
+      "bbox": [
+        72.0,
+        171.0,
+        948.0,
+        218.0
+      ],
+      "confidence": 0.949485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "83. 患者，女，40岁。3年前发现患有风",
+      "bbox": [
+        1119.0,
+        173.0,
+        1878.0,
+        217.0
+      ],
+      "confidence": 0.972436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "证实甲状腺功能亢进症复发，服甲疏咪唑2周",
+      "bbox": [
+        72.0,
+        230.0,
+        947.0,
+        275.0
+      ],
+      "confidence": 0.954973,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "性心脏病，近半年来，体力活动明显受限，轻月",
+      "bbox": [
+        1034.0,
+        229.0,
+        1896.0,
+        278.0
+      ],
+      "confidence": 0.949713,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "后因严重药疹而停药。下一步治疗应（",
+      "bbox": [
+        73.0,
+        292.0,
+        803.0,
+        334.0
+      ],
+      "confidence": 0.99062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        878.0,
+        295.0,
+        905.0,
+        328.0
+      ],
+      "confidence": 0.988215,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "活动即出现心悸，气短，其心功能为（",
+      "bbox": [
+        1037.0,
+        292.0,
+        1715.0,
+        334.0
+      ],
+      "confidence": 0.980142,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "）",
+      "bbox": [
+        1793.0,
+        297.0,
+        1819.0,
+        328.0
+      ],
+      "confidence": 0.996525,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 甲巯咪唑加抗过敏药物",
+      "bbox": [
+        158.0,
+        348.0,
+        655.0,
+        396.0
+      ],
+      "confidence": 0.980589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "A. Ⅰ级",
+      "bbox": [
+        1119.0,
+        348.0,
+        1268.0,
+        397.0
+      ],
+      "confidence": 0.888185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 改用丙硫氧嘧啶",
+      "bbox": [
+        158.0,
+        411.0,
+        518.0,
+        452.0
+      ],
+      "confidence": 0.996612,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "B. Ⅱ级",
+      "bbox": [
+        1118.0,
+        408.0,
+        1262.0,
+        457.0
+      ],
+      "confidence": 0.991554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 改用β受体阻滞剂",
+      "bbox": [
+        160.0,
+        470.0,
+        558.0,
+        512.0
+      ],
+      "confidence": 0.993276,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. Ⅲ级",
+      "bbox": [
+        1119.0,
+        468.0,
+        1263.0,
+        515.0
+      ],
+      "confidence": 0.960746,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 再次手术治疗",
+      "bbox": [
+        156.0,
+        526.0,
+        475.0,
+        571.0
+      ],
+      "confidence": 0.997057,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "D. IV级",
+      "bbox": [
+        1118.0,
+        526.0,
+        1264.0,
+        574.0
+      ],
+      "confidence": 0.849873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 用核素13I治疗",
+      "bbox": [
+        157.0,
+        586.0,
+        501.0,
+        631.0
+      ],
+      "confidence": 0.829057,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 以上均非",
+      "bbox": [
+        1121.0,
+        587.0,
+        1347.0,
+        630.0
+      ],
+      "confidence": 0.99641,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "79. 患者，男，25岁。发热，咳嗽3天。检",
+      "bbox": [
+        157.0,
+        644.0,
+        947.0,
+        693.0
+      ],
+      "confidence": 0.984662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "84. 患者，女，40岁。风心病5年，近半月",
+      "bbox": [
+        1119.0,
+        643.0,
+        1904.0,
+        693.0
+      ],
+      "confidence": 0.980617,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "查:气管位置居中，右胸呼吸动度减弱，右中肺",
+      "bbox": [
+        72.0,
+        705.0,
+        947.0,
+        753.0
+      ],
+      "confidence": 0.966998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "来胃纳差，恶心，呕吐，肝区疼痛，尿少。查体：",
+      "bbox": [
+        1035.0,
+        707.0,
+        1906.0,
+        752.0
+      ],
+      "confidence": 0.975837,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "语颤增强，叩诊呈浊音，听诊可闻及湿啰音及",
+      "bbox": [
+        72.0,
+        765.0,
+        947.0,
+        811.0
+      ],
+      "confidence": 0.991662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "颈静脉怒张，心尖区可闻及舒张期杂音，三尖",
+      "bbox": [
+        1033.0,
+        761.0,
+        1909.0,
+        813.0
+      ],
+      "confidence": 0.991056,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "支气管肺泡呼吸音。应首先考虑的是（）",
+      "bbox": [
+        72.0,
+        824.0,
+        910.0,
+        871.0
+      ],
+      "confidence": 0.952648,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "瓣区可闻及收缩期杂音，肝肋下2cm。应首先",
+      "bbox": [
+        1033.0,
+        824.0,
+        1909.0,
+        870.0
+      ],
+      "confidence": 0.99054,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 胸膜炎",
+      "bbox": [
+        156.0,
+        882.0,
+        346.0,
+        930.0
+      ],
+      "confidence": 0.99318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "考虑的是（）",
+      "bbox": [
+        1032.0,
+        878.0,
+        1352.0,
+        932.0
+      ],
+      "confidence": 0.878589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 肺炎",
+      "bbox": [
+        152.0,
+        937.0,
+        298.0,
+        992.0
+      ],
+      "confidence": 0.998972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 肝炎",
+      "bbox": [
+        1121.0,
+        941.0,
+        1268.0,
+        989.0
+      ],
+      "confidence": 0.996468,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 气胸",
+      "bbox": [
+        153.0,
+        998.0,
+        300.0,
+        1050.0
+      ],
+      "confidence": 0.996556,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 右心衰竭",
+      "bbox": [
+        1121.0,
+        1001.0,
+        1346.0,
+        1044.0
+      ],
+      "confidence": 0.995282,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 肺不张",
+      "bbox": [
+        153.0,
+        1060.0,
+        342.0,
+        1106.0
+      ],
+      "confidence": 0.998792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 左心衰竭",
+      "bbox": [
+        1121.0,
+        1059.0,
+        1349.0,
+        1105.0
+      ],
+      "confidence": 0.996278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 肺结核",
+      "bbox": [
+        156.0,
+        1118.0,
+        341.0,
+        1165.0
+      ],
+      "confidence": 0.999491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 肝硬化",
+      "bbox": [
+        1119.0,
+        1117.0,
+        1308.0,
+        1164.0
+      ],
+      "confidence": 0.999414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "80. 患者，男，58岁。反复咳嗽、咳痰15",
+      "bbox": [
+        157.0,
+        1178.0,
+        947.0,
+        1221.0
+      ],
+      "confidence": 0.993534,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 全心衰竭",
+      "bbox": [
+        1121.0,
+        1178.0,
+        1349.0,
+        1221.0
+      ],
+      "confidence": 0.997777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "年，心悸、气急3年。体检：双肺叩诊呈过清音，",
+      "bbox": [
+        77.0,
+        1237.0,
+        942.0,
+        1278.0
+      ],
+      "confidence": 0.962955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "85. 患者，女，20岁。2周前开始咽痛，发",
+      "bbox": [
+        1119.0,
+        1234.0,
+        1910.0,
+        1283.0
+      ],
+      "confidence": 0.989883,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "呼吸减弱，肺底部有湿啰音，剑突下心尖搏动",
+      "bbox": [
+        74.0,
+        1295.0,
+        945.0,
+        1339.0
+      ],
+      "confidence": 0.991816,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "热。双膝、踝、腕关节红、肿、热、痛。检查：体",
+      "bbox": [
+        1033.0,
+        1294.0,
+        1910.0,
+        1341.0
+      ],
+      "confidence": 0.986405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "明显，该处可闻及3/6级收缩期杂音，肺动脉瓣",
+      "bbox": [
+        75.0,
+        1355.0,
+        945.0,
+        1399.0
+      ],
+      "confidence": 0.982229,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "温38℃，心率90次/分，心律齐，未闻及器质性",
+      "bbox": [
+        1034.0,
+        1354.0,
+        1910.0,
+        1400.0
+      ],
+      "confidence": 0.971879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "区第二音亢进。该例最可能的诊断为（）",
+      "bbox": [
+        72.0,
+        1406.0,
+        914.0,
+        1462.0
+      ],
+      "confidence": 0.965564,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "杂音，血沉30mm/h，抗“O”800单位。治疗应",
+      "bbox": [
+        1034.0,
+        1413.0,
+        1910.0,
+        1460.0
+      ],
+      "confidence": 0.955324,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 慢性支气管炎（慢支）",
+      "bbox": [
+        158.0,
+        1474.0,
+        612.0,
+        1518.0
+      ],
+      "confidence": 0.954904,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "首选（）",
+      "bbox": [
+        1031.0,
+        1468.0,
+        1264.0,
+        1523.0
+      ],
+      "confidence": 0.893169,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "B. 慢支+肺气肿",
+      "bbox": [
+        155.0,
+        1533.0,
+        470.0,
+        1580.0
+      ],
+      "confidence": 0.943635,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 糖皮质激素",
+      "bbox": [
+        1121.0,
+        1531.0,
+        1396.0,
+        1578.0
+      ],
+      "confidence": 0.99921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "C. 慢支十肺气肿十肺心病",
+      "bbox": [
+        157.0,
+        1592.0,
+        647.0,
+        1638.0
+      ],
+      "confidence": 0.962945,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 阿司匹林",
+      "bbox": [
+        1119.0,
+        1591.0,
+        1347.0,
+        1634.0
+      ],
+      "confidence": 0.999577,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "D. 慢支+风湿性心瓣膜病",
+      "bbox": [
+        155.0,
+        1650.0,
+        651.0,
+        1698.0
+      ],
+      "confidence": 0.972963,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 吲哚美辛",
+      "bbox": [
+        1119.0,
+        1650.0,
+        1349.0,
+        1696.0
+      ],
+      "confidence": 0.996666,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "E. 慢支+冠心病",
+      "bbox": [
+        156.0,
+        1712.0,
+        473.0,
+        1757.0
+      ],
+      "confidence": 0.978263,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 硫唑嘌呤",
+      "bbox": [
+        1118.0,
+        1709.0,
+        1351.0,
+        1756.0
+      ],
+      "confidence": 0.99711,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "81. 患者，男，20岁。持续低热、盗汗2个",
+      "bbox": [
+        156.0,
+        1767.0,
+        945.0,
+        1815.0
+      ],
+      "confidence": 0.990186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 环磷酰胺",
+      "bbox": [
+        1117.0,
+        1764.0,
+        1350.0,
+        1816.0
+      ],
+      "confidence": 0.999153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "月，咳嗽，痰中带血。应首先考虑的是（",
+      "bbox": [
+        73.0,
+        1829.0,
+        799.0,
+        1874.0
+      ],
+      "confidence": 0.965743,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "）",
+      "bbox": [
+        877.0,
+        1830.0,
+        906.0,
+        1869.0
+      ],
+      "confidence": 0.969042,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "86. 患者，女，30岁。患风湿热10年，诊断",
+      "bbox": [
+        1118.0,
+        1827.0,
+        1910.0,
+        1875.0
+      ],
+      "confidence": 0.979486,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 肺癌",
+      "bbox": [
+        155.0,
+        1887.0,
+        302.0,
+        1936.0
+      ],
+      "confidence": 0.996235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "为风心病5年。检查：心尖部可闻及舒张期隆",
+      "bbox": [
+        1035.0,
+        1888.0,
+        1910.0,
+        1933.0
+      ],
+      "confidence": 0.987608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 肺结核",
+      "bbox": [
+        155.0,
+        1948.0,
+        337.0,
+        1994.0
+      ],
+      "confidence": 0.9995,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "隆样杂音。X线显示左心房增大。应首先考虑",
+      "bbox": [
+        1035.0,
+        1948.0,
+        1910.0,
+        1993.0
+      ],
+      "confidence": 0.982038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 肺脓肿",
+      "bbox": [
+        156.0,
+        2008.0,
+        339.0,
+        2054.0
+      ],
+      "confidence": 0.999274,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "的是（）",
+      "bbox": [
+        1032.0,
+        2004.0,
+        1263.0,
+        2055.0
+      ],
+      "confidence": 0.763098,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 肺梗死",
+      "bbox": [
+        155.0,
+        2066.0,
+        342.0,
+        2113.0
+      ],
+      "confidence": 0.998969,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 二尖瓣关闭不全",
+      "bbox": [
+        1121.0,
+        2066.0,
+        1489.0,
+        2113.0
+      ],
+      "confidence": 0.997877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 支气管扩张",
+      "bbox": [
+        157.0,
+        2127.0,
+        426.0,
+        2170.0
+      ],
+      "confidence": 0.998061,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 二尖瓣狭窄",
+      "bbox": [
+        1117.0,
+        2121.0,
+        1394.0,
+        2174.0
+      ],
+      "confidence": 0.998081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "82. 患者，男，50岁。每日吸烟20支已多",
+      "bbox": [
+        156.0,
+        2183.0,
+        947.0,
+        2232.0
+      ],
+      "confidence": 0.987561,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 主动脉瓣关闭不全",
+      "bbox": [
+        1119.0,
+        2183.0,
+        1526.0,
+        2232.0
+      ],
+      "confidence": 0.998022,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "年。近来经常咳嗽，痰中有血丝，1周前突感呼",
+      "bbox": [
+        73.0,
+        2243.0,
+        947.0,
+        2292.0
+      ],
+      "confidence": 0.977201,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 主动脉瓣狭窄",
+      "bbox": [
+        1117.0,
+        2240.0,
+        1441.0,
+        2293.0
+      ],
+      "confidence": 0.998075,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "吸困难。X线透视见右侧胸腔大片致密阴影，",
+      "bbox": [
+        76.0,
+        2306.0,
+        943.0,
+        2348.0
+      ],
+      "confidence": 0.985414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 肺动脉瓣狭窄",
+      "bbox": [
+        1119.0,
+        2304.0,
+        1437.0,
+        2350.0
+      ],
+      "confidence": 0.998474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "胸腔穿刺抽出大量血性胸腔积液。应首先考",
+      "bbox": [
+        74.0,
+        2365.0,
+        944.0,
+        2410.0
+      ],
+      "confidence": 0.987158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "87. 患者，女，17岁。不明原因的发热、牙",
+      "bbox": [
+        1121.0,
+        2364.0,
+        1910.0,
+        2409.0
+      ],
+      "confidence": 0.988058,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "虑的是（）",
+      "bbox": [
+        72.0,
+        2423.0,
+        340.0,
+        2470.0
+      ],
+      "confidence": 0.882521,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "龈出血1周。查体发现贫血，颌下及腹股沟淋",
+      "bbox": [
+        1037.0,
+        2423.0,
+        1910.0,
+        2468.0
+      ],
+      "confidence": 0.982664,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 结核性胸膜炎",
+      "bbox": [
+        161.0,
+        2483.0,
+        476.0,
+        2524.0
+      ],
+      "confidence": 0.996009,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "巴结肿大，胸骨压痛，肝脏肋下2指。应首先考",
+      "bbox": [
+        1035.0,
+        2482.0,
+        1911.0,
+        2528.0
+      ],
+      "confidence": 0.987921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 大叶性肺炎并发胸膜腔积脓",
+      "bbox": [
+        158.0,
+        2540.0,
+        733.0,
+        2585.0
+      ],
+      "confidence": 0.997878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "虑的是（）",
+      "bbox": [
+        1030.0,
+        2536.0,
+        1310.0,
+        2590.0
+      ],
+      "confidence": 0.857045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 肺癌转移至胸膜",
+      "bbox": [
+        158.0,
+        2600.0,
+        517.0,
+        2644.0
+      ],
+      "confidence": 0.997207,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 败血症",
+      "bbox": [
+        1121.0,
+        2600.0,
+        1312.0,
+        2646.0
+      ],
+      "confidence": 0.998619,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 肺癌并发肺脓肿",
+      "bbox": [
+        157.0,
+        2660.0,
+        518.0,
+        2704.0
+      ],
+      "confidence": 0.998527,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 淋巴结结核",
+      "bbox": [
+        1119.0,
+        2660.0,
+        1391.0,
+        2702.0
+      ],
+      "confidence": 0.99838,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 肺门淋巴结转移癌压迫胸导管",
+      "bbox": [
+        157.0,
+        2719.0,
+        778.0,
+        2763.0
+      ],
+      "confidence": 0.99795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "C. 再生障碍性贫血",
+      "bbox": [
+        1121.0,
+        2717.0,
+        1481.0,
+        2766.0
+      ],
+      "confidence": 0.999087,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "65",
+      "bbox": [
+        964.0,
+        2788.0,
+        1018.0,
+        2835.0
+      ],
+      "confidence": 0.99922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

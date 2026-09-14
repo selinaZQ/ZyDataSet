@@ -1,0 +1,1225 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 27,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1420.0,
+        124.0,
+        1813.0,
+        162.0
+      ],
+      "confidence": 0.928016,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 十灰散",
+      "bbox": [
+        259.0,
+        225.0,
+        439.0,
+        278.0
+      ],
+      "confidence": 0.998015,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 独活、牛膝、防己、革",
+      "bbox": [
+        1141.0,
+        231.0,
+        1563.0,
+        273.0
+      ],
+      "confidence": 0.971768,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 春泽汤",
+      "bbox": [
+        259.0,
+        280.0,
+        439.0,
+        335.0
+      ],
+      "confidence": 0.997513,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 羌活、白芷、威灵仙、姜黄",
+      "bbox": [
+        1141.0,
+        288.0,
+        1604.0,
+        329.0
+      ],
+      "confidence": 0.99487,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 保真汤",
+      "bbox": [
+        259.0,
+        336.0,
+        441.0,
+        391.0
+      ],
+      "confidence": 0.998443,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 川乌、草乌",
+      "bbox": [
+        1139.0,
+        340.0,
+        1370.0,
+        386.0
+      ],
+      "confidence": 0.939003,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 小蓟饮子",
+      "bbox": [
+        260.0,
+        395.0,
+        476.0,
+        445.0
+      ],
+      "confidence": 0.958907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 白花蛇、乌梢蛇",
+      "bbox": [
+        1140.0,
+        402.0,
+        1448.0,
+        443.0
+      ],
+      "confidence": 0.99515,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "25. 治疗咳血燥热伤肺重症，应首选（",
+      "bbox": [
+        264.0,
+        452.0,
+        859.0,
+        500.0
+      ],
+      "confidence": 0.972868,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "31. 治疗痿证使用泻南方，补北方的原则，",
+      "bbox": [
+        1140.0,
+        458.0,
+        1856.0,
+        502.0
+      ],
+      "confidence": 0.969961,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 沙参麦冬汤",
+      "bbox": [
+        264.0,
+        510.0,
+        519.0,
+        559.0
+      ],
+      "confidence": 0.998094,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "是因为该病（）",
+      "bbox": [
+        1063.0,
+        514.0,
+        1390.0,
+        560.0
+      ],
+      "confidence": 0.898116,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 桑杏汤",
+      "bbox": [
+        262.0,
+        569.0,
+        435.0,
+        616.0
+      ],
+      "confidence": 0.993868,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 寒多热少，虚多实少",
+      "bbox": [
+        1141.0,
+        571.0,
+        1534.0,
+        619.0
+      ],
+      "confidence": 0.99213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 百合固金汤",
+      "bbox": [
+        263.0,
+        626.0,
+        514.0,
+        675.0
+      ],
+      "confidence": 0.997459,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 热多寒少，虚多实少",
+      "bbox": [
+        1141.0,
+        634.0,
+        1528.0,
+        675.0
+      ],
+      "confidence": 0.990504,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 麦门冬汤",
+      "bbox": [
+        264.0,
+        685.0,
+        476.0,
+        732.0
+      ],
+      "confidence": 0.99834,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 热多寒少，实多虚少",
+      "bbox": [
+        1141.0,
+        690.0,
+        1530.0,
+        735.0
+      ],
+      "confidence": 0.992949,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 清燥救肺汤",
+      "bbox": [
+        264.0,
+        744.0,
+        514.0,
+        791.0
+      ],
+      "confidence": 0.998749,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 寒多热少，实多虚少",
+      "bbox": [
+        1140.0,
+        746.0,
+        1533.0,
+        794.0
+      ],
+      "confidence": 0.989742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "26. 用麻子仁丸治疗的是（",
+      "bbox": [
+        267.0,
+        805.0,
+        709.0,
+        847.0
+      ],
+      "confidence": 0.985065,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 以上均非",
+      "bbox": [
+        1140.0,
+        805.0,
+        1352.0,
+        853.0
+      ],
+      "confidence": 0.998847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 气秘",
+      "bbox": [
+        264.0,
+        860.0,
+        401.0,
+        909.0
+      ],
+      "confidence": 0.996348,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "32. 痰浊头痛的特征是（",
+      "bbox": [
+        1143.0,
+        864.0,
+        1548.0,
+        911.0
+      ],
+      "confidence": 0.965394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "）",
+      "bbox": [
+        1626.0,
+        876.0,
+        1641.0,
+        902.0
+      ],
+      "confidence": 0.599678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 热秘",
+      "bbox": [
+        263.0,
+        920.0,
+        396.0,
+        969.0
+      ],
+      "confidence": 0.998475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 头痛如裹",
+      "bbox": [
+        1144.0,
+        923.0,
+        1357.0,
+        970.0
+      ],
+      "confidence": 0.991991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 冷秘",
+      "bbox": [
+        263.0,
+        976.0,
+        397.0,
+        1028.0
+      ],
+      "confidence": 0.998459,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 头痛如裂",
+      "bbox": [
+        1141.0,
+        982.0,
+        1352.0,
+        1028.0
+      ],
+      "confidence": 0.998776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 气虚秘",
+      "bbox": [
+        264.0,
+        1038.0,
+        436.0,
+        1086.0
+      ],
+      "confidence": 0.997447,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 头痛且空",
+      "bbox": [
+        1143.0,
+        1042.0,
+        1352.0,
+        1088.0
+      ],
+      "confidence": 0.998307,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 血虚秘",
+      "bbox": [
+        264.0,
+        1096.0,
+        435.0,
+        1143.0
+      ],
+      "confidence": 0.99761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 头痛且晕",
+      "bbox": [
+        1143.0,
+        1100.0,
+        1356.0,
+        1146.0
+      ],
+      "confidence": 0.998202,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "27. 以下关于鼓胀的论述，不正确的是",
+      "bbox": [
+        266.0,
+        1159.0,
+        983.0,
+        1199.0
+      ],
+      "confidence": 0.996339,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 头痛昏蒙",
+      "bbox": [
+        1143.0,
+        1159.0,
+        1353.0,
+        1206.0
+      ],
+      "confidence": 0.998251,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "（",
+      "bbox": [
+        188.0,
+        1217.0,
+        217.0,
+        1259.0
+      ],
+      "confidence": 0.578179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "）",
+      "bbox": [
+        273.0,
+        1215.0,
+        316.0,
+        1261.0
+      ],
+      "confidence": 0.95442,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "33. 治疗湿热腰痛，应首选（",
+      "bbox": [
+        1143.0,
+        1217.0,
+        1610.0,
+        1265.0
+      ],
+      "confidence": 0.962829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 鼓胀的临床表现以腹部胀大，皮色苍",
+      "bbox": [
+        268.0,
+        1274.0,
+        983.0,
+        1316.0
+      ],
+      "confidence": 0.994811,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 甘姜苓术汤",
+      "bbox": [
+        1142.0,
+        1274.0,
+        1397.0,
+        1324.0
+      ],
+      "confidence": 0.996754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "黄，腹壁脉络暴露为特征",
+      "bbox": [
+        189.0,
+        1333.0,
+        603.0,
+        1374.0
+      ],
+      "confidence": 0.986459,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 四妙丸",
+      "bbox": [
+        1141.0,
+        1335.0,
+        1316.0,
+        1382.0
+      ],
+      "confidence": 0.998559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 鼓胀可以由胁痛、黄疸、积聚等病迁延",
+      "bbox": [
+        264.0,
+        1391.0,
+        983.0,
+        1435.0
+      ],
+      "confidence": 0.991293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 羌活胜湿汤",
+      "bbox": [
+        1145.0,
+        1396.0,
+        1391.0,
+        1439.0
+      ],
+      "confidence": 0.996565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "不愈发展而来",
+      "bbox": [
+        188.0,
+        1452.0,
+        426.0,
+        1495.0
+      ],
+      "confidence": 0.999306,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 薏苡仁汤",
+      "bbox": [
+        1141.0,
+        1451.0,
+        1356.0,
+        1501.0
+      ],
+      "confidence": 0.997753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 鼓胀是各种原因导致肝脾肾三脏功能失",
+      "bbox": [
+        267.0,
+        1511.0,
+        983.0,
+        1552.0
+      ],
+      "confidence": 0.998313,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 乌头汤",
+      "bbox": [
+        1140.0,
+        1509.0,
+        1316.0,
+        1561.0
+      ],
+      "confidence": 0.997422,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "调，气滞、血瘀、水饮互结，停于腹中而成",
+      "bbox": [
+        188.0,
+        1567.0,
+        848.0,
+        1613.0
+      ],
+      "confidence": 0.990268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "34. 腰痛患者，腰部冷痛重着，转侧不利，",
+      "bbox": [
+        1145.0,
+        1573.0,
+        1859.0,
+        1617.0
+      ],
+      "confidence": 0.99137,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 根据病程和病势的发展，鼓胀可分为",
+      "bbox": [
+        263.0,
+        1625.0,
+        983.0,
+        1672.0
+      ],
+      "confidence": 0.995928,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "静卧痛不减，遇阴雨天疼痛加重，舌苔白腻，脉",
+      "bbox": [
+        1067.0,
+        1633.0,
+        1861.0,
+        1674.0
+      ],
+      "confidence": 0.988332,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "早、中、晚三期",
+      "bbox": [
+        185.0,
+        1682.0,
+        428.0,
+        1733.0
+      ],
+      "confidence": 0.994322,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "沉缓，其证候是（",
+      "bbox": [
+        1066.0,
+        1689.0,
+        1355.0,
+        1735.0
+      ],
+      "confidence": 0.914671,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "E. 鼓胀一病，总以气血虚为主，治疗当以",
+      "bbox": [
+        266.0,
+        1746.0,
+        982.0,
+        1787.0
+      ],
+      "confidence": 0.990954,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 寒湿",
+      "bbox": [
+        1139.0,
+        1743.0,
+        1283.0,
+        1799.0
+      ],
+      "confidence": 0.99894,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "补益气血为先",
+      "bbox": [
+        188.0,
+        1803.0,
+        429.0,
+        1849.0
+      ],
+      "confidence": 0.999613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 风寒",
+      "bbox": [
+        1137.0,
+        1802.0,
+        1276.0,
+        1858.0
+      ],
+      "confidence": 0.998744,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "28. 饮证与水肿，同为津液病变，其不同点",
+      "bbox": [
+        264.0,
+        1862.0,
+        984.0,
+        1908.0
+      ],
+      "confidence": 0.988992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 瘀血",
+      "bbox": [
+        1137.0,
+        1860.0,
+        1277.0,
+        1917.0
+      ],
+      "confidence": 0.996928,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "在于（）",
+      "bbox": [
+        181.0,
+        1912.0,
+        397.0,
+        1972.0
+      ],
+      "confidence": 0.862822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 湿热",
+      "bbox": [
+        1137.0,
+        1920.0,
+        1278.0,
+        1976.0
+      ],
+      "confidence": 0.998765,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 邪在表在里",
+      "bbox": [
+        266.0,
+        1980.0,
+        519.0,
+        2026.0
+      ],
+      "confidence": 0.998299,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 肾虚",
+      "bbox": [
+        1140.0,
+        1982.0,
+        1275.0,
+        2031.0
+      ],
+      "confidence": 0.997578,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 正虚与邪盛",
+      "bbox": [
+        266.0,
+        2038.0,
+        515.0,
+        2085.0
+      ],
+      "confidence": 0.998976,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "35. 下列哪项不是辨别中风闭证与脱证的",
+      "bbox": [
+        1143.0,
+        2043.0,
+        1860.0,
+        2087.0
+      ],
+      "confidence": 0.998308,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 局部与全身",
+      "bbox": [
+        266.0,
+        2094.0,
+        516.0,
+        2144.0
+      ],
+      "confidence": 0.998727,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "依据（）",
+      "bbox": [
+        1061.0,
+        2098.0,
+        1274.0,
+        2149.0
+      ],
+      "confidence": 0.773395,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 上部与下部",
+      "bbox": [
+        266.0,
+        2153.0,
+        519.0,
+        2203.0
+      ],
+      "confidence": 0.999246,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 口开目合与口噤不开",
+      "bbox": [
+        1143.0,
+        2160.0,
+        1558.0,
+        2204.0
+      ],
+      "confidence": 0.983426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 饮邪的多少",
+      "bbox": [
+        264.0,
+        2209.0,
+        518.0,
+        2261.0
+      ],
+      "confidence": 0.998908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 手撒肢冷与两手握固",
+      "bbox": [
+        1140.0,
+        2216.0,
+        1553.0,
+        2265.0
+      ],
+      "confidence": 0.998283,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "29. 治疗行痹，应首选（",
+      "bbox": [
+        267.0,
+        2270.0,
+        651.0,
+        2320.0
+      ],
+      "confidence": 0.975828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 二便自遗与大小便闭",
+      "bbox": [
+        1141.0,
+        2275.0,
+        1553.0,
+        2323.0
+      ],
+      "confidence": 0.996689,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 乌头汤",
+      "bbox": [
+        264.0,
+        2324.0,
+        445.0,
+        2378.0
+      ],
+      "confidence": 0.997864,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 躁动不安与静而不烦",
+      "bbox": [
+        1141.0,
+        2334.0,
+        1556.0,
+        2379.0
+      ],
+      "confidence": 0.998519,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 薏苡仁汤",
+      "bbox": [
+        267.0,
+        2387.0,
+        475.0,
+        2434.0
+      ],
+      "confidence": 0.996216,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 肢体软瘫与肢体强痉",
+      "bbox": [
+        1141.0,
+        2393.0,
+        1554.0,
+        2438.0
+      ],
+      "confidence": 0.996387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 防风汤",
+      "bbox": [
+        266.0,
+        2443.0,
+        440.0,
+        2494.0
+      ],
+      "confidence": 0.998547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "36. 治疗久痹风、寒、湿偏盛不明显者，可",
+      "bbox": [
+        1140.0,
+        2450.0,
+        1865.0,
+        2498.0
+      ],
+      "confidence": 0.994982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 宣痹汤",
+      "bbox": [
+        266.0,
+        2501.0,
+        441.0,
+        2552.0
+      ],
+      "confidence": 0.934799,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "选用的方剂是（",
+      "bbox": [
+        1062.0,
+        2506.0,
+        1332.0,
+        2556.0
+      ],
+      "confidence": 0.98023,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "）",
+      "bbox": [
+        1401.0,
+        2513.0,
+        1431.0,
+        2551.0
+      ],
+      "confidence": 0.939913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 白虎加桂枝汤",
+      "bbox": [
+        267.0,
+        2562.0,
+        557.0,
+        2608.0
+      ],
+      "confidence": 0.998516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 防风汤",
+      "bbox": [
+        1140.0,
+        2563.0,
+        1320.0,
+        2614.0
+      ],
+      "confidence": 0.999086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "30. 行痹患者，关节疼痛，以肩、肘等上肢",
+      "bbox": [
+        267.0,
+        2619.0,
+        986.0,
+        2667.0
+      ],
+      "confidence": 0.991613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "B. 薏苡仁汤",
+      "bbox": [
+        1139.0,
+        2620.0,
+        1352.0,
+        2671.0
+      ],
+      "confidence": 0.986328,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "关节为甚。治疗应加用（）",
+      "bbox": [
+        185.0,
+        2674.0,
+        714.0,
+        2728.0
+      ],
+      "confidence": 0.93778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "C. 宣痹汤",
+      "bbox": [
+        1138.0,
+        2676.0,
+        1316.0,
+        2732.0
+      ],
+      "confidence": 0.953172,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 杜仲、桑寄生、巴戟天",
+      "bbox": [
+        268.0,
+        2738.0,
+        682.0,
+        2783.0
+      ],
+      "confidence": 0.993831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "D. 蠲痹汤",
+      "bbox": [
+        1138.0,
+        2735.0,
+        1317.0,
+        2789.0
+      ],
+      "confidence": 0.972122,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "73",
+      "bbox": [
+        999.0,
+        2806.0,
+        1059.0,
+        2851.0
+      ],
+      "confidence": 0.995398,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

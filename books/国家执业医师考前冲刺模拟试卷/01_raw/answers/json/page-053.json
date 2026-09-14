@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 53,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        317.55,
+        49.233,
+        531.829,
+        59.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "90. E【解析】患者“两目模糊，视物不清，伴有头",
+      "bbox": [
+        63.58,
+        79.493,
+        283.32,
+        89.223
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "痛,故选A。",
+      "bbox": [
+        303.75,
+        79.233,
+        356.38,
+        88.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "痛，眩晕”，是因肝阳上亢，上扰头目。治宜平肝潜阳，",
+      "bbox": [
+        43.6,
+        95.013,
+        287.1,
+        104.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "101. C【解析】太阳病，发汗未愈，症见身热不解，",
+      "bbox": [
+        324.75,
+        94.193,
+        548.49,
+        103.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "清肝明目。而E项菊花疏散风热，平抑肝阳，清肝明目，",
+      "bbox": [
+        43.3,
+        109.893,
+        282.612,
+        119.633
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "汗出而喘，脉滑数而不恶风寒者，是表寒已解，入里化",
+      "bbox": [
+        303.77,
+        109.223,
+        544.923,
+        118.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "清热解毒。常用于：①风热感冒，温病初起；②肝阳眩",
+      "bbox": [
+        43.14,
+        125.053,
+        282.746,
+        134.803
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "热，热壅迫肺所致。治当清宣肺热为主。麻黄杏仁甘",
+      "bbox": [
+        303.92,
+        124.482,
+        544.901,
+        134.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "晕，肝风实证；③目赤昏花；④疮痈肿毒，故选E。而升",
+      "bbox": [
+        43.23,
+        140.222,
+        285.8,
+        149.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "草石膏汤辛凉宣泄，清肺平喘，与该证颇合，故选C。",
+      "bbox": [
+        303.92,
+        139.643,
+        533.219,
+        149.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "麻发表透疹，清热解毒，升举阳气。葛根解肌退热，透",
+      "bbox": [
+        42.86,
+        155.533,
+        282.893,
+        165.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "102. A【解析】五苓散的功用：利水渗湿，温阳化",
+      "bbox": [
+        324.94,
+        154.133,
+        545.41,
+        164.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "发麻疹，生津止渴，升阳止泻。薄荷疏散风热，清利头",
+      "bbox": [
+        43.07,
+        170.803,
+        282.879,
+        180.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "气。主治：膀胱气化不利之蓄水证。症见小便不利，头",
+      "bbox": [
+        303.53,
+        169.943,
+        544.907,
+        179.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "目、利咽透疹，疏肝行气。柴胡疏散退热，疏肝解郁，升",
+      "bbox": [
+        44.8,
+        186.093,
+        288.3,
+        195.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "痛微热，烦渴欲饮，甚则水入即吐；或脐下动悸，吐涎沫",
+      "bbox": [
+        303.52,
+        185.263,
+        547.02,
+        195.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "阳举陷。",
+      "bbox": [
+        43.9,
+        201.543,
+        82.9,
+        211.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "而头目眩晕；或短气而咳；或水肿、泄泻；舌苔白，脉浮。",
+      "bbox": [
+        303.77,
+        200.633,
+        557.27,
+        210.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "91. D【解析】白茅根凉血止血，清热利尿，有利水",
+      "bbox": [
+        63.26,
+        216.393,
+        283.39,
+        226.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "103. C【解析】甘露消毒丹主治证。甘露消毒丹",
+      "bbox": [
+        324.67,
+        216.213,
+        545.379,
+        225.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "消肿、利尿通淋、利湿退黄的功效。",
+      "bbox": [
+        43.07,
+        232.072,
+        199.07,
+        241.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "功能利湿化浊，主治湿温时疫，邪在气分，湿热并重。",
+      "bbox": [
+        303.56,
+        231.222,
+        545.185,
+        240.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "92. D【解析】本题所述病证为血瘀经行不畅，此",
+      "bbox": [
+        63.28,
+        247.162,
+        283.002,
+        257.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "症见发热倦怠，胸闷腹满，肢酸咽肿，身目发黄，颐肿口",
+      "bbox": [
+        303.52,
+        246.763,
+        547.27,
+        256.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "五个选项中，川芎为妇科要药，善治血瘀气滞痛证，活",
+      "bbox": [
+        43.41,
+        263.242,
+        282.568,
+        272.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "渴，小便短赤，舌淡苔白厚腻。",
+      "bbox": [
+        303.59,
+        262.733,
+        440.09,
+        272.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "血调经，其余选项均无调经之功效。",
+      "bbox": [
+        43.26,
+        278.513,
+        198.94,
+        288.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "104. D【解析】生脉散益气生津、敛阴止汗，用于",
+      "bbox": [
+        324.67,
+        277.793,
+        545.399,
+        287.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "93. C【解析】甘：能补、能缓、能和，即有补益、缓",
+      "bbox": [
+        63.4,
+        293.983,
+        293.79,
+        303.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "温热、暑热、耗气伤阴证；或久咳肺虚，气阴两虚证。主",
+      "bbox": [
+        303.79,
+        293.313,
+        547.29,
+        303.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "急止痛、调和药性、和中的作用，该证属于虚证，故用甘",
+      "bbox": [
+        43.48,
+        309.293,
+        287.23,
+        319.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "症可见“汗多神疲，体倦乏力，气短懒言，咽干口渴，舌",
+      "bbox": [
+        303.4,
+        308.963,
+        547.15,
+        318.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "缓以补之。升浮之药能上行，提升气机，该病诊断为胃",
+      "bbox": [
+        43.29,
+        324.752,
+        282.02,
+        334.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "干红少苔，脉虚数”。",
+      "bbox": [
+        303.59,
+        324.343,
+        400.99,
+        334.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "下垂，故用升浮之药以升阳举陷，故选C。",
+      "bbox": [
+        43.23,
+        340.243,
+        223.644,
+        349.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "105. B【解析】大承气汤的应用很广泛，主治证候",
+      "bbox": [
+        324.52,
+        339.663,
+        545.368,
+        349.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "94. C【解析】附子能上助心阳、中温脾阳、下补肾",
+      "bbox": [
+        63.62,
+        355.403,
+        283.29,
+        365.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "复杂。在一般方剂著作中常总结为3大类：一是痞满",
+      "bbox": [
+        303.57,
+        355.033,
+        545.168,
+        364.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "阳，为“回阳救逆第一品药”。用于久病体虚，阳气衰",
+      "bbox": [
+        43.93,
+        371.123,
+        283.088,
+        380.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "燥实的阳明腑实征象，这组证候以腹痛、腹胀、大便干",
+      "bbox": [
+        303.38,
+        369.963,
+        545.453,
+        379.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "微，阴寒内盛，或大汗、大吐、大泻所致的亡阳证，多与",
+      "bbox": [
+        43.28,
+        386.602,
+        287.03,
+        396.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "结等为特征，是大承气汤的主要治疗指征；二是热结旁",
+      "bbox": [
+        303.43,
+        385.873,
+        545.279,
+        395.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "干姜、甘草配伍。此为亡阳证，故选C。",
+      "bbox": [
+        43.25,
+        401.712,
+        214.284,
+        411.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "流证，以本题的表现为主，看似有腹泻，实是有热结，此",
+      "bbox": [
+        303.71,
+        401.422,
+        547.46,
+        411.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "95. C【解析】艾叶温经止血、散寒调经、安胎；白",
+      "bbox": [
+        63.82,
+        416.733,
+        284.24,
+        426.733
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "条容易忽视；三是其他相关疾病，如痉证、狂证等有阳",
+      "bbox": [
+        303.5,
+        416.642,
+        544.9,
+        426.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "及收敛止血、消肿生肌；三七化瘀止血、活血定痛；槐花",
+      "bbox": [
+        43.27,
+        432.603,
+        287.02,
+        442.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "明腑实证者。",
+      "bbox": [
+        303.93,
+        432.473,
+        362.37,
+        442.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "凉血止血、清肝泻火；小蓟凉血止血、散瘀解毒消痈。",
+      "bbox": [
+        43.43,
+        447.703,
+        282.566,
+        457.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "106. E【解析】大建中汤有补虚缓急，散寒痛之功",
+      "bbox": [
+        324.37,
+        447.493,
+        545.099,
+        457.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "本题所述症状“舌质紫暗，脉沉涩”提示有血瘀证，宜用",
+      "bbox": [
+        43.29,
+        463.303,
+        287.04,
+        473.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "用，主治虚寒腹痛。",
+      "bbox": [
+        303.4,
+        463.303,
+        391.06,
+        473.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "活血止血药三七。",
+      "bbox": [
+        43.54,
+        478.583,
+        121.46,
+        488.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "107. B【解析】心悸胸闷，其病位在心。畏寒肢",
+      "bbox": [
+        324.4,
+        478.273,
+        545.488,
+        488.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "96. E【解析】远志的功效：安神益智，祛痰开窍，",
+      "bbox": [
+        63.96,
+        494.033,
+        284.63,
+        503.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "冷，舌淡胖，苔白滑，脉沉弦迟，说明病性为阳虚。综合",
+      "bbox": [
+        303.53,
+        494.053,
+        547.28,
+        503.803
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "消散痈肿。用于惊悸，失眠健忘，亦用于痰阻心窍，癫",
+      "bbox": [
+        43.33,
+        509.393,
+        282.915,
+        519.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "为心阳虚证。",
+      "bbox": [
+        303.75,
+        509.233,
+        362.19,
+        518.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "痫惊狂。",
+      "bbox": [
+        42.87,
+        524.602,
+        81.87,
+        534.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "108. B【解析】大黄牡丹汤由大黄涤荡肠胃，泻肠",
+      "bbox": [
+        324.34,
+        524.813,
+        544.924,
+        534.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "97. C【解析】鸡内金的功效：消食健胃，涩精止",
+      "bbox": [
+        63.75,
+        539.803,
+        282.931,
+        549.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "中湿热瘀结之毒；芒硝软坚散结，助大黄促其速下；桃",
+      "bbox": [
+        304.4,
+        540.183,
+        544.903,
+        549.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "遗。主治：饮食积滞，小儿疳积；肾虚遗精、遗尿；砂石",
+      "bbox": [
+        42.98,
+        555.223,
+        286.23,
+        564.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "仁、牡丹皮凉血、破血祛瘀；冬瓜子清肠中湿热，排脓消",
+      "bbox": [
+        303.72,
+        555.443,
+        546.97,
+        565.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "淋证，胆结石。",
+      "bbox": [
+        43.08,
+        570.823,
+        111.26,
+        580.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "痈。综观全方，是由苦寒泻下、清热除湿、活血化瘀三",
+      "bbox": [
+        303.62,
+        571.043,
+        544.997,
+        580.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "98. B【解析】患者“暑天乘凉饮冷”为感受寒湿、",
+      "bbox": [
+        63.59,
+        585.783,
+        284.12,
+        595.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "类组成，使其湿热、瘀结从泻下驱除，气血凝滞的结聚",
+      "bbox": [
+        303.45,
+        586.453,
+        545.051,
+        596.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "暑湿之邪，其后出现“恶心，呕吐”可知寒湿、暑湿之邪",
+      "bbox": [
+        42.64,
+        601.413,
+        286.14,
+        611.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "经破血而痈肿消散。",
+      "bbox": [
+        303.7,
+        601.773,
+        391.36,
+        611.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "侵犯中焦脾胃。治宜化湿、止呕、解暑，故藿香为最佳",
+      "bbox": [
+        42.57,
+        616.823,
+        283.251,
+        626.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "109. C【解析】暑湿伤表，表卫不和，故身热，微恶",
+      "bbox": [
+        324.47,
+        617.433,
+        547.97,
+        627.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "选项。黄连清热燥湿，泻火解毒。生姜解表散寒，温中",
+      "bbox": [
+        42.72,
+        632.663,
+        282.529,
+        642.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "风，汗少，阻滞气机则肢体酸重，头昏重胀痛，犯肺则咳",
+      "bbox": [
+        303.88,
+        632.673,
+        547.38,
+        642.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "止呕，温肺止咳，解毒。竹茹清热化痰，除烦止呕，凉血",
+      "bbox": [
+        42.81,
+        647.753,
+        286.31,
+        657.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "嗽痰黏，鼻流浊涕，暑热内扰则心烦，口渴，舌苔薄黄而",
+      "bbox": [
+        303.79,
+        648.343,
+        547.29,
+        658.083
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "止血。紫苏降气化痰，止咳平喘，润肠通便。",
+      "bbox": [
+        42.74,
+        663.643,
+        237.74,
+        673.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "腻，脉濡数。治疗应首选清暑祛湿解表的新加香薷饮。",
+      "bbox": [
+        303.87,
+        663.653,
+        540.99,
+        673.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "99. A【解析】解表药是指以发散表邪、解除表证",
+      "bbox": [
+        63.64,
+        678.693,
+        283.248,
+        688.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "110. C【解析】泄泻有虚实之分，此为脾胃虚弱导",
+      "bbox": [
+        324.67,
+        678.883,
+        545.012,
+        688.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "为主要作用的药物，本类药物辛散轻扬，主入肺、膀胱",
+      "bbox": [
+        42.72,
+        694.363,
+        283.177,
+        704.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "致的泄泻，应用“参苓白术散”健脾益气，化湿止泻。",
+      "bbox": [
+        303.42,
+        694.383,
+        544.996,
+        704.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "经，可发汗解表，部分药兼有利尿退肿、止咳平喘、透",
+      "bbox": [
+        42.59,
+        709.663,
+        283.071,
+        719.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "AE项健脾益气，止泻力弱；B项治疗中阳衰弱，阴寒内",
+      "bbox": [
+        303.98,
+        709.543,
+        544.545,
+        719.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "疹、止痛、消疮的作用。本类药物主要用于外感表证，",
+      "bbox": [
+        42.47,
+        724.963,
+        282.279,
+        734.703
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "盛之脘腹剧痛证；D项治疗中脏虚寒之腹痛。",
+      "bbox": [
+        303.73,
+        724.983,
+        498.626,
+        734.703
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "部分药物还可用于水肿、咳喘、麻疹、风湿痹痛、疮疡初",
+      "bbox": [
+        42.63,
+        739.963,
+        285.88,
+        749.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "111. D【解析】肾气丸补肾助阳，用于肾阳不足证。",
+      "bbox": [
+        324.52,
+        739.903,
+        547.39,
+        749.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "起等证而兼有表证者。",
+      "bbox": [
+        42.51,
+        755.493,
+        141.576,
+        765.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "症见腰痛脚软，身半以下常有冷感，少腹拘急，小便不",
+      "bbox": [
+        303.36,
+        755.283,
+        544.936,
+        765.013
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "100. A【解析】该患者有瘀血，有寒痛，故应选择",
+      "bbox": [
+        64.28,
+        770.813,
+        282.864,
+        780.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "利，或小便反多、入夜尤甚，阳痿早泄，舌淡而胖，脉虚",
+      "bbox": [
+        303.47,
+        770.568,
+        544.591,
+        779.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "活血化瘀、散寒止痛的方剂。生化汤活血化瘀，温经止",
+      "bbox": [
+        43.22,
+        785.853,
+        282.782,
+        795.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "弱，尺部沉细；以及痰饮，水肿，消渴，脚气，转胞等。",
+      "bbox": [
+        303.45,
+        785.599,
+        530.95,
+        794.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "243",
+      "bbox": [
+        283.81,
+        803.744,
+        298.802,
+        813.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "—",
+      "bbox": [
+        311.08,
+        803.251,
+        320.95,
+        813.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

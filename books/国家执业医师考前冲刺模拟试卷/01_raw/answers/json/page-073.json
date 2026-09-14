@@ -1,0 +1,921 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 73,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        304.61,
+        46.009,
+        520.54,
+        57.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "上，内口位于肛窦部位。B项为高位复杂性肛漏，D项",
+      "bbox": [
+        28.22,
+        76.662,
+        271.07,
+        86.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "137. D【解析】治疗瘢痕气滞血瘀证，应首选香",
+      "bbox": [
+        311.94,
+        77.222,
+        533.16,
+        88.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "为氮位复杂性肛漏。",
+      "bbox": [
+        28.0,
+        92.062,
+        116.29,
+        101.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "棱丸。",
+      "bbox": [
+        291.51,
+        93.462,
+        320.91,
+        103.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "123. B【解析】二仙汤合四物汤功能调摄冲任，主",
+      "bbox": [
+        45.56,
+        107.192,
+        270.704,
+        117.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "138. E【解析】治疗不孕瘀滞胞宫证，应首选少腹",
+      "bbox": [
+        312.34,
+        107.742,
+        533.022,
+        118.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "治冲任不调而产生的多种病证，故为123题首选方剂。",
+      "bbox": [
+        27.31,
+        121.972,
+        267.095,
+        131.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "逐瘀汤。",
+      "bbox": [
+        291.33,
+        123.522,
+        330.61,
+        133.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "124. D【解析】神效瓜蒌散合开郁散功能疏肝解",
+      "bbox": [
+        45.33,
+        137.212,
+        270.782,
+        147.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "139. E【解析】疑有宫颈管病变时，应采取的措施",
+      "bbox": [
+        312.15,
+        138.482,
+        533.418,
+        149.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "郁、化痰散结、活血化瘀、理气止痛，适用于乳岩肝郁痰",
+      "bbox": [
+        27.04,
+        152.212,
+        272.54,
+        162.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "是分段诊刮。",
+      "bbox": [
+        291.42,
+        153.942,
+        350.34,
+        163.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "浸证。",
+      "bbox": [
+        27.19,
+        167.702,
+        56.56,
+        177.492
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "140. A【解析】疑有人流术后残留时，应采取的措",
+      "bbox": [
+        312.03,
+        168.542,
+        533.599,
+        179.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "125. A【解析】阳和汤温阳散寒、活血通络，适用",
+      "bbox": [
+        44.7,
+        181.922,
+        270.524,
+        192.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "施是清宫术。",
+      "bbox": [
+        291.24,
+        183.892,
+        350.04,
+        193.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "于脱疽寒湿阻络证。",
+      "bbox": [
+        27.21,
+        197.932,
+        115.5,
+        207.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "141. B【解析】肾病综合征肺脾气虚证的治法是",
+      "bbox": [
+        312.18,
+        199.302,
+        533.587,
+        209.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "126. C【解析】顾步汤主治因热毒蕴结而引起的",
+      "bbox": [
+        44.72,
+        212.092,
+        270.571,
+        222.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "益气健脾、宣肺利水，方选黄芪汤合五苓散。",
+      "bbox": [
+        291.26,
+        214.432,
+        487.06,
+        224.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "脉络不畅，适用于脱疽热毒伤阴证。",
+      "bbox": [
+        26.89,
+        228.092,
+        183.85,
+        237.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "142. D【解析】急性肾小球肾炎水凌心肺证的治",
+      "bbox": [
+        312.11,
+        229.412,
+        533.602,
+        239.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "127. A【解析】寒湿阻络型治法：和营祛寒化湿，",
+      "bbox": [
+        44.44,
+        242.402,
+        270.399,
+        253.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "法是泻肺逐水、温阳扶正，方选己椒苈黄汤合参附汤。",
+      "bbox": [
+        291.44,
+        244.802,
+        527.12,
+        254.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "方药桂枝汤。",
+      "bbox": [
+        26.91,
+        258.582,
+        85.83,
+        268.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "143. B",
+      "bbox": [
+        312.07,
+        259.812,
+        339.848,
+        269.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "128. D【解析】湿热蕴结型治法：清热解毒利湿，",
+      "bbox": [
+        44.41,
+        273.002,
+        270.454,
+        283.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "144. D【解析】痄腮邪犯少阳，应治以疏风清热，",
+      "bbox": [
+        312.05,
+        275.022,
+        533.409,
+        285.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "方药茵陈蒿汤合消风散。",
+      "bbox": [
+        26.67,
+        289.232,
+        134.8,
+        299.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "散结消肿，方选柴胡葛根汤。痄腮热毒壅盛，应治以清",
+      "bbox": [
+        291.45,
+        289.942,
+        533.68,
+        299.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "129. B",
+      "bbox": [
+        44.37,
+        304.152,
+        72.233,
+        313.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "热解毒，软坚散结，方选普济消毒饮。",
+      "bbox": [
+        291.38,
+        305.372,
+        458.15,
+        315.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "130. A【解析】内痔好发于齿线上3、7、11点处;",
+      "bbox": [
+        44.25,
+        319.702,
+        270.448,
+        330.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "145. B",
+      "bbox": [
+        312.12,
+        320.952,
+        340.012,
+        330.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "赘皮外痔多发于肛缘6、12点处；肛裂好发于肛管6、12",
+      "bbox": [
+        26.64,
+        335.022,
+        271.343,
+        345.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "146. C【解析】抗原漂移：变异幅度小，属于量变，",
+      "bbox": [
+        312.04,
+        336.122,
+        535.66,
+        346.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "点处；血栓外痔好发于3、9点处。",
+      "bbox": [
+        26.72,
+        350.802,
+        174.413,
+        360.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "不会引起流感的大规模流行，出现频率较高，且有逐渐",
+      "bbox": [
+        291.52,
+        351.602,
+        533.75,
+        361.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "131. A",
+      "bbox": [
+        44.31,
+        365.692,
+        73.377,
+        375.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "积累效应。抗原转换：变异幅度大，属于质变，形成新",
+      "bbox": [
+        291.64,
+        366.882,
+        533.644,
+        376.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "132. E【解析】两题均属产后身痛，但根据局部症",
+      "bbox": [
+        44.28,
+        380.432,
+        271.308,
+        391.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "的病毒亚型，由于人群对抗原转换后出现的新亚型缺",
+      "bbox": [
+        292.02,
+        382.092,
+        533.867,
+        391.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "状、兼证及舌脉，131题应属于血虚证，治以养血益气，",
+      "bbox": [
+        26.59,
+        396.602,
+        270.705,
+        406.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "少免疫力，往往会引起流感的全球性大流行，发生频率",
+      "bbox": [
+        291.76,
+        397.922,
+        533.99,
+        407.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "温经止痛。132题应属于血瘀证，治以养血活血，化瘀",
+      "bbox": [
+        26.93,
+        411.922,
+        271.468,
+        421.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "较低，且缓慢。",
+      "bbox": [
+        291.74,
+        412.892,
+        360.27,
+        422.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "祛湿。",
+      "bbox": [
+        27.0,
+        427.922,
+        56.4,
+        437.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "147. A【解析】汗证肺卫不固多见于体质虚弱的",
+      "bbox": [
+        312.17,
+        428.273,
+        533.651,
+        438.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "133. A【解析】月经过多气虚证首选方剂是举",
+      "bbox": [
+        44.16,
+        442.032,
+        271.398,
+        452.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "小儿，以自汗为主，可伴有盗汗，易外感。",
+      "bbox": [
+        291.56,
+        443.502,
+        477.95,
+        453.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "元煎。",
+      "bbox": [
+        26.84,
+        458.742,
+        56.27,
+        468.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "148. B【解析】汗证营卫失调以自汗为主，营卫之",
+      "bbox": [
+        312.22,
+        459.172,
+        534.189,
+        469.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "134. C【解析】月经过多血热证，应首选保阴煎。",
+      "bbox": [
+        44.21,
+        473.822,
+        263.464,
+        484.24
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "气遍绕全身，所以汗出全身而不温，没有固定的部位。",
+      "bbox": [
+        291.67,
+        474.722,
+        526.63,
+        484.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "135. A",
+      "bbox": [
+        44.5,
+        489.472,
+        73.537,
+        499.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "149. C",
+      "bbox": [
+        312.52,
+        490.242,
+        340.287,
+        500.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "136. B【解析】尿石症，症见小便涩痛，尿中带血，",
+      "bbox": [
+        44.42,
+        504.572,
+        270.837,
+        515.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "150. E【解析】百日咳病因为感受百日咳时邪，邪",
+      "bbox": [
+        312.55,
+        505.752,
+        534.284,
+        516.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "尿频、尿急、尿痛，舌红苔黄腻，为湿热蕴结证。治法：",
+      "bbox": [
+        26.83,
+        520.442,
+        272.33,
+        530.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "侵肺系，夹痰交结气道，导致肺失肃降，肺气上逆，发为",
+      "bbox": [
+        291.97,
+        521.052,
+        537.47,
+        530.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "清热利湿，通淋排石。方药：三金排石汤加减。尿石",
+      "bbox": [
+        26.93,
+        535.962,
+        271.585,
+        545.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "痉咳，故149题选C。百日咳恢复期咳而无力多由脾气",
+      "bbox": [
+        292.15,
+        536.602,
+        534.457,
+        546.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "症，症见腰部胀痛，时发时止，遇劳加重，尿少或频数不",
+      "bbox": [
+        26.51,
+        551.872,
+        272.01,
+        561.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "素虚，痰浊阻肺，痉咳日久，耗散正气而致，故150题",
+      "bbox": [
+        292.19,
+        552.352,
+        534.752,
+        562.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "爽，舌淡，为肾气不足证。治法：补肾益气，通淋排石。选",
+      "bbox": [
+        26.67,
+        567.522,
+        301.98,
+        577.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "E。",
+      "bbox": [
+        305.237,
+        567.522,
+        320.357,
+        577.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "方药：济生肾气丸加减。",
+      "bbox": [
+        26.71,
+        583.502,
+        134.51,
+        593.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "—263",
+      "bbox": [
+        252.3,
+        802.822,
+        289.056,
+        814.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "一",
+      "bbox": [
+        300.28,
+        800.233,
+        310.9,
+        810.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

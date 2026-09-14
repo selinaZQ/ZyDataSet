@@ -1,0 +1,1173 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 12,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        235.0,
+        134.0,
+        631.0,
+        172.0
+      ],
+      "confidence": 0.998772,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        675.0,
+        134.0,
+        911.0,
+        172.0
+      ],
+      "confidence": 0.999591,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 透关射甲",
+      "bbox": [
+        305.0,
+        239.0,
+        518.0,
+        285.0
+      ],
+      "confidence": 0.999138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "(149～150题共用备选答案）",
+      "bbox": [
+        1200.0,
+        244.0,
+        1696.0,
+        285.0
+      ],
+      "confidence": 0.919716,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 未超风关",
+      "bbox": [
+        306.0,
+        292.0,
+        516.0,
+        335.0
+      ],
+      "confidence": 0.99919,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 制定全国突发事件应急预案",
+      "bbox": [
+        1196.0,
+        294.0,
+        1736.0,
+        341.0
+      ],
+      "confidence": 0.998168,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "145. 邪入脏腑，病情严重者，指纹的表现",
+      "bbox": [
+        306.0,
+        346.0,
+        1033.0,
+        389.0
+      ],
+      "confidence": 0.980711,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 制定行政区域应急预案",
+      "bbox": [
+        1195.0,
+        348.0,
+        1649.0,
+        394.0
+      ],
+      "confidence": 0.998728,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "是（",
+      "bbox": [
+        224.0,
+        396.0,
+        300.0,
+        445.0
+      ],
+      "confidence": 0.935097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        303.0,
+        396.0,
+        396.0,
+        442.0
+      ],
+      "confidence": 0.833865,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 预防控制体系",
+      "bbox": [
+        1195.0,
+        399.0,
+        1490.0,
+        448.0
+      ],
+      "confidence": 0.999156,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "146. 病情凶险者，指纹的表现是（",
+      "bbox": [
+        306.0,
+        451.0,
+        878.0,
+        496.0
+      ],
+      "confidence": 0.956884,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": ")",
+      "bbox": [
+        954.0,
+        457.0,
+        976.0,
+        490.0
+      ],
+      "confidence": 0.260022,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 监测与预警系统",
+      "bbox": [
+        1196.0,
+        454.0,
+        1532.0,
+        500.0
+      ],
+      "confidence": 0.995007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "(147～148题共用备选答案）",
+      "bbox": [
+        308.0,
+        504.0,
+        808.0,
+        546.0
+      ],
+      "confidence": 0.924861,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 开展突发事件日常监测",
+      "bbox": [
+        1196.0,
+        507.0,
+        1651.0,
+        552.0
+      ],
+      "confidence": 0.998306,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 结脉",
+      "bbox": [
+        303.0,
+        552.0,
+        443.0,
+        604.0
+      ],
+      "confidence": 0.998969,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "149. 县级以上地方人民政府建立和完善",
+      "bbox": [
+        1200.0,
+        563.0,
+        1920.0,
+        604.0
+      ],
+      "confidence": 0.997286,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 促脉",
+      "bbox": [
+        301.0,
+        606.0,
+        439.0,
+        658.0
+      ],
+      "confidence": 0.995633,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "突发事件（)",
+      "bbox": [
+        1117.0,
+        613.0,
+        1409.0,
+        658.0
+      ],
+      "confidence": 0.851691,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 代脉",
+      "bbox": [
+        302.0,
+        658.0,
+        440.0,
+        712.0
+      ],
+      "confidence": 0.997873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "150. 县级以上各级人民政府卫生行政主",
+      "bbox": [
+        1201.0,
+        669.0,
+        1920.0,
+        708.0
+      ],
+      "confidence": 0.997695,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 微脉",
+      "bbox": [
+        301.0,
+        712.0,
+        441.0,
+        764.0
+      ],
+      "confidence": 0.918095,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "管部门指定机构负责（）",
+      "bbox": [
+        1122.0,
+        722.0,
+        1609.0,
+        760.0
+      ],
+      "confidence": 0.994459,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 弱脉",
+      "bbox": [
+        302.0,
+        768.0,
+        439.0,
+        816.0
+      ],
+      "confidence": 0.997448,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "147. 脉来缓而时止，止无定数者，称",
+      "bbox": [
+        307.0,
+        825.0,
+        1034.0,
+        866.0
+      ],
+      "confidence": 0.986942,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "为（",
+      "bbox": [
+        224.0,
+        876.0,
+        302.0,
+        925.0
+      ],
+      "confidence": 0.931318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "）",
+      "bbox": [
+        357.0,
+        880.0,
+        390.0,
+        917.0
+      ],
+      "confidence": 0.982253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "148. 脉沉细而软者，称为（",
+      "bbox": [
+        307.0,
+        933.0,
+        756.0,
+        971.0
+      ],
+      "confidence": 0.980504,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "）",
+      "bbox": [
+        825.0,
+        937.0,
+        851.0,
+        965.0
+      ],
+      "confidence": 0.995576,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "第二单元",
+      "bbox": [
+        953.0,
+        1153.0,
+        1204.0,
+        1222.0
+      ],
+      "confidence": 0.999702,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "A1 型选择题(1～76题)",
+      "bbox": [
+        867.0,
+        1282.0,
+        1293.0,
+        1331.0
+      ],
+      "confidence": 0.972998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "答题说明:每一道考试题下面有A、B、C、D、E五个备选答案，请从中选择一个最佳答案，并",
+      "bbox": [
+        325.0,
+        1375.0,
+        1903.0,
+        1417.0
+      ],
+      "confidence": 0.953783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        246.0,
+        1428.0,
+        1158.0,
+        1471.0
+      ],
+      "confidence": 0.999287,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "1. 慢性上腹痛，呕吐后缓解，可见于(",
+      "bbox": [
+        303.0,
+        1519.0,
+        922.0,
+        1561.0
+      ],
+      "confidence": 0.95537,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "）",
+      "bbox": [
+        998.0,
+        1523.0,
+        1023.0,
+        1557.0
+      ],
+      "confidence": 0.987405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 肺泡癌",
+      "bbox": [
+        1195.0,
+        1517.0,
+        1374.0,
+        1564.0
+      ],
+      "confidence": 0.998881,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 胆石症",
+      "bbox": [
+        301.0,
+        1568.0,
+        479.0,
+        1616.0
+      ],
+      "confidence": 0.998509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 小细胞肺癌",
+      "bbox": [
+        1197.0,
+        1572.0,
+        1453.0,
+        1613.0
+      ],
+      "confidence": 0.998509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 反流性食管炎",
+      "bbox": [
+        301.0,
+        1624.0,
+        593.0,
+        1669.0
+      ],
+      "confidence": 0.998937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 大细胞肺癌",
+      "bbox": [
+        1197.0,
+        1624.0,
+        1451.0,
+        1665.0
+      ],
+      "confidence": 0.998176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 幽门梗阻",
+      "bbox": [
+        301.0,
+        1676.0,
+        515.0,
+        1723.0
+      ],
+      "confidence": 0.998738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "5. 对急性支气管炎与流行性感冒的鉴别，",
+      "bbox": [
+        1199.0,
+        1678.0,
+        1920.0,
+        1718.0
+      ],
+      "confidence": 0.997174,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 慢性阑尾炎",
+      "bbox": [
+        301.0,
+        1729.0,
+        557.0,
+        1775.0
+      ],
+      "confidence": 0.974037,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "最有意义的是（",
+      "bbox": [
+        1117.0,
+        1728.0,
+        1388.0,
+        1772.0
+      ],
+      "confidence": 0.964633,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "）",
+      "bbox": [
+        1463.0,
+        1736.0,
+        1485.0,
+        1763.0
+      ],
+      "confidence": 0.993167,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 溃疡病",
+      "bbox": [
+        301.0,
+        1781.0,
+        475.0,
+        1829.0
+      ],
+      "confidence": 0.999041,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 发热",
+      "bbox": [
+        1196.0,
+        1779.0,
+        1336.0,
+        1828.0
+      ],
+      "confidence": 0.998922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "2. 持续性胸痛常由下列疾病引起，但除",
+      "bbox": [
+        302.0,
+        1835.0,
+        1034.0,
+        1879.0
+      ],
+      "confidence": 0.99733,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "B. 咳痰",
+      "bbox": [
+        1193.0,
+        1829.0,
+        1333.0,
+        1881.0
+      ],
+      "confidence": 0.930899,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "外（",
+      "bbox": [
+        219.0,
+        1885.0,
+        298.0,
+        1937.0
+      ],
+      "confidence": 0.953873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "）",
+      "bbox": [
+        308.0,
+        1887.0,
+        392.0,
+        1935.0
+      ],
+      "confidence": 0.854495,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 肺部啰音",
+      "bbox": [
+        1196.0,
+        1885.0,
+        1411.0,
+        1931.0
+      ],
+      "confidence": 0.998663,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 心绞痛",
+      "bbox": [
+        299.0,
+        1937.0,
+        480.0,
+        1990.0
+      ],
+      "confidence": 0.997394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 白细胞计数",
+      "bbox": [
+        1196.0,
+        1940.0,
+        1452.0,
+        1982.0
+      ],
+      "confidence": 0.999291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 肺栓塞",
+      "bbox": [
+        301.0,
+        1993.0,
+        475.0,
+        2041.0
+      ],
+      "confidence": 0.989056,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 流行病学史",
+      "bbox": [
+        1197.0,
+        1992.0,
+        1451.0,
+        2035.0
+      ],
+      "confidence": 0.999421,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 胸膜炎",
+      "bbox": [
+        300.0,
+        2044.0,
+        476.0,
+        2096.0
+      ],
+      "confidence": 0.998227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "6. 巨大脾脏常见于（",
+      "bbox": [
+        1197.0,
+        2043.0,
+        1551.0,
+        2088.0
+      ],
+      "confidence": 0.94763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "）",
+      "bbox": [
+        1626.0,
+        2049.0,
+        1645.0,
+        2080.0
+      ],
+      "confidence": 0.685934,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 肺炎",
+      "bbox": [
+        297.0,
+        2094.0,
+        439.0,
+        2151.0
+      ],
+      "confidence": 0.999049,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 急性粒细胞白血病",
+      "bbox": [
+        1200.0,
+        2096.0,
+        1578.0,
+        2141.0
+      ],
+      "confidence": 0.99886,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 急性心包炎",
+      "bbox": [
+        302.0,
+        2155.0,
+        554.0,
+        2198.0
+      ],
+      "confidence": 0.996193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 慢性粒细胞白血病",
+      "bbox": [
+        1197.0,
+        2150.0,
+        1570.0,
+        2192.0
+      ],
+      "confidence": 0.99826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "3. 长期使用解热药或激素类药后，常出现",
+      "bbox": [
+        302.0,
+        2206.0,
+        1034.0,
+        2251.0
+      ],
+      "confidence": 0.998241,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 急性淋巴细胞白血病",
+      "bbox": [
+        1196.0,
+        2202.0,
+        1610.0,
+        2247.0
+      ],
+      "confidence": 0.99793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "的热型是（",
+      "bbox": [
+        223.0,
+        2259.0,
+        419.0,
+        2306.0
+      ],
+      "confidence": 0.969639,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 慢性淋巴细胞白血病",
+      "bbox": [
+        1196.0,
+        2254.0,
+        1613.0,
+        2299.0
+      ],
+      "confidence": 0.997828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        481.0,
+        2264.0,
+        508.0,
+        2298.0
+      ],
+      "confidence": 0.990558,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 消耗热",
+      "bbox": [
+        299.0,
+        2307.0,
+        484.0,
+        2361.0
+      ],
+      "confidence": 0.998959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 肝硬化脾功能亢进",
+      "bbox": [
+        1196.0,
+        2306.0,
+        1571.0,
+        2351.0
+      ],
+      "confidence": 0.993302,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 不规则热",
+      "bbox": [
+        302.0,
+        2364.0,
+        515.0,
+        2411.0
+      ],
+      "confidence": 0.999384,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "7. 长期服用某些抗生素，可产生（",
+      "bbox": [
+        1196.0,
+        2357.0,
+        1766.0,
+        2405.0
+      ],
+      "confidence": 0.990862,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "）",
+      "bbox": [
+        1839.0,
+        2367.0,
+        1864.0,
+        2400.0
+      ],
+      "confidence": 0.990386,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 回归热",
+      "bbox": [
+        299.0,
+        2413.0,
+        479.0,
+        2467.0
+      ],
+      "confidence": 0.998276,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 黄腻苔",
+      "bbox": [
+        1196.0,
+        2411.0,
+        1374.0,
+        2459.0
+      ],
+      "confidence": 0.998473,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 稽留热",
+      "bbox": [
+        299.0,
+        2464.0,
+        480.0,
+        2520.0
+      ],
+      "confidence": 0.999293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 白腻苔",
+      "bbox": [
+        1195.0,
+        2465.0,
+        1368.0,
+        2512.0
+      ],
+      "confidence": 0.998113,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 弛张热",
+      "bbox": [
+        299.0,
+        2519.0,
+        478.0,
+        2571.0
+      ],
+      "confidence": 0.996421,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 积粉苔",
+      "bbox": [
+        1195.0,
+        2517.0,
+        1369.0,
+        2565.0
+      ],
+      "confidence": 0.998373,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 剥落苔",
+      "bbox": [
+        1194.0,
+        2568.0,
+        1372.0,
+        2619.0
+      ],
+      "confidence": 0.998409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "4. 对放射治疗最敏感的肺癌是（",
+      "bbox": [
+        303.0,
+        2578.0,
+        859.0,
+        2619.0
+      ],
+      "confidence": 0.975574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "）",
+      "bbox": [
+        937.0,
+        2583.0,
+        955.0,
+        2611.0
+      ],
+      "confidence": 0.575235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 鳞癌",
+      "bbox": [
+        301.0,
+        2626.0,
+        445.0,
+        2678.0
+      ],
+      "confidence": 0.991819,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 黑腻苔",
+      "bbox": [
+        1195.0,
+        2623.0,
+        1369.0,
+        2671.0
+      ],
+      "confidence": 0.977476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 腺癌",
+      "bbox": [
+        297.0,
+        2678.0,
+        437.0,
+        2730.0
+      ],
+      "confidence": 0.998158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "8. 肺心病肺动脉高压形成的主要原因",
+      "bbox": [
+        1194.0,
+        2674.0,
+        1921.0,
+        2730.0
+      ],
+      "confidence": 0.997636,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "12",
+      "bbox": [
+        1049.0,
+        2784.0,
+        1104.0,
+        2825.0
+      ],
+      "confidence": 0.999403,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "一",
+      "bbox": [
+        1119.0,
+        2792.0,
+        1163.0,
+        2820.0
+      ],
+      "confidence": 0.387489,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

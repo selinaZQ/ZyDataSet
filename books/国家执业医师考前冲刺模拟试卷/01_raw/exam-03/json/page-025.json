@@ -1,0 +1,1051 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 25,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        424.89,
+        49.224,
+        544.324,
+        60.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 医学关系中的主体因履行道德职责受",
+      "bbox": [
+        67.98,
+        81.719,
+        287.501,
+        95.086
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 甲型流感",
+      "bbox": [
+        338.99,
+        79.711,
+        402.325,
+        92.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "到褒奖而产生的自我赞赏",
+      "bbox": [
+        44.72,
+        95.757,
+        179.91,
+        108.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 乙型流感",
+      "bbox": [
+        338.71,
+        93.721,
+        400.026,
+        107.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 医学关系中的主体在医疗活动中对自",
+      "bbox": [
+        67.73,
+        110.199,
+        285.381,
+        123.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "C. H5N1",
+      "bbox": [
+        338.7,
+        111.453,
+        383.782,
+        123.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "己和他人关系的内心体验和感受",
+      "bbox": [
+        45.33,
+        126.259,
+        215.01,
+        138.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "D. H7N7",
+      "bbox": [
+        338.4,
+        126.903,
+        384.86,
+        138.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "147. 作为医学伦理学基本范畴的良心是",
+      "bbox": [
+        68.27,
+        140.037,
+        287.646,
+        152.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "E. H9N2",
+      "bbox": [
+        338.87,
+        141.678,
+        384.271,
+        153.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "指（）",
+      "bbox": [
+        43.8,
+        155.685,
+        89.973,
+        169.126
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "149. 人禽流感病毒致病力最强的亚型",
+      "bbox": [
+        339.94,
+        154.754,
+        558.394,
+        167.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "148. 作为医学伦理学基本范畴的情感是",
+      "bbox": [
+        67.99,
+        170.336,
+        287.656,
+        182.736
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "是（）",
+      "bbox": [
+        313.88,
+        170.497,
+        361.679,
+        183.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "指（）",
+      "bbox": [
+        43.38,
+        185.709,
+        89.246,
+        198.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "150. 曾引起流感大流行的流感病毒亚型",
+      "bbox": [
+        339.8,
+        185.229,
+        558.138,
+        197.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        67.23,
+        201.339,
+        216.077,
+        213.469
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "是（）",
+      "bbox": [
+        314.01,
+        200.63,
+        361.446,
+        213.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "第三单元",
+      "bbox": [
+        265.35,
+        254.401,
+        336.47,
+        267.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A1 型选择题（1～ 76题）",
+      "bbox": [
+        238.43,
+        291.711,
+        362.816,
+        305.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "千",
+      "bbox": [
+        547.5,
+        320.242,
+        559.31,
+        332.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "1. 消渴并发白内障、耳聋、雀盲，治疗",
+      "bbox": [
+        70.18,
+        360.231,
+        290.45,
+        373.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 八正散",
+      "bbox": [
+        338.29,
+        361.971,
+        388.051,
+        374.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "首选（）",
+      "bbox": [
+        43.89,
+        375.691,
+        101.506,
+        389.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 代抵当丸",
+      "bbox": [
+        338.52,
+        375.732,
+        400.305,
+        388.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 六味地黄汤",
+      "bbox": [
+        66.47,
+        391.932,
+        141.187,
+        404.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "6. 既治疗心悸，又治疗不寐的方剂为（）",
+      "bbox": [
+        338.45,
+        391.072,
+        553.893,
+        403.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 石斛夜光丸",
+      "bbox": [
+        66.44,
+        407.811,
+        140.134,
+        421.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 龙胆泻肝汤",
+      "bbox": [
+        338.52,
+        407.672,
+        413.25,
+        420.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 杞菊地黄丸",
+      "bbox": [
+        66.27,
+        423.072,
+        140.051,
+        435.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 丹栀逍遥散",
+      "bbox": [
+        338.54,
+        422.632,
+        411.927,
+        435.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 龙胆泻肝丸",
+      "bbox": [
+        66.27,
+        437.77,
+        141.346,
+        450.977
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 黄连温胆汤",
+      "bbox": [
+        338.41,
+        437.682,
+        411.7,
+        450.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 镇肝熄风汤",
+      "bbox": [
+        66.47,
+        454.06,
+        139.937,
+        467.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 导痰汤",
+      "bbox": [
+        338.17,
+        453.692,
+        387.419,
+        466.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "2. 内伤咳嗽的病理因素主要为（）",
+      "bbox": [
+        66.36,
+        469.3,
+        264.756,
+        481.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 龙胆泻肝汤合涤痰汤",
+      "bbox": [
+        338.31,
+        470.012,
+        461.292,
+        481.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 湿与热",
+      "bbox": [
+        66.36,
+        486.111,
+        116.312,
+        499.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "7. 下列除哪项外，均为喘证的病因（）",
+      "bbox": [
+        338.57,
+        484.072,
+        553.156,
+        495.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 饮与热",
+      "bbox": [
+        66.25,
+        501.761,
+        114.805,
+        515.169
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 外邪侵袭",
+      "bbox": [
+        338.45,
+        501.672,
+        401.738,
+        514.547
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 痰与火",
+      "bbox": [
+        66.43,
+        517.661,
+        114.809,
+        530.89
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 饮食不当",
+      "bbox": [
+        338.45,
+        515.422,
+        397.925,
+        527.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 痰与寒",
+      "bbox": [
+        66.16,
+        532.671,
+        115.367,
+        545.686
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 情志所伤",
+      "bbox": [
+        338.36,
+        531.242,
+        400.072,
+        544.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 湿与燥",
+      "bbox": [
+        66.22,
+        548.681,
+        115.386,
+        561.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 痰热素盛",
+      "bbox": [
+        338.33,
+        547.211,
+        400.629,
+        560.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "3. 下列哪项肺痈治疗选方有误（）",
+      "bbox": [
+        66.14,
+        562.952,
+        264.696,
+        574.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 劳欲久病",
+      "bbox": [
+        338.39,
+        562.292,
+        399.972,
+        575.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 初期用银翘散",
+      "bbox": [
+        66.0,
+        579.66,
+        154.465,
+        592.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "8. 老人夜寐早醒而无虚烦者，应选用",
+      "bbox": [
+        338.3,
+        577.471,
+        556.491,
+        589.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 成痈期用千金苇茎汤合如金解毒散",
+      "bbox": [
+        66.03,
+        594.85,
+        265.95,
+        606.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "（）",
+      "bbox": [
+        314.72,
+        596.652,
+        349.529,
+        608.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 热毒瘀结用葶苈大枣泻肺汤",
+      "bbox": [
+        65.89,
+        610.741,
+        227.985,
+        622.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 左归丸B.天王补心丹",
+      "bbox": [
+        338.54,
+        609.412,
+        526.029,
+        623.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 溃脓期用加味桔梗汤",
+      "bbox": [
+        65.97,
+        626.661,
+        190.316,
+        638.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 半夏秫米汤D.归脾汤",
+      "bbox": [
+        338.48,
+        625.122,
+        502.114,
+        638.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 身静咳减脓少用桔梗杏仁煎",
+      "bbox": [
+        66.0,
+        641.7,
+        228.063,
+        655.147
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 涤痰汤",
+      "bbox": [
+        338.73,
+        640.752,
+        387.55,
+        653.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "4. 哮病发作期的病因病理关键是（）",
+      "bbox": [
+        65.34,
+        657.331,
+        277.186,
+        669.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "9. 关于惊悸和怔忡，叙述不正确的是",
+      "bbox": [
+        338.44,
+        657.141,
+        556.498,
+        669.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 宿痰内伏于肺",
+      "bbox": [
+        66.31,
+        673.641,
+        153.584,
+        686.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "（）",
+      "bbox": [
+        314.75,
+        673.772,
+        349.173,
+        685.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 外邪侵袭，触动伏痰",
+      "bbox": [
+        66.22,
+        689.242,
+        188.23,
+        701.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 怔忡每由内因引起，惊悸常由外因而成",
+      "bbox": [
+        338.43,
+        687.772,
+        556.42,
+        701.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 痰气相击，气道被阻",
+      "bbox": [
+        66.24,
+        704.851,
+        188.59,
+        718.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 惊悸日久可发展为怔忡",
+      "bbox": [
+        338.71,
+        704.152,
+        473.196,
+        717.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 邪客于肺，气道不利",
+      "bbox": [
+        66.35,
+        720.521,
+        188.76,
+        732.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 怔忡常自觉心中惕惕，病来虽渐，但全",
+      "bbox": [
+        338.71,
+        718.332,
+        559.61,
+        731.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 脏腑虚弱，气失所主",
+      "bbox": [
+        66.41,
+        735.441,
+        183.776,
+        749.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "身情况较差",
+      "bbox": [
+        314.07,
+        736.892,
+        373.501,
+        748.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "5. 癃闭肺热壅盛证的主方是（）",
+      "bbox": [
+        66.44,
+        750.311,
+        251.396,
+        762.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 怔忡患者，又易受外惊所扰，使动悸加",
+      "bbox": [
+        338.52,
+        748.962,
+        556.1,
+        762.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 清肺饮",
+      "bbox": [
+        66.33,
+        767.681,
+        116.329,
+        780.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "重",
+      "bbox": [
+        314.09,
+        766.282,
+        325.9,
+        778.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 沉香散",
+      "bbox": [
+        66.35,
+        783.241,
+        114.462,
+        796.605
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 惊悸以虚证为多，发则悸跃不能自控",
+      "bbox": [
+        338.54,
+        779.782,
+        542.17,
+        793.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 春泽汤",
+      "bbox": [
+        66.39,
+        798.001,
+        114.029,
+        809.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "119",
+      "bbox": [
+        292.74,
+        817.582,
+        308.558,
+        827.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

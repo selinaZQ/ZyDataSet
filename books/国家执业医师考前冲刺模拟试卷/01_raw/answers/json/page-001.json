@@ -1,0 +1,1025 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 1,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        322.91,
+        45.092,
+        537.049,
+        56.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "参考答案及解析",
+      "bbox": [
+        227.44,
+        111.993,
+        369.448,
+        130.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        123.07,
+        173.261,
+        484.37,
+        192.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        195.69,
+        199.982,
+        398.575,
+        218.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "能达于肌肉四肢。肾阳为人身阳气之根，能温煦全身",
+      "bbox": [
+        310.0,
+        244.516,
+        548.995,
+        253.926
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "脏腑组织，故脾肾阳气虚衰，则温煦失职；最易表现虚",
+      "bbox": [
+        309.79,
+        258.836,
+        548.894,
+        268.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "第一单元",
+      "bbox": [
+        129.7,
+        266.895,
+        201.5,
+        284.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "寒之象，而尤以肾阳虚衰为关键。",
+      "bbox": [
+        309.54,
+        273.606,
+        452.998,
+        282.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "10. C【解析】胃气以下行为顺，胃气和降，则水谷",
+      "bbox": [
+        330.71,
+        287.306,
+        548.702,
+        296.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "得以下行。脾气以上行为顺，脾气上升，精微物质得以",
+      "bbox": [
+        309.61,
+        301.896,
+        548.144,
+        311.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "1. E【解析】津能载气，津液大量耗失，气失其依",
+      "bbox": [
+        65.34,
+        314.157,
+        284.954,
+        324.186
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "上输，所以气机升降出入的枢纽是脾胃。",
+      "bbox": [
+        309.47,
+        316.336,
+        483.732,
+        325.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "附而出现暴脱亡失的病理变化，如《金匮要略心典·痰",
+      "bbox": [
+        44.65,
+        328.566,
+        284.851,
+        337.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "11. A【解析】气虚，是指气的推动、温煦、防御、",
+      "bbox": [
+        330.47,
+        330.276,
+        548.402,
+        339.656
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "饮篇》说：“吐下之余，定无完气。”",
+      "bbox": [
+        44.07,
+        343.176,
+        204.38,
+        352.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "固摄和气化功能的减退，从而导致机体的某些功能活",
+      "bbox": [
+        310.34,
+        344.496,
+        548.346,
+        353.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "2. C【解析】在病理上，脾气不升，水谷夹杂而下，",
+      "bbox": [
+        65.17,
+        357.176,
+        284.13,
+        367.156
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "动低下或衰退，抗病能力下降等衰弱的现象；气脱，是",
+      "bbox": [
+        309.65,
+        358.856,
+        548.323,
+        368.226
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "将出现泄泻甚则完谷不化，正如《素问·阴阳应象大",
+      "bbox": [
+        44.0,
+        371.586,
+        284.907,
+        381.006
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "指气不能内守而外脱，不符合本题，排除B；气陷，是气",
+      "bbox": [
+        309.34,
+        373.096,
+        548.078,
+        382.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "论》说：“清气在下，则生飧泄。”",
+      "bbox": [
+        43.92,
+        386.026,
+        194.32,
+        395.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "的上升不及或下降太过，排除E；元气耗损和功能减",
+      "bbox": [
+        310.04,
+        387.156,
+        548.199,
+        396.546
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "3. C【解析】整体观念。五脏、六腑、奇恒之腑、形",
+      "bbox": [
+        65.05,
+        399.646,
+        284.542,
+        409.746
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "退，与血和津液无关，排除CD。",
+      "bbox": [
+        309.14,
+        401.586,
+        444.724,
+        410.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "体、官窍、四肢百骸等复杂的组织结构，在经络系统“内",
+      "bbox": [
+        43.98,
+        414.186,
+        283.883,
+        423.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "12. C【解析】寒极生热，说明了阴阳相互转化的",
+      "bbox": [
+        330.17,
+        415.397,
+        547.778,
+        424.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "属于脏腑，外络于肢节”的联络作用下，经精、气、血、津",
+      "bbox": [
+        43.98,
+        428.286,
+        287.86,
+        437.666
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "关系；阴病治阳，是指用补阳的方法治疗阳虚不能制阴",
+      "bbox": [
+        309.16,
+        429.726,
+        547.833,
+        439.096
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "液等物质的作用，构成了以五脏为中心，以心为主宰的",
+      "bbox": [
+        43.88,
+        442.496,
+        284.437,
+        451.906
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "所引起的阴病；阴中求阳，是在补阳的基础上配合补阴",
+      "bbox": [
+        309.02,
+        443.846,
+        547.703,
+        453.276
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "内外联系、自我调节和自我适应的有机整体。有机整",
+      "bbox": [
+        44.84,
+        456.776,
+        284.296,
+        466.196
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "的方法，是阴阳互根互用关系的具体体现；寒者热之，",
+      "bbox": [
+        309.76,
+        458.006,
+        547.54,
+        467.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "体的“中心”是五脏。",
+      "bbox": [
+        43.87,
+        471.026,
+        138.07,
+        480.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "即以热治寒，是阴阳相互制约关系的具体体现；重阴必",
+      "bbox": [
+        309.66,
+        472.116,
+        548.156,
+        481.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "4. B【解析】多食咸，则脉凝泣而变色；多食苦，则",
+      "bbox": [
+        64.62,
+        485.546,
+        283.941,
+        494.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "阳，是阴阳相互转化关系的具体体现。",
+      "bbox": [
+        309.75,
+        486.326,
+        472.408,
+        495.726
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "皮槁而毛拔；多食辛，则筋急而爪枯；多食酸，则肉胝而",
+      "bbox": [
+        43.61,
+        499.886,
+        284.25,
+        509.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "13. C【解析】证，即证候，是疾病过程中某一阶段",
+      "bbox": [
+        329.92,
+        500.117,
+        547.942,
+        509.726
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "唇揭；多食甘，则骨痛而发落。",
+      "bbox": [
+        43.5,
+        513.986,
+        175.66,
+        523.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "或某一类型的病理概括，一般由一组相对固定的、有内",
+      "bbox": [
+        308.94,
+        514.646,
+        547.37,
+        524.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "5. E【解析】《类经附翼·医易》“动极者镇之以",
+      "bbox": [
+        64.62,
+        527.956,
+        283.668,
+        537.376
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "在联系的、能揭示疾病某一阶段或某一类型病变本质",
+      "bbox": [
+        308.86,
+        528.616,
+        547.648,
+        538.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "静，阴亢者胜之以阳”，说明了动与静、阴与阳的相互制",
+      "bbox": [
+        43.55,
+        542.056,
+        283.768,
+        551.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "的症状和体征构成。",
+      "bbox": [
+        309.38,
+        542.856,
+        394.7,
+        552.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "约的关系。以静镇动，以阳胜阴，是阴阳之间相互制约",
+      "bbox": [
+        43.55,
+        556.636,
+        283.596,
+        566.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "14. B【解析】《素问·平人气象论》说：“胃之大",
+      "bbox": [
+        329.6,
+        557.057,
+        548.121,
+        566.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "关系的具体应用。",
+      "bbox": [
+        43.24,
+        570.836,
+        120.496,
+        580.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "络，名曰虚里，贯膈络肺。出于左乳下，其动应衣，脉宗",
+      "bbox": [
+        308.68,
+        570.916,
+        547.741,
+        580.316
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "6. E【解析】肺为娇脏，是指肺为清虚之脏，轻清",
+      "bbox": [
+        64.52,
+        585.126,
+        283.662,
+        594.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "气也。”临床上常以“虚里”处（相当于心尖搏动部位）的",
+      "bbox": [
+        308.45,
+        585.406,
+        547.556,
+        594.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "肃静，不容纤芥，不耐邪气之侵，肺气通于天，不耐寒",
+      "bbox": [
+        43.26,
+        599.576,
+        283.64,
+        608.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "搏动情况和脉象变化来测知宗气的盛衰。",
+      "bbox": [
+        308.41,
+        600.016,
+        488.188,
+        609.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "热，故为娇嫩之脏。",
+      "bbox": [
+        43.45,
+        614.056,
+        128.05,
+        623.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "15. C【解析】风、寒、暑、湿、火均可外感；风，有内",
+      "bbox": [
+        329.45,
+        613.777,
+        560.44,
+        623.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "7. B【解析】气与血的关系：气能生血；气能行血；",
+      "bbox": [
+        64.36,
+        628.016,
+        282.791,
+        637.416
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "生肝风；寒，有内生虚寒；湿，有内生痰湿；火，有内生肝",
+      "bbox": [
+        308.28,
+        628.256,
+        552.16,
+        637.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "气能摄血，血为气母。血属阴而主静，血液不能自行，",
+      "bbox": [
+        43.18,
+        642.546,
+        282.91,
+        651.966
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "火；只有暑邪只能外感，不能内生，故选C。",
+      "bbox": [
+        308.23,
+        642.606,
+        491.908,
+        651.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "其循行有赖于气的推动。气行则血行，气滞则血瘀；故",
+      "bbox": [
+        43.17,
+        656.816,
+        283.294,
+        666.226
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "16. B【解析】寒性凝滞，即凝结阻滞不通的意思；",
+      "bbox": [
+        329.25,
+        656.436,
+        547.047,
+        666.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "治疗血行瘀滞，多配用补气、行气药。",
+      "bbox": [
+        43.47,
+        671.216,
+        203.23,
+        680.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "不通则痛，故寒邪最易导致疼痛的发生。",
+      "bbox": [
+        308.05,
+        671.466,
+        482.683,
+        680.866
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "8. B【解析】十二经筋是十二经脉之气“结、聚、",
+      "bbox": [
+        64.19,
+        685.376,
+        282.757,
+        694.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "17. A【解析】肝藏血，具有调节血量的作用。",
+      "bbox": [
+        329.2,
+        685.476,
+        546.901,
+        695.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "散、络”于筋肉、关节的体系，是十二经脉的附属部分，",
+      "bbox": [
+        43.5,
+        699.696,
+        282.532,
+        709.086
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "《素问·五藏生成》说：“人卧则血归于肝。”",
+      "bbox": [
+        307.64,
+        700.276,
+        504.62,
+        709.656
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "是十二经脉循行部位上分布于筋肉系统的总称，它有",
+      "bbox": [
+        43.39,
+        714.136,
+        282.799,
+        723.546
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "18. C【解析】药物的升降浮沉与四气五味有关：",
+      "bbox": [
+        328.96,
+        714.037,
+        546.143,
+        724.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "连缀百骸，维络周身，主司关节运动的作用。",
+      "bbox": [
+        43.43,
+        728.376,
+        233.822,
+        737.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "一般来讲，味属辛、甘，气属温、热的药物，大都是升浮",
+      "bbox": [
+        307.76,
+        728.876,
+        546.398,
+        738.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "9. D【解析】寒从中生是指机体阳气虚衰，温煦气",
+      "bbox": [
+        64.3,
+        742.666,
+        282.638,
+        752.146
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "药，如麻黄、升麻、黄芪等药；味属苦、酸、咸，性属寒、凉",
+      "bbox": [
+        307.8,
+        743.216,
+        561.6,
+        752.616
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "化功能减退，虚寒内生的病理变化。寒从中生与脾肾",
+      "bbox": [
+        43.52,
+        756.636,
+        282.42,
+        766.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "的药物，大都是沉降药，如大黄、芒硝、山楂等。",
+      "bbox": [
+        308.26,
+        757.316,
+        514.4,
+        766.686
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "阳虚不足有关。脾为后天之本，为气血生化之源，脾阳",
+      "bbox": [
+        44.47,
+        770.916,
+        282.14,
+        780.306
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "19. C【解析】从题干辨证，要求所选药物具有祛",
+      "bbox": [
+        328.61,
+        771.386,
+        545.516,
+        780.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "—191",
+      "bbox": [
+        264.75,
+        788.987,
+        299.841,
+        798.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "—",
+      "bbox": [
+        312.65,
+        789.016,
+        322.01,
+        798.376
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 37,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        400.68,
+        35.74,
+        515.122,
+        46.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        57.43,
+        59.548,
+        201.477,
+        70.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        320.4,
+        61.909,
+        460.108,
+        73.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 膈俞",
+      "bbox": [
+        56.58,
+        74.499,
+        92.352,
+        85.629
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 风池、太冲、合谷、内关、后溪",
+      "bbox": [
+        319.74,
+        76.789,
+        486.933,
+        87.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 石门",
+      "bbox": [
+        56.03,
+        89.769,
+        89.145,
+        100.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 风池、百会、悬颅、侠溪、行间",
+      "bbox": [
+        319.6,
+        90.969,
+        485.013,
+        102.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 章门",
+      "bbox": [
+        55.94,
+        104.469,
+        89.426,
+        115.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 上星、头维、合谷、阿是穴",
+      "bbox": [
+        319.92,
+        105.439,
+        463.299,
+        116.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 期门",
+      "bbox": [
+        55.77,
+        119.749,
+        89.95,
+        130.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 百会、通天、行间、阿是穴",
+      "bbox": [
+        319.75,
+        120.909,
+        463.975,
+        131.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 血海",
+      "bbox": [
+        56.13,
+        135.069,
+        89.898,
+        146.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 率谷、太阳、侠溪、内庭",
+      "bbox": [
+        320.22,
+        135.559,
+        453.29,
+        146.689
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "147. 三焦的募穴是（）",
+      "bbox": [
+        56.02,
+        150.509,
+        186.223,
+        161.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "149. 治疗头痛肝阳上亢证，应首选（）",
+      "bbox": [
+        320.41,
+        151.549,
+        523.763,
+        163.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "148. 八会穴之血会是（）",
+      "bbox": [
+        55.9,
+        165.978,
+        199.213,
+        177.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "150. 治疗前头痛风邪袭络证，应首选",
+      "bbox": [
+        320.75,
+        166.868,
+        529.598,
+        178.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "（）",
+      "bbox": [
+        297.58,
+        182.659,
+        330.033,
+        193.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "第四单元",
+      "bbox": [
+        250.24,
+        240.573,
+        318.597,
+        253.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A1 型选择题（1～75题）",
+      "bbox": [
+        224.0,
+        288.809,
+        342.916,
+        300.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "1. 乳癖的好发年龄是（）",
+      "bbox": [
+        55.41,
+        358.748,
+        199.933,
+        370.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 梅毒溃疡",
+      "bbox": [
+        320.67,
+        360.139,
+        378.575,
+        371.249
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 20～40岁",
+      "bbox": [
+        55.26,
+        375.218,
+        118.202,
+        386.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 岩性溃疡",
+      "bbox": [
+        320.56,
+        376.418,
+        378.826,
+        387.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 25～45岁",
+      "bbox": [
+        55.05,
+        391.669,
+        116.454,
+        402.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 流痰溃疡",
+      "bbox": [
+        320.82,
+        393.139,
+        378.725,
+        404.249
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 40～60岁",
+      "bbox": [
+        55.08,
+        408.009,
+        116.896,
+        419.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "6. 破伤风的命名方法是（）",
+      "bbox": [
+        320.79,
+        409.569,
+        471.276,
+        420.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 50～70岁",
+      "bbox": [
+        55.11,
+        424.379,
+        119.08,
+        436.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 以病因命名",
+      "bbox": [
+        320.9,
+        425.859,
+        390.667,
+        436.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 20～25岁",
+      "bbox": [
+        55.2,
+        440.539,
+        118.43,
+        452.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 以部位命名",
+      "bbox": [
+        320.7,
+        442.279,
+        388.847,
+        453.349
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "2. 外科的善恶顺逆指的是（）",
+      "bbox": [
+        55.16,
+        456.759,
+        225.26,
+        467.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 以疾病特征命名",
+      "bbox": [
+        320.8,
+        458.299,
+        412.476,
+        469.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 病情轻重程度",
+      "bbox": [
+        55.29,
+        472.849,
+        141.613,
+        483.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 以形态命名",
+      "bbox": [
+        320.76,
+        474.639,
+        389.913,
+        485.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 正邪力量对比",
+      "bbox": [
+        55.27,
+        489.149,
+        139.912,
+        500.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 以范围大小命名",
+      "bbox": [
+        320.96,
+        490.439,
+        412.763,
+        501.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 疮疡局部发展好坏",
+      "bbox": [
+        55.24,
+        505.299,
+        165.481,
+        516.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "7. 治疗虫咬皮炎热毒蕴结证，应首选的方",
+      "bbox": [
+        321.13,
+        506.919,
+        531.664,
+        518.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 全身脏腑功能盛衰",
+      "bbox": [
+        55.12,
+        521.618,
+        166.24,
+        532.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "剂是（）",
+      "bbox": [
+        297.86,
+        524.109,
+        353.866,
+        535.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 综合局部、全身情况判断预后",
+      "bbox": [
+        55.28,
+        537.788,
+        221.488,
+        548.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 普济消毒饮",
+      "bbox": [
+        321.44,
+        541.669,
+        392.333,
+        552.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "3. 乳痈属热毒炽盛证，内治应首选（）",
+      "bbox": [
+        55.33,
+        554.208,
+        267.903,
+        565.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 仙方活命饮",
+      "bbox": [
+        321.32,
+        558.979,
+        390.692,
+        570.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 逍遥散",
+      "bbox": [
+        55.4,
+        570.189,
+        104.36,
+        581.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 黄连解毒汤",
+      "bbox": [
+        321.53,
+        576.649,
+        390.74,
+        587.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 透脓散",
+      "bbox": [
+        55.28,
+        586.708,
+        102.567,
+        597.858
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 龙胆泻肝汤合化斑解毒汤",
+      "bbox": [
+        321.49,
+        594.299,
+        462.184,
+        605.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 四妙汤",
+      "bbox": [
+        55.44,
+        603.029,
+        102.431,
+        614.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 五味消毒饮合黄连解毒汤",
+      "bbox": [
+        321.76,
+        611.769,
+        461.924,
+        622.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 瓜蒌牛蒡汤",
+      "bbox": [
+        55.48,
+        619.008,
+        127.732,
+        630.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "8. 外科辨肿，“肿而皮肉重垂胀急，深则按",
+      "bbox": [
+        321.85,
+        629.359,
+        532.352,
+        640.479
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 牛蒡解肌汤",
+      "bbox": [
+        55.75,
+        635.208,
+        127.241,
+        646.368
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "之如烂棉不起，浅则光亮如水疱，破流黄水”，",
+      "bbox": [
+        298.57,
+        646.948,
+        533.14,
+        658.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "4. 中医治疗肿瘤的原则是（）",
+      "bbox": [
+        55.43,
+        651.368,
+        225.326,
+        662.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 健脾补肾",
+      "bbox": [
+        55.75,
+        667.399,
+        116.574,
+        678.539
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "其成因属（）",
+      "bbox": [
+        298.41,
+        664.329,
+        378.183,
+        675.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 扶正与祛邪",
+      "bbox": [
+        55.56,
+        683.299,
+        126.875,
+        694.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 火",
+      "bbox": [
+        322.3,
+        682.079,
+        347.153,
+        693.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 理气化瘀",
+      "bbox": [
+        55.7,
+        699.348,
+        115.642,
+        710.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 虚",
+      "bbox": [
+        321.96,
+        699.499,
+        345.103,
+        710.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 益气养阴",
+      "bbox": [
+        55.98,
+        715.469,
+        115.585,
+        726.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 痰",
+      "bbox": [
+        322.16,
+        716.819,
+        345.603,
+        727.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 化痰散结",
+      "bbox": [
+        56.17,
+        731.299,
+        115.515,
+        742.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 湿",
+      "bbox": [
+        322.1,
+        734.229,
+        346.232,
+        745.319
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "5. 辨溃疡，疮面呈翻花或如岩穴属（）",
+      "bbox": [
+        56.31,
+        747.168,
+        268.203,
+        758.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 风",
+      "bbox": [
+        322.32,
+        751.149,
+        345.973,
+        762.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 瘰疬溃疡",
+      "bbox": [
+        56.58,
+        763.258,
+        117.013,
+        774.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "9. 疮疡三陷证中，火陷证的治法是（）",
+      "bbox": [
+        322.45,
+        766.589,
+        525.166,
+        777.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 麻风溃疡",
+      "bbox": [
+        56.51,
+        779.419,
+        115.276,
+        790.549
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 凉血清热解毒，养阴清心开窍",
+      "bbox": [
+        322.21,
+        783.979,
+        481.485,
+        795.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "179",
+      "bbox": [
+        278.44,
+        805.713,
+        292.901,
+        814.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

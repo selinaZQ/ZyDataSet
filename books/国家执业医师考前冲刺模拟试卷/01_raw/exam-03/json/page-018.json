@@ -1,0 +1,1246 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 18,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        63.41,
+        56.675,
+        261.712,
+        68.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "轻。此患者在听诊时最易出现的体征为下列",
+      "bbox": [
+        61.49,
+        87.245,
+        296.544,
+        98.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "大量腹水3个月来诊。肝脾触诊应采用哪种方",
+      "bbox": [
+        321.39,
+        87.315,
+        558.887,
+        99.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "哪一项（）",
+      "bbox": [
+        61.94,
+        102.765,
+        131.266,
+        116.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "法（）",
+      "bbox": [
+        321.25,
+        102.435,
+        367.543,
+        114.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 哮鸣音",
+      "bbox": [
+        85.47,
+        118.635,
+        134.842,
+        131.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 单手触诊法",
+      "bbox": [
+        345.36,
+        117.715,
+        419.528,
+        130.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 鼾音",
+      "bbox": [
+        85.45,
+        134.696,
+        121.449,
+        147.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 双手触诊法",
+      "bbox": [
+        345.2,
+        133.695,
+        418.144,
+        146.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 胸膜摩擦音",
+      "bbox": [
+        85.34,
+        149.705,
+        156.84,
+        162.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 滑动触诊法",
+      "bbox": [
+        345.37,
+        149.135,
+        418.132,
+        161.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 捻发音",
+      "bbox": [
+        85.15,
+        165.725,
+        133.91,
+        178.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 钩指触诊法",
+      "bbox": [
+        345.15,
+        164.836,
+        418.924,
+        177.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 哨笛音",
+      "bbox": [
+        85.54,
+        181.715,
+        133.372,
+        194.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 冲击触诊法",
+      "bbox": [
+        345.42,
+        180.725,
+        418.057,
+        193.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "68. 患者，男，60岁。脑出血后长期卧床。",
+      "bbox": [
+        85.68,
+        196.665,
+        293.25,
+        208.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "73. 患者，男，50岁。半年来经常突发胸骨",
+      "bbox": [
+        345.46,
+        196.635,
+        559.27,
+        208.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "2天前出现发热，咳嗽，呼吸困难等症状，胸透",
+      "bbox": [
+        62.0,
+        212.255,
+        302.09,
+        224.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "后疼痛，有窒息感，持续1～ 5分钟，休息后迅速",
+      "bbox": [
+        321.19,
+        211.265,
+        560.37,
+        223.125
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "见两肺下叶有多数散在边缘不清小灶阴影。",
+      "bbox": [
+        62.12,
+        228.265,
+        289.728,
+        239.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "缓解。心电图示ST段下移及T波倒置。应首",
+      "bbox": [
+        321.13,
+        227.315,
+        559.432,
+        238.795
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "应首先考虑的是（）",
+      "bbox": [
+        61.76,
+        244.535,
+        178.566,
+        256.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "先考虑的是（）",
+      "bbox": [
+        321.42,
+        243.625,
+        416.076,
+        255.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 大叶性肺炎",
+      "bbox": [
+        85.73,
+        260.125,
+        158.25,
+        272.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 稳定型劳累性心绞痛",
+      "bbox": [
+        345.44,
+        259.705,
+        466.128,
+        272.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 干酪样肺炎",
+      "bbox": [
+        85.56,
+        276.115,
+        156.897,
+        288.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 初发劳累性心绞痛",
+      "bbox": [
+        345.31,
+        274.695,
+        452.785,
+        287.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 间质性肺炎",
+      "bbox": [
+        85.43,
+        290.745,
+        156.767,
+        303.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 恶化型劳累性心绞痛",
+      "bbox": [
+        345.35,
+        290.695,
+        465.187,
+        303.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 转移性肿瘤",
+      "bbox": [
+        85.45,
+        306.675,
+        157.681,
+        319.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 自发性心绞痛",
+      "bbox": [
+        345.07,
+        306.695,
+        429.617,
+        319.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 小叶性肺炎",
+      "bbox": [
+        85.35,
+        322.875,
+        156.844,
+        335.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 急性心肌梗死",
+      "bbox": [
+        345.38,
+        322.655,
+        430.101,
+        335.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "69. 患者,女,32岁。低热、胸闷、气促15",
+      "bbox": [
+        85.72,
+        338.405,
+        298.679,
+        350.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "74. 患者，男，48岁。上腹部无规律胀痛",
+      "bbox": [
+        345.44,
+        337.575,
+        557.988,
+        350.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "天。查体：颈静脉怒张，心界向两侧明显扩大，",
+      "bbox": [
+        62.05,
+        353.575,
+        303.34,
+        365.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "3年余，常因饮食不当而发作，偶有反酸，嗳",
+      "bbox": [
+        321.3,
+        353.635,
+        558.644,
+        365.295
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "坐位时呈三角形，仰卧位心底部浊音区增宽，",
+      "bbox": [
+        61.44,
+        369.675,
+        297.81,
+        381.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "气。心血管检查无异常。应首先考虑的",
+      "bbox": [
+        321.19,
+        368.995,
+        559.055,
+        380.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "此患者最可能的诊断是（）",
+      "bbox": [
+        61.66,
+        385.785,
+        215.079,
+        397.295
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "是（）",
+      "bbox": [
+        321.38,
+        385.425,
+        369.973,
+        397.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 急性心肌梗死",
+      "bbox": [
+        85.3,
+        401.745,
+        171.155,
+        414.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 慢性胆囊炎",
+      "bbox": [
+        345.22,
+        401.075,
+        419.008,
+        413.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 缩窄性心包炎",
+      "bbox": [
+        85.26,
+        416.785,
+        168.874,
+        429.895
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 心绞痛",
+      "bbox": [
+        345.23,
+        416.675,
+        393.109,
+        429.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 扩张型心肌病",
+      "bbox": [
+        85.48,
+        432.685,
+        169.321,
+        445.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 胃溃疡",
+      "bbox": [
+        345.2,
+        432.725,
+        393.462,
+        445.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 缺血性心肌病",
+      "bbox": [
+        85.2,
+        448.635,
+        169.552,
+        461.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 胃癌",
+      "bbox": [
+        345.04,
+        447.785,
+        382.627,
+        460.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 结核性心包炎伴心包积液",
+      "bbox": [
+        85.4,
+        463.685,
+        228.559,
+        476.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 慢性胃炎",
+      "bbox": [
+        345.2,
+        464.015,
+        405.901,
+        476.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "70. 患者，男，50岁。慢性支气管炎病史5",
+      "bbox": [
+        85.74,
+        479.255,
+        297.835,
+        492.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "75. 患者，女4，0岁。双手第2、第5近端指",
+      "bbox": [
+        345.5,
+        479.465,
+        558.296,
+        491.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "年。近2～ 3个月咳嗽加重，痰中持续带血，伴",
+      "bbox": [
+        61.23,
+        495.315,
+        301.78,
+        507.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "间关节和双腕关节肿痛3个月，双颞颌关节及",
+      "bbox": [
+        322.38,
+        494.645,
+        560.38,
+        506.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "胸闷，气急，胸痛。X线检查见肺门阴影增大。",
+      "bbox": [
+        61.24,
+        510.575,
+        302.351,
+        522.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "颈椎疼痛1个月，伴晨僵1小时。对明确诊断",
+      "bbox": [
+        321.18,
+        510.485,
+        558.914,
+        522.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "应首先考虑的是（）",
+      "bbox": [
+        61.22,
+        526.045,
+        178.713,
+        538.895
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "最有意义的实验室检查是（）",
+      "bbox": [
+        321.14,
+        526.745,
+        489.446,
+        538.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 慢性支气管炎",
+      "bbox": [
+        85.32,
+        543.056,
+        169.937,
+        555.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. C反应蛋白",
+      "bbox": [
+        345.27,
+        541.665,
+        416.029,
+        554.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 原发性支气管肺癌",
+      "bbox": [
+        85.08,
+        558.646,
+        192.429,
+        571.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 抗链球菌溶血素“O”",
+      "bbox": [
+        345.2,
+        557.355,
+        468.47,
+        570.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 肺炎",
+      "bbox": [
+        85.44,
+        574.155,
+        121.266,
+        586.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 抗环瓜氨酸肽抗体",
+      "bbox": [
+        345.24,
+        572.845,
+        454.02,
+        585.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 肺结核",
+      "bbox": [
+        85.07,
+        590.125,
+        133.983,
+        602.633
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 红细胞沉降率",
+      "bbox": [
+        345.1,
+        589.735,
+        430.359,
+        602.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 肺脓肿",
+      "bbox": [
+        85.03,
+        606.096,
+        132.79,
+        618.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 免疫球蛋白",
+      "bbox": [
+        345.33,
+        604.745,
+        415.453,
+        617.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "71. 患者，男，65岁。慢性支气管炎及高血",
+      "bbox": [
+        85.34,
+        620.625,
+        297.864,
+        633.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "76. 患者，男，50岁。咳嗽2个月，痰中带",
+      "bbox": [
+        345.81,
+        620.625,
+        560.08,
+        633.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "压病史10年，近半年活动后自觉气短。检查：",
+      "bbox": [
+        61.24,
+        636.365,
+        301.87,
+        648.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "血，不发热，抗感染治疗效果不明显。3次X线",
+      "bbox": [
+        321.06,
+        636.295,
+        558.884,
+        648.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "血压160/95mmHg（21.3/12.6kPa）,心脏听诊",
+      "bbox": [
+        61.09,
+        652.485,
+        297.942,
+        665.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "检查均显示右肺中叶炎症。应首先考虑",
+      "bbox": [
+        320.94,
+        651.185,
+        559.565,
+        662.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "未闻及器质性杂音，两肺听诊无异常，心电图",
+      "bbox": [
+        61.27,
+        667.305,
+        300.67,
+        678.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "的是（）",
+      "bbox": [
+        322.91,
+        667.615,
+        380.153,
+        679.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "及X线显示左心室增大。应首先考虑",
+      "bbox": [
+        60.91,
+        683.215,
+        298.082,
+        694.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 肺炎球菌肺炎",
+      "bbox": [
+        345.45,
+        683.705,
+        431.523,
+        696.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "的是（）",
+      "bbox": [
+        62.82,
+        699.555,
+        118.876,
+        711.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 肺结核",
+      "bbox": [
+        345.45,
+        699.735,
+        394.16,
+        712.519
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 冠心病",
+      "bbox": [
+        85.2,
+        714.655,
+        134.443,
+        727.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 肺脓肿",
+      "bbox": [
+        345.37,
+        715.125,
+        393.582,
+        727.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 高血压性心脏病",
+      "bbox": [
+        85.11,
+        730.635,
+        179.868,
+        743.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 肺癌",
+      "bbox": [
+        345.25,
+        730.675,
+        382.451,
+        743.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 风心病",
+      "bbox": [
+        85.27,
+        746.635,
+        132.727,
+        759.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 支气管扩张",
+      "bbox": [
+        345.38,
+        746.675,
+        418.058,
+        759.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 肺心病",
+      "bbox": [
+        85.23,
+        761.705,
+        133.843,
+        774.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "77. 患者，女，30岁。发作时先觉胃部一股",
+      "bbox": [
+        345.81,
+        761.625,
+        559.414,
+        774.763
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 病毒性心肌炎",
+      "bbox": [
+        85.48,
+        777.705,
+        168.929,
+        790.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "气体上升，并有咀嚼、吞咽动作，喃喃自语，走",
+      "bbox": [
+        321.15,
+        776.275,
+        563.67,
+        788.135
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "72. 患者,男, 50岁。肝硬化病史10年,以",
+      "bbox": [
+        85.78,
+        792.356,
+        297.01,
+        805.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "动，似在找东西，呼唤无反应，持续约5分钟，其",
+      "bbox": [
+        321.64,
+        792.285,
+        569.49,
+        803.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "-",
+      "bbox": [
+        281.5,
+        813.917,
+        284.61,
+        823.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "112",
+      "bbox": [
+        299.76,
+        814.302,
+        314.237,
+        823.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

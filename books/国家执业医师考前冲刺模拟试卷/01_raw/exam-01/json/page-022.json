@@ -1,0 +1,1108 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 22,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        143.0,
+        119.0,
+        560.0,
+        156.0
+      ],
+      "confidence": 0.997426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        608.0,
+        119.0,
+        855.0,
+        157.0
+      ],
+      "confidence": 0.999317,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 急性肝炎",
+      "bbox": [
+        217.0,
+        225.0,
+        443.0,
+        272.0
+      ],
+      "confidence": 0.997149,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 加口服降血糖药和胰岛素",
+      "bbox": [
+        1146.0,
+        223.0,
+        1662.0,
+        273.0
+      ],
+      "confidence": 0.998219,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 慢性肝炎",
+      "bbox": [
+        217.0,
+        279.0,
+        440.0,
+        325.0
+      ],
+      "confidence": 0.997458,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 维持原饮食治疗和运动",
+      "bbox": [
+        1147.0,
+        275.0,
+        1619.0,
+        327.0
+      ],
+      "confidence": 0.99906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 重型肝炎",
+      "bbox": [
+        217.0,
+        331.0,
+        440.0,
+        378.0
+      ],
+      "confidence": 0.998995,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "118. 患者，男，30岁。劳累时心悸，胸骨后",
+      "bbox": [
+        1147.0,
+        328.0,
+        1905.0,
+        381.0
+      ],
+      "confidence": 0.989681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 淤胆型肝炎",
+      "bbox": [
+        217.0,
+        384.0,
+        484.0,
+        430.0
+      ],
+      "confidence": 0.999148,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "疼痛1年，查体可闻及主动脉瓣区收缩期粗糙",
+      "bbox": [
+        1066.0,
+        381.0,
+        1904.0,
+        434.0
+      ],
+      "confidence": 0.979148,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 肝炎肝硬化",
+      "bbox": [
+        217.0,
+        436.0,
+        483.0,
+        481.0
+      ],
+      "confidence": 0.998525,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "的喷射性杂音，主动脉瓣区第二心音减弱。X",
+      "bbox": [
+        1067.0,
+        436.0,
+        1906.0,
+        485.0
+      ],
+      "confidence": 0.98008,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "117. 患者，女，55岁。体重76kg，身高",
+      "bbox": [
+        217.0,
+        487.0,
+        981.0,
+        537.0
+      ],
+      "confidence": 0.989872,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "线检查示:左房扩大和升主动脉扩张，可能的",
+      "bbox": [
+        1066.0,
+        490.0,
+        1904.0,
+        537.0
+      ],
+      "confidence": 0.971787,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "160cm。因多饮、多尿确诊为2型糖尿病。经",
+      "bbox": [
+        132.0,
+        541.0,
+        982.0,
+        587.0
+      ],
+      "confidence": 0.995481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "诊断是（)",
+      "bbox": [
+        1065.0,
+        540.0,
+        1335.0,
+        590.0
+      ],
+      "confidence": 0.905397,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "饮食治疗和运动锻炼，2个月后空腹血糖为",
+      "bbox": [
+        131.0,
+        592.0,
+        982.0,
+        641.0
+      ],
+      "confidence": 0.994463,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 冠心病心绞痛",
+      "bbox": [
+        1151.0,
+        594.0,
+        1458.0,
+        640.0
+      ],
+      "confidence": 0.99871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "8. 8mmol/L，餐后2小时血糖13.0mmol/L。",
+      "bbox": [
+        130.0,
+        644.0,
+        979.0,
+        695.0
+      ],
+      "confidence": 0.977981,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 非梗阻性肥厚型心肌病",
+      "bbox": [
+        1151.0,
+        648.0,
+        1619.0,
+        690.0
+      ],
+      "confidence": 0.998066,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "进一步治疗应选择（)",
+      "bbox": [
+        133.0,
+        702.0,
+        610.0,
+        743.0
+      ],
+      "confidence": 0.926873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 主动脉瓣狭窄",
+      "bbox": [
+        1150.0,
+        699.0,
+        1456.0,
+        744.0
+      ],
+      "confidence": 0.997841,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 加磺酰脲类降血糖药物",
+      "bbox": [
+        214.0,
+        752.0,
+        696.0,
+        797.0
+      ],
+      "confidence": 0.988293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 主动脉瓣关闭不全",
+      "bbox": [
+        1151.0,
+        754.0,
+        1541.0,
+        796.0
+      ],
+      "confidence": 0.996763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 加双胍类降血糖药物",
+      "bbox": [
+        213.0,
+        805.0,
+        644.0,
+        847.0
+      ],
+      "confidence": 0.966032,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 高血压性心脏病",
+      "bbox": [
+        1150.0,
+        807.0,
+        1496.0,
+        848.0
+      ],
+      "confidence": 0.998592,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 加胰岛素治疗",
+      "bbox": [
+        214.0,
+        858.0,
+        520.0,
+        903.0
+      ],
+      "confidence": 0.998629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A3型选择题(119～120题)",
+      "bbox": [
+        772.0,
+        966.0,
+        1284.0,
+        1011.0
+      ],
+      "confidence": 0.966752,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "答题说明:以下提供若干个案例，每个案例下设若干道试题。请根据案例所提供的信息，在",
+      "bbox": [
+        236.0,
+        1048.0,
+        1881.0,
+        1092.0
+      ],
+      "confidence": 0.977978,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "每一道试题下面的A、B、C、D、E五个备选答案中选择一个最佳答案，并在答题卡上将相应题号",
+      "bbox": [
+        152.0,
+        1100.0,
+        1882.0,
+        1148.0
+      ],
+      "confidence": 0.962946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "的相应字母所属的方框涂黑。",
+      "bbox": [
+        156.0,
+        1159.0,
+        681.0,
+        1196.0
+      ],
+      "confidence": 0.99938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "(119～120题共用题干)",
+      "bbox": [
+        218.0,
+        1239.0,
+        652.0,
+        1280.0
+      ],
+      "confidence": 0.92485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 主动脉夹层",
+      "bbox": [
+        1151.0,
+        1239.0,
+        1413.0,
+        1280.0
+      ],
+      "confidence": 0.99765,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "患者，女，72岁。有高血压病史12年，最",
+      "bbox": [
+        216.0,
+        1291.0,
+        979.0,
+        1337.0
+      ],
+      "confidence": 0.977352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 高血压危象",
+      "bbox": [
+        1150.0,
+        1291.0,
+        1413.0,
+        1334.0
+      ],
+      "confidence": 0.99833,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "高血压170/100mmHg，平时休息时无症状，登",
+      "bbox": [
+        129.0,
+        1344.0,
+        981.0,
+        1390.0
+      ],
+      "confidence": 0.987577,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 扩张性心肌病",
+      "bbox": [
+        1147.0,
+        1341.0,
+        1456.0,
+        1389.0
+      ],
+      "confidence": 0.997434,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "三层楼可出现呼吸困难、气急等症状。查体：",
+      "bbox": [
+        129.0,
+        1399.0,
+        978.0,
+        1444.0
+      ],
+      "confidence": 0.983786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "120. 按照心功能分级诊断标准，该患者的",
+      "bbox": [
+        1150.0,
+        1396.0,
+        1903.0,
+        1441.0
+      ],
+      "confidence": 0.992554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "两下肺闻及少量湿啰音，心界稍扩大 ，心率",
+      "bbox": [
+        132.0,
+        1455.0,
+        978.0,
+        1496.0
+      ],
+      "confidence": 0.968237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "心功能分级是（",
+      "bbox": [
+        1065.0,
+        1451.0,
+        1349.0,
+        1496.0
+      ],
+      "confidence": 0.935539,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "）",
+      "bbox": [
+        1420.0,
+        1456.0,
+        1452.0,
+        1490.0
+      ],
+      "confidence": 0.990225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "88次/分，早搏3～4次/分，第一心音低钝，无",
+      "bbox": [
+        127.0,
+        1505.0,
+        979.0,
+        1551.0
+      ],
+      "confidence": 0.971875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "A. Ⅰ级",
+      "bbox": [
+        1146.0,
+        1499.0,
+        1294.0,
+        1551.0
+      ],
+      "confidence": 0.921901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "心脏杂音。",
+      "bbox": [
+        127.0,
+        1554.0,
+        346.0,
+        1604.0
+      ],
+      "confidence": 0.999583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "B. Ⅱ级",
+      "bbox": [
+        1142.0,
+        1550.0,
+        1289.0,
+        1607.0
+      ],
+      "confidence": 0.990161,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "119. 该患者的诊断是（",
+      "bbox": [
+        211.0,
+        1609.0,
+        625.0,
+        1654.0
+      ],
+      "confidence": 0.981849,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "(）",
+      "bbox": [
+        608.0,
+        1609.0,
+        731.0,
+        1653.0
+      ],
+      "confidence": 0.600165,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. Ⅲ级",
+      "bbox": [
+        1144.0,
+        1605.0,
+        1289.0,
+        1660.0
+      ],
+      "confidence": 0.953263,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 高血压性心脏病",
+      "bbox": [
+        213.0,
+        1664.0,
+        566.0,
+        1711.0
+      ],
+      "confidence": 0.9984,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. I级",
+      "bbox": [
+        1142.0,
+        1658.0,
+        1291.0,
+        1715.0
+      ],
+      "confidence": 0.869774,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 冠心病",
+      "bbox": [
+        209.0,
+        1713.0,
+        391.0,
+        1764.0
+      ],
+      "confidence": 0.99941,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. V级",
+      "bbox": [
+        1141.0,
+        1711.0,
+        1289.0,
+        1767.0
+      ],
+      "confidence": 0.994709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B1 型选择题(121～150题)",
+      "bbox": [
+        771.0,
+        1823.0,
+        1279.0,
+        1868.0
+      ],
+      "confidence": 0.966547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "答题说明:以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答",
+      "bbox": [
+        235.0,
+        1903.0,
+        1882.0,
+        1952.0
+      ],
+      "confidence": 0.961148,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "案，请从中选择一个与问题最密切的答案，并在答题卡上将相应题号的相应字母所属的方框涂",
+      "bbox": [
+        153.0,
+        1957.0,
+        1883.0,
+        2007.0
+      ],
+      "confidence": 0.982561,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "黑。某个备选答案可能被选择一次、多次或不被选择。",
+      "bbox": [
+        153.0,
+        2011.0,
+        1127.0,
+        2058.0
+      ],
+      "confidence": 0.980186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "(121～122题共用备选答案）",
+      "bbox": [
+        218.0,
+        2093.0,
+        737.0,
+        2138.0
+      ],
+      "confidence": 0.924657,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 被动体位",
+      "bbox": [
+        1146.0,
+        2097.0,
+        1362.0,
+        2139.0
+      ],
+      "confidence": 0.998697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 纵隔淋巴结转移，压迫喉返神经",
+      "bbox": [
+        217.0,
+        2147.0,
+        843.0,
+        2191.0
+      ],
+      "confidence": 0.990913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 强迫体位",
+      "bbox": [
+        1146.0,
+        2150.0,
+        1363.0,
+        2193.0
+      ],
+      "confidence": 0.998404,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 肿瘤压迫膈神经",
+      "bbox": [
+        216.0,
+        2200.0,
+        563.0,
+        2242.0
+      ],
+      "confidence": 0.998268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 强迫仰卧位",
+      "bbox": [
+        1144.0,
+        2199.0,
+        1408.0,
+        2249.0
+      ],
+      "confidence": 0.996076,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 肿瘤压迫臂丛神经",
+      "bbox": [
+        217.0,
+        2254.0,
+        605.0,
+        2295.0
+      ],
+      "confidence": 0.996822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 强迫俯卧位",
+      "bbox": [
+        1144.0,
+        2254.0,
+        1406.0,
+        2300.0
+      ],
+      "confidence": 0.997451,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 肿瘤压迫上腔静脉",
+      "bbox": [
+        216.0,
+        2305.0,
+        609.0,
+        2350.0
+      ],
+      "confidence": 0.99741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "123. 急性腹膜炎(",
+      "bbox": [
+        1144.0,
+        2308.0,
+        1523.0,
+        2353.0
+      ],
+      "confidence": 0.968079,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 压迫颈交感神经",
+      "bbox": [
+        216.0,
+        2357.0,
+        568.0,
+        2403.0
+      ],
+      "confidence": 0.997673,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "124. 患者自己不能调整或变换肢体的位",
+      "bbox": [
+        1141.0,
+        2356.0,
+        1905.0,
+        2412.0
+      ],
+      "confidence": 0.998466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "121. 肺癌患者见声音嘶哑，同侧声带麻",
+      "bbox": [
+        216.0,
+        2410.0,
+        979.0,
+        2459.0
+      ],
+      "confidence": 0.975266,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "置，见于极度衰弱或意识丧失的患者（",
+      "bbox": [
+        1061.0,
+        2409.0,
+        1746.0,
+        2462.0
+      ],
+      "confidence": 0.966298,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "",
+      "bbox": [
+        1730.0,
+        2421.0,
+        1826.0,
+        2455.0
+      ],
+      "confidence": 0.0,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "）",
+      "bbox": [
+        1815.0,
+        2422.0,
+        1841.0,
+        2453.0
+      ],
+      "confidence": 0.991428,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "痹，是（)",
+      "bbox": [
+        127.0,
+        2462.0,
+        383.0,
+        2512.0
+      ],
+      "confidence": 0.880281,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "(125～126题共用备选答案）",
+      "bbox": [
+        1143.0,
+        2462.0,
+        1667.0,
+        2512.0
+      ],
+      "confidence": 0.926497,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "122. 肺癌患者见头面部和前胸部瘀血、静",
+      "bbox": [
+        216.0,
+        2517.0,
+        979.0,
+        2563.0
+      ],
+      "confidence": 0.99781,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "A. FT₃、FT₄",
+      "bbox": [
+        1141.0,
+        2513.0,
+        1368.0,
+        2563.0
+      ],
+      "confidence": 0.875181,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "脉曲张，是（)",
+      "bbox": [
+        129.0,
+        2567.0,
+        463.0,
+        2617.0
+      ],
+      "confidence": 0.901421,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "B. TT₃3、TT₃",
+      "bbox": [
+        1140.0,
+        2566.0,
+        1368.0,
+        2621.0
+      ],
+      "confidence": 0.877175,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "(123～124题共用备选答案)",
+      "bbox": [
+        218.0,
+        2623.0,
+        741.0,
+        2668.0
+      ],
+      "confidence": 0.921423,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "C. TRAb",
+      "bbox": [
+        1141.0,
+        2622.0,
+        1313.0,
+        2668.0
+      ],
+      "confidence": 0.992853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 自动体位",
+      "bbox": [
+        214.0,
+        2678.0,
+        442.0,
+        2721.0
+      ],
+      "confidence": 0.995625,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "D. rT3",
+      "bbox": [
+        1139.0,
+        2677.0,
+        1261.0,
+        2727.0
+      ],
+      "confidence": 0.932507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "22",
+      "bbox": [
+        989.0,
+        2779.0,
+        1046.0,
+        2824.0
+      ],
+      "confidence": 0.999734,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

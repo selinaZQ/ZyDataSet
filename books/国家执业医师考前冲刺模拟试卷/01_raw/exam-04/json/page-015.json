@@ -1,0 +1,1168 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 15,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        419.87,
+        52.661,
+        538.765,
+        63.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "性差",
+      "bbox": [
+        45.23,
+        83.96,
+        68.01,
+        95.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 代谢性酸中毒",
+      "bbox": [
+        334.73,
+        82.786,
+        421.055,
+        94.146
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 血尿素氮对早期肾功能损害的敏感",
+      "bbox": [
+        69.05,
+        99.125,
+        285.303,
+        110.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 代谢性碱中毒",
+      "bbox": [
+        334.85,
+        100.146,
+        420.448,
+        111.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "性强",
+      "bbox": [
+        44.85,
+        116.028,
+        67.65,
+        127.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "36. 慢性上腹痛，呕吐后缓解，可见于（）",
+      "bbox": [
+        334.93,
+        117.886,
+        546.893,
+        129.306
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "30. 反映左、右心房电激动过程的是",
+      "bbox": [
+        68.75,
+        131.686,
+        285.869,
+        143.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 胆石症",
+      "bbox": [
+        334.95,
+        135.387,
+        385.401,
+        146.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "（）",
+      "bbox": [
+        45.71,
+        147.926,
+        78.646,
+        159.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 反流性食管炎",
+      "bbox": [
+        334.83,
+        152.946,
+        420.257,
+        164.306
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. P波",
+      "bbox": [
+        68.7,
+        163.506,
+        105.326,
+        174.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 幽门梗阻",
+      "bbox": [
+        334.9,
+        170.906,
+        396.671,
+        182.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. P-R间期",
+      "bbox": [
+        68.55,
+        179.706,
+        127.471,
+        191.116
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 慢性阑尾炎",
+      "bbox": [
+        334.72,
+        188.506,
+        409.023,
+        199.876
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. QRS波群",
+      "bbox": [
+        68.6,
+        196.086,
+        132.897,
+        207.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 溃疡病",
+      "bbox": [
+        334.91,
+        206.666,
+        384.11,
+        218.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. ST段",
+      "bbox": [
+        68.47,
+        212.206,
+        112.307,
+        223.616
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "37. 下列叙述不正确的是（）",
+      "bbox": [
+        334.84,
+        224.206,
+        498.293,
+        235.616
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "E. T波",
+      "bbox": [
+        68.54,
+        228.656,
+        104.895,
+        240.056
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "31. 关于结核病的呼吸系统症状，下列哪",
+      "bbox": [
+        68.53,
+        244.986,
+        285.181,
+        256.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 长期慢性咳嗽——慢性支气管炎",
+      "bbox": [
+        334.89,
+        241.886,
+        520.391,
+        253.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "项正确（）",
+      "bbox": [
+        44.48,
+        261.586,
+        114.866,
+        272.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 夜间咳嗽较明显——肺结核",
+      "bbox": [
+        334.56,
+        259.956,
+        494.002,
+        271.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 约1/2的患者有不同程度的咯血",
+      "bbox": [
+        68.61,
+        277.716,
+        253.033,
+        291.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 体位改变时咳嗽加剧——支气管扩张",
+      "bbox": [
+        334.74,
+        277.666,
+        544.067,
+        289.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 痰中带血可因空洞中血管瘤破裂造成",
+      "bbox": [
+        68.43,
+        294.326,
+        275.404,
+        305.756
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 干性咳嗽——肺炎",
+      "bbox": [
+        334.36,
+        295.926,
+        445.094,
+        307.336
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 炎症波及壁层胸膜时可出现剧烈胸痛",
+      "bbox": [
+        68.5,
+        310.556,
+        275.427,
+        321.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 大量脓痰静置后出现分层现象——肺",
+      "bbox": [
+        334.71,
+        313.276,
+        554.083,
+        324.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 咯血后发热持续不退，提示有结核病播",
+      "bbox": [
+        68.3,
+        326.736,
+        282.64,
+        338.176
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "脓肿",
+      "bbox": [
+        310.38,
+        332.14,
+        333.2,
+        343.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "散",
+      "bbox": [
+        44.7,
+        343.79,
+        56.11,
+        355.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "38. 有关高血压病的并发症，下列哪项不",
+      "bbox": [
+        334.6,
+        348.896,
+        553.805,
+        360.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 一般无急骤出现的呼吸困难",
+      "bbox": [
+        68.57,
+        359.076,
+        227.767,
+        370.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "正确（）",
+      "bbox": [
+        310.29,
+        367.116,
+        368.69,
+        378.556
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "32. 在我国，慢性二尖瓣关闭不全的最常",
+      "bbox": [
+        68.66,
+        376.756,
+        285.121,
+        388.186
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 心、脑、肾等器官是主要受累脏器",
+      "bbox": [
+        334.52,
+        384.416,
+        520.374,
+        395.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "见病因是（）",
+      "bbox": [
+        44.72,
+        394.246,
+        127.716,
+        405.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 眼底病变与高血压的严重程度直接有关",
+      "bbox": [
+        334.38,
+        402.166,
+        550.91,
+        413.536
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 风湿性心脏病",
+      "bbox": [
+        68.76,
+        411.406,
+        156.113,
+        422.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 恶性高血压以脑并发症最为突出",
+      "bbox": [
+        334.4,
+        418.506,
+        517.938,
+        429.896
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 结缔组织病",
+      "bbox": [
+        68.63,
+        428.796,
+        142.236,
+        440.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 脑卒中的发病率比心肌梗死高5倍左右",
+      "bbox": [
+        334.35,
+        434.836,
+        551.275,
+        446.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 二尖瓣黏液样变性",
+      "bbox": [
+        68.78,
+        446.516,
+        179.041,
+        457.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 高血压脑病症状出现可能与脑水肿有关",
+      "bbox": [
+        334.5,
+        451.036,
+        551.033,
+        462.396
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 感染性心内膜炎",
+      "bbox": [
+        68.47,
+        463.636,
+        167.315,
+        475.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "39. 下列药物，不能用于艾滋病治疗的是",
+      "bbox": [
+        334.45,
+        467.296,
+        554.001,
+        478.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 二尖瓣先天异常",
+      "bbox": [
+        68.78,
+        481.006,
+        166.998,
+        492.436
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "（）",
+      "bbox": [
+        311.08,
+        484.166,
+        344.73,
+        495.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "33. 中枢性瘫痪的特点是（）",
+      "bbox": [
+        68.7,
+        498.526,
+        231.123,
+        509.966
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 齐多夫定",
+      "bbox": [
+        334.64,
+        499.826,
+        397.093,
+        511.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 肌张力降低",
+      "bbox": [
+        68.71,
+        515.506,
+        143.943,
+        526.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 双脱氧胞苷",
+      "bbox": [
+        334.49,
+        516.146,
+        407.667,
+        527.516
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 腱反射减弱",
+      "bbox": [
+        68.61,
+        532.996,
+        141.403,
+        544.386
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 双脱氧肌苷",
+      "bbox": [
+        334.43,
+        532.436,
+        407.789,
+        543.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 浅反射消失",
+      "bbox": [
+        68.6,
+        550.486,
+        141.967,
+        561.866
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 阿糖腺苷",
+      "bbox": [
+        334.39,
+        548.936,
+        396.309,
+        560.316
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 不出现病理反射",
+      "bbox": [
+        68.32,
+        568.046,
+        167.245,
+        579.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 拉米夫定",
+      "bbox": [
+        334.55,
+        564.986,
+        395.882,
+        576.386
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "40. 流感抗病毒治疗首选的药物是（）",
+      "bbox": [
+        334.45,
+        581.926,
+        548.166,
+        593.416
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 肌张力增强",
+      "bbox": [
+        68.55,
+        585.326,
+        141.928,
+        596.736
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 氯霉素",
+      "bbox": [
+        334.61,
+        597.896,
+        384.73,
+        609.256
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "34. 流行性乙型脑炎患者的最主要的死因",
+      "bbox": [
+        68.41,
+        602.806,
+        284.493,
+        614.216
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 糖皮质激素",
+      "bbox": [
+        334.49,
+        614.376,
+        407.489,
+        625.736
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "是（）",
+      "bbox": [
+        44.54,
+        620.476,
+        90.583,
+        631.866
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 利巴韦林",
+      "bbox": [
+        334.69,
+        630.906,
+        396.398,
+        642.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 高热",
+      "bbox": [
+        68.59,
+        637.936,
+        106.487,
+        649.296
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 奥司他韦",
+      "bbox": [
+        334.52,
+        647.566,
+        396.293,
+        658.936
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 意识障碍",
+      "bbox": [
+        68.4,
+        655.846,
+        129.078,
+        667.226
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 诺氟沙星",
+      "bbox": [
+        334.86,
+        664.246,
+        396.34,
+        675.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 颅内高压",
+      "bbox": [
+        68.48,
+        673.036,
+        129.211,
+        684.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "41. 下列有关伤寒肥达反应的描述，正确",
+      "bbox": [
+        334.53,
+        681.086,
+        552.937,
+        692.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 呼吸衰竭",
+      "bbox": [
+        68.36,
+        690.757,
+        129.616,
+        702.107
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "的是（）",
+      "bbox": [
+        311.31,
+        697.116,
+        369.623,
+        708.526
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 惊厥或抽搐",
+      "bbox": [
+        68.72,
+        708.246,
+        141.52,
+        719.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 只要是阳性就有明确诊断价值",
+      "bbox": [
+        334.91,
+        714.236,
+        508.542,
+        725.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "35. 下列除哪项外，均可引起血清钾增",
+      "bbox": [
+        68.63,
+        725.555,
+        284.651,
+        737.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 阴性结果即可除外伤寒",
+      "bbox": [
+        334.65,
+        730.666,
+        469.561,
+        742.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "高（）",
+      "bbox": [
+        45.11,
+        742.316,
+        90.543,
+        753.796
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 可根据“O”抗体效价的不同区别伤寒或",
+      "bbox": [
+        334.84,
+        746.736,
+        552.225,
+        758.096
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 急慢性肾功能衰竭",
+      "bbox": [
+        68.75,
+        760.576,
+        179.33,
+        771.976
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "副伤寒",
+      "bbox": [
+        310.83,
+        763.476,
+        345.501,
+        774.836
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 静脉滴注大量钾盐",
+      "bbox": [
+        68.79,
+        778.086,
+        177.906,
+        789.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. “H”抗体出现较早，消失快，更有利于诊",
+      "bbox": [
+        334.69,
+        779.286,
+        557.388,
+        790.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 严重溶血",
+      "bbox": [
+        68.89,
+        795.237,
+        129.61,
+        806.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "断",
+      "bbox": [
+        310.89,
+        795.867,
+        322.2,
+        807.177
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "157",
+      "bbox": [
+        289.09,
+        815.453,
+        303.177,
+        824.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "—",
+      "bbox": [
+        316.22,
+        814.912,
+        327.27,
+        825.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1316 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 43,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1431.0,
+        99.0,
+        1852.0,
+        136.0
+      ],
+      "confidence": 0.95575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "首选的治疗措施是（",
+      "bbox": [
+        82.0,
+        202.0,
+        469.0,
+        255.0
+      ],
+      "confidence": 0.981531,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "）",
+      "bbox": [
+        549.0,
+        214.0,
+        571.0,
+        247.0
+      ],
+      "confidence": 0.541364,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 化痰除湿、活血消症",
+      "bbox": [
+        1125.0,
+        206.0,
+        1547.0,
+        255.0
+      ],
+      "confidence": 0.994706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 注射疗法",
+      "bbox": [
+        167.0,
+        253.0,
+        413.0,
+        311.0
+      ],
+      "confidence": 0.999238,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 行气活血，化瘀消症",
+      "bbox": [
+        1124.0,
+        259.0,
+        1550.0,
+        308.0
+      ],
+      "confidence": 0.989287,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 扩肛疗法",
+      "bbox": [
+        167.0,
+        309.0,
+        406.0,
+        364.0
+      ],
+      "confidence": 0.998235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 清热利湿，化瘀消症",
+      "bbox": [
+        1124.0,
+        312.0,
+        1551.0,
+        364.0
+      ],
+      "confidence": 0.970331,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 切开疗法",
+      "bbox": [
+        168.0,
+        363.0,
+        406.0,
+        418.0
+      ],
+      "confidence": 0.999125,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "101. 患者，女，24岁，已婚。妊娠4个月，",
+      "bbox": [
+        1127.0,
+        368.0,
+        1899.0,
+        418.0
+      ],
+      "confidence": 0.987326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 纵切横缝",
+      "bbox": [
+        168.0,
+        418.0,
+        406.0,
+        469.0
+      ],
+      "confidence": 0.998709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "肢体肿胀，肿势从足部渐发展到腿部，皮色不",
+      "bbox": [
+        1044.0,
+        423.0,
+        1902.0,
+        471.0
+      ],
+      "confidence": 0.989426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 肛裂侧切",
+      "bbox": [
+        168.0,
+        474.0,
+        404.0,
+        524.0
+      ],
+      "confidence": 0.998948,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "变，随按随起，胸闷胁胀，头晕胀痛，舌苔薄腻，",
+      "bbox": [
+        1043.0,
+        476.0,
+        1899.0,
+        526.0
+      ],
+      "confidence": 0.992395,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "96. 患者，女，36岁，已婚。经行时肢体",
+      "bbox": [
+        168.0,
+        526.0,
+        955.0,
+        579.0
+      ],
+      "confidence": 0.992474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "脉弦滑。治疗宜首选（)",
+      "bbox": [
+        1040.0,
+        525.0,
+        1575.0,
+        581.0
+      ],
+      "confidence": 0.904164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "疼痛麻木，肢软无力，月经量少，色淡质稀，",
+      "bbox": [
+        85.0,
+        582.0,
+        953.0,
+        630.0
+      ],
+      "confidence": 0.987463,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 健脾利水汤",
+      "bbox": [
+        1127.0,
+        581.0,
+        1405.0,
+        631.0
+      ],
+      "confidence": 0.998511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "面色无华，舌淡，苔白，脉细弱。治疗应首",
+      "bbox": [
+        84.0,
+        635.0,
+        955.0,
+        686.0
+      ],
+      "confidence": 0.998563,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 真武汤",
+      "bbox": [
+        1125.0,
+        632.0,
+        1315.0,
+        686.0
+      ],
+      "confidence": 0.998577,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "选（)",
+      "bbox": [
+        78.0,
+        684.0,
+        280.0,
+        743.0
+      ],
+      "confidence": 0.801457,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 天仙藤散",
+      "bbox": [
+        1130.0,
+        692.0,
+        1355.0,
+        735.0
+      ],
+      "confidence": 0.997598,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 八珍汤",
+      "bbox": [
+        168.0,
+        742.0,
+        361.0,
+        793.0
+      ],
+      "confidence": 0.996517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 猪苓汤",
+      "bbox": [
+        1128.0,
+        744.0,
+        1316.0,
+        791.0
+      ],
+      "confidence": 0.997015,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 当归补血汤",
+      "bbox": [
+        167.0,
+        797.0,
+        441.0,
+        844.0
+      ],
+      "confidence": 0.99912,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 白术散",
+      "bbox": [
+        1125.0,
+        793.0,
+        1317.0,
+        847.0
+      ],
+      "confidence": 0.997797,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 血府逐瘀汤",
+      "bbox": [
+        169.0,
+        852.0,
+        442.0,
+        898.0
+      ],
+      "confidence": 0.99275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "102. 患者，女，35岁，已婚。患崩漏1年",
+      "bbox": [
+        1129.0,
+        852.0,
+        1900.0,
+        900.0
+      ],
+      "confidence": 0.987499,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 趁痛丸",
+      "bbox": [
+        167.0,
+        904.0,
+        357.0,
+        952.0
+      ],
+      "confidence": 0.997357,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "余。经血非时而至，经量甚多、色淡、质稀，面",
+      "bbox": [
+        1043.0,
+        906.0,
+        1900.0,
+        954.0
+      ],
+      "confidence": 0.994138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 圣愈汤",
+      "bbox": [
+        168.0,
+        959.0,
+        354.0,
+        1006.0
+      ],
+      "confidence": 0.998488,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "色苍白，气短懒言，大便不成形，舌淡苔薄白，",
+      "bbox": [
+        1045.0,
+        962.0,
+        1899.0,
+        1008.0
+      ],
+      "confidence": 0.992198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "97. 患者，女，20岁，未婚。近4个月月经",
+      "bbox": [
+        168.0,
+        1012.0,
+        958.0,
+        1064.0
+      ],
+      "confidence": 0.991085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "脉沉弱，其证候是（)",
+      "bbox": [
+        1043.0,
+        1011.0,
+        1509.0,
+        1065.0
+      ],
+      "confidence": 0.903714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "提前8～10天。量多、色淡、质稀，神疲肢倦，小",
+      "bbox": [
+        84.0,
+        1066.0,
+        958.0,
+        1115.0
+      ],
+      "confidence": 0.972115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 肾阴虚",
+      "bbox": [
+        1129.0,
+        1067.0,
+        1320.0,
+        1115.0
+      ],
+      "confidence": 0.99813,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "腹空坠，舌淡，脉缓弱。诊为月经先期，其证候",
+      "bbox": [
+        85.0,
+        1121.0,
+        958.0,
+        1170.0
+      ],
+      "confidence": 0.995103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 肾阳虚",
+      "bbox": [
+        1127.0,
+        1119.0,
+        1313.0,
+        1170.0
+      ],
+      "confidence": 0.998678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "是（)",
+      "bbox": [
+        80.0,
+        1172.0,
+        272.0,
+        1223.0
+      ],
+      "confidence": 0.718774,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 脾虚",
+      "bbox": [
+        1128.0,
+        1176.0,
+        1272.0,
+        1223.0
+      ],
+      "confidence": 0.996742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 气虚",
+      "bbox": [
+        168.0,
+        1228.0,
+        314.0,
+        1277.0
+      ],
+      "confidence": 0.994142,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 血瘀",
+      "bbox": [
+        1127.0,
+        1228.0,
+        1275.0,
+        1277.0
+      ],
+      "confidence": 0.996298,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 实热",
+      "bbox": [
+        167.0,
+        1283.0,
+        309.0,
+        1330.0
+      ],
+      "confidence": 0.999412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 以上均非",
+      "bbox": [
+        1128.0,
+        1283.0,
+        1357.0,
+        1329.0
+      ],
+      "confidence": 0.997198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 虚热",
+      "bbox": [
+        168.0,
+        1337.0,
+        309.0,
+        1384.0
+      ],
+      "confidence": 0.998696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "103. 患者，女，36岁，已婚。两次月经中",
+      "bbox": [
+        1129.0,
+        1335.0,
+        1900.0,
+        1385.0
+      ],
+      "confidence": 0.993278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 肝郁血热",
+      "bbox": [
+        167.0,
+        1389.0,
+        397.0,
+        1439.0
+      ],
+      "confidence": 0.997925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "间，阴道少量出血，色鲜红，头晕腰酸。夜寐不",
+      "bbox": [
+        1045.0,
+        1390.0,
+        1900.0,
+        1440.0
+      ],
+      "confidence": 0.989167,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 阳盛血热",
+      "bbox": [
+        165.0,
+        1444.0,
+        397.0,
+        1493.0
+      ],
+      "confidence": 0.995277,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "宁，五心烦热。舌质红，苔薄，脉细数，其治法",
+      "bbox": [
+        1045.0,
+        1444.0,
+        1903.0,
+        1496.0
+      ],
+      "confidence": 0.99363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "98. 患者，女，28岁，已婚。月经50天一",
+      "bbox": [
+        168.0,
+        1497.0,
+        959.0,
+        1549.0
+      ],
+      "confidence": 0.992873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "是（)",
+      "bbox": [
+        1040.0,
+        1495.0,
+        1230.0,
+        1547.0
+      ],
+      "confidence": 0.75553,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "行，量少、色淡、质稀，小腹隐痛，喜热喜按，腰",
+      "bbox": [
+        88.0,
+        1555.0,
+        957.0,
+        1600.0
+      ],
+      "confidence": 0.98788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 益气补肾，固冲止血",
+      "bbox": [
+        1130.0,
+        1550.0,
+        1558.0,
+        1600.0
+      ],
+      "confidence": 0.995773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "酸无力，大便溏薄，小便清长，舌淡苔白，脉沉",
+      "bbox": [
+        86.0,
+        1607.0,
+        959.0,
+        1653.0
+      ],
+      "confidence": 0.993514,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 滋肾养阴，固冲止血",
+      "bbox": [
+        1129.0,
+        1603.0,
+        1553.0,
+        1653.0
+      ],
+      "confidence": 0.996718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "细而迟。治疗应首选（）",
+      "bbox": [
+        88.0,
+        1664.0,
+        618.0,
+        1706.0
+      ],
+      "confidence": 0.947876,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 养阴清热，固冲止血",
+      "bbox": [
+        1129.0,
+        1656.0,
+        1555.0,
+        1710.0
+      ],
+      "confidence": 0.996782,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 温经汤（《金匮要略》）",
+      "bbox": [
+        169.0,
+        1717.0,
+        616.0,
+        1758.0
+      ],
+      "confidence": 0.926544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 补肾养肝，固冲止血",
+      "bbox": [
+        1128.0,
+        1709.0,
+        1557.0,
+        1762.0
+      ],
+      "confidence": 0.996613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "B. 艾附暖宫丸",
+      "bbox": [
+        167.0,
+        1765.0,
+        440.0,
+        1814.0
+      ],
+      "confidence": 0.997561,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 益气养阴，凉血清热",
+      "bbox": [
+        1130.0,
+        1764.0,
+        1554.0,
+        1817.0
+      ],
+      "confidence": 0.988993,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "C. 温胞饮",
+      "bbox": [
+        168.0,
+        1819.0,
+        353.0,
+        1868.0
+      ],
+      "confidence": 0.998109,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "104. 患者，女，25岁，已婚。月经周期先后",
+      "bbox": [
+        1130.0,
+        1819.0,
+        1903.0,
+        1871.0
+      ],
+      "confidence": 0.982567,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "D. 大补元煎",
+      "bbox": [
+        168.0,
+        1872.0,
+        399.0,
+        1921.0
+      ],
+      "confidence": 0.997106,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "不定，量多如注。持续十余日不净，婚后半年，",
+      "bbox": [
+        1045.0,
+        1871.0,
+        1903.0,
+        1925.0
+      ],
+      "confidence": 0.991755,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "E. 人参养荣汤",
+      "bbox": [
+        171.0,
+        1930.0,
+        439.0,
+        1972.0
+      ],
+      "confidence": 0.999328,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "未避孕未孕。可诊断为（）",
+      "bbox": [
+        1044.0,
+        1925.0,
+        1617.0,
+        1977.0
+      ],
+      "confidence": 0.987157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "99. 患者，女，23岁，已婚。产后5天高热",
+      "bbox": [
+        167.0,
+        1980.0,
+        959.0,
+        2032.0
+      ],
+      "confidence": 0.989481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 月经先后无定期",
+      "bbox": [
+        1132.0,
+        1982.0,
+        1493.0,
+        2029.0
+      ],
+      "confidence": 0.999064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "寒战，小腹疼痛拒按，恶露初时量多，后量少、",
+      "bbox": [
+        86.0,
+        2035.0,
+        958.0,
+        2085.0
+      ],
+      "confidence": 0.97101,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 崩漏",
+      "bbox": [
+        1127.0,
+        2032.0,
+        1275.0,
+        2085.0
+      ],
+      "confidence": 0.999289,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "色紫黯如败酱、有臭气，烦躁口渴，大便秘结，",
+      "bbox": [
+        86.0,
+        2088.0,
+        956.0,
+        2138.0
+      ],
+      "confidence": 0.987618,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 月经过多",
+      "bbox": [
+        1129.0,
+        2087.0,
+        1358.0,
+        2136.0
+      ],
+      "confidence": 0.997821,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "小便短赤，舌红苔黄，脉滑数有力，其诊断",
+      "bbox": [
+        86.0,
+        2142.0,
+        958.0,
+        2192.0
+      ],
+      "confidence": 0.996268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 经期延长",
+      "bbox": [
+        1128.0,
+        2138.0,
+        1361.0,
+        2188.0
+      ],
+      "confidence": 0.999313,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "是()",
+      "bbox": [
+        82.0,
+        2192.0,
+        269.0,
+        2244.0
+      ],
+      "confidence": 0.706895,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 不孕症",
+      "bbox": [
+        1129.0,
+        2194.0,
+        1317.0,
+        2242.0
+      ],
+      "confidence": 0.998956,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 产后发热外感证",
+      "bbox": [
+        169.0,
+        2248.0,
+        535.0,
+        2297.0
+      ],
+      "confidence": 0.999179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "105. 患者阴部瘙痒较甚，外阴红肿灼痛，",
+      "bbox": [
+        1129.0,
+        2246.0,
+        1905.0,
+        2302.0
+      ],
+      "confidence": 0.983404,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 产后发热血瘀证",
+      "bbox": [
+        168.0,
+        2304.0,
+        529.0,
+        2349.0
+      ],
+      "confidence": 0.971519,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "白带量多，色黄，质稠，秽臭，胸胁胀痛，心烦易",
+      "bbox": [
+        1046.0,
+        2299.0,
+        1904.0,
+        2355.0
+      ],
+      "confidence": 0.969314,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 产后发热感染邪毒证",
+      "bbox": [
+        171.0,
+        2357.0,
+        616.0,
+        2403.0
+      ],
+      "confidence": 0.999251,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "怒，口苦口腻，目赤肿痛，耳聋耳鸣，小便短赤，",
+      "bbox": [
+        1045.0,
+        2354.0,
+        1903.0,
+        2408.0
+      ],
+      "confidence": 0.991437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 产后腹痛血瘀证",
+      "bbox": [
+        169.0,
+        2410.0,
+        534.0,
+        2456.0
+      ],
+      "confidence": 0.994993,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "舌质红，苔黄腻，脉弦数，其首选方是（",
+      "bbox": [
+        1045.0,
+        2409.0,
+        1743.0,
+        2457.0
+      ],
+      "confidence": 0.968271,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": ")",
+      "bbox": [
+        1729.0,
+        2420.0,
+        1842.0,
+        2455.0
+      ],
+      "confidence": 0.617414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 产后恶露过少血瘀证",
+      "bbox": [
+        168.0,
+        2465.0,
+        618.0,
+        2511.0
+      ],
+      "confidence": 0.99804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 完带汤",
+      "bbox": [
+        1130.0,
+        2462.0,
+        1318.0,
+        2510.0
+      ],
+      "confidence": 0.997275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "100. 某女小腹包块，带多色黄、臭秽，少腹",
+      "bbox": [
+        167.0,
+        2516.0,
+        960.0,
+        2570.0
+      ],
+      "confidence": 0.991379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 龙胆泻肝汤",
+      "bbox": [
+        1128.0,
+        2516.0,
+        1395.0,
+        2565.0
+      ],
+      "confidence": 0.999006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "及腰骶部疼痛而胀，经期加重，尿少色黄，月经量",
+      "bbox": [
+        85.0,
+        2571.0,
+        961.0,
+        2623.0
+      ],
+      "confidence": 0.980331,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "C. 五味消毒饮",
+      "bbox": [
+        1132.0,
+        2573.0,
+        1395.0,
+        2616.0
+      ],
+      "confidence": 0.997426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "多，舌红，苔黄腻，脉弦滑数，其治法是(",
+      "bbox": [
+        88.0,
+        2626.0,
+        795.0,
+        2674.0
+      ],
+      "confidence": 0.960425,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "D. 草薛渗湿汤",
+      "bbox": [
+        1130.0,
+        2627.0,
+        1395.0,
+        2669.0
+      ],
+      "confidence": 0.894823,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "A. 活血散结消症",
+      "bbox": [
+        171.0,
+        2682.0,
+        495.0,
+        2728.0
+      ],
+      "confidence": 0.998237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "E. 知柏地黄汤",
+      "bbox": [
+        1130.0,
+        2680.0,
+        1395.0,
+        2723.0
+      ],
+      "confidence": 0.996905,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "B. 清热解毒凉血",
+      "bbox": [
+        168.0,
+        2736.0,
+        487.0,
+        2783.0
+      ],
+      "confidence": 0.998283,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "106. 患者，女，28岁。产后乳房胀痛，位于",
+      "bbox": [
+        1132.0,
+        2734.0,
+        1899.0,
+        2779.0
+      ],
+      "confidence": 0.977651,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "43",
+      "bbox": [
+        977.0,
+        2805.0,
+        1028.0,
+        2846.0
+      ],
+      "confidence": 0.999913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

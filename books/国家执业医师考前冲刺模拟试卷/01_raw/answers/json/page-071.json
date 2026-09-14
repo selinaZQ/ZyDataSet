@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 71,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        303.24,
+        37.371,
+        517.914,
+        48.295
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "81. B【解析】风热毒邪犯上，与血分热邪蕴结，郁",
+      "bbox": [
+        49.84,
+        67.063,
+        269.365,
+        77.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "为多发，大小不一，呈扁平团块状，或分叶状，瘤体质地",
+      "bbox": [
+        290.14,
+        67.872,
+        534.14,
+        77.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "阻肌肤，故见头面部皮肤焮红灼热，风热毒邪与正气相",
+      "bbox": [
+        33.4,
+        82.702,
+        269.074,
+        93.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "柔软似棉，外观肿形似馒，用力可以压扁，推之可以移",
+      "bbox": [
+        289.76,
+        83.242,
+        530.8,
+        93.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "争，故见恶寒发热；舌红、苔薄黄、脉滑数为邪热尚在表",
+      "bbox": [
+        33.4,
+        97.862,
+        277.9,
+        107.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "动，与皮肤无粘连，瘤体表面皮肤如常，亦无疼痛。生",
+      "bbox": [
+        290.25,
+        98.892,
+        530.818,
+        108.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "之象。治法：疏风清热解毒。方药：普济消毒饮加减。",
+      "bbox": [
+        33.11,
+        113.592,
+        269.421,
+        123.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "长缓慢，长到一定程度后可自行停止生长而固定不变，",
+      "bbox": [
+        290.28,
+        114.622,
+        530.399,
+        124.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "龙胆泻肝汤泻肝胆之火，仙方活命饮治疗痈证。",
+      "bbox": [
+        32.92,
+        129.012,
+        238.3,
+        138.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "故可判断为肉瘤，其他瘤一般会发生皮肤变化。对单",
+      "bbox": [
+        290.07,
+        129.762,
+        531.147,
+        139.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "82. C【解析】阴虚火旺破溃后流脓稀薄，夹有败",
+      "bbox": [
+        49.35,
+        144.803,
+        269.88,
+        155.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "发肉瘤小的可以不处理，但有明显增大趋势，或伴有疼",
+      "bbox": [
+        290.24,
+        145.383,
+        531.192,
+        155.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "絮样物，形成窦道；伴午后潮热，颧红，夜间盗汗，口燥",
+      "bbox": [
+        33.22,
+        160.372,
+        277.47,
+        170.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "痛，或瘤体较大者，宜行手术切除。",
+      "bbox": [
+        290.27,
+        161.432,
+        446.75,
+        171.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "咽干，属于阴虚火旺之象，治法为养阴除蒸；以上方药",
+      "bbox": [
+        33.07,
+        175.892,
+        269.797,
+        185.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "91. E【解析】该患者为乳核血瘀痰凝证。治法：",
+      "bbox": [
+        310.77,
+        176.742,
+        530.515,
+        186.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "能养阴除蒸的只有清骨散，故选C。A项治疗阴疽，B",
+      "bbox": [
+        33.08,
+        191.602,
+        271.048,
+        201.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "疏肝活血，化痰散结。代表方：逍遥散合桃红四物汤",
+      "bbox": [
+        290.18,
+        192.162,
+        530.979,
+        201.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "项和E项治疗肾阴虚，D项阴阳双补。",
+      "bbox": [
+        32.8,
+        207.233,
+        194.543,
+        216.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "加减。",
+      "bbox": [
+        290.4,
+        208.623,
+        319.62,
+        218.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "83. C【解析】冲任失调，上则乳房痰浊凝结，故乳",
+      "bbox": [
+        49.32,
+        222.692,
+        270.135,
+        233.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "92. B【解析】圆癣，相当于西医的体癣。皮损呈",
+      "bbox": [
+        311.02,
+        223.702,
+        530.749,
+        233.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "房肿块伴胀痛；下则经水逆乱，故月经周期紊乱，量少",
+      "bbox": [
+        32.99,
+        238.522,
+        270.167,
+        248.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "圆形，或多环形，类似钱币状，为边界清楚、中心消退、",
+      "bbox": [
+        291.25,
+        239.452,
+        535.25,
+        249.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "色淡，甚或闭经；脾失健运，气血亏虚，故神疲乏力，头",
+      "bbox": [
+        33.0,
+        254.232,
+        277.75,
+        264.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "外周扩张的斑块。四周可有针头大小的红色丘疹及水",
+      "bbox": [
+        290.54,
+        254.982,
+        530.787,
+        264.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "晕；冲为血海，隶属肝肾，冲任失调，肝气不舒，故经前",
+      "bbox": [
+        32.84,
+        270.202,
+        277.34,
+        279.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "疱、鳞屑、结痂等，故选B。紫白癜风，相当于西医的花",
+      "bbox": [
+        290.69,
+        270.422,
+        533.509,
+        280.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "加重，经水一行，肝气得舒，故经后缓减；肝肾不足，故",
+      "bbox": [
+        32.65,
+        285.432,
+        277.15,
+        295.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "斑癣，俗称汗斑。牛皮癣，皮损好发于颈项、四肢伸侧、",
+      "bbox": [
+        290.86,
+        285.872,
+        535.36,
+        295.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "腰酸乏力；舌淡、脉沉细为冲任失调之象。",
+      "bbox": [
+        32.72,
+        301.042,
+        218.73,
+        310.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "尾骶部。肥疮，相当于西医的黄癣。",
+      "bbox": [
+        290.77,
+        302.132,
+        447.25,
+        311.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "84. C【解析】患者外贴膏药后出现病变，诊为接",
+      "bbox": [
+        49.38,
+        316.453,
+        270.77,
+        327.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "93. B【解析】脱疽临床初期表现为四肢发凉，怕",
+      "bbox": [
+        311.41,
+        317.253,
+        530.351,
+        327.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "触性皮炎。病程长，反复发作，皮损肥厚干燥，有鳞屑，",
+      "bbox": [
+        32.81,
+        332.512,
+        277.31,
+        342.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "冷，间歇性跛行，继则以疼痛剧烈，足背动脉搏动消失",
+      "bbox": [
+        291.21,
+        333.022,
+        530.429,
+        342.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "瘙痒剧烈，为血虚风燥证的典型表现。治宜养血润燥，",
+      "bbox": [
+        32.87,
+        347.852,
+        270.271,
+        357.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "为特征。",
+      "bbox": [
+        291.37,
+        348.692,
+        330.45,
+        358.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "祛风止痒，方选当归饮子合消风散加减。",
+      "bbox": [
+        33.11,
+        363.642,
+        208.97,
+        373.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "94. E【解析】扁疾相当于西医的扁平疣，皮损为",
+      "bbox": [
+        311.65,
+        363.952,
+        530.358,
+        373.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "85. A【解析】此证为丹毒，证属风热毒蕴，治法：",
+      "bbox": [
+        49.55,
+        378.993,
+        272.5,
+        389.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "表面光滑的扁平丘疹，芝麻至黄豆大小，淡红色、褐色",
+      "bbox": [
+        291.29,
+        379.752,
+        530.469,
+        389.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "疏风清热解毒。方用普济消毒饮加减。",
+      "bbox": [
+        32.94,
+        394.822,
+        200.78,
+        404.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "或正常皮肤颜色，数目较多，散在分布，或簇集成群，亦",
+      "bbox": [
+        291.33,
+        395.412,
+        535.83,
+        405.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "86. A【解析】气瘿是颈前漫肿，边缘不清，皮色如",
+      "bbox": [
+        49.62,
+        410.463,
+        270.829,
+        420.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "可互相融合，可因搔抓使皮损呈线状排列。丝状疣，皮",
+      "bbox": [
+        291.58,
+        410.862,
+        530.31,
+        420.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "常，按之柔软；肉瘿是甲状腺肿多呈球状，边界清楚，质",
+      "bbox": [
+        33.25,
+        425.692,
+        278.0,
+        435.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "损为单个细软的丝状突起，呈褐色或淡红色，可自行脱",
+      "bbox": [
+        291.44,
+        426.112,
+        530.453,
+        435.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "地柔韧；瘿痈有急性发病史，甲状腺增大变硬，有压痛，",
+      "bbox": [
+        32.84,
+        441.232,
+        277.34,
+        451.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "落，不久又可长出新的皮损。一般无自觉症状。跖疣，",
+      "bbox": [
+        291.66,
+        441.782,
+        529.979,
+        451.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "常伴发热、吞咽疼痛等全身症状；石瘿多见于40岁以",
+      "bbox": [
+        33.19,
+        456.802,
+        270.972,
+        466.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "皮损初起为小的发亮丘疹，渐增大，表面粗糙角化，灰",
+      "bbox": [
+        291.49,
+        457.292,
+        530.22,
+        467.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "上患者，多年存在的颈部肿块，突然迅速增大，坚硬如",
+      "bbox": [
+        32.97,
+        472.932,
+        271.495,
+        482.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "黄或污灰色，圆形，中央稍凹，周围绕以增厚的角质环。",
+      "bbox": [
+        291.65,
+        472.792,
+        536.15,
+        482.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "石，表面凹凸不平，随吞咽动作而上下的移动度减少，或",
+      "bbox": [
+        32.93,
+        488.162,
+        277.18,
+        497.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "有明显的压痛，用手挤压则疼痛加剧。传染性软疣，皮",
+      "bbox": [
+        291.61,
+        488.312,
+        529.929,
+        498.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "固定不移。根据症状首先排除E，根据以上症状选择A。",
+      "bbox": [
+        33.58,
+        503.773,
+        272.648,
+        513.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "损初起为米粒大的半球状丘疹，渐增至绿豆大，中央呈",
+      "bbox": [
+        291.65,
+        503.862,
+        529.931,
+        513.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "87. D【解析】直肠脱垂临床分为3度。Ⅰ度脱",
+      "bbox": [
+        49.38,
+        518.943,
+        271.523,
+        530.013
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "脐窝状凹陷，表面有蜡样光泽。寻常疣，初起为一个针",
+      "bbox": [
+        291.63,
+        519.463,
+        529.87,
+        529.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "垂：为直肠黏膜脱出，脱出物淡红色，长3～5cm，触之",
+      "bbox": [
+        33.02,
+        534.702,
+        271.603,
+        544.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "尖至绿豆大的疣状赘生物，呈半球形或多角形，突出表",
+      "bbox": [
+        291.7,
+        534.862,
+        530.0,
+        544.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "柔软，无弹性，不易出血，便后可自行还纳。Ⅱ度脱垂：",
+      "bbox": [
+        33.05,
+        550.372,
+        277.05,
+        560.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "面，色呈灰白或污黄，表面蓬松枯槁，状如花蕊，粗糙而",
+      "bbox": [
+        292.24,
+        550.412,
+        536.49,
+        560.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "为直肠全层脱出，长5～10cm，呈圆锥状，色淡红，表面",
+      "bbox": [
+        33.13,
+        566.052,
+        271.42,
+        575.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "坚硬。",
+      "bbox": [
+        291.87,
+        565.902,
+        321.12,
+        575.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "为环状而有层次的黏膜皱襞，触之较厚有弹性，肛门松",
+      "bbox": [
+        33.16,
+        581.512,
+        271.441,
+        591.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "95. A【解析】臁疮有腐肉，可应用红油膏、九一丹",
+      "bbox": [
+        312.19,
+        581.423,
+        539.96,
+        591.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "弛，便后有时需用手托回。Ⅲ度脱垂：直肠及部分乙状",
+      "bbox": [
+        33.47,
+        596.852,
+        271.77,
+        606.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "外敷。长出肉芽，用白玉膏、生肌散外敷。疮面周围有",
+      "bbox": [
+        291.74,
+        596.912,
+        529.815,
+        606.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "结肠脱出，长达10cm以上，色淡红，呈圆柱形，触之很",
+      "bbox": [
+        33.08,
+        612.533,
+        271.495,
+        622.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "湿疮者改用青黛膏。",
+      "bbox": [
+        291.75,
+        612.433,
+        379.41,
+        622.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "厚，便后需用手托回。",
+      "bbox": [
+        33.16,
+        628.432,
+        130.86,
+        638.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "96. E【解析】患者主症为已婚3年不孕。“头晕",
+      "bbox": [
+        312.49,
+        628.113,
+        529.806,
+        637.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "88. C【解析】前列腺增生临床以尿频、夜尿次数",
+      "bbox": [
+        49.78,
+        643.463,
+        271.608,
+        653.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "耳鸣，腰酸腿软，畏寒肢冷，性欲淡漠，舌淡苔白，脉沉",
+      "bbox": [
+        291.98,
+        643.802,
+        535.98,
+        653.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "增多、排尿困难为主，严重者可出现小便不能。",
+      "bbox": [
+        32.91,
+        659.382,
+        238.29,
+        669.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "细而迟”——肾阳虚。此证乃不孕症之肾阳虚证，代表",
+      "bbox": [
+        292.18,
+        659.462,
+        529.775,
+        669.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "89. A【解析】肾阴虚亏，冲任失调，血海蓄溢失",
+      "bbox": [
+        49.87,
+        675.023,
+        271.472,
+        684.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "方为温胞饮。",
+      "bbox": [
+        292.03,
+        675.173,
+        350.53,
+        684.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "常，故经行前后无定期；肾阴不足，则髓海失养，故头晕",
+      "bbox": [
+        33.46,
+        690.712,
+        277.71,
+        700.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "97. A【解析】先天禀赋不足，肾阳亏虚，命门火",
+      "bbox": [
+        312.69,
+        690.633,
+        529.368,
+        700.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "耳鸣；腰为肾之府，肾主骨，肾虚失养，则腰酸乏力；阴",
+      "bbox": [
+        33.02,
+        705.972,
+        277.27,
+        715.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "衰，冲任不温，胞宫虚寒，胎元不固，则屡孕屡堕。腰为",
+      "bbox": [
+        292.48,
+        706.432,
+        536.73,
+        716.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "虚精血耗伤，烘热出汗，五心烦热；舌红苔薄，脉细数，",
+      "bbox": [
+        33.2,
+        721.752,
+        277.45,
+        731.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "肾之府，肾阳虚则腰酸膝软。肾阳不足，阳气不达四",
+      "bbox": [
+        293.03,
+        721.892,
+        529.26,
+        731.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "为肾阴虚之症状。综上可诊断为绝经前后诸证之肾阴",
+      "bbox": [
+        33.45,
+        737.112,
+        271.271,
+        746.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "末，故畏寒肢冷。气血不能上荣于清窍，故头晕耳鸣。",
+      "bbox": [
+        292.3,
+        737.313,
+        529.44,
+        747.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "虚证，治疗应选用左归丸合二至丸加味。",
+      "bbox": [
+        33.37,
+        752.652,
+        209.41,
+        762.432
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "膀胱气化失司则小便清长。肾阳不能温煦脾土，脾失",
+      "bbox": [
+        292.39,
+        752.613,
+        529.267,
+        762.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "90. C【解析】肉瘤常见于成年人，好发于肩、颈、",
+      "bbox": [
+        50.05,
+        767.693,
+        272.023,
+        777.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "健运则大便溏薄，故本患者为滑胎肾阳亏虚证。治疗",
+      "bbox": [
+        292.58,
+        768.073,
+        529.242,
+        777.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "背、肩胛间、臀部、前臂等处。肿块多为单个，少数患者",
+      "bbox": [
+        33.92,
+        783.682,
+        278.67,
+        793.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "应温补肾阳，固冲安胎。方用肾气丸合寿胎丸。",
+      "bbox": [
+        292.69,
+        783.433,
+        497.23,
+        793.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "261",
+      "bbox": [
+        273.51,
+        801.864,
+        288.486,
+        811.464
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "—",
+      "bbox": [
+        299.9,
+        800.728,
+        309.46,
+        810.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

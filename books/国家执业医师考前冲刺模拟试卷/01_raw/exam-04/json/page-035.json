@@ -1,0 +1,843 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 35,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        406.05,
+        49.384,
+        522.113,
+        60.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "肩部放射，伴有恶心、呕吐。针灸取穴除阳陵",
+      "bbox": [
+        43.77,
+        78.809,
+        275.897,
+        89.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 气海、脾俞、胃俞",
+      "bbox": [
+        324.01,
+        78.51,
+        422.661,
+        89.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "泉、日月外，还可用（）",
+      "bbox": [
+        43.71,
+        94.45,
+        168.523,
+        105.52
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 太溪、悬钟、三阴交",
+      "bbox": [
+        323.97,
+        94.63,
+        434.225,
+        105.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 胆囊穴、胆俞",
+      "bbox": [
+        65.53,
+        110.0,
+        143.437,
+        121.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 气海、血海、足三里",
+      "bbox": [
+        324.26,
+        110.39,
+        433.876,
+        121.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 阑尾穴、中脘",
+      "bbox": [
+        65.24,
+        126.64,
+        141.826,
+        137.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "118. 患者，男，25岁。排便艰涩难解1周，",
+      "bbox": [
+        324.67,
+        127.14,
+        534.678,
+        138.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 胆囊穴、京门",
+      "bbox": [
+        64.96,
+        142.38,
+        141.571,
+        153.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "大便干结，腹胀腹痛，口干口臭，舌红，苔黄燥，",
+      "bbox": [
+        300.71,
+        143.459,
+        543.81,
+        154.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 中脘、天枢",
+      "bbox": [
+        64.93,
+        159.16,
+        131.105,
+        170.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "脉滑实。治疗首选的主穴是（）",
+      "bbox": [
+        300.71,
+        160.02,
+        476.353,
+        171.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 梁丘、太冲",
+      "bbox": [
+        64.72,
+        175.21,
+        130.296,
+        186.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 天枢、大肠俞、上巨虚、支沟",
+      "bbox": [
+        324.4,
+        176.17,
+        479.377,
+        187.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "117. 患者,男,54岁。眩晕半年,加重1",
+      "bbox": [
+        65.09,
+        192.35,
+        277.835,
+        203.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 公孙、气海、三阴交、内关",
+      "bbox": [
+        324.19,
+        193.3,
+        466.965,
+        204.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "周，伴少寐健忘，耳鸣，腰酸膝软，舌红，脉弦",
+      "bbox": [
+        42.43,
+        208.19,
+        276.257,
+        219.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 太冲、足三里、中脘、支沟",
+      "bbox": [
+        324.2,
+        209.6,
+        466.931,
+        220.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "细。针灸治疗除取主穴外，还应加用（）",
+      "bbox": [
+        42.46,
+        225.599,
+        258.773,
+        236.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 合谷、曲池、天枢、公孙",
+      "bbox": [
+        324.17,
+        226.2,
+        456.585,
+        237.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 行间、侠溪、太溪",
+      "bbox": [
+        64.54,
+        242.02,
+        164.467,
+        253.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 神阙、关元、足三里、中脘",
+      "bbox": [
+        324.46,
+        243.35,
+        467.106,
+        254.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 头维、中脘、丰隆",
+      "bbox": [
+        64.35,
+        258.72,
+        162.956,
+        269.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        219.57,
+        293.28,
+        356.03,
+        304.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        65.34,
+        373.13,
+        183.75,
+        384.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 肾阳衰微证",
+      "bbox": [
+        324.41,
+        373.48,
+        395.764,
+        384.5
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "患者，女，63岁。身肿日久，腰以下为甚，",
+      "bbox": [
+        65.39,
+        390.91,
+        275.806,
+        401.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 瘀水互结证",
+      "bbox": [
+        324.55,
+        390.17,
+        395.64,
+        401.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "按之凹陷不易恢复，脘腹胀闷，纳减便溏，面色",
+      "bbox": [
+        42.36,
+        407.49,
+        276.178,
+        418.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "120. 该患者的首选方剂是（）",
+      "bbox": [
+        324.97,
+        406.85,
+        488.22,
+        417.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "不华，神疲乏力，四肢倦怠，舌质淡，苔白腻，脉",
+      "bbox": [
+        43.08,
+        424.149,
+        285.96,
+        435.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 五皮饮合胃苓汤",
+      "bbox": [
+        324.62,
+        423.58,
+        420.329,
+        434.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "沉缓。",
+      "bbox": [
+        43.05,
+        441.418,
+        76.11,
+        452.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 疏凿饮子",
+      "bbox": [
+        324.51,
+        440.04,
+        383.083,
+        451.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "119. 该患者辨证为（）",
+      "bbox": [
+        64.66,
+        455.99,
+        193.133,
+        467.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 桃红四物汤合五苓散",
+      "bbox": [
+        324.7,
+        456.61,
+        443.099,
+        467.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 风水相搏证",
+      "bbox": [
+        64.37,
+        472.63,
+        136.662,
+        483.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 济生肾气丸合真武汤",
+      "bbox": [
+        324.53,
+        473.76,
+        443.513,
+        484.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 湿毒浸淫证",
+      "bbox": [
+        64.0,
+        489.61,
+        134.925,
+        500.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 实脾饮",
+      "bbox": [
+        324.88,
+        490.02,
+        372.145,
+        501.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 脾阳虚衰证",
+      "bbox": [
+        64.03,
+        506.4,
+        135.076,
+        517.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        220.49,
+        540.4,
+        355.69,
+        552.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        64.67,
+        622.97,
+        206.773,
+        633.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 健脾化痰，醒神开窍",
+      "bbox": [
+        325.29,
+        622.45,
+        437.584,
+        633.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 射干麻黄汤",
+      "bbox": [
+        64.1,
+        641.23,
+        134.841,
+        652.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 益气养血，息风通络",
+      "bbox": [
+        325.14,
+        639.77,
+        438.774,
+        650.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 三子养亲汤",
+      "bbox": [
+        64.16,
+        659.15,
+        133.204,
+        670.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 祛风通络，养血和营",
+      "bbox": [
+        325.25,
+        657.57,
+        439.369,
+        668.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 定喘汤",
+      "bbox": [
+        64.07,
+        676.63,
+        109.828,
+        687.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 豁痰息风，开窍定痫",
+      "bbox": [
+        325.47,
+        675.52,
+        438.95,
+        686.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 厚朴麻黄汤",
+      "bbox": [
+        64.05,
+        694.67,
+        134.074,
+        705.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "123. 痫病发作期的中医治法是（）",
+      "bbox": [
+        325.89,
+        693.13,
+        514.08,
+        704.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 麻杏石甘汤",
+      "bbox": [
+        64.18,
+        712.37,
+        133.554,
+        723.38
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "124. 痫病间歇期的中医治法是（）",
+      "bbox": [
+        325.95,
+        710.8,
+        514.003,
+        721.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "121. 治疗哮病寒包热哮证，应首选（）",
+      "bbox": [
+        64.51,
+        730.15,
+        270.843,
+        741.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        326.57,
+        728.52,
+        469.382,
+        739.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "122. 治疗哮病风痰哮证，应首选（）",
+      "bbox": [
+        64.2,
+        747.8,
+        258.75,
+        758.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 气厥实证",
+      "bbox": [
+        325.79,
+        746.09,
+        386.973,
+        757.11
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        64.72,
+        765.55,
+        206.407,
+        776.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "B. 气厥虚证",
+      "bbox": [
+        325.73,
+        763.61,
+        385.282,
+        774.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 健脾化痰，补益肝肾",
+      "bbox": [
+        63.75,
+        783.11,
+        177.069,
+        794.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "C. 血厥实证",
+      "bbox": [
+        325.79,
+        781.27,
+        385.915,
+        792.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "—177",
+      "bbox": [
+        259.53,
+        814.949,
+        294.382,
+        826.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

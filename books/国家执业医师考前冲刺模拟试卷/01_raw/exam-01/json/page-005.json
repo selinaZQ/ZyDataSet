@@ -1,0 +1,1407 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 5,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1463.0,
+        157.0,
+        1864.0,
+        195.0
+      ],
+      "confidence": 0.972966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "52. 归脾汤除益气补血外，还具有的功用",
+      "bbox": [
+        262.0,
+        266.0,
+        1009.0,
+        309.0
+      ],
+      "confidence": 0.99506,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "59. 能够收敛固涩、益气生津、补肾宁心的",
+      "bbox": [
+        1174.0,
+        268.0,
+        1906.0,
+        308.0
+      ],
+      "confidence": 0.994664,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "是（",
+      "bbox": [
+        177.0,
+        318.0,
+        261.0,
+        369.0
+      ],
+      "confidence": 0.93884,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        245.0,
+        316.0,
+        356.0,
+        369.0
+      ],
+      "confidence": 0.730088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "药物是（)",
+      "bbox": [
+        1089.0,
+        317.0,
+        1346.0,
+        367.0
+      ],
+      "confidence": 0.9225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 健脾养心",
+      "bbox": [
+        262.0,
+        373.0,
+        485.0,
+        419.0
+      ],
+      "confidence": 0.99835,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 乌梅",
+      "bbox": [
+        1172.0,
+        370.0,
+        1313.0,
+        419.0
+      ],
+      "confidence": 0.998291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 补血调血",
+      "bbox": [
+        258.0,
+        423.0,
+        481.0,
+        473.0
+      ],
+      "confidence": 0.999569,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 浮小麦",
+      "bbox": [
+        1168.0,
+        420.0,
+        1348.0,
+        474.0
+      ],
+      "confidence": 0.999131,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 敛阴止汗",
+      "bbox": [
+        259.0,
+        478.0,
+        481.0,
+        528.0
+      ],
+      "confidence": 0.99925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 麻黄根",
+      "bbox": [
+        1172.0,
+        478.0,
+        1347.0,
+        525.0
+      ],
+      "confidence": 0.98928,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 滋阴复脉",
+      "bbox": [
+        258.0,
+        529.0,
+        483.0,
+        581.0
+      ],
+      "confidence": 0.999126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 山茱萸",
+      "bbox": [
+        1171.0,
+        531.0,
+        1350.0,
+        579.0
+      ],
+      "confidence": 0.990776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 益阴降火",
+      "bbox": [
+        259.0,
+        586.0,
+        480.0,
+        632.0
+      ],
+      "confidence": 0.999005,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 五味子",
+      "bbox": [
+        1171.0,
+        586.0,
+        1350.0,
+        632.0
+      ],
+      "confidence": 0.998751,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "53. 补阴剂中属“纯补无泻”的方剂是",
+      "bbox": [
+        262.0,
+        641.0,
+        1010.0,
+        686.0
+      ],
+      "confidence": 0.993691,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "60. 眩晕头痛，胸膈痞闷，恶心呕吐，舌苔",
+      "bbox": [
+        1173.0,
+        641.0,
+        1908.0,
+        684.0
+      ],
+      "confidence": 0.987149,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "(",
+      "bbox": [
+        184.0,
+        702.0,
+        207.0,
+        737.0
+      ],
+      "confidence": 0.634932,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "）",
+      "bbox": [
+        268.0,
+        696.0,
+        314.0,
+        740.0
+      ],
+      "confidence": 0.983084,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "白腻，脉弦滑者，治宜选用（",
+      "bbox": [
+        1098.0,
+        697.0,
+        1567.0,
+        735.0
+      ],
+      "confidence": 0.986975,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "）",
+      "bbox": [
+        1645.0,
+        701.0,
+        1665.0,
+        729.0
+      ],
+      "confidence": 0.989892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 六味地黄丸",
+      "bbox": [
+        264.0,
+        749.0,
+        524.0,
+        792.0
+      ],
+      "confidence": 0.997782,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 温胆汤",
+      "bbox": [
+        1173.0,
+        746.0,
+        1355.0,
+        792.0
+      ],
+      "confidence": 0.998391,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 清骨散",
+      "bbox": [
+        258.0,
+        799.0,
+        439.0,
+        849.0
+      ],
+      "confidence": 0.999231,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 镇肝熄风汤",
+      "bbox": [
+        1173.0,
+        802.0,
+        1428.0,
+        844.0
+      ],
+      "confidence": 0.99826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 大补阴丸",
+      "bbox": [
+        259.0,
+        854.0,
+        481.0,
+        904.0
+      ],
+      "confidence": 0.997026,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 羚角钩藤汤",
+      "bbox": [
+        1174.0,
+        856.0,
+        1429.0,
+        899.0
+      ],
+      "confidence": 0.993145,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 左归丸",
+      "bbox": [
+        258.0,
+        906.0,
+        442.0,
+        960.0
+      ],
+      "confidence": 0.998613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 天麻钩藤饮",
+      "bbox": [
+        1172.0,
+        908.0,
+        1433.0,
+        957.0
+      ],
+      "confidence": 0.998026,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 一贯煎",
+      "bbox": [
+        259.0,
+        961.0,
+        440.0,
+        1011.0
+      ],
+      "confidence": 0.993879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 半夏白术天麻汤",
+      "bbox": [
+        1173.0,
+        962.0,
+        1512.0,
+        1006.0
+      ],
+      "confidence": 0.996845,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "54. 月经过多，血色紫黑稠黏，手足心热，腰",
+      "bbox": [
+        263.0,
+        1021.0,
+        1010.0,
+        1062.0
+      ],
+      "confidence": 0.989137,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "61. 小柴胡汤主治证候，不包括（",
+      "bbox": [
+        1174.0,
+        1016.0,
+        1738.0,
+        1060.0
+      ],
+      "confidence": 0.991689,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "）",
+      "bbox": [
+        1810.0,
+        1023.0,
+        1830.0,
+        1053.0
+      ],
+      "confidence": 0.705465,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "膝酸软，舌红，脉弦数者，治疗应当选用（",
+      "bbox": [
+        183.0,
+        1071.0,
+        870.0,
+        1118.0
+      ],
+      "confidence": 0.989872,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "）",
+      "bbox": [
+        945.0,
+        1079.0,
+        965.0,
+        1109.0
+      ],
+      "confidence": 0.677959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 往来寒热",
+      "bbox": [
+        1176.0,
+        1072.0,
+        1394.0,
+        1115.0
+      ],
+      "confidence": 0.997759,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 易黄汤",
+      "bbox": [
+        261.0,
+        1123.0,
+        446.0,
+        1174.0
+      ],
+      "confidence": 0.998513,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 烦渴引饮",
+      "bbox": [
+        1173.0,
+        1125.0,
+        1390.0,
+        1171.0
+      ],
+      "confidence": 0.99758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 固冲汤",
+      "bbox": [
+        261.0,
+        1179.0,
+        439.0,
+        1227.0
+      ],
+      "confidence": 0.998666,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 心烦喜呕",
+      "bbox": [
+        1172.0,
+        1177.0,
+        1390.0,
+        1226.0
+      ],
+      "confidence": 0.997522,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 固经丸",
+      "bbox": [
+        261.0,
+        1234.0,
+        440.0,
+        1282.0
+      ],
+      "confidence": 0.99907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 口苦咽干",
+      "bbox": [
+        1174.0,
+        1234.0,
+        1390.0,
+        1277.0
+      ],
+      "confidence": 0.991379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 桑螵蛸散",
+      "bbox": [
+        262.0,
+        1288.0,
+        484.0,
+        1334.0
+      ],
+      "confidence": 0.909333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 脉弦",
+      "bbox": [
+        1172.0,
+        1285.0,
+        1311.0,
+        1334.0
+      ],
+      "confidence": 0.998209,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 逍遥散",
+      "bbox": [
+        261.0,
+        1340.0,
+        441.0,
+        1388.0
+      ],
+      "confidence": 0.995176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "62. 附子与干姜具有的相同功效为（",
+      "bbox": [
+        1177.0,
+        1345.0,
+        1798.0,
+        1383.0
+      ],
+      "confidence": 0.977817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "）",
+      "bbox": [
+        1877.0,
+        1352.0,
+        1892.0,
+        1374.0
+      ],
+      "confidence": 0.814225,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "55. 原方用法要求药后“多饮暖水”的",
+      "bbox": [
+        264.0,
+        1396.0,
+        1007.0,
+        1441.0
+      ],
+      "confidence": 0.983706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 温中止呕",
+      "bbox": [
+        1176.0,
+        1397.0,
+        1395.0,
+        1440.0
+      ],
+      "confidence": 0.997415,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "是（",
+      "bbox": [
+        180.0,
+        1451.0,
+        258.0,
+        1500.0
+      ],
+      "confidence": 0.950541,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        251.0,
+        1449.0,
+        356.0,
+        1499.0
+      ],
+      "confidence": 0.710554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 温经止痛",
+      "bbox": [
+        1172.0,
+        1450.0,
+        1390.0,
+        1496.0
+      ],
+      "confidence": 0.998573,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 生脉散",
+      "bbox": [
+        262.0,
+        1503.0,
+        447.0,
+        1555.0
+      ],
+      "confidence": 0.998717,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 补火助阳",
+      "bbox": [
+        1174.0,
+        1506.0,
+        1390.0,
+        1549.0
+      ],
+      "confidence": 0.998853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 五苓散",
+      "bbox": [
+        261.0,
+        1557.0,
+        442.0,
+        1608.0
+      ],
+      "confidence": 0.999285,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 回阳散寒",
+      "bbox": [
+        1173.0,
+        1558.0,
+        1394.0,
+        1605.0
+      ],
+      "confidence": 0.998359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 玉屏风散",
+      "bbox": [
+        262.0,
+        1612.0,
+        484.0,
+        1662.0
+      ],
+      "confidence": 0.99875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 温肺化饮",
+      "bbox": [
+        1172.0,
+        1613.0,
+        1392.0,
+        1659.0
+      ],
+      "confidence": 0.999044,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 桑螵蛸散",
+      "bbox": [
+        259.0,
+        1663.0,
+        485.0,
+        1717.0
+      ],
+      "confidence": 0.861525,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "63. 有形实邪闭阻气机所致的疼痛，其疼",
+      "bbox": [
+        1173.0,
+        1668.0,
+        1916.0,
+        1714.0
+      ],
+      "confidence": 0.990588,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 参苓白术散",
+      "bbox": [
+        262.0,
+        1720.0,
+        525.0,
+        1770.0
+      ],
+      "confidence": 0.998897,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "痛性质是（",
+      "bbox": [
+        1091.0,
+        1722.0,
+        1288.0,
+        1769.0
+      ],
+      "confidence": 0.961348,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "）",
+      "bbox": [
+        1357.0,
+        1724.0,
+        1387.0,
+        1764.0
+      ],
+      "confidence": 0.976237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "56. 羌活胜湿汤和独活寄生汤的共同功用",
+      "bbox": [
+        266.0,
+        1778.0,
+        1010.0,
+        1821.0
+      ],
+      "confidence": 0.99801,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 胀痛",
+      "bbox": [
+        1172.0,
+        1773.0,
+        1316.0,
+        1825.0
+      ],
+      "confidence": 0.9991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "是（",
+      "bbox": [
+        183.0,
+        1830.0,
+        258.0,
+        1879.0
+      ],
+      "confidence": 0.822363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        287.0,
+        1831.0,
+        357.0,
+        1875.0
+      ],
+      "confidence": 0.909809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 灼痛",
+      "bbox": [
+        1168.0,
+        1825.0,
+        1311.0,
+        1880.0
+      ],
+      "confidence": 0.998509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 祛风除湿止痛",
+      "bbox": [
+        268.0,
+        1885.0,
+        569.0,
+        1931.0
+      ],
+      "confidence": 0.998343,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "C. 冷痛",
+      "bbox": [
+        1169.0,
+        1880.0,
+        1311.0,
+        1935.0
+      ],
+      "confidence": 0.99713,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 利水渗湿",
+      "bbox": [
+        266.0,
+        1938.0,
+        482.0,
+        1985.0
+      ],
+      "confidence": 0.999285,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 绞痛",
+      "bbox": [
+        1168.0,
+        1933.0,
+        1312.0,
+        1990.0
+      ],
+      "confidence": 0.998431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 解表祛湿",
+      "bbox": [
+        266.0,
+        1993.0,
+        482.0,
+        2039.0
+      ],
+      "confidence": 0.997174,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 隐痛",
+      "bbox": [
+        1172.0,
+        1992.0,
+        1308.0,
+        2041.0
+      ],
+      "confidence": 0.998926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 芳香化湿",
+      "bbox": [
+        263.0,
+        2046.0,
+        487.0,
+        2096.0
+      ],
+      "confidence": 0.998483,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "64. 气逆证的病变以下列哪些脏腑为多",
+      "bbox": [
+        1173.0,
+        2047.0,
+        1915.0,
+        2096.0
+      ],
+      "confidence": 0.996685,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 解表止痛",
+      "bbox": [
+        263.0,
+        2100.0,
+        485.0,
+        2150.0
+      ],
+      "confidence": 0.999007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "见（",
+      "bbox": [
+        1089.0,
+        2100.0,
+        1166.0,
+        2149.0
+      ],
+      "confidence": 0.879913,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "）",
+      "bbox": [
+        1200.0,
+        2102.0,
+        1264.0,
+        2147.0
+      ],
+      "confidence": 0.922881,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "57. 朱砂安神丸中泻火除烦的药物是（",
+      "bbox": [
+        267.0,
+        2158.0,
+        899.0,
+        2199.0
+      ],
+      "confidence": 0.971823,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 心肝胃",
+      "bbox": [
+        1173.0,
+        2153.0,
+        1352.0,
+        2204.0
+      ],
+      "confidence": 0.999205,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 栀子",
+      "bbox": [
+        264.0,
+        2209.0,
+        407.0,
+        2258.0
+      ],
+      "confidence": 0.988842,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 心肺肝",
+      "bbox": [
+        1172.0,
+        2209.0,
+        1349.0,
+        2256.0
+      ],
+      "confidence": 0.999427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 黄连",
+      "bbox": [
+        262.0,
+        2262.0,
+        402.0,
+        2315.0
+      ],
+      "confidence": 0.99927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 肺胃肾",
+      "bbox": [
+        1173.0,
+        2264.0,
+        1349.0,
+        2311.0
+      ],
+      "confidence": 0.998387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 石膏",
+      "bbox": [
+        264.0,
+        2318.0,
+        402.0,
+        2367.0
+      ],
+      "confidence": 0.998901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 肾肝脾",
+      "bbox": [
+        1171.0,
+        2315.0,
+        1352.0,
+        2366.0
+      ],
+      "confidence": 0.999153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 竹叶",
+      "bbox": [
+        263.0,
+        2371.0,
+        406.0,
+        2423.0
+      ],
+      "confidence": 0.998074,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 肺胃肝",
+      "bbox": [
+        1172.0,
+        2371.0,
+        1351.0,
+        2418.0
+      ],
+      "confidence": 0.99959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 知母",
+      "bbox": [
+        264.0,
+        2428.0,
+        403.0,
+        2477.0
+      ],
+      "confidence": 0.999103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "65. 舌淡胖嫩而见黄滑润苔，其主病为",
+      "bbox": [
+        1172.0,
+        2423.0,
+        1914.0,
+        2476.0
+      ],
+      "confidence": 0.993661,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "58. 越鞠丸中以行气为主的药物是（",
+      "bbox": [
+        267.0,
+        2484.0,
+        892.0,
+        2528.0
+      ],
+      "confidence": 0.971646,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "(",
+      "bbox": [
+        1093.0,
+        2483.0,
+        1121.0,
+        2526.0
+      ],
+      "confidence": 0.817588,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "）",
+      "bbox": [
+        1183.0,
+        2482.0,
+        1227.0,
+        2528.0
+      ],
+      "confidence": 0.960158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "A. 木香",
+      "bbox": [
+        266.0,
+        2538.0,
+        408.0,
+        2587.0
+      ],
+      "confidence": 0.999466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "A. 阳虚水湿不化",
+      "bbox": [
+        1174.0,
+        2533.0,
+        1475.0,
+        2582.0
+      ],
+      "confidence": 0.997953,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "B. 沉香",
+      "bbox": [
+        263.0,
+        2590.0,
+        404.0,
+        2643.0
+      ],
+      "confidence": 0.992243,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "B. 痰湿内停",
+      "bbox": [
+        1170.0,
+        2585.0,
+        1391.0,
+        2639.0
+      ],
+      "confidence": 0.964497,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "C. 香附",
+      "bbox": [
+        263.0,
+        2645.0,
+        406.0,
+        2697.0
+      ],
+      "confidence": 0.999339,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "C. 内有食积",
+      "bbox": [
+        1174.0,
+        2643.0,
+        1391.0,
+        2690.0
+      ],
+      "confidence": 0.998697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "D. 枳壳",
+      "bbox": [
+        263.0,
+        2699.0,
+        406.0,
+        2752.0
+      ],
+      "confidence": 0.932438,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "D. 湿热不化",
+      "bbox": [
+        1173.0,
+        2696.0,
+        1392.0,
+        2745.0
+      ],
+      "confidence": 0.998725,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "E. 厚朴",
+      "bbox": [
+        263.0,
+        2755.0,
+        406.0,
+        2807.0
+      ],
+      "confidence": 0.998208,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 105,
+      "text": "E. 脾虚运化无权",
+      "bbox": [
+        1173.0,
+        2748.0,
+        1471.0,
+        2799.0
+      ],
+      "confidence": 0.996652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 106,
+      "text": "- 5 -",
+      "bbox": [
+        965.0,
+        2817.0,
+        1143.0,
+        2868.0
+      ],
+      "confidence": 0.928163,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

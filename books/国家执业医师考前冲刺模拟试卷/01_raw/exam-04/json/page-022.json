@@ -1,0 +1,1246 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 22,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        52.37,
+        56.427,
+        252.555,
+        67.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "以喘憋、呼吸困难为主，伴心悸、乏力，遂急诊。",
+      "bbox": [
+        50.87,
+        85.456,
+        301.45,
+        96.846
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "35%，近2天出现嗜睡，烦躁不安伴牙龈出血，",
+      "bbox": [
+        313.9,
+        85.176,
+        552.657,
+        96.546
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "为控制发作应首选的药物是（）",
+      "bbox": [
+        49.87,
+        101.046,
+        228.66,
+        112.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "皮下瘀斑。肝肋下未扪及。患者的诊断首先",
+      "bbox": [
+        313.59,
+        100.666,
+        553.782,
+        112.056
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 沙丁胺醇气雾剂",
+      "bbox": [
+        73.7,
+        117.057,
+        171.388,
+        129.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "应想到（）",
+      "bbox": [
+        313.85,
+        116.177,
+        384.373,
+        127.576
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 茶碱缓释片",
+      "bbox": [
+        73.58,
+        132.677,
+        145.923,
+        145.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 急性肝炎",
+      "bbox": [
+        338.27,
+        132.519,
+        400.38,
+        144.836
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 泼尼松",
+      "bbox": [
+        73.52,
+        148.208,
+        122.185,
+        160.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 中毒性肝炎",
+      "bbox": [
+        338.11,
+        147.417,
+        410.852,
+        158.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 酮替芬",
+      "bbox": [
+        73.43,
+        163.807,
+        123.051,
+        176.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 急性重型肝炎",
+      "bbox": [
+        338.11,
+        163.707,
+        423.413,
+        175.906
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 溴化异丙托品气雾剂",
+      "bbox": [
+        73.5,
+        179.447,
+        194.125,
+        191.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 淤胆型肝炎",
+      "bbox": [
+        338.06,
+        179.296,
+        411.594,
+        191.627
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "107. 患者高热1周。检查:体温40℃,脉",
+      "bbox": [
+        74.02,
+        194.367,
+        289.071,
+        205.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 慢性肝炎",
+      "bbox": [
+        338.3,
+        195.077,
+        399.053,
+        207.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "搏90次/分，血白细胞嗜酸性粒",
+      "bbox": [
+        49.12,
+        210.066,
+        289.039,
+        222.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "112. 患者,男,48岁。肝硬化病史6年。",
+      "bbox": [
+        338.76,
+        209.667,
+        560.07,
+        221.467
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "细胞消失。应首先考虑的是（）",
+      "bbox": [
+        49.41,
+        225.867,
+        229.02,
+        237.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "1天前呕血500ml，出现神志淡漠，吐词不清且",
+      "bbox": [
+        314.81,
+        225.736,
+        554.438,
+        237.096
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 伤寒",
+      "bbox": [
+        73.5,
+        241.907,
+        111.717,
+        254.098
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "较缓慢。下列治疗措施中，错误的是（）",
+      "bbox": [
+        314.24,
+        241.407,
+        537.03,
+        252.727
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 中毒性痢疾",
+      "bbox": [
+        73.56,
+        257.657,
+        146.316,
+        270.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 用酸性溶液灌肠",
+      "bbox": [
+        338.38,
+        257.297,
+        436.932,
+        268.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 中毒性肺炎",
+      "bbox": [
+        73.57,
+        273.407,
+        146.338,
+        285.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 硫酸镁导泻",
+      "bbox": [
+        338.29,
+        273.017,
+        410.927,
+        284.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 流行性脑脊髓膜炎",
+      "bbox": [
+        73.21,
+        288.976,
+        183.537,
+        301.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 甘露醇导泻",
+      "bbox": [
+        338.34,
+        289.258,
+        411.18,
+        301.547
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 急性病毒性肝炎",
+      "bbox": [
+        73.35,
+        304.766,
+        170.767,
+        317.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 肥皂水导泻",
+      "bbox": [
+        338.19,
+        304.237,
+        411.608,
+        315.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "108. 风湿性心脏病心衰服用地高辛13天，",
+      "bbox": [
+        73.89,
+        319.967,
+        288.284,
+        331.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 支链氨基酸静脉输注",
+      "bbox": [
+        338.32,
+        320.607,
+        459.856,
+        332.954
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "出现恶心、呕吐，室早二联律，除停用洋地黄",
+      "bbox": [
+        50.08,
+        335.666,
+        289.35,
+        347.056
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "113. 患者,女,30岁。月经量过多史12",
+      "bbox": [
+        338.78,
+        335.916,
+        554.535,
+        347.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "外。治疗应首选（）",
+      "bbox": [
+        49.24,
+        350.996,
+        168.77,
+        362.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "年，近1年出现乏力，活动后心悸，气促。查血",
+      "bbox": [
+        314.3,
+        351.447,
+        554.295,
+        362.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 美西律",
+      "bbox": [
+        73.53,
+        367.317,
+        123.889,
+        379.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "常规：血红蛋白85g/L。血涂片：成熟红细胞体",
+      "bbox": [
+        314.64,
+        367.037,
+        554.274,
+        380.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 普萘洛尔",
+      "bbox": [
+        73.46,
+        382.937,
+        133.981,
+        395.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "积小且大小不等，血清铁80μmol/L，血清铁蛋",
+      "bbox": [
+        314.33,
+        382.537,
+        554.176,
+        396.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 钾盐",
+      "bbox": [
+        73.4,
+        398.617,
+        110.328,
+        410.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "白10μg/L。应首选的医疗措施是（）",
+      "bbox": [
+        315.67,
+        398.418,
+        524.033,
+        411.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 普罗帕酮",
+      "bbox": [
+        73.39,
+        414.247,
+        135.188,
+        426.614
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 肌内注射维生素B₁₂",
+      "bbox": [
+        338.5,
+        413.717,
+        457.286,
+        427.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 胺碘酮",
+      "bbox": [
+        73.66,
+        429.826,
+        122.464,
+        442.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 口服硫酸亚铁",
+      "bbox": [
+        338.32,
+        429.767,
+        422.896,
+        441.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "109. 患者,男,55岁。高血压病史20年,",
+      "bbox": [
+        74.04,
+        445.177,
+        288.477,
+        457.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 肌内注射右旋糖酐铁",
+      "bbox": [
+        338.31,
+        445.567,
+        459.765,
+        458.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "心电图心电",
+      "bbox": [
+        49.22,
+        460.927,
+        288.88,
+        472.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 输注红细胞悬液",
+      "bbox": [
+        338.2,
+        461.145,
+        436.223,
+        473.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "轴-45°,应诊断为（）",
+      "bbox": [
+        49.01,
+        476.017,
+        179.48,
+        487.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 皮下注射促红细胞生成素",
+      "bbox": [
+        338.54,
+        476.766,
+        483.69,
+        489.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 左心室肥大",
+      "bbox": [
+        73.41,
+        491.617,
+        148.586,
+        502.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "114. 患者,女,24岁。头昏、乏力半年,近2",
+      "bbox": [
+        339.09,
+        491.897,
+        554.187,
+        503.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 右心室肥大",
+      "bbox": [
+        73.2,
+        507.822,
+        146.531,
+        520.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "年每次月经经期持续7～8天，有血块。红细胞",
+      "bbox": [
+        314.46,
+        507.437,
+        554.138,
+        518.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 左心房及左心室肥大",
+      "bbox": [
+        73.21,
+        523.366,
+        195.44,
+        535.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "血红蛋白65g/L，血清铁蛋白",
+      "bbox": [
+        391.31,
+        522.947,
+        553.115,
+        536.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 左心室高电压",
+      "bbox": [
+        73.03,
+        539.006,
+        159.432,
+        551.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "10μg/L,血清叶酸16ng/ ml,网织红细胞",
+      "bbox": [
+        314.88,
+        538.607,
+        555.17,
+        552.167
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 双侧心室肥大",
+      "bbox": [
+        73.09,
+        554.728,
+        159.155,
+        567.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "0. 015。该患者最可能的诊断是（）",
+      "bbox": [
+        314.38,
+        554.207,
+        512.263,
+        565.547
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "110. 患者，女，45岁，因患乳腺癌在3个月",
+      "bbox": [
+        73.5,
+        569.876,
+        287.091,
+        581.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 营养性巨幼细胞性贫血",
+      "bbox": [
+        338.73,
+        569.637,
+        473.613,
+        580.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "前行乳腺癌根治术，术中曾输血800ml，在最近",
+      "bbox": [
+        48.74,
+        585.496,
+        289.131,
+        596.876
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 缺铁性贫血",
+      "bbox": [
+        338.65,
+        585.656,
+        411.131,
+        597.006
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "追踪检查过程中发现血清ALT150U/L，进一",
+      "bbox": [
+        48.62,
+        601.247,
+        289.184,
+        614.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 溶血性贫血",
+      "bbox": [
+        338.79,
+        601.767,
+        411.609,
+        614.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "步查肝炎病毒感染标志物发现甲肝抗体阳性，",
+      "bbox": [
+        48.89,
+        617.026,
+        288.172,
+        628.396
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 再生障碍性贫血",
+      "bbox": [
+        338.59,
+        616.846,
+        436.597,
+        628.196
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "抗HBs阳性，丙肝抗体阳性，丁肝和戊肝抗体",
+      "bbox": [
+        48.67,
+        632.526,
+        289.479,
+        643.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 珠蛋白生成障碍性贫血",
+      "bbox": [
+        338.9,
+        633.216,
+        472.381,
+        645.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "均阴性。该病例最可能的诊断是（）",
+      "bbox": [
+        49.01,
+        648.356,
+        253.07,
+        659.766
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "115. 一中年男性患者因急性阑尾炎住院",
+      "bbox": [
+        339.34,
+        648.646,
+        554.46,
+        660.016
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 手术后谷丙转氨酶升高",
+      "bbox": [
+        72.95,
+        663.976,
+        207.534,
+        675.366
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "治疗，手术后，主管医生为使患者尽快恢复，给",
+      "bbox": [
+        314.58,
+        663.946,
+        554.453,
+        675.336
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 脂肪肝",
+      "bbox": [
+        72.88,
+        680.348,
+        121.217,
+        692.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "患者使用了一种比较贵的新型抗生素，但并没",
+      "bbox": [
+        314.67,
+        679.706,
+        554.389,
+        691.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 输血后丙型肝炎",
+      "bbox": [
+        72.82,
+        695.957,
+        169.694,
+        708.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "有同患者商量。患者恢复很快，几天后就可出",
+      "bbox": [
+        314.43,
+        695.386,
+        553.49,
+        706.766
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 转移性肝癌",
+      "bbox": [
+        72.76,
+        711.666,
+        145.877,
+        724.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "院。出院时，患者发现自己需付上千元的药",
+      "bbox": [
+        315.25,
+        711.026,
+        554.202,
+        722.396
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 输血后病毒性肝炎，乙、丙肝病毒重叠",
+      "bbox": [
+        72.85,
+        726.686,
+        288.828,
+        739.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "费，认为医生没有告诉自己而擅自做主，自己",
+      "bbox": [
+        314.82,
+        726.796,
+        553.447,
+        738.176
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "感染",
+      "bbox": [
+        48.62,
+        742.996,
+        71.34,
+        754.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "不应该负担这笔钱。在这个案例中，医生损害",
+      "bbox": [
+        314.46,
+        742.276,
+        554.174,
+        753.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "111. 患者,男,20岁。1周来发热、食欲减",
+      "bbox": [
+        73.22,
+        758.056,
+        288.851,
+        769.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "了患者的哪个权利（）",
+      "bbox": [
+        315.51,
+        757.766,
+        446.495,
+        769.156
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "退、厌油、恶心呕吐、尿黄，黄疸急剧上升至血",
+      "bbox": [
+        48.64,
+        773.636,
+        289.213,
+        785.016
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 知情同意权",
+      "bbox": [
+        339.18,
+        773.236,
+        414.045,
+        784.586
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "清总胆红素170μmol/L,凝血酶原活动度",
+      "bbox": [
+        48.86,
+        789.026,
+        288.922,
+        802.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "B. 疾病的认知权",
+      "bbox": [
+        339.04,
+        789.076,
+        424.467,
+        800.436
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "—",
+      "bbox": [
+        271.9,
+        808.783,
+        282.93,
+        819.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "164—",
+      "bbox": [
+        292.37,
+        807.835,
+        331.13,
+        819.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

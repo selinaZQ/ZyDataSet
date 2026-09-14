@@ -1,0 +1,991 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 1,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1439.0,
+        79.0,
+        1859.0,
+        123.0
+      ],
+      "confidence": 0.916177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        296.0,
+        351.0,
+        1742.0,
+        451.0
+      ],
+      "confidence": 0.998821,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷(一)",
+      "bbox": [
+        598.0,
+        464.0,
+        1441.0,
+        559.0
+      ],
+      "confidence": 0.968593,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "第一单元",
+      "bbox": [
+        890.0,
+        705.0,
+        1150.0,
+        780.0
+      ],
+      "confidence": 0.999737,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A1 型选择题(1～75题)",
+      "bbox": [
+        805.0,
+        843.0,
+        1235.0,
+        885.0
+      ],
+      "confidence": 0.970774,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "答题说明:每一道考试题下面有A、B、C,D、E五个备选答案,请从中选择一个最佳答案，并",
+      "bbox": [
+        240.0,
+        936.0,
+        1887.0,
+        981.0
+      ],
+      "confidence": 0.94293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        158.0,
+        992.0,
+        1102.0,
+        1033.0
+      ],
+      "confidence": 0.998674,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "1. “吐下之余，定无完气”的理论依据",
+      "bbox": [
+        224.0,
+        1082.0,
+        978.0,
+        1127.0
+      ],
+      "confidence": 0.963064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 阴阳平衡",
+      "bbox": [
+        1146.0,
+        1081.0,
+        1367.0,
+        1127.0
+      ],
+      "confidence": 0.998996,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "是（)",
+      "bbox": [
+        125.0,
+        1132.0,
+        312.0,
+        1188.0
+      ],
+      "confidence": 0.762623,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 阴阳转化",
+      "bbox": [
+        1148.0,
+        1135.0,
+        1369.0,
+        1178.0
+      ],
+      "confidence": 0.998544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 气能生津",
+      "bbox": [
+        213.0,
+        1189.0,
+        437.0,
+        1235.0
+      ],
+      "confidence": 0.997834,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 阴阳制约",
+      "bbox": [
+        1146.0,
+        1188.0,
+        1369.0,
+        1234.0
+      ],
+      "confidence": 0.999393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 气能行津",
+      "bbox": [
+        210.0,
+        1241.0,
+        432.0,
+        1291.0
+      ],
+      "confidence": 0.997758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "6. 说肺为娇脏的主要依据是(",
+      "bbox": [
+        1146.0,
+        1241.0,
+        1684.0,
+        1289.0
+      ],
+      "confidence": 0.96926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "）",
+      "bbox": [
+        1764.0,
+        1254.0,
+        1783.0,
+        1284.0
+      ],
+      "confidence": 0.620817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 气能摄津",
+      "bbox": [
+        210.0,
+        1296.0,
+        432.0,
+        1346.0
+      ],
+      "confidence": 0.995936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 肺主一身之气",
+      "bbox": [
+        1147.0,
+        1295.0,
+        1459.0,
+        1344.0
+      ],
+      "confidence": 0.996264,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 津能生气",
+      "bbox": [
+        210.0,
+        1351.0,
+        435.0,
+        1401.0
+      ],
+      "confidence": 0.998943,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 肺外合皮毛",
+      "bbox": [
+        1146.0,
+        1352.0,
+        1411.0,
+        1399.0
+      ],
+      "confidence": 0.999341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 津能载气",
+      "bbox": [
+        209.0,
+        1405.0,
+        434.0,
+        1455.0
+      ],
+      "confidence": 0.9991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 肺朝百脉",
+      "bbox": [
+        1146.0,
+        1407.0,
+        1372.0,
+        1453.0
+      ],
+      "confidence": 0.996293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "2. 在病理状态下会出现“清气在下，则生",
+      "bbox": [
+        211.0,
+        1462.0,
+        978.0,
+        1510.0
+      ],
+      "confidence": 0.983053,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 肺为水之上源",
+      "bbox": [
+        1146.0,
+        1461.0,
+        1459.0,
+        1507.0
+      ],
+      "confidence": 0.999268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "飧泄”的脏腑是(",
+      "bbox": [
+        133.0,
+        1516.0,
+        431.0,
+        1562.0
+      ],
+      "confidence": 0.895515,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "）",
+      "bbox": [
+        503.0,
+        1522.0,
+        535.0,
+        1557.0
+      ],
+      "confidence": 0.991793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 肺气通于天，不耐寒热",
+      "bbox": [
+        1146.0,
+        1514.0,
+        1606.0,
+        1562.0
+      ],
+      "confidence": 0.993615,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 肝",
+      "bbox": [
+        211.0,
+        1569.0,
+        316.0,
+        1620.0
+      ],
+      "confidence": 0.994762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "7. 治疗血行瘀滞，多配用补气、行气药，是",
+      "bbox": [
+        1146.0,
+        1569.0,
+        1913.0,
+        1619.0
+      ],
+      "confidence": 0.996848,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 心",
+      "bbox": [
+        208.0,
+        1622.0,
+        310.0,
+        1677.0
+      ],
+      "confidence": 0.996528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "由于（）",
+      "bbox": [
+        1061.0,
+        1618.0,
+        1288.0,
+        1678.0
+      ],
+      "confidence": 0.712498,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 脾",
+      "bbox": [
+        208.0,
+        1676.0,
+        311.0,
+        1732.0
+      ],
+      "confidence": 0.986024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 气能生血",
+      "bbox": [
+        1149.0,
+        1680.0,
+        1375.0,
+        1723.0
+      ],
+      "confidence": 0.997663,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 肺",
+      "bbox": [
+        208.0,
+        1732.0,
+        312.0,
+        1787.0
+      ],
+      "confidence": 0.994323,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 气能行血",
+      "bbox": [
+        1145.0,
+        1732.0,
+        1373.0,
+        1782.0
+      ],
+      "confidence": 0.998879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 肾",
+      "bbox": [
+        210.0,
+        1787.0,
+        309.0,
+        1838.0
+      ],
+      "confidence": 0.996199,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 气能摄血",
+      "bbox": [
+        1145.0,
+        1787.0,
+        1374.0,
+        1837.0
+      ],
+      "confidence": 0.99831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "3. 有机整体的“中心”是（",
+      "bbox": [
+        213.0,
+        1846.0,
+        665.0,
+        1891.0
+      ],
+      "confidence": 0.955624,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 血能生气",
+      "bbox": [
+        1145.0,
+        1842.0,
+        1375.0,
+        1892.0
+      ],
+      "confidence": 0.998966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 脑",
+      "bbox": [
+        211.0,
+        1898.0,
+        314.0,
+        1949.0
+      ],
+      "confidence": 0.99603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 血能载气",
+      "bbox": [
+        1145.0,
+        1896.0,
+        1374.0,
+        1946.0
+      ],
+      "confidence": 0.998762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 心",
+      "bbox": [
+        208.0,
+        1953.0,
+        308.0,
+        2003.0
+      ],
+      "confidence": 0.997054,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "8. 十二经脉之气“结、聚、散、络”于关节的",
+      "bbox": [
+        1146.0,
+        1954.0,
+        1913.0,
+        1999.0
+      ],
+      "confidence": 0.989618,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 五脏",
+      "bbox": [
+        210.0,
+        2009.0,
+        348.0,
+        2058.0
+      ],
+      "confidence": 0.999365,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "体系是（",
+      "bbox": [
+        1061.0,
+        2007.0,
+        1232.0,
+        2058.0
+      ],
+      "confidence": 0.940535,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "）",
+      "bbox": [
+        1292.0,
+        2013.0,
+        1324.0,
+        2049.0
+      ],
+      "confidence": 0.989102,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 经络",
+      "bbox": [
+        208.0,
+        2061.0,
+        351.0,
+        2114.0
+      ],
+      "confidence": 0.999083,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 浮络",
+      "bbox": [
+        1145.0,
+        2060.0,
+        1294.0,
+        2113.0
+      ],
+      "confidence": 0.999206,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 脏腑",
+      "bbox": [
+        207.0,
+        2115.0,
+        351.0,
+        2170.0
+      ],
+      "confidence": 0.999213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "B. 经筋",
+      "bbox": [
+        1144.0,
+        2115.0,
+        1288.0,
+        2167.0
+      ],
+      "confidence": 0.99907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "4. 《素问·五脏生成篇》说：多食甘，则",
+      "bbox": [
+        209.0,
+        2173.0,
+        977.0,
+        2222.0
+      ],
+      "confidence": 0.979938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "C. 别络",
+      "bbox": [
+        1145.0,
+        2171.0,
+        1286.0,
+        2220.0
+      ],
+      "confidence": 0.999087,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "(",
+      "bbox": [
+        132.0,
+        2232.0,
+        155.0,
+        2270.0
+      ],
+      "confidence": 0.577244,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "）",
+      "bbox": [
+        218.0,
+        2230.0,
+        266.0,
+        2275.0
+      ],
+      "confidence": 0.983652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 孙络",
+      "bbox": [
+        1145.0,
+        2226.0,
+        1289.0,
+        2275.0
+      ],
+      "confidence": 0.998864,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 肉胝而唇揭",
+      "bbox": [
+        213.0,
+        2283.0,
+        479.0,
+        2329.0
+      ],
+      "confidence": 0.952126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 经别",
+      "bbox": [
+        1145.0,
+        2281.0,
+        1288.0,
+        2329.0
+      ],
+      "confidence": 0.998753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 骨痛而发落",
+      "bbox": [
+        212.0,
+        2338.0,
+        475.0,
+        2384.0
+      ],
+      "confidence": 0.998751,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "9. “寒从中生”的主要机制是（",
+      "bbox": [
+        1149.0,
+        2338.0,
+        1686.0,
+        2379.0
+      ],
+      "confidence": 0.96149,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 脉急而爪枯",
+      "bbox": [
+        211.0,
+        2392.0,
+        479.0,
+        2442.0
+      ],
+      "confidence": 0.99826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 肺气不足，寒饮内停",
+      "bbox": [
+        1150.0,
+        2392.0,
+        1568.0,
+        2437.0
+      ],
+      "confidence": 0.990481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 脉凝泣而变色",
+      "bbox": [
+        212.0,
+        2448.0,
+        521.0,
+        2494.0
+      ],
+      "confidence": 0.998389,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 胸阳不振，阴寒内盛",
+      "bbox": [
+        1147.0,
+        2445.0,
+        1561.0,
+        2490.0
+      ],
+      "confidence": 0.995982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 皮槁而毛拔",
+      "bbox": [
+        212.0,
+        2504.0,
+        480.0,
+        2550.0
+      ],
+      "confidence": 0.994884,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 恣食生冷，寒伤中阳",
+      "bbox": [
+        1150.0,
+        2504.0,
+        1560.0,
+        2545.0
+      ],
+      "confidence": 0.989138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "5. “动极者镇之以静，阴亢者胜之以阳”，",
+      "bbox": [
+        213.0,
+        2561.0,
+        975.0,
+        2602.0
+      ],
+      "confidence": 0.982013,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 脾肾阳气不足，阴寒内盛",
+      "bbox": [
+        1149.0,
+        2557.0,
+        1648.0,
+        2599.0
+      ],
+      "confidence": 0.99477,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "说明了阴阳之间的什么关系（",
+      "bbox": [
+        129.0,
+        2613.0,
+        670.0,
+        2658.0
+      ],
+      "confidence": 0.973962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        747.0,
+        2617.0,
+        772.0,
+        2650.0
+      ],
+      "confidence": 0.989183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 痰湿内阻，从阴化寒",
+      "bbox": [
+        1148.0,
+        2610.0,
+        1562.0,
+        2655.0
+      ],
+      "confidence": 0.988821,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 阴阳对立",
+      "bbox": [
+        212.0,
+        2666.0,
+        442.0,
+        2712.0
+      ],
+      "confidence": 0.999111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "10. 气机升降出入的枢纽是（",
+      "bbox": [
+        1150.0,
+        2666.0,
+        1664.0,
+        2710.0
+      ],
+      "confidence": 0.972569,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "）",
+      "bbox": [
+        1748.0,
+        2672.0,
+        1768.0,
+        2703.0
+      ],
+      "confidence": 0.686437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "B. 阴阳互根",
+      "bbox": [
+        212.0,
+        2724.0,
+        436.0,
+        2767.0
+      ],
+      "confidence": 0.99888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 肝肺",
+      "bbox": [
+        1148.0,
+        2721.0,
+        1291.0,
+        2769.0
+      ],
+      "confidence": 0.999227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

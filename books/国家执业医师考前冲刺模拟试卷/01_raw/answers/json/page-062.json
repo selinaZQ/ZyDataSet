@@ -1,0 +1,1220 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 62,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        61.04,
+        45.008,
+        260.46,
+        55.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "137. C",
+      "bbox": [
+        80.27,
+        75.832,
+        108.123,
+        85.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "上移，中、下肺部常有肺气肿，肺纹呈垂柳状。两肺中、",
+      "bbox": [
+        319.91,
+        74.261,
+        566.91,
+        84.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "138. B【解析】呕吐物为隔餐食物，带腐臭味为幽",
+      "bbox": [
+        80.21,
+        90.462,
+        298.465,
+        100.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "下部有支气管播散病变。慢性纤维空洞型肺结核X线",
+      "bbox": [
+        320.15,
+        89.801,
+        559.255,
+        99.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "门梗阻的临床表现。呕吐物为黄绿色，带粪臭味为急",
+      "bbox": [
+        59.63,
+        105.651,
+        298.607,
+        115.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "表现：在肺上、中部显示大量条索状或一状致密影，其",
+      "bbox": [
+        320.17,
+        105.631,
+        559.547,
+        115.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "性胆囊炎的临床表现。呕吐物为大量黏液及食物为胃",
+      "bbox": [
+        58.88,
+        120.611,
+        297.857,
+        130.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "中有多发、不规则的空洞存在。可常有上部胸膜增厚，",
+      "bbox": [
+        320.8,
+        120.781,
+        559.056,
+        130.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "肠炎的临床表现。呕吐物为血液为上消化道出血的临",
+      "bbox": [
+        58.96,
+        135.711,
+        298.59,
+        145.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "伴有不同程度的肺萎陷，致使胸廓塌陷、肋间隙变窄、",
+      "bbox": [
+        320.04,
+        136.081,
+        559.432,
+        145.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "床表现。吐出胃内容物后仍干呕不止为早孕呕吐。",
+      "bbox": [
+        58.98,
+        151.331,
+        279.452,
+        161.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "肺门影上移、中、下肺部常有肺气肿，肺纹呈垂柳状。",
+      "bbox": [
+        320.01,
+        151.571,
+        559.614,
+        161.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "139. C",
+      "bbox": [
+        80.0,
+        166.872,
+        106.35,
+        178.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "两肺中、下部有支气管播散病变。周围型肺癌空洞形",
+      "bbox": [
+        320.33,
+        167.031,
+        559.908,
+        176.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "140. D【解析】苦笑面容发作时牙关紧闭，面肌痉",
+      "bbox": [
+        79.81,
+        182.252,
+        299.055,
+        192.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "成癌瘤发生坏死，与支气管相通经排出后，可显示偏心",
+      "bbox": [
+        320.16,
+        182.732,
+        559.941,
+        192.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "挛，呈苦笑状，见于破伤风。伤寒面容表情淡漠，反应",
+      "bbox": [
+        58.92,
+        197.601,
+        298.994,
+        207.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "性不规则空洞。或有结节向洞腔内突出。多数没有液",
+      "bbox": [
+        320.05,
+        198.131,
+        559.871,
+        208.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "迟钝，呈无欲状态，见于肠伤寒、脑脊髓膜炎、脑炎等高",
+      "bbox": [
+        58.82,
+        212.781,
+        305.32,
+        222.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "平面，如伴有感染可出现明显的液平面。",
+      "bbox": [
+        320.08,
+        213.872,
+        497.2,
+        223.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "热衰弱患者。甲亢面容表情惊愕，眼裂增大，眼球突",
+      "bbox": [
+        58.87,
+        228.281,
+        298.908,
+        238.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "147. C",
+      "bbox": [
+        341.56,
+        229.552,
+        368.677,
+        241.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "出，目光闪烁，烦躁不安，兴奋易怒。二尖瓣面容面色",
+      "bbox": [
+        59.47,
+        243.661,
+        299.074,
+        253.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "148. E【解析】医学关系中的主体在道义上应享",
+      "bbox": [
+        341.61,
+        244.722,
+        559.996,
+        255.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "晦暗，双颊紫红，口唇轻度紫绀，见于风湿性心脏病二",
+      "bbox": [
+        59.07,
+        259.061,
+        299.144,
+        268.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "有的权利和利益属于权利。医学关系中的主体在道义",
+      "bbox": [
+        320.08,
+        260.031,
+        560.144,
+        269.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "尖瓣狭窄。慢性病面容为面容憔悴，表情忧虑，面色灰",
+      "bbox": [
+        58.85,
+        274.651,
+        298.924,
+        284.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "上应履行的职责和使命属于义务。医学关系的主体对",
+      "bbox": [
+        320.25,
+        276.021,
+        560.097,
+        285.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "暗或苍白，目光暗淡，见于慢性消耗性疾病，如恶性肿",
+      "bbox": [
+        59.26,
+        290.051,
+        298.88,
+        299.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "应尽义务的自我认识和自我评价的能力是指良心。医",
+      "bbox": [
+        320.17,
+        291.291,
+        559.8,
+        301.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "瘤、严重结核病等。",
+      "bbox": [
+        58.71,
+        305.301,
+        147.63,
+        315.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "学关系中的主体因履行道德职责受到褒奖而产生的自",
+      "bbox": [
+        320.32,
+        307.001,
+        558.645,
+        316.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "141. B",
+      "bbox": [
+        79.87,
+        320.752,
+        107.79,
+        330.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "我赞赏是指荣誉。医学关系中的主体在医疗活动中对",
+      "bbox": [
+        320.34,
+        322.711,
+        559.97,
+        332.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "142. A【解析】指关节梭状畸形多见于类风湿关",
+      "bbox": [
+        79.87,
+        336.022,
+        299.503,
+        346.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "自己和他人关系的内心体验和感受是指情感。",
+      "bbox": [
+        321.97,
+        337.751,
+        521.808,
+        347.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "节炎。杵状指，如先天性心脏病、细菌性心内膜炎、呼",
+      "bbox": [
+        58.82,
+        351.681,
+        299.349,
+        361.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "149. C【解析】禽流感病毒以H5N1致病性最强。",
+      "bbox": [
+        341.53,
+        353.362,
+        557.87,
+        364.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "吸系统疾患、内分泌障碍、肝病及缺铁性贫血均可伴发",
+      "bbox": [
+        59.28,
+        366.791,
+        299.565,
+        376.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "150. A【解析】甲型流感病毒宿主广泛，易发生变",
+      "bbox": [
+        341.54,
+        369.172,
+        560.62,
+        380.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "此症；而主动脉的动脉瘤、侧锁骨下动脉瘤、腋窝动脉",
+      "bbox": [
+        58.81,
+        382.151,
+        299.549,
+        392.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "异，曾多次引起世界性大流行。",
+      "bbox": [
+        320.29,
+        385.111,
+        458.33,
+        394.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "闭塞及一侧神经丛麻痹等疾病则常伴有单侧杵状病发",
+      "bbox": [
+        59.38,
+        398.011,
+        299.444,
+        407.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "生。匙状甲常见于缺铁性贫血，偶见于风湿热、甲癣",
+      "bbox": [
+        58.76,
+        413.111,
+        299.502,
+        423.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "第三单元",
+      "bbox": [
+        406.99,
+        425.083,
+        477.037,
+        438.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "等。浮髌现象见于各种原因引起的膝关节腔大量积",
+      "bbox": [
+        58.92,
+        428.691,
+        299.725,
+        438.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "液。肢端肥大见于青春期发育成熟后，腺垂体功能亢",
+      "bbox": [
+        58.64,
+        444.241,
+        299.356,
+        454.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "进，生长激素分泌过多引起的肢端肥大症。",
+      "bbox": [
+        58.74,
+        459.791,
+        246.46,
+        469.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "1. C【解析】消渴并发白内障、耳聋、雀盲，主要病",
+      "bbox": [
+        341.68,
+        471.502,
+        567.08,
+        482.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "143. E",
+      "bbox": [
+        80.16,
+        475.502,
+        107.995,
+        485.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "机为肝肾精血不足，不能上承耳目所致，治疗首选杞菊",
+      "bbox": [
+        320.55,
+        487.352,
+        560.013,
+        497.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "144. C【解析】前列腺癌时血清PSA水平明显增",
+      "bbox": [
+        80.1,
+        490.282,
+        299.322,
+        501.469
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "高。AFP是目前诊断原发性肝细胞癌最特异的标志",
+      "bbox": [
+        58.85,
+        505.571,
+        299.446,
+        515.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "地黄丸滋补肝肾，益精补血。",
+      "bbox": [
+        320.38,
+        503.241,
+        448.56,
+        513.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "物。CA125有助于卵巢癌的诊断及疗效观察。CEA",
+      "bbox": [
+        58.48,
+        520.661,
+        300.435,
+        530.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "2. C【解析】咳嗽的病因病机。内伤咳嗽多属邪",
+      "bbox": [
+        341.4,
+        518.162,
+        559.923,
+        529.709
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "增高见于结肠癌、胃癌、胰腺癌等，但无特异性。",
+      "bbox": [
+        58.44,
+        535.851,
+        299.258,
+        546.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "实与正虚并见，病理因素主要为“痰”与“火”。但痰有",
+      "bbox": [
+        320.59,
+        533.711,
+        567.34,
+        543.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "CA19-9可作为胰腺癌、胆囊癌等恶性肿瘤的辅助诊断",
+      "bbox": [
+        58.58,
+        551.651,
+        299.958,
+        562.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "寒热之别，火有虚实之分，痰可郁而化火，火能炼液灼",
+      "bbox": [
+        320.37,
+        549.491,
+        560.185,
+        559.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "指标，尤其是诊断胰腺癌的敏感性和特异性较高，对监",
+      "bbox": [
+        58.52,
+        567.071,
+        299.713,
+        576.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "津为痰。",
+      "bbox": [
+        320.56,
+        565.281,
+        360.0,
+        575.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "测病情变化和复发有较大的价值。",
+      "bbox": [
+        58.45,
+        582.461,
+        208.448,
+        592.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "3. C【解析】肺痈初期宜疏散风热，清肺散邪，用",
+      "bbox": [
+        341.35,
+        580.622,
+        560.224,
+        592.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "145. D",
+      "bbox": [
+        79.89,
+        598.462,
+        108.319,
+        608.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "银翘散。成痈期宜清肺解毒，化瘀消痈，用千金苇茎汤",
+      "bbox": [
+        320.53,
+        596.352,
+        560.328,
+        606.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "146. B【解析】肺大疱表现为位于肺野边缘甚细",
+      "bbox": [
+        79.89,
+        613.402,
+        299.497,
+        623.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "合如金解毒散。溃脓期应排脓解毒，用加味桔梗汤。",
+      "bbox": [
+        320.43,
+        611.922,
+        560.549,
+        621.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "薄的透亮空腔，可为圆形、椭圆形或较扁的长方形，大",
+      "bbox": [
+        58.79,
+        628.641,
+        299.983,
+        638.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "恢复期应养阴益气清肺，用沙参清肺汤或桔梗杏仁煎。",
+      "bbox": [
+        320.51,
+        627.591,
+        557.63,
+        637.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "小不一，较大的肺大疱中，有时可见到横贯的间隔。肺",
+      "bbox": [
+        58.53,
+        644.541,
+        299.723,
+        654.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "4. C【解析】哮病发作期为“伏痰”遇诱因引触，痰",
+      "bbox": [
+        341.38,
+        643.082,
+        567.57,
+        654.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "脓肿在急性化脓性炎症阶段，肺内出现大片密度致密",
+      "bbox": [
+        58.53,
+        660.231,
+        299.681,
+        670.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "随气升，气因痰阻，痰气搏结，壅塞气道，肺失宣降，痰",
+      "bbox": [
+        321.11,
+        658.951,
+        567.86,
+        668.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "影，密度较均匀，边缘模糊，可侵及一个肺段或一叶的",
+      "bbox": [
+        58.73,
+        675.951,
+        299.486,
+        685.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "随气动，故致痰鸣如吼，气息喘促。",
+      "bbox": [
+        321.16,
+        674.771,
+        479.24,
+        684.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "大部。当病变中心肺组织发生坏死液化后，则在致密",
+      "bbox": [
+        58.65,
+        691.401,
+        299.801,
+        701.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "5. A【解析】癃闭肺热壅盛治宜清泄肺热、通利水",
+      "bbox": [
+        341.48,
+        689.952,
+        560.769,
+        701.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "的实变中出现含有液面的空洞，空洞四周有较厚的炎",
+      "bbox": [
+        59.24,
+        706.741,
+        299.739,
+        716.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "道，方用清肺饮。八正散用于膀胱湿热证。春泽汤用",
+      "bbox": [
+        320.8,
+        705.911,
+        560.647,
+        715.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "症浸润，其内壁略不规整。引流支气管瓣性阻塞时，空",
+      "bbox": [
+        58.63,
+        722.351,
+        299.386,
+        732.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "于伤暑泄泻，泻定仍渴，小便不利。沉香散用于肝郁气",
+      "bbox": [
+        320.93,
+        721.071,
+        560.777,
+        730.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "洞可迅速增大。浸润型肺结核空洞形成X线表现：在",
+      "bbox": [
+        58.71,
+        737.511,
+        299.767,
+        747.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "滞。代抵当丸用于尿道阻塞。",
+      "bbox": [
+        320.44,
+        737.282,
+        450.604,
+        747.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "肺上、中部显示大量条索状或一状致密影，其中有多",
+      "bbox": [
+        58.58,
+        752.821,
+        299.731,
+        762.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "6. C【解析】黄连温胆汤治疗心悸痰火扰心证和",
+      "bbox": [
+        341.85,
+        752.392,
+        560.38,
+        762.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "发、不规则的空洞存在。可常有上部胸膜增厚，伴有不",
+      "bbox": [
+        59.15,
+        768.341,
+        299.662,
+        778.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "不寐痰热扰心证。",
+      "bbox": [
+        320.65,
+        768.282,
+        399.45,
+        778.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "同程度的肺萎陷，致使胸廓塌陷，肋间隙变窄，肺门影",
+      "bbox": [
+        59.94,
+        783.671,
+        299.787,
+        793.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "7. D【解析】喘证的病因有ABCE。D项痰热素",
+      "bbox": [
+        341.9,
+        782.962,
+        560.578,
+        792.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "—",
+      "bbox": [
+        280.01,
+        801.266,
+        290.43,
+        811.686
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "252—",
+      "bbox": [
+        300.2,
+        801.347,
+        338.92,
+        811.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

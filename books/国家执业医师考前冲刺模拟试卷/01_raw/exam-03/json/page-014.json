@@ -1,0 +1,1233 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 14,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        64.64,
+        58.681,
+        266.536,
+        70.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 胃壁僵直",
+      "bbox": [
+        86.84,
+        89.301,
+        146.931,
+        101.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 尿毒症",
+      "bbox": [
+        350.9,
+        89.271,
+        399.864,
+        101.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "21. 我国最常见的咯血原因是（）",
+      "bbox": [
+        86.72,
+        104.671,
+        272.593,
+        116.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 脑炎",
+      "bbox": [
+        350.88,
+        104.411,
+        386.64,
+        116.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 支气管扩张",
+      "bbox": [
+        86.64,
+        120.261,
+        159.987,
+        132.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "28. 下列各项可见毛细血管搏动征的",
+      "bbox": [
+        350.69,
+        120.601,
+        565.739,
+        132.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 肺结核",
+      "bbox": [
+        86.63,
+        136.321,
+        133.976,
+        148.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "是（）",
+      "bbox": [
+        326.23,
+        135.472,
+        373.573,
+        147.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 二尖瓣狭窄",
+      "bbox": [
+        86.37,
+        152.211,
+        157.568,
+        164.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 主动脉瓣狭窄",
+      "bbox": [
+        350.58,
+        151.421,
+        436.617,
+        163.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 肺脓肿",
+      "bbox": [
+        86.34,
+        167.311,
+        134.495,
+        179.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 主动脉瓣关闭不全",
+      "bbox": [
+        350.71,
+        167.291,
+        459.336,
+        179.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 支气管肺癌",
+      "bbox": [
+        86.76,
+        183.291,
+        158.351,
+        195.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 低血压性休克",
+      "bbox": [
+        350.88,
+        183.391,
+        435.939,
+        195.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "22. 诊断慢性阻塞性肺疾病（COPD）的必",
+      "bbox": [
+        86.39,
+        199.271,
+        301.937,
+        211.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 心包积液",
+      "bbox": [
+        350.69,
+        199.391,
+        412.369,
+        211.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "要条件是（）",
+      "bbox": [
+        62.25,
+        215.441,
+        145.636,
+        227.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 心力衰竭",
+      "bbox": [
+        350.83,
+        214.191,
+        411.199,
+        226.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 胸部X线片示肺纹理增粗紊乱",
+      "bbox": [
+        86.47,
+        230.011,
+        260.135,
+        241.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "29. 某药店经营者为贪图利益而违法销售",
+      "bbox": [
+        350.77,
+        230.061,
+        564.902,
+        241.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 肺功能检查示阻塞性通气功能障碍",
+      "bbox": [
+        86.36,
+        245.941,
+        279.663,
+        257.811
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "超过有效期的药品。依据《中华人民共和国药",
+      "bbox": [
+        326.7,
+        245.971,
+        566.402,
+        257.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 长期大量吸烟史",
+      "bbox": [
+        86.19,
+        261.531,
+        183.141,
+        273.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "品管理法》的规定，其所在地的药品监督管理",
+      "bbox": [
+        327.43,
+        260.941,
+        567.311,
+        272.811
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 高分辨CT示肺气肿改变",
+      "bbox": [
+        86.23,
+        277.261,
+        230.902,
+        289.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "行政执法机构应给予的处罚是，没收违法销售",
+      "bbox": [
+        326.42,
+        277.032,
+        570.15,
+        289.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 肺总量下降",
+      "bbox": [
+        86.53,
+        293.192,
+        159.301,
+        305.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "药品和违法所得并（）",
+      "bbox": [
+        326.65,
+        293.332,
+        458.632,
+        305.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "23. 脾脏中度肿大指（）",
+      "bbox": [
+        86.36,
+        309.631,
+        223.963,
+        321.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 处以非法所得一倍以上三倍以下的",
+      "bbox": [
+        350.93,
+        308.221,
+        565.154,
+        320.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 脾缘不超过肋下2cm",
+      "bbox": [
+        86.38,
+        324.251,
+        210.229,
+        336.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "罚款",
+      "bbox": [
+        326.61,
+        324.742,
+        350.25,
+        336.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 脾缘超过肋下2cm至脐水平线以上",
+      "bbox": [
+        86.55,
+        339.981,
+        282.577,
+        352.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 处以非法所得二倍以上五倍以下罚款",
+      "bbox": [
+        350.86,
+        340.132,
+        556.312,
+        351.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 脾缘超过肋下1cm至脐水平线以上",
+      "bbox": [
+        86.63,
+        356.281,
+        282.671,
+        368.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 处以二千元以上五千元以下的罚款",
+      "bbox": [
+        350.82,
+        355.091,
+        544.114,
+        366.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 脾缘超过脐水平线",
+      "bbox": [
+        86.64,
+        371.001,
+        195.894,
+        382.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 处以违法销售药品货值金额两倍以上",
+      "bbox": [
+        350.79,
+        371.071,
+        565.649,
+        382.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 脾缘超过前正中线",
+      "bbox": [
+        86.64,
+        386.991,
+        196.043,
+        398.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "五倍以下的罚款",
+      "bbox": [
+        326.99,
+        387.651,
+        410.864,
+        399.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "24. 可闻及病理性支气管呼吸音的部位",
+      "bbox": [
+        86.64,
+        402.821,
+        303.289,
+        414.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 处以违法销售药品货值金额十倍以上",
+      "bbox": [
+        350.95,
+        402.121,
+        565.532,
+        414.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "是（）",
+      "bbox": [
+        62.35,
+        418.162,
+        104.089,
+        430.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "二十倍以下的罚款",
+      "bbox": [
+        326.44,
+        419.682,
+        422.567,
+        431.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 肩胛下区",
+      "bbox": [
+        86.64,
+        433.861,
+        148.72,
+        445.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "30. 下列检查结果中，最能反映慢性肾炎",
+      "bbox": [
+        350.65,
+        434.202,
+        565.568,
+        446.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 喉部",
+      "bbox": [
+        86.66,
+        450.691,
+        122.56,
+        462.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "患者肾实质严重损害的是（）",
+      "bbox": [
+        326.43,
+        449.232,
+        494.299,
+        461.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 胸骨上窝",
+      "bbox": [
+        86.72,
+        464.891,
+        147.189,
+        476.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 尿蛋白明显增多",
+      "bbox": [
+        350.77,
+        465.231,
+        447.578,
+        477.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 背部第6颈椎附近",
+      "bbox": [
+        86.44,
+        480.831,
+        196.223,
+        492.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 尿中白细胞明显增多",
+      "bbox": [
+        350.74,
+        481.321,
+        470.087,
+        493.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 第1、第2胸椎附近",
+      "bbox": [
+        86.65,
+        496.101,
+        198.998,
+        508.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 尿中红细胞明显增多",
+      "bbox": [
+        350.64,
+        496.201,
+        470.806,
+        508.081
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "25. 逆行肾盂造影显示肾小盏杯口呈虫蚀",
+      "bbox": [
+        86.39,
+        512.121,
+        301.463,
+        523.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 尿中出现管型",
+      "bbox": [
+        350.56,
+        512.182,
+        435.77,
+        524.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "状改变，杯口附近肾实质内有团块状造影剂与",
+      "bbox": [
+        61.83,
+        527.982,
+        303.8,
+        540.081
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 尿比重固定于1.010左右",
+      "bbox": [
+        350.89,
+        528.182,
+        495.429,
+        540.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "杯口相连是（）",
+      "bbox": [
+        62.02,
+        544.241,
+        157.883,
+        556.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "31. 下列关于血尿素氮的改变及临床意义",
+      "bbox": [
+        350.74,
+        544.152,
+        565.45,
+        556.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 肾结石",
+      "bbox": [
+        86.67,
+        558.881,
+        136.744,
+        570.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "的叙述，正确的是（）",
+      "bbox": [
+        328.09,
+        560.282,
+        451.819,
+        572.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 肾实质肿瘤",
+      "bbox": [
+        86.36,
+        575.031,
+        158.47,
+        586.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 上消化道出血时，血尿素氮减少",
+      "bbox": [
+        350.88,
+        575.242,
+        533.15,
+        587.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 肾盂肿瘤",
+      "bbox": [
+        86.36,
+        591.221,
+        146.866,
+        603.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 大面积烧伤时，血尿素氮减少",
+      "bbox": [
+        350.6,
+        591.272,
+        520.26,
+        603.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 肾脓肿",
+      "bbox": [
+        86.27,
+        607.251,
+        134.588,
+        619.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 严重的肾盂肾炎，血尿素氮减少",
+      "bbox": [
+        350.81,
+        607.231,
+        532.517,
+        619.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 肾结核",
+      "bbox": [
+        86.5,
+        623.221,
+        134.982,
+        635.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 血尿素氮对早期肾功能损害的敏感性差",
+      "bbox": [
+        350.62,
+        623.281,
+        565.553,
+        635.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "26. 中国糖尿病的控制目标中,HbA1c应",
+      "bbox": [
+        86.2,
+        637.991,
+        301.726,
+        649.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 血尿素氮对早期肾功能损害的敏感",
+      "bbox": [
+        350.75,
+        638.161,
+        566.747,
+        650.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "达到的水平是（）",
+      "bbox": [
+        62.22,
+        654.171,
+        169.676,
+        666.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "性强",
+      "bbox": [
+        325.9,
+        655.631,
+        350.604,
+        667.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. <8%",
+      "bbox": [
+        86.2,
+        671.884,
+        120.226,
+        683.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "32. 最常见的呕血病因是（）",
+      "bbox": [
+        350.68,
+        670.071,
+        513.676,
+        681.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. <7.5%",
+      "bbox": [
+        86.25,
+        687.871,
+        128.448,
+        699.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 消化道肿瘤",
+      "bbox": [
+        350.74,
+        685.932,
+        424.532,
+        697.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. <7%",
+      "bbox": [
+        86.28,
+        703.802,
+        119.626,
+        715.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 急性胆囊炎",
+      "bbox": [
+        350.71,
+        702.302,
+        422.81,
+        714.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. <6.5%",
+      "bbox": [
+        86.3,
+        719.85,
+        129.113,
+        731.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 肝硬化门静脉高压",
+      "bbox": [
+        350.81,
+        718.002,
+        460.235,
+        729.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. <6%",
+      "bbox": [
+        86.97,
+        734.802,
+        119.652,
+        746.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 急性胰腺炎",
+      "bbox": [
+        350.73,
+        734.261,
+        423.638,
+        746.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "27. 喷射性呕吐可见于（）",
+      "bbox": [
+        86.77,
+        747.981,
+        233.426,
+        759.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 消化性溃疡",
+      "bbox": [
+        350.66,
+        750.131,
+        422.909,
+        762.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 耳源性眩晕",
+      "bbox": [
+        86.88,
+        763.881,
+        160.577,
+        775.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "33. 小肠以下部位出血，大便通常不会出",
+      "bbox": [
+        350.67,
+        764.811,
+        565.05,
+        776.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 胃炎",
+      "bbox": [
+        86.9,
+        780.411,
+        122.172,
+        792.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "现下列哪种情况（）",
+      "bbox": [
+        326.26,
+        781.081,
+        446.562,
+        792.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "C. 肠梗阻",
+      "bbox": [
+        87.11,
+        795.001,
+        135.492,
+        806.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "A. 鲜红色血便",
+      "bbox": [
+        350.46,
+        797.281,
+        424.624,
+        809.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "108",
+      "bbox": [
+        305.79,
+        817.639,
+        321.016,
+        827.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

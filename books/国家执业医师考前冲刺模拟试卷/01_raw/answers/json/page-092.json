@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 92,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        55.16,
+        46.892,
+        256.275,
+        56.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "乳络阻塞，不通则痛，故乳房肿胀疼痛有块；毒热内蕴，",
+      "bbox": [
+        52.98,
+        76.272,
+        298.73,
+        86.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "32. E【解析】妇科疾病的病因病机。脏腑功能失",
+      "bbox": [
+        335.14,
+        77.043,
+        554.248,
+        86.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "故患侧乳房皮肤微红；邪热内盛，正邪相争，营卫失和，",
+      "bbox": [
+        52.94,
+        91.932,
+        297.69,
+        101.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "常、气血病变、胞宫损伤均可导致妇产科疾病；但妇产",
+      "bbox": [
+        314.99,
+        92.152,
+        554.638,
+        101.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "治法应为疏肝清胃，通乳消肿。方药瓜蒌牛蒡汤。",
+      "bbox": [
+        52.85,
+        107.102,
+        269.33,
+        116.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "科疾病的病理机制与其他各科的区别，就在于妇产科",
+      "bbox": [
+        314.38,
+        107.542,
+        554.743,
+        117.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "22. E【解析】乳岩,多发于40～60岁的妇女,肿",
+      "bbox": [
+        73.7,
+        122.553,
+        293.556,
+        132.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "病机直接或间接地损伤冲、任、督、带。",
+      "bbox": [
+        314.4,
+        122.743,
+        489.54,
+        132.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "块多为单发，边缘不整齐，活动度差，常与皮肤粘连，质",
+      "bbox": [
+        52.75,
+        137.893,
+        296.0,
+        147.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "33. B【解析】经期延长虚热证治法：养阴清热止",
+      "bbox": [
+        335.15,
+        138.013,
+        554.621,
+        147.773
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "地坚硬，表面高低不平，病情发展迅速，晚期患部皮肤",
+      "bbox": [
+        52.73,
+        153.352,
+        293.85,
+        163.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "血。方药：两地汤合二至丸、四乌贼骨一芦茹丸或固",
+      "bbox": [
+        314.51,
+        153.432,
+        554.197,
+        163.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "呈典型橘皮样改变，肿块溃破后呈菜花样，时流血水，",
+      "bbox": [
+        52.69,
+        168.982,
+        293.358,
+        178.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "经丸。",
+      "bbox": [
+        314.75,
+        168.942,
+        344.24,
+        178.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "其味恶臭，同侧腋窝淋巴结肿大坚硬，故选E。A项是",
+      "bbox": [
+        52.85,
+        183.992,
+        293.715,
+        193.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "34. C【解析】经间期出血血瘀证治法：化瘀止血。",
+      "bbox": [
+        335.03,
+        184.283,
+        554.602,
+        194.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "乳痈的表现，B项是乳痨的表现，C项是乳核的表现，D",
+      "bbox": [
+        52.68,
+        199.302,
+        294.849,
+        209.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "代表方：逐瘀止血汤。",
+      "bbox": [
+        314.35,
+        200.063,
+        411.65,
+        209.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "项是乳癖的临床表现。",
+      "bbox": [
+        52.61,
+        215.202,
+        150.574,
+        224.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "35. B【解析】ACD项皆起于胞中,E项带脉束腰",
+      "bbox": [
+        335.03,
+        214.773,
+        554.838,
+        224.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "23. C【解析】情志不畅，肝郁气滞，肝失调达，脾",
+      "bbox": [
+        73.55,
+        230.442,
+        293.882,
+        240.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "一周。只有B项正确。",
+      "bbox": [
+        314.67,
+        230.873,
+        412.533,
+        240.573
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "失健运，水湿停留，聚而为痰，痰气互凝，结于颈靥，故",
+      "bbox": [
+        52.63,
+        245.902,
+        297.38,
+        255.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "36. A【解析】痛经的治疗以调理子宫、冲任气血",
+      "bbox": [
+        335.15,
+        245.603,
+        555.209,
+        255.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "颈粗瘿肿；气本无形，怒则气长，喜则气消，故肿胀呈弥",
+      "bbox": [
+        52.7,
+        261.181,
+        298.95,
+        271.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "为主，遵循急则治其标，缓则治其本的原则。",
+      "bbox": [
+        314.9,
+        261.612,
+        511.5,
+        271.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "漫性而边界不清，遂成本病，故首先疏肝然后消肿。",
+      "bbox": [
+        52.65,
+        276.922,
+        277.13,
+        286.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "37. B【解析】月经后期的病因：肾虚、血虚、血寒、",
+      "bbox": [
+        335.05,
+        276.623,
+        562.91,
+        286.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "24. C【解析】凡是疗疮，均可发展为走黄，然颜面",
+      "bbox": [
+        73.36,
+        292.172,
+        293.807,
+        301.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "气滞。月经过少的病因为肾虚、血虚、血瘀、痰湿，故血",
+      "bbox": [
+        314.43,
+        292.222,
+        558.93,
+        302.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "部疔疮因其所生之处经脉众多，又为诸阳所聚之地；烂",
+      "bbox": [
+        52.51,
+        307.632,
+        293.894,
+        317.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "虚为共同病因。",
+      "bbox": [
+        314.56,
+        307.572,
+        383.51,
+        317.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "疔因其病势急暴，化腐甚巨，故尤易发生走黄。",
+      "bbox": [
+        52.39,
+        322.952,
+        258.61,
+        332.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "38. B【解析】经期延长阴虚血热证是虚证，B项",
+      "bbox": [
+        335.02,
+        322.803,
+        555.042,
+        332.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "25. E【解析】应按乳络方向切口。避免损伤乳腺",
+      "bbox": [
+        73.41,
+        338.033,
+        293.961,
+        347.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "是实证表现，故选B。",
+      "bbox": [
+        314.4,
+        338.373,
+        410.621,
+        348.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "导管。",
+      "bbox": [
+        52.29,
+        353.742,
+        81.57,
+        363.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "39. E【解析】治崩三法是“塞流”“澄源”“复旧”。",
+      "bbox": [
+        334.98,
+        353.423,
+        574.02,
+        363.143
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "26. D【解析】治疗失荣阴毒结聚证，治宜温阳散",
+      "bbox": [
+        73.43,
+        368.943,
+        294.192,
+        378.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "这三条要灵活运用，急则治标，缓则治本，故选E。",
+      "bbox": [
+        314.52,
+        368.843,
+        533.893,
+        378.573
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "寒，化痰散结，方药选用阳和汤加减。",
+      "bbox": [
+        52.27,
+        384.733,
+        217.68,
+        394.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "40. D【解析】崩漏的主要病机是冲任不固，不能",
+      "bbox": [
+        334.8,
+        384.153,
+        555.062,
+        393.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "27. D【解析】肛隐窝炎是指发生在肛窦、肛门瓣",
+      "bbox": [
+        73.36,
+        399.683,
+        294.06,
+        409.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "制约经血，使子宫藏泻失常。",
+      "bbox": [
+        314.67,
+        399.753,
+        441.03,
+        409.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "的急慢性炎症性疾病，故又称肛窦炎，肛隐窝炎常并发",
+      "bbox": [
+        52.88,
+        415.332,
+        293.854,
+        425.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "41. A【解析】经行身痛是由于素体正气不足，营",
+      "bbox": [
+        334.87,
+        415.023,
+        555.054,
+        424.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "肛乳头炎和肛乳头肥大，其临床特征是肛门部胀痛不",
+      "bbox": [
+        52.24,
+        430.471,
+        293.742,
+        440.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "卫失调，筋脉失养，不荣而痛；或因素有寒湿留滞，经行",
+      "bbox": [
+        314.42,
+        430.542,
+        560.17,
+        440.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "适和肛门部潮湿有分泌物。肛隐窝炎是肛周脓肿的重",
+      "bbox": [
+        52.15,
+        446.012,
+        293.811,
+        455.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "时气血下注冲任，因寒凝血瘀，经脉阻滞，以致气血不",
+      "bbox": [
+        314.82,
+        445.502,
+        554.773,
+        455.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "要原因。",
+      "bbox": [
+        52.23,
+        461.502,
+        91.39,
+        471.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "通而身痛。",
+      "bbox": [
+        314.38,
+        461.202,
+        363.23,
+        470.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "28. C【解析】浊痰凝结见于初起硬结期。肾子处",
+      "bbox": [
+        73.28,
+        476.593,
+        293.807,
+        486.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "42. E【解析】ABCD项均是痛经的主症,只有E",
+      "bbox": [
+        334.74,
+        476.153,
+        555.872,
+        485.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "酸胀隐痛，附睾硬结，子系呈条索状肿硬；无明显全身",
+      "bbox": [
+        52.46,
+        491.822,
+        293.766,
+        501.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "项是肾气亏损证的主症。",
+      "bbox": [
+        314.18,
+        491.832,
+        421.76,
+        501.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "症状；苔薄，脉滑。辨证分析：肝肾亏损，脉络空虚，浊",
+      "bbox": [
+        52.26,
+        507.062,
+        296.51,
+        516.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "43. D【解析】痛经寒湿凝滞证的治法是温经除",
+      "bbox": [
+        334.65,
+        506.833,
+        554.944,
+        516.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "痰乘虚下注，结于肾子，脉络不通，故肾子处酸胀隐痛，",
+      "bbox": [
+        52.33,
+        522.232,
+        297.83,
+        532.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "湿，化瘀止痛，使寒散湿除，气血运行通畅，而痛经",
+      "bbox": [
+        314.25,
+        522.422,
+        555.203,
+        532.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "附睾硬结，子系呈条索状肿硬；病属初起，仅在局部，故",
+      "bbox": [
+        52.77,
+        538.142,
+        298.77,
+        547.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "自止。",
+      "bbox": [
+        315.9,
+        537.962,
+        345.36,
+        547.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "多无全身症状；苔薄、脉滑为浊痰凝结之象。治法宜温",
+      "bbox": [
+        52.38,
+        553.002,
+        293.726,
+        562.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "44. C【解析】阴道，又称子肠。“阴道”一词最早",
+      "bbox": [
+        334.62,
+        553.043,
+        555.22,
+        562.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "经通络，化痰散结。方药阳和汤加减。",
+      "bbox": [
+        52.23,
+        568.702,
+        219.51,
+        578.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "就是中医学中的固有解剖名称，且解剖位置与西医学",
+      "bbox": [
+        314.17,
+        568.522,
+        555.182,
+        578.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "29. A【解析】脱疽主要由于脾气不健，肾阳不足，",
+      "bbox": [
+        73.23,
+        583.703,
+        294.69,
+        593.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "一致。",
+      "bbox": [
+        314.02,
+        584.182,
+        343.42,
+        593.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "又加上外受寒冻，寒湿之邪入侵而发病。它与湿热、情",
+      "bbox": [
+        52.26,
+        598.862,
+        293.586,
+        608.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "45. A【解析】居经又名季经，生理学名词，出《脉",
+      "bbox": [
+        334.62,
+        599.122,
+        555.565,
+        608.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "志无关，故首先排除BCE。",
+      "bbox": [
+        52.29,
+        615.052,
+        169.447,
+        624.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "经》卷九，指妇女月经每三个月一行而无症状者，亦属",
+      "bbox": [
+        314.0,
+        614.992,
+        554.814,
+        624.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "30. B【解析】老年有头疽患者多发，尤其是消渴",
+      "bbox": [
+        73.18,
+        630.212,
+        293.224,
+        640.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "正常生理现象，不需治疗。并月是指月经规律性两月",
+      "bbox": [
+        313.78,
+        630.402,
+        553.903,
+        640.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "病患者，易出现内陷之证。",
+      "bbox": [
+        52.13,
+        646.052,
+        170.09,
+        655.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "一至的特殊月经生理现象。暗经见《医宗金鉴·妇科",
+      "bbox": [
+        313.86,
+        645.742,
+        555.491,
+        655.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "31. A【解析】产褥期的生理特点：产后气血骤虚，",
+      "bbox": [
+        73.01,
+        661.232,
+        294.42,
+        671.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "心法要诀》，指妇女终身未见有月经来潮，但能正常孕",
+      "bbox": [
+        313.8,
+        661.382,
+        555.352,
+        671.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "因此新产后可有微热、多汗等阴虚阳浮的症状。产后",
+      "bbox": [
+        52.81,
+        676.282,
+        292.768,
+        686.122
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "育者。激经是指妇女受孕早期仍按月行经，既无不适",
+      "bbox": [
+        313.78,
+        676.632,
+        555.254,
+        686.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "数日内，子宫在复原过程中有阵缩，故小腹常有轻微阵",
+      "bbox": [
+        52.11,
+        691.672,
+        293.004,
+        701.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "症状，又无损于胎儿，俟胎儿渐长，其经自停，谓之“激",
+      "bbox": [
+        313.7,
+        691.982,
+        559.45,
+        701.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "痛。从子宫经阴道不断有余血浊液流出，称为“恶露”。",
+      "bbox": [
+        51.9,
+        707.052,
+        297.4,
+        716.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "经”，又称为“垢胎”“盛胎”等。古人虽言激经对胎孕无",
+      "bbox": [
+        313.82,
+        707.162,
+        568.88,
+        716.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "恶露先是暗红色的血液，以后血液逐渐由深变浅，其量",
+      "bbox": [
+        51.98,
+        722.502,
+        293.1,
+        732.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "妨，但亦有不少孕妇可转化为流产，故应给予积极治",
+      "bbox": [
+        313.83,
+        722.652,
+        555.245,
+        732.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "也由多变少，无臭味，一般3周内干净。顺产者，产后",
+      "bbox": [
+        51.99,
+        737.952,
+        292.834,
+        747.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "疗。避年是指在身体正常情况下，月经频率为每年",
+      "bbox": [
+        313.53,
+        737.862,
+        555.226,
+        747.652
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "30分钟即可开始哺乳。哺乳时间以8个月为宜。哺乳",
+      "bbox": [
+        51.87,
+        752.772,
+        292.978,
+        762.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "一次。",
+      "bbox": [
+        313.75,
+        753.282,
+        343.06,
+        763.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "期，气血上化为乳汁，一般无月经来潮，称为生理性",
+      "bbox": [
+        52.18,
+        768.212,
+        292.888,
+        778.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "46. C【解析】带下病的病因病机是湿邪伤及任带",
+      "bbox": [
+        334.16,
+        768.293,
+        555.362,
+        778.362
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "闭经。",
+      "bbox": [
+        52.59,
+        783.632,
+        82.05,
+        793.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "二脉，使任脉不固，带脉失约。",
+      "bbox": [
+        313.62,
+        783.542,
+        450.54,
+        793.322
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "—",
+      "bbox": [
+        274.08,
+        798.607,
+        284.43,
+        808.957
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "282—",
+      "bbox": [
+        294.23,
+        801.238,
+        331.76,
+        811.458
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

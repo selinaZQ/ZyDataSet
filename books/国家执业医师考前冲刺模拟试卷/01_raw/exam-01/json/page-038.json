@@ -1,0 +1,1368 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 38,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        222.0,
+        118.0,
+        631.0,
+        161.0
+      ],
+      "confidence": 0.999126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        675.0,
+        121.0,
+        917.0,
+        158.0
+      ],
+      "confidence": 0.999679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 甘露消毒丹",
+      "bbox": [
+        295.0,
+        226.0,
+        557.0,
+        275.0
+      ],
+      "confidence": 0.999373,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 31～40ml",
+      "bbox": [
+        1200.0,
+        225.0,
+        1426.0,
+        276.0
+      ],
+      "confidence": 0.942129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 茵陈五苓散",
+      "bbox": [
+        297.0,
+        285.0,
+        553.0,
+        328.0
+      ],
+      "confidence": 0.998014,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 41～50ml",
+      "bbox": [
+        1200.0,
+        281.0,
+        1428.0,
+        330.0
+      ],
+      "confidence": 0.9644,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "33. 下列作为调经的具体原则，错误的",
+      "bbox": [
+        296.0,
+        339.0,
+        1042.0,
+        384.0
+      ],
+      "confidence": 0.9982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 60～100ml",
+      "bbox": [
+        1202.0,
+        341.0,
+        1445.0,
+        383.0
+      ],
+      "confidence": 0.98847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "是()",
+      "bbox": [
+        212.0,
+        391.0,
+        391.0,
+        443.0
+      ],
+      "confidence": 0.787712,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "40. 月经先后不定期的主要发病机",
+      "bbox": [
+        1202.0,
+        395.0,
+        1947.0,
+        441.0
+      ],
+      "confidence": 0.997352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 扶脾",
+      "bbox": [
+        295.0,
+        446.0,
+        437.0,
+        498.0
+      ],
+      "confidence": 0.995492,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "制是（)",
+      "bbox": [
+        1122.0,
+        447.0,
+        1338.0,
+        498.0
+      ],
+      "confidence": 0.87954,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 调理气血",
+      "bbox": [
+        292.0,
+        499.0,
+        512.0,
+        553.0
+      ],
+      "confidence": 0.998993,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 肝郁气滞，疏泄失调",
+      "bbox": [
+        1205.0,
+        504.0,
+        1608.0,
+        551.0
+      ],
+      "confidence": 0.995709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 疏肝",
+      "bbox": [
+        292.0,
+        553.0,
+        435.0,
+        609.0
+      ],
+      "confidence": 0.99679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 肾气不足，封藏失职",
+      "bbox": [
+        1205.0,
+        560.0,
+        1602.0,
+        606.0
+      ],
+      "confidence": 0.991854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 清热凉血",
+      "bbox": [
+        292.0,
+        610.0,
+        515.0,
+        663.0
+      ],
+      "confidence": 0.974496,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 脾气虚弱，统摄无权",
+      "bbox": [
+        1205.0,
+        616.0,
+        1603.0,
+        662.0
+      ],
+      "confidence": 0.993043,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 补肾",
+      "bbox": [
+        292.0,
+        665.0,
+        432.0,
+        718.0
+      ],
+      "confidence": 0.998118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 湿热下注，任带不固",
+      "bbox": [
+        1206.0,
+        674.0,
+        1604.0,
+        715.0
+      ],
+      "confidence": 0.990275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "34. 妊娠8、9个月时，或腹中痛，痛定仍然",
+      "bbox": [
+        297.0,
+        727.0,
+        1039.0,
+        769.0
+      ],
+      "confidence": 0.986583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 气血失调，血海蓄溢失常",
+      "bbox": [
+        1205.0,
+        726.0,
+        1685.0,
+        771.0
+      ],
+      "confidence": 0.996077,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "如常者，称为（",
+      "bbox": [
+        216.0,
+        780.0,
+        469.0,
+        826.0
+      ],
+      "confidence": 0.967169,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "）",
+      "bbox": [
+        538.0,
+        781.0,
+        569.0,
+        821.0
+      ],
+      "confidence": 0.981093,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "41. 下列哪项不是带下病的病因（",
+      "bbox": [
+        1206.0,
+        785.0,
+        1787.0,
+        826.0
+      ],
+      "confidence": 0.992245,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "）",
+      "bbox": [
+        1860.0,
+        788.0,
+        1884.0,
+        822.0
+      ],
+      "confidence": 0.991986,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 试胎",
+      "bbox": [
+        295.0,
+        832.0,
+        439.0,
+        885.0
+      ],
+      "confidence": 0.996989,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 感受湿邪",
+      "bbox": [
+        1205.0,
+        836.0,
+        1426.0,
+        886.0
+      ],
+      "confidence": 0.998608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 弄胎",
+      "bbox": [
+        294.0,
+        887.0,
+        432.0,
+        939.0
+      ],
+      "confidence": 0.973665,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 脾虚湿注",
+      "bbox": [
+        1204.0,
+        893.0,
+        1419.0,
+        939.0
+      ],
+      "confidence": 0.998766,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 垢胎",
+      "bbox": [
+        294.0,
+        943.0,
+        434.0,
+        995.0
+      ],
+      "confidence": 0.998795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 肺阴亏虚",
+      "bbox": [
+        1203.0,
+        946.0,
+        1419.0,
+        996.0
+      ],
+      "confidence": 0.998531,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 盛胎",
+      "bbox": [
+        295.0,
+        1000.0,
+        434.0,
+        1049.0
+      ],
+      "confidence": 0.998357,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 湿热下注",
+      "bbox": [
+        1205.0,
+        1004.0,
+        1422.0,
+        1050.0
+      ],
+      "confidence": 0.998975,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 滑胎",
+      "bbox": [
+        295.0,
+        1055.0,
+        432.0,
+        1104.0
+      ],
+      "confidence": 0.999108,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 肾阳虚衰",
+      "bbox": [
+        1205.0,
+        1061.0,
+        1419.0,
+        1104.0
+      ],
+      "confidence": 0.998481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "35. 哺乳期最佳断乳时间是（",
+      "bbox": [
+        297.0,
+        1114.0,
+        800.0,
+        1159.0
+      ],
+      "confidence": 0.969952,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "）",
+      "bbox": [
+        875.0,
+        1117.0,
+        898.0,
+        1153.0
+      ],
+      "confidence": 0.642286,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "42. 异位妊娠已破损型的休克型需急诊",
+      "bbox": [
+        1203.0,
+        1115.0,
+        1946.0,
+        1165.0
+      ],
+      "confidence": 0.988655,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 6个月",
+      "bbox": [
+        297.0,
+        1167.0,
+        464.0,
+        1215.0
+      ],
+      "confidence": 0.995304,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "处理，下列哪项不属于其中的处理措",
+      "bbox": [
+        1122.0,
+        1170.0,
+        1945.0,
+        1220.0
+      ],
+      "confidence": 0.998538,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 8个月",
+      "bbox": [
+        294.0,
+        1221.0,
+        460.0,
+        1272.0
+      ],
+      "confidence": 0.99712,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "施（）",
+      "bbox": [
+        1118.0,
+        1222.0,
+        1306.0,
+        1273.0
+      ],
+      "confidence": 0.784362,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 9个月",
+      "bbox": [
+        296.0,
+        1277.0,
+        459.0,
+        1324.0
+      ],
+      "confidence": 0.996554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 患者平卧，立即检测生命体征",
+      "bbox": [
+        1203.0,
+        1280.0,
+        1774.0,
+        1328.0
+      ],
+      "confidence": 0.989699,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 10个月",
+      "bbox": [
+        295.0,
+        1334.0,
+        481.0,
+        1382.0
+      ],
+      "confidence": 0.998505,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 急查血常规、血型及交叉配血",
+      "bbox": [
+        1205.0,
+        1340.0,
+        1768.0,
+        1382.0
+      ],
+      "confidence": 0.998822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 12个月",
+      "bbox": [
+        295.0,
+        1390.0,
+        479.0,
+        1436.0
+      ],
+      "confidence": 0.999253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 立即吸氧，开通静脉通道",
+      "bbox": [
+        1203.0,
+        1391.0,
+        1687.0,
+        1439.0
+      ],
+      "confidence": 0.993157,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "36. 下列哪项不是直接导致冲任损伤的因",
+      "bbox": [
+        297.0,
+        1447.0,
+        1039.0,
+        1489.0
+      ],
+      "confidence": 0.998038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 有条件者同时服用参附汤回阳救逆",
+      "bbox": [
+        1203.0,
+        1449.0,
+        1874.0,
+        1493.0
+      ],
+      "confidence": 0.998336,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "素（",
+      "bbox": [
+        213.0,
+        1501.0,
+        298.0,
+        1552.0
+      ],
+      "confidence": 0.853722,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        345.0,
+        1505.0,
+        384.0,
+        1545.0
+      ],
+      "confidence": 0.990428,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 直接手术治疗",
+      "bbox": [
+        1202.0,
+        1502.0,
+        1503.0,
+        1549.0
+      ],
+      "confidence": 0.999218,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 邪毒感染",
+      "bbox": [
+        297.0,
+        1557.0,
+        516.0,
+        1603.0
+      ],
+      "confidence": 0.998321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "43. 治疗经间期出血血瘀证，应首",
+      "bbox": [
+        1201.0,
+        1558.0,
+        1947.0,
+        1605.0
+      ],
+      "confidence": 0.97041,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 郁怒悲伤",
+      "bbox": [
+        293.0,
+        1609.0,
+        513.0,
+        1662.0
+      ],
+      "confidence": 0.998695,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "选（",
+      "bbox": [
+        1117.0,
+        1609.0,
+        1196.0,
+        1662.0
+      ],
+      "confidence": 0.930836,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "）",
+      "bbox": [
+        1207.0,
+        1612.0,
+        1295.0,
+        1658.0
+      ],
+      "confidence": 0.875607,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 房劳多产",
+      "bbox": [
+        293.0,
+        1664.0,
+        514.0,
+        1718.0
+      ],
+      "confidence": 0.998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 清肝止淋汤",
+      "bbox": [
+        1204.0,
+        1668.0,
+        1463.0,
+        1714.0
+      ],
+      "confidence": 0.999228,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 跌扑闪挫",
+      "bbox": [
+        296.0,
+        1724.0,
+        514.0,
+        1770.0
+      ],
+      "confidence": 0.997766,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 左归丸",
+      "bbox": [
+        1201.0,
+        1723.0,
+        1377.0,
+        1769.0
+      ],
+      "confidence": 0.998594,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 寒湿之邪",
+      "bbox": [
+        297.0,
+        1780.0,
+        513.0,
+        1826.0
+      ],
+      "confidence": 0.999148,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 两地汤合二至丸",
+      "bbox": [
+        1204.0,
+        1780.0,
+        1540.0,
+        1821.0
+      ],
+      "confidence": 0.998139,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "37. 虚性闭经的发病机制是（",
+      "bbox": [
+        300.0,
+        1837.0,
+        800.0,
+        1879.0
+      ],
+      "confidence": 0.977971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "）",
+      "bbox": [
+        877.0,
+        1838.0,
+        900.0,
+        1875.0
+      ],
+      "confidence": 0.361238,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 逐瘀止血汤",
+      "bbox": [
+        1202.0,
+        1834.0,
+        1461.0,
+        1880.0
+      ],
+      "confidence": 0.997054,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 先天不足，精血亏损",
+      "bbox": [
+        300.0,
+        1891.0,
+        703.0,
+        1936.0
+      ],
+      "confidence": 0.994093,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 调肝汤",
+      "bbox": [
+        1201.0,
+        1888.0,
+        1378.0,
+        1935.0
+      ],
+      "confidence": 0.999617,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 冲任不足，血海空虚",
+      "bbox": [
+        297.0,
+        1947.0,
+        698.0,
+        1992.0
+      ],
+      "confidence": 0.989719,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "44. 滑胎气血虚弱证的主方是（",
+      "bbox": [
+        1206.0,
+        1948.0,
+        1743.0,
+        1986.0
+      ],
+      "confidence": 0.981082,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "）",
+      "bbox": [
+        1821.0,
+        1952.0,
+        1841.0,
+        1983.0
+      ],
+      "confidence": 0.658887,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 冲任气血失调",
+      "bbox": [
+        298.0,
+        2002.0,
+        597.0,
+        2048.0
+      ],
+      "confidence": 0.999107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 补肾固冲丸",
+      "bbox": [
+        1204.0,
+        1999.0,
+        1464.0,
+        2046.0
+      ],
+      "confidence": 0.998635,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 脾气虚弱，化源不足",
+      "bbox": [
+        298.0,
+        2058.0,
+        700.0,
+        2103.0
+      ],
+      "confidence": 0.996731,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 泰山磐石散",
+      "bbox": [
+        1202.0,
+        2055.0,
+        1457.0,
+        2102.0
+      ],
+      "confidence": 0.998511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 脏腑功能虚衰",
+      "bbox": [
+        298.0,
+        2114.0,
+        598.0,
+        2159.0
+      ],
+      "confidence": 0.998041,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 肾气丸",
+      "bbox": [
+        1200.0,
+        2106.0,
+        1379.0,
+        2160.0
+      ],
+      "confidence": 0.998481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "38. 寿胎丸治疗胎动不安的适应证候",
+      "bbox": [
+        300.0,
+        2169.0,
+        1042.0,
+        2217.0
+      ],
+      "confidence": 0.999118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 育阴汤",
+      "bbox": [
+        1198.0,
+        2162.0,
+        1380.0,
+        2216.0
+      ],
+      "confidence": 0.998597,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "是（",
+      "bbox": [
+        217.0,
+        2223.0,
+        294.0,
+        2275.0
+      ],
+      "confidence": 0.822308,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 桂枝茯苓丸",
+      "bbox": [
+        1204.0,
+        2223.0,
+        1457.0,
+        2266.0
+      ],
+      "confidence": 0.996199,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 肾虚证",
+      "bbox": [
+        300.0,
+        2278.0,
+        480.0,
+        2326.0
+      ],
+      "confidence": 0.998559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "45. 痛经之所以随月经周期而发作，与下",
+      "bbox": [
+        1202.0,
+        2277.0,
+        1944.0,
+        2326.0
+      ],
+      "confidence": 0.993739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 血热证",
+      "bbox": [
+        298.0,
+        2334.0,
+        476.0,
+        2382.0
+      ],
+      "confidence": 0.999596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "列哪项有关（)",
+      "bbox": [
+        1118.0,
+        2327.0,
+        1459.0,
+        2383.0
+      ],
+      "confidence": 0.867006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 脾虚证",
+      "bbox": [
+        298.0,
+        2388.0,
+        479.0,
+        2439.0
+      ],
+      "confidence": 0.985926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 寒凝胞中",
+      "bbox": [
+        1204.0,
+        2389.0,
+        1420.0,
+        2435.0
+      ],
+      "confidence": 0.999339,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 血瘀证",
+      "bbox": [
+        298.0,
+        2445.0,
+        480.0,
+        2493.0
+      ],
+      "confidence": 0.909478,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 经期胞中血虚邪盛",
+      "bbox": [
+        1204.0,
+        2448.0,
+        1578.0,
+        2489.0
+      ],
+      "confidence": 0.999063,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 气血虚弱证",
+      "bbox": [
+        297.0,
+        2499.0,
+        559.0,
+        2549.0
+      ],
+      "confidence": 0.998598,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "C. 经期冲任气血变化急骤",
+      "bbox": [
+        1205.0,
+        2500.0,
+        1659.0,
+        2548.0
+      ],
+      "confidence": 0.997396,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "39. 婴儿（<1岁）服用的中药煎出量",
+      "bbox": [
+        300.0,
+        2556.0,
+        1043.0,
+        2607.0
+      ],
+      "confidence": 0.973888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "D. 冲任血虚、胞宫失养",
+      "bbox": [
+        1202.0,
+        2555.0,
+        1601.0,
+        2604.0
+      ],
+      "confidence": 0.993405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "是（",
+      "bbox": [
+        214.0,
+        2612.0,
+        298.0,
+        2663.0
+      ],
+      "confidence": 0.907183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "E. 湿热蕴结胞中",
+      "bbox": [
+        1203.0,
+        2613.0,
+        1496.0,
+        2659.0
+      ],
+      "confidence": 0.998021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "A. 10～20ml",
+      "bbox": [
+        302.0,
+        2671.0,
+        531.0,
+        2713.0
+      ],
+      "confidence": 0.966828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "46. 下列不属于宫内节育器禁忌证的",
+      "bbox": [
+        1205.0,
+        2672.0,
+        1942.0,
+        2714.0
+      ],
+      "confidence": 0.994852,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "B. 21～30ml",
+      "bbox": [
+        300.0,
+        2725.0,
+        525.0,
+        2768.0
+      ],
+      "confidence": 0.963992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "是（",
+      "bbox": [
+        1121.0,
+        2724.0,
+        1195.0,
+        2773.0
+      ],
+      "confidence": 0.884656,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "）",
+      "bbox": [
+        1251.0,
+        2725.0,
+        1292.0,
+        2771.0
+      ],
+      "confidence": 0.983502,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "38",
+      "bbox": [
+        1059.0,
+        2796.0,
+        1106.0,
+        2833.0
+      ],
+      "confidence": 0.999817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "—",
+      "bbox": [
+        1134.0,
+        2802.0,
+        1172.0,
+        2827.0
+      ],
+      "confidence": 0.966456,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

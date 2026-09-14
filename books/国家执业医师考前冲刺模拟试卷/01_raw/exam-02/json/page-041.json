@@ -1,0 +1,1316 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 41,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1402.0,
+        111.0,
+        1776.0,
+        144.0
+      ],
+      "confidence": 0.971896,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 经行吐衄",
+      "bbox": [
+        277.0,
+        212.0,
+        492.0,
+        267.0
+      ],
+      "confidence": 0.968602,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "或有遗尿、腰酸乏力",
+      "bbox": [
+        1059.0,
+        217.0,
+        1378.0,
+        255.0
+      ],
+      "confidence": 0.954249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 滑胎",
+      "bbox": [
+        276.0,
+        268.0,
+        417.0,
+        324.0
+      ],
+      "confidence": 0.998501,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 神思涣散，活动过多，动作笨抽",
+      "bbox": [
+        1133.0,
+        274.0,
+        1670.0,
+        312.0
+      ],
+      "confidence": 0.956092,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 经期延长",
+      "bbox": [
+        280.0,
+        331.0,
+        488.0,
+        379.0
+      ],
+      "confidence": 0.999509,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "59. 小儿夏季热的临床特征除长期发热",
+      "bbox": [
+        1132.0,
+        329.0,
+        1819.0,
+        372.0
+      ],
+      "confidence": 0.98607,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "53. 下述哪项为带下病（）",
+      "bbox": [
+        280.0,
+        387.0,
+        775.0,
+        436.0
+      ],
+      "confidence": 0.943177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "外，还见（）",
+      "bbox": [
+        1054.0,
+        384.0,
+        1314.0,
+        433.0
+      ],
+      "confidence": 0.793139,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 女子在发育成熟期白带增多",
+      "bbox": [
+        281.0,
+        446.0,
+        799.0,
+        492.0
+      ],
+      "confidence": 0.997916,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 口渴多饮、多尿、汗闭",
+      "bbox": [
+        1134.0,
+        446.0,
+        1524.0,
+        484.0
+      ],
+      "confidence": 0.990705,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 女子带下量多，质黏稠，有秽臭味",
+      "bbox": [
+        280.0,
+        503.0,
+        870.0,
+        552.0
+      ],
+      "confidence": 0.968697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 口渴多饮、多尿、多汗",
+      "bbox": [
+        1130.0,
+        498.0,
+        1523.0,
+        542.0
+      ],
+      "confidence": 0.988959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 妊娠初期白带量多",
+      "bbox": [
+        280.0,
+        560.0,
+        640.0,
+        609.0
+      ],
+      "confidence": 0.997548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 口渴多饮、少尿、多汗",
+      "bbox": [
+        1130.0,
+        554.0,
+        1524.0,
+        599.0
+      ],
+      "confidence": 0.989746,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 月经前期白带量多",
+      "bbox": [
+        281.0,
+        619.0,
+        640.0,
+        664.0
+      ],
+      "confidence": 0.997096,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 口不渴、多尿、多汗",
+      "bbox": [
+        1129.0,
+        608.0,
+        1489.0,
+        657.0
+      ],
+      "confidence": 0.990595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 口不渴、少尿、汗闭",
+      "bbox": [
+        1130.0,
+        666.0,
+        1487.0,
+        712.0
+      ],
+      "confidence": 0.995054,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 月经后期白带量多",
+      "bbox": [
+        281.0,
+        676.0,
+        638.0,
+        721.0
+      ],
+      "confidence": 0.99742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "60. 病毒性心肌炎的发病内因是（",
+      "bbox": [
+        1132.0,
+        724.0,
+        1677.0,
+        769.0
+      ],
+      "confidence": 0.972461,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "54. 产后小便淋痛之肾阴亏虚证的主治方",
+      "bbox": [
+        283.0,
+        735.0,
+        977.0,
+        779.0
+      ],
+      "confidence": 0.997342,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "）",
+      "bbox": [
+        1743.0,
+        736.0,
+        1763.0,
+        765.0
+      ],
+      "confidence": 0.986191,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 痰瘀内阻",
+      "bbox": [
+        1130.0,
+        779.0,
+        1340.0,
+        826.0
+      ],
+      "confidence": 0.981582,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "剂是（）",
+      "bbox": [
+        202.0,
+        787.0,
+        410.0,
+        846.0
+      ],
+      "confidence": 0.848875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 饮食内滞",
+      "bbox": [
+        1129.0,
+        836.0,
+        1334.0,
+        883.0
+      ],
+      "confidence": 0.997786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 加味五淋散",
+      "bbox": [
+        280.0,
+        848.0,
+        528.0,
+        897.0
+      ],
+      "confidence": 0.998107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 外感风温邪毒",
+      "bbox": [
+        1130.0,
+        892.0,
+        1411.0,
+        938.0
+      ],
+      "confidence": 0.998789,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 沉香散",
+      "bbox": [
+        277.0,
+        904.0,
+        447.0,
+        955.0
+      ],
+      "confidence": 0.99906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 湿热邪毒侵袭",
+      "bbox": [
+        1130.0,
+        949.0,
+        1413.0,
+        995.0
+      ],
+      "confidence": 0.99807,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 补中益气汤",
+      "bbox": [
+        279.0,
+        964.0,
+        523.0,
+        1014.0
+      ],
+      "confidence": 0.997795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 小儿素体正虚",
+      "bbox": [
+        1130.0,
+        1005.0,
+        1412.0,
+        1051.0
+      ],
+      "confidence": 0.999199,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 知柏地黄汤",
+      "bbox": [
+        279.0,
+        1021.0,
+        525.0,
+        1071.0
+      ],
+      "confidence": 0.998155,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "61. 风热咳嗽证的主治方剂是（",
+      "bbox": [
+        1132.0,
+        1062.0,
+        1640.0,
+        1106.0
+      ],
+      "confidence": 0.977931,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 以上均非",
+      "bbox": [
+        280.0,
+        1079.0,
+        484.0,
+        1127.0
+      ],
+      "confidence": 0.999097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "）",
+      "bbox": [
+        1710.0,
+        1072.0,
+        1727.0,
+        1098.0
+      ],
+      "confidence": 0.782344,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 银翘散",
+      "bbox": [
+        1130.0,
+        1116.0,
+        1303.0,
+        1167.0
+      ],
+      "confidence": 0.997778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "55. 月经后期常见证候不包括（",
+      "bbox": [
+        281.0,
+        1135.0,
+        792.0,
+        1186.0
+      ],
+      "confidence": 0.978804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "）",
+      "bbox": [
+        865.0,
+        1142.0,
+        884.0,
+        1177.0
+      ],
+      "confidence": 0.861197,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 桑菊饮",
+      "bbox": [
+        1130.0,
+        1174.0,
+        1296.0,
+        1222.0
+      ],
+      "confidence": 0.990278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 血寒证",
+      "bbox": [
+        280.0,
+        1193.0,
+        451.0,
+        1244.0
+      ],
+      "confidence": 0.999308,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 小青龙汤",
+      "bbox": [
+        1130.0,
+        1232.0,
+        1334.0,
+        1278.0
+      ],
+      "confidence": 0.998065,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 肾虚证",
+      "bbox": [
+        280.0,
+        1254.0,
+        446.0,
+        1301.0
+      ],
+      "confidence": 0.999041,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 麻黄汤",
+      "bbox": [
+        1130.0,
+        1288.0,
+        1299.0,
+        1335.0
+      ],
+      "confidence": 0.998284,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 气滞证",
+      "bbox": [
+        279.0,
+        1310.0,
+        447.0,
+        1361.0
+      ],
+      "confidence": 0.997619,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 止嗽散",
+      "bbox": [
+        1128.0,
+        1343.0,
+        1299.0,
+        1394.0
+      ],
+      "confidence": 0.997544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 血瘀证",
+      "bbox": [
+        280.0,
+        1369.0,
+        447.0,
+        1417.0
+      ],
+      "confidence": 0.97434,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "62. 麻疹的主要病变脏腑是（",
+      "bbox": [
+        1132.0,
+        1401.0,
+        1602.0,
+        1445.0
+      ],
+      "confidence": 0.986461,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "）",
+      "bbox": [
+        1671.0,
+        1410.0,
+        1691.0,
+        1436.0
+      ],
+      "confidence": 0.985266,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 痰湿证",
+      "bbox": [
+        279.0,
+        1428.0,
+        446.0,
+        1475.0
+      ],
+      "confidence": 0.998558,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 肺、肾",
+      "bbox": [
+        1130.0,
+        1456.0,
+        1282.0,
+        1505.0
+      ],
+      "confidence": 0.998085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "56. 下列各项，属于新生儿病态的是",
+      "bbox": [
+        283.0,
+        1489.0,
+        979.0,
+        1530.0
+      ],
+      "confidence": 0.9968,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 心、肝",
+      "bbox": [
+        1129.0,
+        1513.0,
+        1278.0,
+        1562.0
+      ],
+      "confidence": 0.994215,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "（",
+      "bbox": [
+        208.0,
+        1552.0,
+        234.0,
+        1587.0
+      ],
+      "confidence": 0.592684,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "）",
+      "bbox": [
+        283.0,
+        1545.0,
+        334.0,
+        1594.0
+      ],
+      "confidence": 0.981289,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 心、肺",
+      "bbox": [
+        1129.0,
+        1570.0,
+        1278.0,
+        1618.0
+      ],
+      "confidence": 0.998344,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 马牙",
+      "bbox": [
+        279.0,
+        1600.0,
+        414.0,
+        1652.0
+      ],
+      "confidence": 0.998264,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 肺、脾",
+      "bbox": [
+        1129.0,
+        1626.0,
+        1279.0,
+        1675.0
+      ],
+      "confidence": 0.996698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 胎怯",
+      "bbox": [
+        279.0,
+        1658.0,
+        408.0,
+        1707.0
+      ],
+      "confidence": 0.994586,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 心、脾",
+      "bbox": [
+        1129.0,
+        1684.0,
+        1278.0,
+        1731.0
+      ],
+      "confidence": 0.991979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 螳螂子",
+      "bbox": [
+        279.0,
+        1715.0,
+        446.0,
+        1767.0
+      ],
+      "confidence": 0.995187,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "63. 口疳的病位主要涉及（",
+      "bbox": [
+        1133.0,
+        1742.0,
+        1564.0,
+        1784.0
+      ],
+      "confidence": 0.965024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "）",
+      "bbox": [
+        1629.0,
+        1745.0,
+        1654.0,
+        1776.0
+      ],
+      "confidence": 0.968352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 女婴生后3～5天乳房隆起如蚕豆到鸽",
+      "bbox": [
+        280.0,
+        1775.0,
+        978.0,
+        1820.0
+      ],
+      "confidence": 0.993011,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 脾、肾",
+      "bbox": [
+        1132.0,
+        1796.0,
+        1283.0,
+        1843.0
+      ],
+      "confidence": 0.996748,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "蛋大小，2～3周消退",
+      "bbox": [
+        207.0,
+        1832.0,
+        546.0,
+        1880.0
+      ],
+      "confidence": 0.950277,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 心、肝",
+      "bbox": [
+        1129.0,
+        1852.0,
+        1279.0,
+        1901.0
+      ],
+      "confidence": 0.996183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "E. 女婴生后5～7天阴道有少量流血，",
+      "bbox": [
+        281.0,
+        1895.0,
+        976.0,
+        1936.0
+      ],
+      "confidence": 0.988237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 心、脾",
+      "bbox": [
+        1130.0,
+        1909.0,
+        1278.0,
+        1957.0
+      ],
+      "confidence": 0.990894,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "1～3天自止",
+      "bbox": [
+        204.0,
+        1947.0,
+        403.0,
+        1997.0
+      ],
+      "confidence": 0.938652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 肝、脾",
+      "bbox": [
+        1128.0,
+        1963.0,
+        1282.0,
+        2015.0
+      ],
+      "confidence": 0.996608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "57. 手足口病常见于几岁儿童（",
+      "bbox": [
+        283.0,
+        2008.0,
+        794.0,
+        2052.0
+      ],
+      "confidence": 0.982279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "）",
+      "bbox": [
+        864.0,
+        2013.0,
+        884.0,
+        2043.0
+      ],
+      "confidence": 0.616427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 脾、胃",
+      "bbox": [
+        1129.0,
+        2021.0,
+        1278.0,
+        2070.0
+      ],
+      "confidence": 0.994324,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "A. 1岁",
+      "bbox": [
+        278.0,
+        2063.0,
+        404.0,
+        2115.0
+      ],
+      "confidence": 0.997601,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "64. 乳婴儿药剂用量是成人量的（",
+      "bbox": [
+        1130.0,
+        2076.0,
+        1676.0,
+        2125.0
+      ],
+      "confidence": 0.991229,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "）",
+      "bbox": [
+        1744.0,
+        2082.0,
+        1763.0,
+        2111.0
+      ],
+      "confidence": 0.466933,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 4岁以下",
+      "bbox": [
+        279.0,
+        2124.0,
+        473.0,
+        2171.0
+      ],
+      "confidence": 0.997938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 1/6",
+      "bbox": [
+        1129.0,
+        2133.0,
+        1247.0,
+        2183.0
+      ],
+      "confidence": 0.999078,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 3岁以下",
+      "bbox": [
+        280.0,
+        2182.0,
+        475.0,
+        2228.0
+      ],
+      "confidence": 0.996749,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 1/3",
+      "bbox": [
+        1126.0,
+        2187.0,
+        1242.0,
+        2240.0
+      ],
+      "confidence": 0.99739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 10岁以上",
+      "bbox": [
+        279.0,
+        2239.0,
+        495.0,
+        2286.0
+      ],
+      "confidence": 0.997693,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 1/2",
+      "bbox": [
+        1129.0,
+        2247.0,
+        1243.0,
+        2295.0
+      ],
+      "confidence": 0.996103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 16岁以下",
+      "bbox": [
+        279.0,
+        2297.0,
+        495.0,
+        2343.0
+      ],
+      "confidence": 0.999084,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 2/3",
+      "bbox": [
+        1129.0,
+        2301.0,
+        1245.0,
+        2351.0
+      ],
+      "confidence": 0.995777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "58. 儿童注意力缺陷多动障碍，其病在肝",
+      "bbox": [
+        281.0,
+        2354.0,
+        979.0,
+        2399.0
+      ],
+      "confidence": 0.994516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 以上均非",
+      "bbox": [
+        1129.0,
+        2357.0,
+        1334.0,
+        2408.0
+      ],
+      "confidence": 0.999098,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "者，临床证候是（）",
+      "bbox": [
+        206.0,
+        2410.0,
+        581.0,
+        2460.0
+      ],
+      "confidence": 0.914028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "65. 胎怯的病变脏腑主要在（",
+      "bbox": [
+        1132.0,
+        2412.0,
+        1596.0,
+        2461.0
+      ],
+      "confidence": 0.980863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 兴趣多变，做事有头无尾，记忆力差",
+      "bbox": [
+        283.0,
+        2469.0,
+        914.0,
+        2515.0
+      ],
+      "confidence": 0.986609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 脾、肾",
+      "bbox": [
+        1132.0,
+        2471.0,
+        1282.0,
+        2520.0
+      ],
+      "confidence": 0.995995,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 易于冲动，好动难静，容易发怒，常不能",
+      "bbox": [
+        281.0,
+        2527.0,
+        978.0,
+        2572.0
+      ],
+      "confidence": 0.991992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "B. 肺、脾",
+      "bbox": [
+        1130.0,
+        2528.0,
+        1278.0,
+        2577.0
+      ],
+      "confidence": 0.995572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "自控",
+      "bbox": [
+        203.0,
+        2584.0,
+        290.0,
+        2636.0
+      ],
+      "confidence": 0.999706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "C. 肝、肾",
+      "bbox": [
+        1132.0,
+        2584.0,
+        1278.0,
+        2633.0
+      ],
+      "confidence": 0.996227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "C. 注意力不集中，情绪不稳定，多梦烦躁",
+      "bbox": [
+        281.0,
+        2644.0,
+        948.0,
+        2688.0
+      ],
+      "confidence": 0.990942,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "D. 肺、心",
+      "bbox": [
+        1130.0,
+        2640.0,
+        1279.0,
+        2689.0
+      ],
+      "confidence": 0.99754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "D. 脑失精明，学习成绩低下，记忆力欠佳，",
+      "bbox": [
+        281.0,
+        2701.0,
+        977.0,
+        2746.0
+      ],
+      "confidence": 0.992896,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "E. 心、脾",
+      "bbox": [
+        1129.0,
+        2696.0,
+        1278.0,
+        2744.0
+      ],
+      "confidence": 0.995291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "- 87",
+      "bbox": [
+        927.0,
+        2763.0,
+        1049.0,
+        2812.0
+      ],
+      "confidence": 0.90408,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "一",
+      "bbox": [
+        1050.0,
+        2772.0,
+        1107.0,
+        2805.0
+      ],
+      "confidence": 0.611598,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

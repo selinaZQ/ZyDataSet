@@ -1,0 +1,1220 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 38,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        62.9,
+        58.257,
+        261.69,
+        69.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B,坐骨直肠间隙脓肿",
+      "bbox": [
+        84.55,
+        89.277,
+        193.06,
+        100.917
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 少量饮酒",
+      "bbox": [
+        346.5,
+        89.217,
+        406.932,
+        101.746
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 骨盆直肠间隙脓肿",
+      "bbox": [
+        84.78,
+        105.667,
+        191.713,
+        118.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 输入加温葡萄糖液",
+      "bbox": [
+        346.55,
+        104.157,
+        457.321,
+        116.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 直肠后间隙脓肿",
+      "bbox": [
+        84.66,
+        121.687,
+        180.2,
+        133.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 用雪搓、火烤",
+      "bbox": [
+        346.75,
+        119.717,
+        426.86,
+        132.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 马蹄形脓肿",
+      "bbox": [
+        84.89,
+        136.637,
+        156.052,
+        149.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 将冻肢置于救护者怀中",
+      "bbox": [
+        347.04,
+        136.137,
+        481.172,
+        148.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "16. 脱肛外治法的治疗原则是（）",
+      "bbox": [
+        85.78,
+        152.047,
+        269.13,
+        163.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "23. 浸淫四窜，黄水淋漓，最易沿表皮蚀",
+      "bbox": [
+        346.69,
+        151.497,
+        566.378,
+        162.837
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 熏洗、外敷",
+      "bbox": [
+        84.86,
+        168.158,
+        152.474,
+        181.035
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "烂，越腐越痒者，其病因是（）",
+      "bbox": [
+        322.53,
+        167.907,
+        493.26,
+        179.457
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 涂药、烙法",
+      "bbox": [
+        84.69,
+        184.298,
+        151.2,
+        197.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 风胜",
+      "bbox": [
+        346.89,
+        183.577,
+        384.864,
+        196.009
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 收敛、固涩",
+      "bbox": [
+        84.43,
+        200.388,
+        151.44,
+        213.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 湿胜",
+      "bbox": [
+        346.83,
+        199.607,
+        383.435,
+        212.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 熨法、热烘",
+      "bbox": [
+        84.23,
+        216.207,
+        151.855,
+        229.098
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 热胜",
+      "bbox": [
+        346.82,
+        215.227,
+        383.755,
+        227.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 针灸、垫棉",
+      "bbox": [
+        84.62,
+        232.317,
+        151.035,
+        245.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 虫淫",
+      "bbox": [
+        346.92,
+        231.217,
+        383.615,
+        243.576
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "17. 红丝疔的好发部位是（）",
+      "bbox": [
+        85.61,
+        248.387,
+        246.17,
+        261.256
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 血虚",
+      "bbox": [
+        347.04,
+        247.207,
+        383.547,
+        259.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 面部",
+      "bbox": [
+        84.6,
+        264.678,
+        122.778,
+        276.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "24. 疼痛轻微，或隐隐作痛，皮色不变，压",
+      "bbox": [
+        346.71,
+        262.707,
+        569.79,
+        275.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 胸腹部",
+      "bbox": [
+        84.58,
+        280.748,
+        132.787,
+        293.176
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "之酸痛，其疼痛的原因是（）",
+      "bbox": [
+        322.73,
+        279.197,
+        486.7,
+        290.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 四肢后侧",
+      "bbox": [
+        84.6,
+        296.687,
+        144.626,
+        308.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 气痛",
+      "bbox": [
+        346.96,
+        295.877,
+        384.152,
+        308.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 四肢内侧",
+      "bbox": [
+        84.43,
+        312.697,
+        145.626,
+        325.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 湿痛",
+      "bbox": [
+        346.95,
+        311.147,
+        382.796,
+        323.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 四肢外侧",
+      "bbox": [
+        84.55,
+        328.747,
+        145.025,
+        341.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 痰痛",
+      "bbox": [
+        346.87,
+        327.187,
+        382.641,
+        339.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "18. 下列各项，不属淋病特点的是（）",
+      "bbox": [
+        85.6,
+        344.307,
+        287.48,
+        355.597
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 风痛",
+      "bbox": [
+        346.73,
+        343.217,
+        383.155,
+        355.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 尿频尿急",
+      "bbox": [
+        84.78,
+        360.717,
+        147.496,
+        373.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 寒痛",
+      "bbox": [
+        347.05,
+        359.327,
+        382.576,
+        372.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 尿道刺痛",
+      "bbox": [
+        84.79,
+        375.677,
+        145.203,
+        388.186
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "25. 凡发生于颈部或耳之前后的一类岩",
+      "bbox": [
+        346.75,
+        373.767,
+        565.943,
+        385.447
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 尿道溢脓",
+      "bbox": [
+        84.97,
+        392.148,
+        145.912,
+        404.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "证，面容憔悴，形体消瘦者，称之为（）",
+      "bbox": [
+        322.46,
+        389.807,
+        536.31,
+        401.427
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 排尿困难",
+      "bbox": [
+        84.61,
+        407.768,
+        146.506,
+        420.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 石瘿",
+      "bbox": [
+        346.9,
+        406.327,
+        384.757,
+        418.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 腹股沟淋巴结肿大",
+      "bbox": [
+        84.91,
+        423.657,
+        194.468,
+        436.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 失荣",
+      "bbox": [
+        347.05,
+        422.247,
+        383.113,
+        434.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "19. 创面边缘整齐，坚硬削直而如凿成，基",
+      "bbox": [
+        85.8,
+        439.208,
+        302.88,
+        450.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 石疽",
+      "bbox": [
+        346.98,
+        438.177,
+        383.865,
+        450.635
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "底部高低不平，有稀薄臭秽分泌物，其溃疡属",
+      "bbox": [
+        60.25,
+        454.197,
+        299.995,
+        465.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 筋瘤",
+      "bbox": [
+        346.74,
+        454.187,
+        383.499,
+        466.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "于（）",
+      "bbox": [
+        60.41,
+        472.467,
+        107.536,
+        483.777
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 血瘤",
+      "bbox": [
+        346.89,
+        470.147,
+        383.08,
+        482.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 麻风性溃疡",
+      "bbox": [
+        84.94,
+        487.647,
+        158.985,
+        500.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "26. 下列各项，不属于子痰溃后症状的",
+      "bbox": [
+        346.8,
+        484.657,
+        564.523,
+        495.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 压迫性溃疡",
+      "bbox": [
+        84.57,
+        503.678,
+        157.331,
+        516.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "是（）",
+      "bbox": [
+        322.81,
+        502.237,
+        369.053,
+        513.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 疮痨性溃疡",
+      "bbox": [
+        84.77,
+        519.257,
+        157.254,
+        530.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 脓液清稀如痰涎",
+      "bbox": [
+        346.87,
+        517.137,
+        446.221,
+        529.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 梅毒性溃疡",
+      "bbox": [
+        84.38,
+        535.638,
+        157.765,
+        548.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 脓液中夹有败絮状物",
+      "bbox": [
+        346.91,
+        533.177,
+        468.751,
+        545.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 岩性溃疡",
+      "bbox": [
+        84.58,
+        551.648,
+        145.152,
+        563.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 疮口凹陷",
+      "bbox": [
+        346.9,
+        549.177,
+        407.003,
+        561.616
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "20. 好发于儿童的癣是（）",
+      "bbox": [
+        84.56,
+        567.297,
+        233.44,
+        578.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 容易形成窦道",
+      "bbox": [
+        346.92,
+        565.187,
+        432.831,
+        577.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 白癣、手癣",
+      "bbox": [
+        84.43,
+        583.158,
+        152.545,
+        596.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 疮口容易愈合",
+      "bbox": [
+        347.03,
+        582.137,
+        432.827,
+        594.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 黄癣、白癣",
+      "bbox": [
+        84.65,
+        599.307,
+        150.91,
+        612.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "27. 烧伤面积的计算按中国九分法，双上",
+      "bbox": [
+        346.92,
+        597.477,
+        566.86,
+        609.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 体癣、花斑癣",
+      "bbox": [
+        84.7,
+        615.068,
+        162.791,
+        627.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "肢面积占（）",
+      "bbox": [
+        322.55,
+        613.867,
+        405.863,
+        625.157
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 脚癣、花斑癣",
+      "bbox": [
+        84.74,
+        632.038,
+        163.869,
+        644.944
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 9%",
+      "bbox": [
+        347.07,
+        631.343,
+        372.932,
+        642.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 黄癣、体癣",
+      "bbox": [
+        84.66,
+        648.097,
+        151.04,
+        660.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 18%",
+      "bbox": [
+        346.9,
+        648.5,
+        377.755,
+        659.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "21. 下列哪项不是疥疮的临床特点（）",
+      "bbox": [
+        84.64,
+        663.158,
+        293.146,
+        674.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 27%",
+      "bbox": [
+        346.94,
+        664.47,
+        377.795,
+        675.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 好发于皮肤皱褶部位",
+      "bbox": [
+        84.83,
+        679.337,
+        206.187,
+        692.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 36%",
+      "bbox": [
+        346.79,
+        681.329,
+        378.262,
+        692.549
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 皮损初起为针头大小的丘疹或水疱",
+      "bbox": [
+        84.87,
+        694.907,
+        276.516,
+        706.177
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 45%",
+      "bbox": [
+        347.19,
+        697.682,
+        377.471,
+        708.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 幼儿可见于面部及头部",
+      "bbox": [
+        84.86,
+        710.767,
+        216.471,
+        722.037
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "28. 一期梅毒的主要症状，多于不洁性交",
+      "bbox": [
+        347.04,
+        710.317,
+        565.152,
+        721.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 全身遍布抓痕、结痂、黑色斑点和脓疱",
+      "bbox": [
+        84.96,
+        726.847,
+        289.372,
+        739.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "后出现，其时间是（）",
+      "bbox": [
+        322.7,
+        726.607,
+        449.47,
+        737.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 轻度瘙痒",
+      "bbox": [
+        85.24,
+        743.148,
+        145.251,
+        755.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 1 ～2周左右",
+      "bbox": [
+        347.1,
+        743.118,
+        425.688,
+        755.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "22. 下列关于严重冻疮复温措施中，错误",
+      "bbox": [
+        85.2,
+        758.717,
+        300.52,
+        770.407
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "B. 第1周",
+      "bbox": [
+        347.12,
+        759.077,
+        395.92,
+        771.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "的是（）",
+      "bbox": [
+        62.97,
+        775.037,
+        119.64,
+        786.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "C. 2～4周左右",
+      "bbox": [
+        347.28,
+        776.117,
+        423.689,
+        788.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 口服姜汤",
+      "bbox": [
+        85.69,
+        790.947,
+        146.273,
+        803.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "D. 4～5周左右",
+      "bbox": [
+        347.02,
+        791.897,
+        424.094,
+        803.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "—",
+      "bbox": [
+        281.15,
+        812.231,
+        290.03,
+        821.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "132—",
+      "bbox": [
+        300.98,
+        812.34,
+        338.13,
+        821.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

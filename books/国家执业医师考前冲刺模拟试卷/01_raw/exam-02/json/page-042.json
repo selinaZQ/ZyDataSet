@@ -1,0 +1,1134 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 42,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        124.0,
+        39.0,
+        858.0,
+        87.0
+      ],
+      "confidence": 0.99736,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "66. 佝偻病激期的服药应是（",
+      "bbox": [
+        207.0,
+        158.0,
+        735.0,
+        204.0
+      ],
+      "confidence": 0.925876,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "71. 治疗风痧邪犯肺卫证，应首选（",
+      "bbox": [
+        1156.0,
+        150.0,
+        1797.0,
+        199.0
+      ],
+      "confidence": 0.984587,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 桑菊饮",
+      "bbox": [
+        1156.0,
+        208.0,
+        1349.0,
+        261.0
+      ],
+      "confidence": 0.987272,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 日服维生素D10000～20000U",
+      "bbox": [
+        210.0,
+        219.0,
+        819.0,
+        261.0
+      ],
+      "confidence": 0.977257,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 银翘散",
+      "bbox": [
+        1151.0,
+        264.0,
+        1344.0,
+        323.0
+      ],
+      "confidence": 0.997849,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 日服维生素D5000～10000U",
+      "bbox": [
+        207.0,
+        278.0,
+        791.0,
+        322.0
+      ],
+      "confidence": 0.988548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 透疹凉解汤",
+      "bbox": [
+        1153.0,
+        325.0,
+        1429.0,
+        380.0
+      ],
+      "confidence": 0.997296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 日服维生素D500U",
+      "bbox": [
+        206.0,
+        336.0,
+        620.0,
+        385.0
+      ],
+      "confidence": 0.997818,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 清胃解毒汤",
+      "bbox": [
+        1152.0,
+        382.0,
+        1432.0,
+        439.0
+      ],
+      "confidence": 0.998924,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 日服维生素D400U",
+      "bbox": [
+        206.0,
+        397.0,
+        621.0,
+        445.0
+      ],
+      "confidence": 0.999239,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 普济消毒饮",
+      "bbox": [
+        1155.0,
+        445.0,
+        1429.0,
+        496.0
+      ],
+      "confidence": 0.998417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 日服维生素D100U",
+      "bbox": [
+        206.0,
+        456.0,
+        619.0,
+        506.0
+      ],
+      "confidence": 0.996352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "72. 除外哪一项均为小儿咳嗽的主要",
+      "bbox": [
+        1153.0,
+        503.0,
+        1938.0,
+        558.0
+      ],
+      "confidence": 0.993158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "67. 治疗皮肤黏膜淋巴结综合征卫气同病",
+      "bbox": [
+        206.0,
+        513.0,
+        986.0,
+        568.0
+      ],
+      "confidence": 0.993406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "病因（）",
+      "bbox": [
+        1067.0,
+        563.0,
+        1299.0,
+        619.0
+      ],
+      "confidence": 0.829514,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "证应（）",
+      "bbox": [
+        118.0,
+        572.0,
+        350.0,
+        631.0
+      ],
+      "confidence": 0.923208,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 感受外邪",
+      "bbox": [
+        1156.0,
+        624.0,
+        1391.0,
+        674.0
+      ],
+      "confidence": 0.999155,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 益气养阴，清解余热",
+      "bbox": [
+        207.0,
+        633.0,
+        632.0,
+        687.0
+      ],
+      "confidence": 0.995414,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 痰热蕴肺",
+      "bbox": [
+        1155.0,
+        683.0,
+        1385.0,
+        733.0
+      ],
+      "confidence": 0.998754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 疏风清热，利湿解毒",
+      "bbox": [
+        206.0,
+        694.0,
+        625.0,
+        747.0
+      ],
+      "confidence": 0.994043,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 痰湿蕴肺",
+      "bbox": [
+        1156.0,
+        744.0,
+        1385.0,
+        791.0
+      ],
+      "confidence": 0.996773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 辛凉透表，清热解毒",
+      "bbox": [
+        207.0,
+        754.0,
+        625.0,
+        807.0
+      ],
+      "confidence": 0.992413,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 肺气亏虚",
+      "bbox": [
+        1155.0,
+        802.0,
+        1387.0,
+        852.0
+      ],
+      "confidence": 0.998446,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "D. 疏风解表，清热凉血",
+      "bbox": [
+        206.0,
+        815.0,
+        627.0,
+        866.0
+      ],
+      "confidence": 0.982514,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 肾气亏虚",
+      "bbox": [
+        1152.0,
+        860.0,
+        1386.0,
+        914.0
+      ],
+      "confidence": 0.997446,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "E. 清气凉营，解毒化瘀",
+      "bbox": [
+        206.0,
+        872.0,
+        629.0,
+        928.0
+      ],
+      "confidence": 0.991725,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "73. 小儿生理特点中所说的稚阴稚阳的含",
+      "bbox": [
+        1155.0,
+        921.0,
+        1937.0,
+        975.0
+      ],
+      "confidence": 0.994038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "68. 治疗风疹邪犯肺卫证，应首选（",
+      "bbox": [
+        208.0,
+        933.0,
+        839.0,
+        988.0
+      ],
+      "confidence": 0.970255,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "）",
+      "bbox": [
+        920.0,
+        941.0,
+        944.0,
+        978.0
+      ],
+      "confidence": 0.681365,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "义是（）",
+      "bbox": [
+        1067.0,
+        980.0,
+        1296.0,
+        1034.0
+      ],
+      "confidence": 0.783957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 桑菊饮",
+      "bbox": [
+        208.0,
+        997.0,
+        393.0,
+        1048.0
+      ],
+      "confidence": 0.998125,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 生机蓬勃，发育迅速",
+      "bbox": [
+        1158.0,
+        1043.0,
+        1587.0,
+        1088.0
+      ],
+      "confidence": 0.992979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 银翘散",
+      "bbox": [
+        206.0,
+        1057.0,
+        386.0,
+        1108.0
+      ],
+      "confidence": 0.996906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 脏腑娇嫩，形气未充",
+      "bbox": [
+        1156.0,
+        1101.0,
+        1584.0,
+        1146.0
+      ],
+      "confidence": 0.9895,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 透疹凉解汤",
+      "bbox": [
+        207.0,
+        1117.0,
+        470.0,
+        1166.0
+      ],
+      "confidence": 0.998403,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 年龄越小，生长越快",
+      "bbox": [
+        1157.0,
+        1161.0,
+        1585.0,
+        1206.0
+      ],
+      "confidence": 0.98603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 清胃解毒汤",
+      "bbox": [
+        204.0,
+        1176.0,
+        474.0,
+        1228.0
+      ],
+      "confidence": 0.998844,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 年龄越小，发育越快",
+      "bbox": [
+        1156.0,
+        1220.0,
+        1586.0,
+        1266.0
+      ],
+      "confidence": 0.97763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 普济消毒饮",
+      "bbox": [
+        203.0,
+        1234.0,
+        473.0,
+        1288.0
+      ],
+      "confidence": 0.999568,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 纯阳无阴，阳常有余",
+      "bbox": [
+        1155.0,
+        1277.0,
+        1587.0,
+        1327.0
+      ],
+      "confidence": 0.997829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "69. 反复呼吸道感染恢复期治法中，错误",
+      "bbox": [
+        206.0,
+        1295.0,
+        984.0,
+        1346.0
+      ],
+      "confidence": 0.983585,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "74. 硬肿症临床特征错误的是（",
+      "bbox": [
+        1157.0,
+        1339.0,
+        1735.0,
+        1384.0
+      ],
+      "confidence": 0.97829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "）",
+      "bbox": [
+        1810.0,
+        1346.0,
+        1835.0,
+        1380.0
+      ],
+      "confidence": 0.993681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "的是（）",
+      "bbox": [
+        120.0,
+        1352.0,
+        346.0,
+        1412.0
+      ],
+      "confidence": 0.80869,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 全身皮肤发凉",
+      "bbox": [
+        1157.0,
+        1395.0,
+        1481.0,
+        1445.0
+      ],
+      "confidence": 0.998293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 补气固表",
+      "bbox": [
+        207.0,
+        1417.0,
+        435.0,
+        1467.0
+      ],
+      "confidence": 0.998845,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 全身发黄",
+      "bbox": [
+        1154.0,
+        1455.0,
+        1387.0,
+        1505.0
+      ],
+      "confidence": 0.999199,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 温卫和营",
+      "bbox": [
+        203.0,
+        1474.0,
+        428.0,
+        1528.0
+      ],
+      "confidence": 0.999193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 肌肉硬肿",
+      "bbox": [
+        1155.0,
+        1514.0,
+        1387.0,
+        1566.0
+      ],
+      "confidence": 0.99869,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 温补脾肾",
+      "bbox": [
+        204.0,
+        1534.0,
+        428.0,
+        1588.0
+      ],
+      "confidence": 0.998372,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 哭声低微",
+      "bbox": [
+        1155.0,
+        1573.0,
+        1391.0,
+        1623.0
+      ],
+      "confidence": 0.998565,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 疏风解表",
+      "bbox": [
+        205.0,
+        1597.0,
+        432.0,
+        1647.0
+      ],
+      "confidence": 0.999094,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 吸吮困难",
+      "bbox": [
+        1155.0,
+        1634.0,
+        1389.0,
+        1684.0
+      ],
+      "confidence": 0.998342,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 滋养肺脾",
+      "bbox": [
+        205.0,
+        1656.0,
+        430.0,
+        1706.0
+      ],
+      "confidence": 0.999393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "75. 胎黄的病因错误的是（",
+      "bbox": [
+        1158.0,
+        1695.0,
+        1647.0,
+        1740.0
+      ],
+      "confidence": 0.964373,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "）",
+      "bbox": [
+        1724.0,
+        1701.0,
+        1749.0,
+        1732.0
+      ],
+      "confidence": 0.990338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "70. 治疗小儿哮喘风寒束肺证的首选方",
+      "bbox": [
+        208.0,
+        1720.0,
+        979.0,
+        1762.0
+      ],
+      "confidence": 0.994046,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 感受湿热",
+      "bbox": [
+        1157.0,
+        1752.0,
+        1394.0,
+        1802.0
+      ],
+      "confidence": 0.999037,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "是（",
+      "bbox": [
+        118.0,
+        1775.0,
+        197.0,
+        1829.0
+      ],
+      "confidence": 0.87866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "）",
+      "bbox": [
+        239.0,
+        1778.0,
+        296.0,
+        1823.0
+      ],
+      "confidence": 0.979601,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 寒湿阻滞",
+      "bbox": [
+        1155.0,
+        1810.0,
+        1386.0,
+        1860.0
+      ],
+      "confidence": 0.998758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 苏子降气汤",
+      "bbox": [
+        206.0,
+        1838.0,
+        473.0,
+        1885.0
+      ],
+      "confidence": 0.999071,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 气滞血瘀",
+      "bbox": [
+        1156.0,
+        1869.0,
+        1387.0,
+        1920.0
+      ],
+      "confidence": 0.995436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 金匮肾气丸",
+      "bbox": [
+        203.0,
+        1896.0,
+        468.0,
+        1945.0
+      ],
+      "confidence": 0.99908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 先天缺陷",
+      "bbox": [
+        1155.0,
+        1930.0,
+        1387.0,
+        1980.0
+      ],
+      "confidence": 0.999387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 小青龙汤合三子养亲汤",
+      "bbox": [
+        205.0,
+        1955.0,
+        682.0,
+        2004.0
+      ],
+      "confidence": 0.998878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 感染黄毒",
+      "bbox": [
+        1155.0,
+        1988.0,
+        1386.0,
+        2038.0
+      ],
+      "confidence": 0.997597,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 麻杏石甘汤合苏葶丸",
+      "bbox": [
+        206.0,
+        2016.0,
+        643.0,
+        2063.0
+      ],
+      "confidence": 0.99855,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 人参五味子汤合玉屏风散",
+      "bbox": [
+        205.0,
+        2076.0,
+        727.0,
+        2124.0
+      ],
+      "confidence": 0.997872,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A2 型选择题（76～118题）",
+      "bbox": [
+        781.0,
+        2195.0,
+        1285.0,
+        2241.0
+      ],
+      "confidence": 0.981757,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "答题说明:每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案,请",
+      "bbox": [
+        231.0,
+        2292.0,
+        1915.0,
+        2337.0
+      ],
+      "confidence": 0.954233,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "从中选择一个最佳答案,并在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        146.0,
+        2350.0,
+        1632.0,
+        2395.0
+      ],
+      "confidence": 0.993521,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "76. 患者小便频数黄赤3年，尿道灼热涩",
+      "bbox": [
+        212.0,
+        2448.0,
+        983.0,
+        2492.0
+      ],
+      "confidence": 0.990967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 补脾益气，温肾利尿",
+      "bbox": [
+        1156.0,
+        2446.0,
+        1575.0,
+        2493.0
+      ],
+      "confidence": 0.994249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "痛，排尿不畅，时有点滴不通，小腹胀满，大便",
+      "bbox": [
+        128.0,
+        2507.0,
+        983.0,
+        2549.0
+      ],
+      "confidence": 0.986392,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 行气活血，通窍利尿",
+      "bbox": [
+        1157.0,
+        2502.0,
+        1575.0,
+        2549.0
+      ],
+      "confidence": 0.994859,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "干燥，口苦口黏，舌暗红，苔黄腻，脉滑数。B超",
+      "bbox": [
+        125.0,
+        2562.0,
+        984.0,
+        2608.0
+      ],
+      "confidence": 0.990186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 滋补肾阴，通窍利尿",
+      "bbox": [
+        1156.0,
+        2561.0,
+        1576.0,
+        2607.0
+      ],
+      "confidence": 0.994908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "示前列腺6.5cm×5.5cm×5cm，光滑无结节，",
+      "bbox": [
+        124.0,
+        2621.0,
+        982.0,
+        2667.0
+      ],
+      "confidence": 0.982597,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 温补肾阳，通窍利尿",
+      "bbox": [
+        1154.0,
+        2618.0,
+        1576.0,
+        2669.0
+      ],
+      "confidence": 0.994045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "其治法是（）",
+      "bbox": [
+        125.0,
+        2682.0,
+        431.0,
+        2728.0
+      ],
+      "confidence": 0.886688,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "77. 患者，女，50岁。5天前左足3、4趾缝.",
+      "bbox": [
+        1154.0,
+        2675.0,
+        1959.0,
+        2729.0
+      ],
+      "confidence": 0.967837,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 清热利湿，消癃通闭",
+      "bbox": [
+        216.0,
+        2744.0,
+        629.0,
+        2781.0
+      ],
+      "confidence": 0.983747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "足癣水疱溃破，次日局部红肿疼痛，并见红线",
+      "bbox": [
+        1069.0,
+        2736.0,
+        1939.0,
+        2789.0
+      ],
+      "confidence": 0.988805,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "88",
+      "bbox": [
+        998.0,
+        2858.0,
+        1056.0,
+        2906.0
+      ],
+      "confidence": 0.999686,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

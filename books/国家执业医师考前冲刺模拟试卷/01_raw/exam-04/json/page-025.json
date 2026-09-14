@@ -1,0 +1,947 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 25,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        415.99,
+        49.082,
+        531.841,
+        60.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. HIV",
+      "bbox": [
+        71.81,
+        80.844,
+        108.665,
+        92.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 蚊虫传播",
+      "bbox": [
+        332.95,
+        79.238,
+        393.017,
+        90.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. HBV",
+      "bbox": [
+        71.76,
+        97.194,
+        112.339,
+        108.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "145. 甲型肝炎是（）",
+      "bbox": [
+        333.44,
+        95.848,
+        450.48,
+        107.147
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. HAV",
+      "bbox": [
+        71.67,
+        113.354,
+        113.599,
+        124.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "146. 乙型肝炎是（）",
+      "bbox": [
+        333.49,
+        112.048,
+        450.036,
+        123.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "141. 艾滋病的英文缩写是（）",
+      "bbox": [
+        71.98,
+        128.287,
+        237.19,
+        139.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        334.09,
+        128.367,
+        476.819,
+        139.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "142. 艾滋病病毒的英文缩写是（）",
+      "bbox": [
+        71.83,
+        144.957,
+        261.2,
+        156.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 6个月",
+      "bbox": [
+        333.4,
+        144.437,
+        377.77,
+        155.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "（143～144题共用备选答案）",
+      "bbox": [
+        72.28,
+        161.537,
+        215.746,
+        172.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 1年",
+      "bbox": [
+        333.35,
+        160.888,
+        366.68,
+        172.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 病原体侵入机体后，被非特异性免疫所",
+      "bbox": [
+        71.57,
+        177.747,
+        284.672,
+        189.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 2年",
+      "bbox": [
+        333.28,
+        177.368,
+        366.141,
+        188.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "清除",
+      "bbox": [
+        47.53,
+        195.248,
+        70.03,
+        206.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 3年",
+      "bbox": [
+        333.12,
+        193.918,
+        367.72,
+        205.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 病原体侵入机体后，仅引起特异性免疫",
+      "bbox": [
+        71.23,
+        210.927,
+        280.677,
+        222.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 4年",
+      "bbox": [
+        333.45,
+        210.278,
+        367.25,
+        222.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 病原体侵入机体后，既引起特异性免",
+      "bbox": [
+        71.09,
+        227.727,
+        284.869,
+        239.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "147. 普通处方、急诊处方、儿科处方的保",
+      "bbox": [
+        333.72,
+        226.538,
+        546.323,
+        237.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "疫，又引起非特异性免疫",
+      "bbox": [
+        47.17,
+        244.487,
+        172.042,
+        255.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "存期是（）",
+      "bbox": [
+        309.24,
+        243.358,
+        378.913,
+        254.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 病原体侵入机体后，寄生于机体某些部",
+      "bbox": [
+        71.15,
+        260.947,
+        284.599,
+        272.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "148. 麻醉药品处方的保存期是（）",
+      "bbox": [
+        333.63,
+        259.457,
+        522.806,
+        270.717
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "位，被机体免疫功能局限化，机体免疫功能下",
+      "bbox": [
+        47.12,
+        277.817,
+        284.508,
+        289.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        334.08,
+        275.947,
+        477.619,
+        287.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "降时，可引起相应的临床表现",
+      "bbox": [
+        47.7,
+        294.737,
+        196.235,
+        306.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 新药",
+      "bbox": [
+        333.49,
+        292.318,
+        370.627,
+        303.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 病原体侵入机体后，不引起相应的临床",
+      "bbox": [
+        71.35,
+        311.227,
+        285.018,
+        322.497
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 处方药",
+      "bbox": [
+        333.25,
+        308.948,
+        380.818,
+        320.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "表现，但机体能排出病原体",
+      "bbox": [
+        47.24,
+        327.837,
+        184.585,
+        339.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 非处方药",
+      "bbox": [
+        333.27,
+        325.168,
+        393.157,
+        336.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "143. 属病原携带状态的是（）",
+      "bbox": [
+        71.93,
+        344.477,
+        237.55,
+        355.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 劣药",
+      "bbox": [
+        333.27,
+        341.717,
+        369.821,
+        352.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "144. 属潜伏性感染的是（）",
+      "bbox": [
+        71.95,
+        360.977,
+        224.006,
+        372.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 假药",
+      "bbox": [
+        333.32,
+        358.078,
+        369.208,
+        369.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "149. 必须凭医师处方销售、调剂和使用的",
+      "bbox": [
+        333.7,
+        374.208,
+        546.843,
+        385.458
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        72.42,
+        377.727,
+        216.124,
+        388.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 血液传播",
+      "bbox": [
+        71.66,
+        394.027,
+        133.6,
+        405.297
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "药品是（）",
+      "bbox": [
+        309.69,
+        390.958,
+        378.823,
+        402.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "150. 由消费者自行判断、购买和使用的药",
+      "bbox": [
+        333.73,
+        406.808,
+        547.413,
+        418.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 飞沫传播",
+      "bbox": [
+        71.5,
+        410.637,
+        132.034,
+        421.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "品是（）",
+      "bbox": [
+        310.22,
+        423.848,
+        366.913,
+        435.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 唾液传播",
+      "bbox": [
+        71.43,
+        427.227,
+        132.279,
+        438.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 食物传播",
+      "bbox": [
+        71.4,
+        443.647,
+        132.801,
+        454.907
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "第三单元",
+      "bbox": [
+        262.92,
+        503.572,
+        331.229,
+        518.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "A1 型选择题（1～75题）",
+      "bbox": [
+        237.04,
+        550.828,
+        356.777,
+        564.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "1. 确立以滋阴降火为肺痨治疗大法的医",
+      "bbox": [
+        71.44,
+        621.107,
+        284.601,
+        632.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 阴阳",
+      "bbox": [
+        333.33,
+        620.838,
+        369.634,
+        632.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "家是（）",
+      "bbox": [
+        47.07,
+        637.828,
+        104.836,
+        649.138
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 外感内伤",
+      "bbox": [
+        333.68,
+        637.498,
+        393.971,
+        648.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 张仲景",
+      "bbox": [
+        71.32,
+        654.338,
+        120.439,
+        665.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "3. 治疗虚劳肝阴虚者，应首选（）",
+      "bbox": [
+        333.63,
+        654.187,
+        517.656,
+        665.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 华佗",
+      "bbox": [
+        71.26,
+        670.758,
+        106.733,
+        681.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 玉女煎",
+      "bbox": [
+        333.93,
+        671.018,
+        383.319,
+        682.258
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 孙思邈",
+      "bbox": [
+        70.99,
+        687.388,
+        119.447,
+        698.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 补肝汤",
+      "bbox": [
+        333.74,
+        687.358,
+        381.434,
+        698.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 朱丹溪",
+      "bbox": [
+        70.95,
+        703.928,
+        119.878,
+        715.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 沙参麦冬汤",
+      "bbox": [
+        333.78,
+        704.208,
+        406.011,
+        715.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 葛可久",
+      "bbox": [
+        70.91,
+        720.408,
+        119.388,
+        731.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 麦门冬汤",
+      "bbox": [
+        333.64,
+        720.858,
+        394.742,
+        732.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "2. 喘证辨证时最宜首先辨别（）",
+      "bbox": [
+        70.71,
+        737.007,
+        248.836,
+        748.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 四物汤",
+      "bbox": [
+        333.86,
+        737.418,
+        382.102,
+        748.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 寒热",
+      "bbox": [
+        70.76,
+        753.708,
+        108.796,
+        764.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "4. 血虚头痛的代表方剂是（）",
+      "bbox": [
+        333.61,
+        753.528,
+        499.503,
+        764.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 表里",
+      "bbox": [
+        70.46,
+        770.448,
+        106.608,
+        781.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "A. 半夏白术天麻汤",
+      "bbox": [
+        333.53,
+        769.878,
+        431.22,
+        781.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 虚实",
+      "bbox": [
+        70.72,
+        786.948,
+        107.128,
+        798.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 天麻钩藤饮",
+      "bbox": [
+        333.68,
+        786.558,
+        405.555,
+        797.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "—167",
+      "bbox": [
+        267.52,
+        810.126,
+        300.824,
+        819.667
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "一",
+      "bbox": [
+        315.22,
+        810.87,
+        323.69,
+        819.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 55,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        311.41,
+        47.103,
+        524.985,
+        57.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "疹透发不畅，风疹瘙痒，小儿惊痫，目赤，翳障，破伤风",
+      "bbox": [
+        37.29,
+        78.412,
+        283.04,
+        88.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "肝炎较长时期的肝内梗阻性黄疸，临床自觉症状轻微，",
+      "bbox": [
+        297.97,
+        77.332,
+        536.829,
+        87.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "等症。",
+      "bbox": [
+        38.1,
+        94.172,
+        67.56,
+        103.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "常表现有皮肤瘙痒、粪便颜色变浅，肝功能检查血清胆",
+      "bbox": [
+        298.17,
+        92.762,
+        537.22,
+        102.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "140. A【解析】牛蒡子疏散风热，宣肺祛痰，利咽",
+      "bbox": [
+        57.18,
+        108.732,
+        276.712,
+        120.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "红素明显升高，以直接胆红素为主。ACDE项等均符",
+      "bbox": [
+        298.22,
+        107.582,
+        537.28,
+        117.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "透疹，消肿解毒。治风热咳嗽，咽喉肿痛，斑疹不透，风",
+      "bbox": [
+        37.65,
+        124.222,
+        283.15,
+        134.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "合淤胆型肝炎的临床表现。",
+      "bbox": [
+        298.07,
+        123.462,
+        416.126,
+        133.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "疹作痒，痈肿疮毒等症。",
+      "bbox": [
+        37.3,
+        139.782,
+        145.32,
+        149.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "3. B【解析】阵发性室上性心动过速的临床特点：",
+      "bbox": [
+        318.76,
+        138.262,
+        537.22,
+        149.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "141. B【解析】金铃子散主治肝郁化火证。心胸",
+      "bbox": [
+        57.52,
+        154.812,
+        277.001,
+        166.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "起病及终止均突然；发作时心室率可达150～250次/分；",
+      "bbox": [
+        297.97,
+        153.322,
+        537.108,
+        163.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "胁肋诸痛，时发时止，口苦，舌红苔黄，脉弦数。",
+      "bbox": [
+        37.42,
+        170.472,
+        253.46,
+        180.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "心室节律绝对规则；心电图表现为QRS波形态可完全",
+      "bbox": [
+        298.32,
+        169.132,
+        537.517,
+        178.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "142. E【解析】龙胆泻肝汤主治肝胆实火胁痛，本",
+      "bbox": [
+        57.11,
+        185.752,
+        276.902,
+        197.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "正常，亦可因伴有室内传导阻滞而显示QRS波形态异",
+      "bbox": [
+        298.24,
+        184.692,
+        537.437,
+        194.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "方证是由肝胆实火上炎或肝胆湿热循经下注所致。",
+      "bbox": [
+        37.55,
+        201.492,
+        257.714,
+        211.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "常；P波在部分病例中见到，但常为逆行P波，故选B。",
+      "bbox": [
+        298.4,
+        200.162,
+        533.261,
+        209.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "143. ",
+      "bbox": [
+        57.3,
+        217.032,
+        76.626,
+        226.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "4. C【解析】甲状腺功能亢进症仅有增高即可",
+      "bbox": [
+        318.62,
+        215.452,
+        537.204,
+        226.846
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C",
+      "bbox": [
+        76.8,
+        218.565,
+        83.337,
+        228.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "144. A【解析】羚角钩藤汤主治热盛动风证。症",
+      "bbox": [
+        57.07,
+        232.172,
+        277.092,
+        243.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "诊断。",
+      "bbox": [
+        298.24,
+        231.772,
+        327.67,
+        241.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "见高热不退，烦闷躁扰，手足抽搐，甚则神昏，舌绛而",
+      "bbox": [
+        37.54,
+        248.142,
+        277.285,
+        257.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "5. E【解析】哮喘持续状态的治疗：①吸氧；②迅速",
+      "bbox": [
+        319.01,
+        246.502,
+        543.88,
+        257.946
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "干，或舌焦起刺，脉弦而数。天麻钩藤饮主治肝阳偏",
+      "bbox": [
+        37.67,
+        263.662,
+        277.141,
+        273.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "缓解气道痉挛，常用琥珀酸氢化可的松、甲泼尼龙或地",
+      "bbox": [
+        298.32,
+        262.282,
+        537.84,
+        272.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "亢、肝风上扰证。症见头痛眩晕，失眠，或口苦面红，舌",
+      "bbox": [
+        37.63,
+        279.462,
+        283.13,
+        289.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "塞米松静脉滴注或注射；③及时进行人工通气；④注意",
+      "bbox": [
+        298.34,
+        277.772,
+        537.86,
+        287.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "红苔黄，脉弦或数。",
+      "bbox": [
+        37.6,
+        294.762,
+        125.98,
+        304.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "并发症：包括预防和控制感染，补充足够液体量，避免",
+      "bbox": [
+        298.22,
+        293.012,
+        538.191,
+        302.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "145. C【解析】卫分证是温热病邪侵袭肌表，卫气",
+      "bbox": [
+        57.43,
+        310.482,
+        277.549,
+        321.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "痰液黏稠，纠正严重酸中毒和调整水电解质平衡等。",
+      "bbox": [
+        298.4,
+        308.812,
+        524.26,
+        318.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "功能失调，肺失宣降，以发热微恶寒，口干微渴，头痛，",
+      "bbox": [
+        37.45,
+        325.972,
+        282.95,
+        335.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "6. C【解析】肺心病由慢性广泛性肺一胸疾病发",
+      "bbox": [
+        319.15,
+        323.712,
+        538.013,
+        335.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "脉浮数为主证。",
+      "bbox": [
+        38.05,
+        341.382,
+        106.79,
+        351.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "展而来，呼吸和循环系统的症状常混杂出现。一般认",
+      "bbox": [
+        298.5,
+        339.722,
+        537.971,
+        349.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "146. B【解析】《伤寒论》说:“太阳病,发热,汗出,",
+      "bbox": [
+        57.55,
+        356.812,
+        277.415,
+        368.296
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "为凡有慢性广泛性肺、胸疾病患者，一旦发现有肺动脉",
+      "bbox": [
+        298.44,
+        355.052,
+        537.96,
+        364.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "脉缓者，名为中风。”因此，“恶风发热，头痛，汗出，脉浮高压、右心室增大而同时排除了引起右心增大的其他",
+      "bbox": [
+        38.03,
+        370.452,
+        538.091,
+        382.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "缓”是太阳中风证。",
+      "bbox": [
+        38.06,
+        387.992,
+        126.44,
+        397.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "心脏病可能时，即可诊断为本病。",
+      "bbox": [
+        298.57,
+        386.382,
+        445.87,
+        396.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "147. ",
+      "bbox": [
+        57.57,
+        403.402,
+        76.856,
+        413.192
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "7. C【解析】利尿剂可作为无并发症高血压患者",
+      "bbox": [
+        319.16,
+        401.372,
+        537.989,
+        412.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B",
+      "bbox": [
+        77.55,
+        405.143,
+        84.08,
+        414.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "148. D【解析】真人养脏汤主治久泻久痢，脾肾虚",
+      "bbox": [
+        57.58,
+        419.072,
+        277.714,
+        430.576
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "的首选药物，适用于轻、中度高血压，尤其是老年高血",
+      "bbox": [
+        298.95,
+        416.882,
+        538.226,
+        426.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "寒证。方中重用罂粟壳涩肠止泻，为君药。臣以肉豆",
+      "bbox": [
+        37.74,
+        434.622,
+        278.103,
+        444.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "压、肥胖及并发心力衰竭者。利尿剂有噻嗪类、袢利尿",
+      "bbox": [
+        298.65,
+        432.222,
+        538.17,
+        442.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "蔻温中涩肠；诃子涩肠止泻。君臣相须为用，体现“急",
+      "bbox": [
+        37.74,
+        450.002,
+        277.956,
+        459.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "剂和保钾利尿剂3类，常用噻嗪类，如氢氯噻嗪和氯噻",
+      "bbox": [
+        298.63,
+        448.162,
+        537.953,
+        457.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "则治标”“滑者涩之”之法。佐以肉桂温肾暖脾，人参、",
+      "bbox": [
+        37.65,
+        465.642,
+        283.15,
+        475.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "酮、吲达帕胺等，禁用于痛风患者。",
+      "bbox": [
+        298.75,
+        463.002,
+        455.87,
+        472.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "白术补气健脾，三药合用温补脾肾以治本。四神丸主",
+      "bbox": [
+        38.73,
+        481.142,
+        278.201,
+        490.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "8. A【解析】急性水肿型胰腺炎主要症状为腹痛、",
+      "bbox": [
+        319.16,
+        478.412,
+        537.87,
+        490.166
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "恶心、呕吐、发热。而出血坏死性胰腺炎的症状除上述",
+      "bbox": [
+        298.76,
+        493.812,
+        538.054,
+        503.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "治脾肾阳虚之肾泄证。方中重用补骨脂补命门之火以",
+      "bbox": [
+        37.47,
+        496.582,
+        277.617,
+        506.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "情况外，又因胰腺有出血、坏死和自溶，故又可以出现",
+      "bbox": [
+        298.73,
+        509.152,
+        538.006,
+        518.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "温养脾土，为治肾虚泄泻，壮火益土之要药。臣以辛温",
+      "bbox": [
+        37.49,
+        512.322,
+        278.365,
+        522.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "休克、高热、黄疸、腹胀以至肠麻痹、腹膜刺激征以及皮",
+      "bbox": [
+        298.81,
+        524.122,
+        544.31,
+        533.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "之肉豆蔻温脾暖胃，涩肠止泻。肉豆蔻配合补骨脂是",
+      "bbox": [
+        37.23,
+        527.552,
+        278.242,
+        537.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "下出现淤血斑等，但实验室血清淀粉酶>250U/L为急",
+      "bbox": [
+        299.07,
+        539.732,
+        537.762,
+        551.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "为温肾暖脾，固涩止泻的常用组合。",
+      "bbox": [
+        37.34,
+        543.322,
+        194.46,
+        553.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "性胰腺炎严重性的重要指标。",
+      "bbox": [
+        298.89,
+        554.752,
+        426.42,
+        564.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "149. C【解析】肝主疏泄而藏血，具有条达气机，",
+      "bbox": [
+        57.54,
+        558.852,
+        278.038,
+        570.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "9. C【解析】各种不同病理类型的慢性肾炎的发",
+      "bbox": [
+        319.6,
+        570.252,
+        538.024,
+        581.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "调节情志的功能。肝病日久，则肝气郁滞，疏泄失职，",
+      "bbox": [
+        37.23,
+        574.522,
+        278.105,
+        584.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "病机制起始因素多为免疫介导炎症反应，故选C。A项",
+      "bbox": [
+        299.15,
+        586.022,
+        537.876,
+        595.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "故见两胁胀满疼痛。气为血帅，气滞则血凝，故见舌质",
+      "bbox": [
+        37.13,
+        590.022,
+        278.457,
+        599.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "可为肾小球肾炎的病因，但发病机制仍为链球菌感染",
+      "bbox": [
+        299.44,
+        601.272,
+        537.803,
+        611.082
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "瘀点、瘀斑。",
+      "bbox": [
+        36.87,
+        605.822,
+        95.79,
+        615.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "引起的免疫损害。BD项较不常见，而E项为肾小球肾",
+      "bbox": [
+        299.71,
+        616.642,
+        537.835,
+        626.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "150. D【解析】气短乏力，兼见月经量多，为气虚",
+      "bbox": [
+        57.31,
+        621.162,
+        278.612,
+        632.516
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "炎的结果及加重因素。",
+      "bbox": [
+        299.2,
+        632.332,
+        397.4,
+        642.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "而不能统血，气虚与失血并见的证候。",
+      "bbox": [
+        37.3,
+        637.412,
+        204.41,
+        647.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "10. B【解析】诊断二尖瓣狭窄的辅助检查。题中",
+      "bbox": [
+        320.48,
+        647.892,
+        537.488,
+        659.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "的五种辅助检查对诊断二尖瓣狭窄均有一定意义，而",
+      "bbox": [
+        300.12,
+        663.602,
+        537.862,
+        673.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "第二单元",
+      "bbox": [
+        121.73,
+        677.912,
+        192.655,
+        695.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "超声心动图最有意义，可出现城墙样改变，并测出二尖",
+      "bbox": [
+        299.65,
+        679.232,
+        537.798,
+        689.042
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "瓣的狭窄程度，是二尖瓣狭窄的特异性改变。",
+      "bbox": [
+        299.54,
+        694.492,
+        495.74,
+        704.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "11. C【解析】心室颤动临床症状包括意识丧失、",
+      "bbox": [
+        320.68,
+        709.882,
+        537.432,
+        721.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "1. D【解析】主动脉瓣关闭不全：急性患者轻者多",
+      "bbox": [
+        57.49,
+        724.552,
+        278.89,
+        735.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "抽搐、呼吸停顿甚至死亡、听诊心音消失、脉搏触不到、",
+      "bbox": [
+        299.78,
+        725.172,
+        545.03,
+        734.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "无症状，重者可出现急性左侧心力衰竭及低血压；慢性",
+      "bbox": [
+        37.35,
+        740.592,
+        279.128,
+        750.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "血压亦无法测到，故选C。而室性期前收缩、房性期前",
+      "bbox": [
+        299.96,
+        740.522,
+        537.705,
+        750.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "者最早出现的症状为心悸、心前区不适，常有头部搏动",
+      "bbox": [
+        37.6,
+        756.082,
+        278.926,
+        765.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "收缩、右束支阻滞和窦性心动过速只有少数严重者出",
+      "bbox": [
+        300.31,
+        756.012,
+        536.54,
+        765.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "感。多数患者晚期出现左侧心力衰竭表现。",
+      "bbox": [
+        37.64,
+        771.722,
+        229.151,
+        781.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "现意识障碍。",
+      "bbox": [
+        300.32,
+        771.422,
+        359.18,
+        781.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "2. B【解析】淤胆型肝炎主要表现为急性病毒性",
+      "bbox": [
+        57.49,
+        786.752,
+        279.476,
+        798.166
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "12. A【解析】抗生素疗程通常为5～7天，体温降",
+      "bbox": [
+        321.29,
+        786.483,
+        537.102,
+        797.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "—245",
+      "bbox": [
+        260.24,
+        804.774,
+        295.031,
+        814.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "—",
+      "bbox": [
+        308.31,
+        804.735,
+        317.84,
+        814.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

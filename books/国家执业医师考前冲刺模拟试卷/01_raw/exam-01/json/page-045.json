@@ -1,0 +1,1212 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 45,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1447.0,
+        44.0,
+        1863.0,
+        82.0
+      ],
+      "confidence": 0.935789,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "红。治疗应首选（",
+      "bbox": [
+        125.0,
+        155.0,
+        462.0,
+        208.0
+      ],
+      "confidence": 0.965311,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "）",
+      "bbox": [
+        534.0,
+        161.0,
+        564.0,
+        201.0
+      ],
+      "confidence": 0.964407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "欠佳，大便秘结，舌淡胖，苔少，指纹色淡，其诊",
+      "bbox": [
+        1066.0,
+        160.0,
+        1910.0,
+        205.0
+      ],
+      "confidence": 0.989901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 熏洗法",
+      "bbox": [
+        216.0,
+        211.0,
+        409.0,
+        267.0
+      ],
+      "confidence": 0.998341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "断是（",
+      "bbox": [
+        1062.0,
+        211.0,
+        1183.0,
+        264.0
+      ],
+      "confidence": 0.953606,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        1250.0,
+        218.0,
+        1282.0,
+        256.0
+      ],
+      "confidence": 0.985176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 擦拭法",
+      "bbox": [
+        214.0,
+        266.0,
+        404.0,
+        322.0
+      ],
+      "confidence": 0.933031,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 五迟、五软，肝肾不足证",
+      "bbox": [
+        1151.0,
+        268.0,
+        1631.0,
+        316.0
+      ],
+      "confidence": 0.992651,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 割治疗法",
+      "bbox": [
+        216.0,
+        322.0,
+        446.0,
+        376.0
+      ],
+      "confidence": 0.998873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 五迟、五软，心脾两虚证",
+      "bbox": [
+        1151.0,
+        325.0,
+        1626.0,
+        370.0
+      ],
+      "confidence": 0.991696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 推拿疗法",
+      "bbox": [
+        217.0,
+        376.0,
+        446.0,
+        431.0
+      ],
+      "confidence": 0.992432,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 五迟、五软，痰瘀阻滞证",
+      "bbox": [
+        1152.0,
+        381.0,
+        1627.0,
+        426.0
+      ],
+      "confidence": 0.984418,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 拔罐疗法",
+      "bbox": [
+        218.0,
+        435.0,
+        443.0,
+        485.0
+      ],
+      "confidence": 0.994748,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 佝偻病，心脾两虚证",
+      "bbox": [
+        1152.0,
+        437.0,
+        1567.0,
+        482.0
+      ],
+      "confidence": 0.972241,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "118. 患儿，2岁。不能言语，精神呆滞，智",
+      "bbox": [
+        220.0,
+        492.0,
+        981.0,
+        537.0
+      ],
+      "confidence": 0.985653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 疳证，心脾两虚证",
+      "bbox": [
+        1152.0,
+        493.0,
+        1523.0,
+        539.0
+      ],
+      "confidence": 0.9441,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "力低下，发稀萎黄，四肢萎软，口角流涎，纳食",
+      "bbox": [
+        134.0,
+        547.0,
+        982.0,
+        592.0
+      ],
+      "confidence": 0.986967,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A3型选择题(119～120题)",
+      "bbox": [
+        777.0,
+        660.0,
+        1279.0,
+        702.0
+      ],
+      "confidence": 0.972118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "答题说明:以下提供若干个案例，每个案例下设若干道试题。请根据案例所提供的信息,在",
+      "bbox": [
+        240.0,
+        742.0,
+        1896.0,
+        796.0
+      ],
+      "confidence": 0.979342,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "每一道试题下面的A、B、C、D、E五个备选答案中选择一个最佳答案，并在答题卡上将相应题号",
+      "bbox": [
+        153.0,
+        796.0,
+        1898.0,
+        850.0
+      ],
+      "confidence": 0.965728,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "的相应字母所属的方框涂黑。",
+      "bbox": [
+        157.0,
+        858.0,
+        686.0,
+        899.0
+      ],
+      "confidence": 0.996866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "(119～120 题共用题干)",
+      "bbox": [
+        219.0,
+        940.0,
+        653.0,
+        988.0
+      ],
+      "confidence": 0.901807,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 麻疹，见形期",
+      "bbox": [
+        1152.0,
+        942.0,
+        1436.0,
+        988.0
+      ],
+      "confidence": 0.994542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "患儿，男，5岁。发热2天后出疹，查体：体",
+      "bbox": [
+        220.0,
+        1001.0,
+        979.0,
+        1043.0
+      ],
+      "confidence": 0.976216,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 风疹，邪入气营证",
+      "bbox": [
+        1150.0,
+        995.0,
+        1525.0,
+        1044.0
+      ],
+      "confidence": 0.961858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "温38.5℃，精神尚可，咽充血，耳后及枕部淋巴",
+      "bbox": [
+        130.0,
+        1053.0,
+        982.0,
+        1099.0
+      ],
+      "confidence": 0.971676,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 幼儿急疹，肺胃蕴热证",
+      "bbox": [
+        1150.0,
+        1051.0,
+        1609.0,
+        1100.0
+      ],
+      "confidence": 0.992591,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "结肿大，颜面、躯干散在淡红色丘疹。现发热",
+      "bbox": [
+        130.0,
+        1107.0,
+        981.0,
+        1157.0
+      ],
+      "confidence": 0.993021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "120. 出疹期多数患儿出疹时间为(",
+      "bbox": [
+        1150.0,
+        1105.0,
+        1774.0,
+        1158.0
+      ],
+      "confidence": 0.981198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "）",
+      "bbox": [
+        1851.0,
+        1116.0,
+        1875.0,
+        1149.0
+      ],
+      "confidence": 0.979345,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "恶风，流涕喷嚏，胃纳欠佳，舌质偏红，苔薄白，",
+      "bbox": [
+        133.0,
+        1166.0,
+        978.0,
+        1211.0
+      ],
+      "confidence": 0.993007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 发热后1天左右",
+      "bbox": [
+        1150.0,
+        1160.0,
+        1508.0,
+        1212.0
+      ],
+      "confidence": 0.991456,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "脉浮数。",
+      "bbox": [
+        129.0,
+        1220.0,
+        308.0,
+        1267.0
+      ],
+      "confidence": 0.999314,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 发热后2天左右",
+      "bbox": [
+        1151.0,
+        1220.0,
+        1502.0,
+        1266.0
+      ],
+      "confidence": 0.99718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "119. 该患儿的病证诊断应考虑为（",
+      "bbox": [
+        216.0,
+        1277.0,
+        839.0,
+        1322.0
+      ],
+      "confidence": 0.982803,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "(",
+      "bbox": [
+        828.0,
+        1280.0,
+        922.0,
+        1316.0
+      ],
+      "confidence": 0.479476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "）",
+      "bbox": [
+        915.0,
+        1280.0,
+        942.0,
+        1315.0
+      ],
+      "confidence": 0.981088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 发热后3天左右",
+      "bbox": [
+        1151.0,
+        1274.0,
+        1502.0,
+        1321.0
+      ],
+      "confidence": 0.998134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 风疹，邪犯肺卫证",
+      "bbox": [
+        217.0,
+        1330.0,
+        592.0,
+        1375.0
+      ],
+      "confidence": 0.994203,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 发热后4天左右",
+      "bbox": [
+        1150.0,
+        1328.0,
+        1502.0,
+        1377.0
+      ],
+      "confidence": 0.99839,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 麻疹，初热期",
+      "bbox": [
+        214.0,
+        1384.0,
+        499.0,
+        1434.0
+      ],
+      "confidence": 0.993491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 发热后5天左右",
+      "bbox": [
+        1151.0,
+        1385.0,
+        1501.0,
+        1430.0
+      ],
+      "confidence": 0.998277,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B1 型选择题(121～150题)",
+      "bbox": [
+        776.0,
+        1499.0,
+        1278.0,
+        1540.0
+      ],
+      "confidence": 0.948636,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "答题说明:以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答",
+      "bbox": [
+        241.0,
+        1584.0,
+        1895.0,
+        1629.0
+      ],
+      "confidence": 0.97279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "案，请从中选择一个与问题最密切的答案，并在答题卡上将相应题号的相应字母所属的方框涂",
+      "bbox": [
+        155.0,
+        1639.0,
+        1895.0,
+        1684.0
+      ],
+      "confidence": 0.981425,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "黑。某个备选答案可能被选择一次、多次或不被选择。",
+      "bbox": [
+        156.0,
+        1695.0,
+        1130.0,
+        1740.0
+      ],
+      "confidence": 0.995321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "(121～122题共用备选答案)",
+      "bbox": [
+        220.0,
+        1779.0,
+        738.0,
+        1824.0
+      ],
+      "confidence": 0.937916,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 熏法",
+      "bbox": [
+        1146.0,
+        1776.0,
+        1290.0,
+        1829.0
+      ],
+      "confidence": 0.996542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 肛门局部望诊",
+      "bbox": [
+        217.0,
+        1834.0,
+        525.0,
+        1879.0
+      ],
+      "confidence": 0.996206,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 洗涤法",
+      "bbox": [
+        1149.0,
+        1835.0,
+        1333.0,
+        1882.0
+      ],
+      "confidence": 0.998524,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 探针检查",
+      "bbox": [
+        214.0,
+        1888.0,
+        437.0,
+        1938.0
+      ],
+      "confidence": 0.999144,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 挑刺法",
+      "bbox": [
+        1148.0,
+        1890.0,
+        1330.0,
+        1937.0
+      ],
+      "confidence": 0.997052,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 乙状结肠镜检查",
+      "bbox": [
+        218.0,
+        1946.0,
+        563.0,
+        1991.0
+      ],
+      "confidence": 0.998947,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "125. 鼠乳的外治法是（",
+      "bbox": [
+        1151.0,
+        1948.0,
+        1560.0,
+        1990.0
+      ],
+      "confidence": 0.966436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 指诊检查",
+      "bbox": [
+        216.0,
+        1999.0,
+        440.0,
+        2049.0
+      ],
+      "confidence": 0.999479,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "126. 白秃疮的外治法是（",
+      "bbox": [
+        1150.0,
+        2002.0,
+        1608.0,
+        2047.0
+      ],
+      "confidence": 0.979033,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "",
+      "bbox": [
+        1592.0,
+        2008.0,
+        1684.0,
+        2037.0
+      ],
+      "confidence": 0.0,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 肛门镜检查",
+      "bbox": [
+        216.0,
+        2055.0,
+        479.0,
+        2102.0
+      ],
+      "confidence": 0.998549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        1151.0,
+        2059.0,
+        1670.0,
+        2100.0
+      ],
+      "confidence": 0.929126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "121. 肛裂常用的检查方法是(",
+      "bbox": [
+        218.0,
+        2109.0,
+        754.0,
+        2157.0
+      ],
+      "confidence": 0.964939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "）",
+      "bbox": [
+        826.0,
+        2111.0,
+        861.0,
+        2158.0
+      ],
+      "confidence": 0.968161,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 银翘散",
+      "bbox": [
+        1146.0,
+        2109.0,
+        1335.0,
+        2163.0
+      ],
+      "confidence": 0.996602,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "122. 肛瘘常用的检查方法是(",
+      "bbox": [
+        218.0,
+        2164.0,
+        753.0,
+        2211.0
+      ],
+      "confidence": 0.967697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "）",
+      "bbox": [
+        828.0,
+        2167.0,
+        860.0,
+        2206.0
+      ],
+      "confidence": 0.946144,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 沙参麦冬汤",
+      "bbox": [
+        1148.0,
+        2169.0,
+        1411.0,
+        2215.0
+      ],
+      "confidence": 0.998869,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "(123～124题共用备选答案）",
+      "bbox": [
+        219.0,
+        2221.0,
+        739.0,
+        2266.0
+      ],
+      "confidence": 0.924306,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 白虎汤",
+      "bbox": [
+        1145.0,
+        2221.0,
+        1329.0,
+        2272.0
+      ],
+      "confidence": 0.998316,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 透脓散",
+      "bbox": [
+        216.0,
+        2275.0,
+        403.0,
+        2326.0
+      ],
+      "confidence": 0.998462,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 新加香薷饮",
+      "bbox": [
+        1145.0,
+        2277.0,
+        1414.0,
+        2327.0
+      ],
+      "confidence": 0.932825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 仙方活命饮",
+      "bbox": [
+        214.0,
+        2329.0,
+        479.0,
+        2379.0
+      ],
+      "confidence": 0.998458,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 凉膈散",
+      "bbox": [
+        1144.0,
+        2331.0,
+        1328.0,
+        2382.0
+      ],
+      "confidence": 0.993798,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 黄连解毒汤",
+      "bbox": [
+        217.0,
+        2387.0,
+        480.0,
+        2433.0
+      ],
+      "confidence": 0.998183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "127. 治疗皮肤黏膜淋巴结综合征卫气同",
+      "bbox": [
+        1145.0,
+        2389.0,
+        1905.0,
+        2437.0
+      ],
+      "confidence": 0.994378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 青蒿鳖甲汤合三妙丸",
+      "bbox": [
+        216.0,
+        2443.0,
+        653.0,
+        2488.0
+      ],
+      "confidence": 0.992971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "病，应首选（)",
+      "bbox": [
+        1063.0,
+        2445.0,
+        1386.0,
+        2491.0
+      ],
+      "confidence": 0.858624,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 草渗湿汤",
+      "bbox": [
+        213.0,
+        2495.0,
+        484.0,
+        2545.0
+      ],
+      "confidence": 0.957622,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "128. 治疗皮肤黏膜淋巴结综合征气阴两",
+      "bbox": [
+        1144.0,
+        2499.0,
+        1904.0,
+        2545.0
+      ],
+      "confidence": 0.994454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "123. 治疗肛痈之火毒炽盛证，应首选(",
+      "bbox": [
+        213.0,
+        2549.0,
+        869.0,
+        2602.0
+      ],
+      "confidence": 0.96365,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "伤，应首选（）",
+      "bbox": [
+        1063.0,
+        2552.0,
+        1389.0,
+        2602.0
+      ],
+      "confidence": 0.905289,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "）",
+      "bbox": [
+        951.0,
+        2562.0,
+        971.0,
+        2590.0
+      ],
+      "confidence": 0.943457,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "124. 治疗肛痈之阴虚毒恋证，应首选(",
+      "bbox": [
+        214.0,
+        2602.0,
+        869.0,
+        2657.0
+      ],
+      "confidence": 0.965443,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "）",
+      "bbox": [
+        947.0,
+        2611.0,
+        977.0,
+        2650.0
+      ],
+      "confidence": 0.962401,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "(129～130题共用备选答案)",
+      "bbox": [
+        1146.0,
+        2607.0,
+        1669.0,
+        2656.0
+      ],
+      "confidence": 0.946137,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "(125～126题共用备选答案)",
+      "bbox": [
+        215.0,
+        2660.0,
+        747.0,
+        2712.0
+      ],
+      "confidence": 0.957824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 自汗为主，头部、肩背部明显",
+      "bbox": [
+        1149.0,
+        2664.0,
+        1702.0,
+        2710.0
+      ],
+      "confidence": 0.98425,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 拔发法",
+      "bbox": [
+        213.0,
+        2717.0,
+        406.0,
+        2771.0
+      ],
+      "confidence": 0.994697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "B. 自汗为主，汗出遍身而不温",
+      "bbox": [
+        1145.0,
+        2719.0,
+        1675.0,
+        2766.0
+      ],
+      "confidence": 0.985359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 敷贴法",
+      "bbox": [
+        212.0,
+        2773.0,
+        401.0,
+        2827.0
+      ],
+      "confidence": 0.996151,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "C. 盗汗为主，手足心热",
+      "bbox": [
+        1146.0,
+        2774.0,
+        1550.0,
+        2822.0
+      ],
+      "confidence": 0.990182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "- 45",
+      "bbox": [
+        923.0,
+        2844.0,
+        1063.0,
+        2892.0
+      ],
+      "confidence": 0.828028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "—",
+      "bbox": [
+        1052.0,
+        2852.0,
+        1117.0,
+        2885.0
+      ],
+      "confidence": 0.564089,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

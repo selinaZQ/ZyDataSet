@@ -1,0 +1,1116 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 35,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        419.77,
+        52.836,
+        538.014,
+        64.276
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 保和丸加减",
+      "bbox": [
+        70.86,
+        84.656,
+        142.57,
+        97.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 柴胡疏肝散加减",
+      "bbox": [
+        335.68,
+        85.196,
+        433.376,
+        97.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 泻心汤合连朴饮加减",
+      "bbox": [
+        70.67,
+        100.695,
+        192.413,
+        113.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        229.12,
+        130.264,
+        367.667,
+        143.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        71.03,
+        208.065,
+        216.473,
+        220.79
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 腹大坚满，胁腹疼痛拒按，烦热口苦，渴",
+      "bbox": [
+        335.45,
+        206.506,
+        556.86,
+        219.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 桑杏汤",
+      "bbox": [
+        70.51,
+        223.196,
+        119.062,
+        235.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "不欲饮",
+      "bbox": [
+        311.0,
+        224.575,
+        346.366,
+        236.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 杏苏散",
+      "bbox": [
+        70.3,
+        239.226,
+        117.879,
+        251.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "127. 瘀结水留型鼓胀可见",
+      "bbox": [
+        336.33,
+        238.736,
+        467.814,
+        250.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "（）",
+      "bbox": [
+        493.5,
+        242.21,
+        501.126,
+        253.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 沙参麦冬汤",
+      "bbox": [
+        70.39,
+        255.265,
+        141.961,
+        267.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "128. 阳虚水盛型鼓胀可见（）",
+      "bbox": [
+        336.27,
+        253.745,
+        502.296,
+        268.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 麦门冬汤",
+      "bbox": [
+        70.25,
+        270.206,
+        130.632,
+        282.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        336.15,
+        270.185,
+        481.7,
+        282.936
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 百合固金汤",
+      "bbox": [
+        70.35,
+        286.626,
+        142.59,
+        298.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 手足抽搐，两目上视",
+      "bbox": [
+        335.14,
+        285.086,
+        455.45,
+        298.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "121. 咳嗽喉痒，痰中带血，口干鼻燥，或身",
+      "bbox": [
+        71.19,
+        301.836,
+        290.18,
+        314.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 肌肉、关节疼痛",
+      "bbox": [
+        335.04,
+        301.136,
+        425.89,
+        314.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "热。舌红少津苔薄黄，脉数。治疗应首",
+      "bbox": [
+        47.45,
+        316.976,
+        287.228,
+        328.836
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 头颈、手足不自主颤动、振摇",
+      "bbox": [
+        334.89,
+        316.886,
+        494.78,
+        329.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "选（）",
+      "bbox": [
+        47.15,
+        333.576,
+        92.286,
+        346.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 肢体痿软，肌肉萎缩",
+      "bbox": [
+        334.94,
+        332.026,
+        451.17,
+        345.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "122. 咳嗽痰少，痰中带血或反复咯血，血",
+      "bbox": [
+        71.34,
+        348.935,
+        290.32,
+        362.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 肢体偏瘫",
+      "bbox": [
+        334.9,
+        347.175,
+        396.431,
+        359.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "色鲜红，口干咽燥。颧红，潮热盗汗，舌质红，",
+      "bbox": [
+        47.66,
+        363.726,
+        292.04,
+        375.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "129. 颤证的主症特点是（）",
+      "bbox": [
+        336.05,
+        362.925,
+        490.83,
+        376.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "脉细数。治疗应首选（）",
+      "bbox": [
+        47.7,
+        380.025,
+        190.106,
+        391.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "130. 瘪痂的主症特点是（）",
+      "bbox": [
+        335.98,
+        378.956,
+        492.099,
+        392.126
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        71.52,
+        394.944,
+        216.593,
+        408.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        335.87,
+        394.215,
+        481.383,
+        407.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 补阳还五汤",
+      "bbox": [
+        70.51,
+        410.376,
+        143.78,
+        423.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "A. 足三里",
+      "bbox": [
+        334.88,
+        410.686,
+        385.003,
+        423.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 血府逐瘀汤",
+      "bbox": [
+        70.45,
+        426.245,
+        142.353,
+        438.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "B. 阳陵泉",
+      "bbox": [
+        334.75,
+        426.696,
+        383.557,
+        438.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 镇肝熄风汤",
+      "bbox": [
+        70.46,
+        441.636,
+        142.359,
+        454.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "C. 悬钟",
+      "bbox": [
+        334.92,
+        441.646,
+        371.465,
+        453.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 地黄饮子",
+      "bbox": [
+        70.42,
+        457.596,
+        131.546,
+        470.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "D. 足临泣",
+      "bbox": [
+        334.75,
+        456.555,
+        384.587,
+        468.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 牵正散",
+      "bbox": [
+        70.72,
+        472.646,
+        119.46,
+        485.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "E. 公孙",
+      "bbox": [
+        334.9,
+        472.696,
+        372.308,
+        485.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "123. 治疗中风半身不遂，气虚络瘀证，应",
+      "bbox": [
+        71.77,
+        487.885,
+        286.884,
+        500.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "131. 八会穴中的筋会穴是0",
+      "bbox": [
+        335.85,
+        486.945,
+        499.345,
+        502.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "首选（）",
+      "bbox": [
+        47.71,
+        504.305,
+        104.92,
+        517.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "132. 八脉交会穴中通带脉的是（）",
+      "bbox": [
+        336.08,
+        502.475,
+        526.993,
+        516.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "124. 治疗中风语言不利，肾精亏虚证，应",
+      "bbox": [
+        71.78,
+        518.755,
+        290.024,
+        531.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "（133～134题共用备选答案）",
+      "bbox": [
+        335.51,
+        519.185,
+        481.329,
+        531.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "首选（）",
+      "bbox": [
+        47.68,
+        535.145,
+        104.966,
+        548.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 藿香正气散",
+      "bbox": [
+        334.65,
+        534.165,
+        409.716,
+        546.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        71.48,
+        550.915,
+        216.446,
+        563.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 不换金正气散",
+      "bbox": [
+        334.93,
+        550.606,
+        420.355,
+        563.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 张仲景",
+      "bbox": [
+        70.84,
+        566.216,
+        119.912,
+        578.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 葛根芩连汤",
+      "bbox": [
+        334.78,
+        565.226,
+        407.302,
+        577.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 刘完素",
+      "bbox": [
+        70.81,
+        581.806,
+        118.058,
+        594.59
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 白头翁汤",
+      "bbox": [
+        334.87,
+        581.195,
+        395.922,
+        593.86
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 喻昌",
+      "bbox": [
+        70.82,
+        598.395,
+        105.12,
+        611.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 芍药汤",
+      "bbox": [
+        334.88,
+        597.156,
+        383.189,
+        609.337
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 朱丹溪",
+      "bbox": [
+        70.34,
+        614.176,
+        118.92,
+        626.57
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "133. 患者泄泻腹痛，泻下急迫，粪色黄褐，",
+      "bbox": [
+        335.9,
+        612.786,
+        553.85,
+        624.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 李中梓",
+      "bbox": [
+        70.67,
+        628.796,
+        118.715,
+        641.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "气味臭秽，肛门灼热，烦热口渴，舌质红，苔黄",
+      "bbox": [
+        310.2,
+        627.206,
+        554.66,
+        638.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "125. “调气则后重自除，行血则便脓自愈”",
+      "bbox": [
+        71.53,
+        644.396,
+        289.63,
+        657.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "腻，脉滑数。治疗应首选（）",
+      "bbox": [
+        310.3,
+        643.386,
+        475.1,
+        656.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "出自哪个医家（）",
+      "bbox": [
+        48.54,
+        660.305,
+        152.713,
+        673.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "134. 患者腹痛拘急，痢下赤白黏冻，白多",
+      "bbox": [
+        336.05,
+        659.426,
+        549.506,
+        671.096
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "126. “逆流挽舟法”出自哪个医家（）",
+      "bbox": [
+        71.5,
+        676.295,
+        274.31,
+        689.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "赤少，里急后重，脘腹胀满，舌苔白腻，脉濡缓。",
+      "bbox": [
+        310.92,
+        675.976,
+        559.39,
+        688.086
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        71.42,
+        692.344,
+        215.889,
+        705.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "治疗应首选（）",
+      "bbox": [
+        310.77,
+        690.885,
+        406.429,
+        704.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 腹大按之不坚，胁下胀满或痛，纳食",
+      "bbox": [
+        70.65,
+        707.116,
+        288.01,
+        720.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "（135～136题共用备选答案）",
+      "bbox": [
+        335.97,
+        707.005,
+        481.219,
+        720.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "减少",
+      "bbox": [
+        47.06,
+        724.246,
+        69.96,
+        735.696
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "A. 脐旁2寸",
+      "bbox": [
+        334.96,
+        723.205,
+        398.179,
+        735.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 腹膨大如鼓，按之坚满，脘闷纳呆",
+      "bbox": [
+        70.47,
+        738.675,
+        252.89,
+        751.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "B. 脐旁4寸",
+      "bbox": [
+        334.96,
+        739.155,
+        396.49,
+        752.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 腹大坚满，青筋暴露，胁腹疼痛，可触及",
+      "bbox": [
+        70.33,
+        754.375,
+        290.88,
+        767.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "C. 脐中下3寸",
+      "bbox": [
+        335.07,
+        754.166,
+        408.603,
+        766.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "肿块",
+      "bbox": [
+        47.74,
+        770.986,
+        70.64,
+        782.436
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "D. 脐上4寸",
+      "bbox": [
+        334.86,
+        769.926,
+        397.581,
+        782.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 腹大胀满，入暮尤甚，面色萎黄或（cid:0）白，",
+      "bbox": [
+        70.36,
+        785.325,
+        290.65,
+        798.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 脐旁0.5寸",
+      "bbox": [
+        334.99,
+        784.455,
+        408.15,
+        797.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "肢冷浮肿",
+      "bbox": [
+        47.69,
+        801.676,
+        93.49,
+        813.126
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "135. 小肠之募穴位于（）",
+      "bbox": [
+        336.12,
+        800.005,
+        480.456,
+        813.995
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "129",
+      "bbox": [
+        289.92,
+        824.437,
+        303.285,
+        833.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

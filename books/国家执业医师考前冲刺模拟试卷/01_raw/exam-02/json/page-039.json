@@ -1,0 +1,1394 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 39,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1416.0,
+        154.0,
+        1792.0,
+        191.0
+      ],
+      "confidence": 0.955303,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "25. 蛇头疗的好发部位是（",
+      "bbox": [
+        295.0,
+        256.0,
+        730.0,
+        303.0
+      ],
+      "confidence": 0.976435,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "）",
+      "bbox": [
+        799.0,
+        264.0,
+        819.0,
+        295.0
+      ],
+      "confidence": 0.538499,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "32. 妊娠足月，胎位下移，腰腹阵痛，有便",
+      "bbox": [
+        1145.0,
+        259.0,
+        1833.0,
+        302.0
+      ],
+      "confidence": 0.968394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 指甲一侧边缘近端",
+      "bbox": [
+        297.0,
+        311.0,
+        659.0,
+        356.0
+      ],
+      "confidence": 0.99607,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "意或见红者，是（",
+      "bbox": [
+        1071.0,
+        316.0,
+        1344.0,
+        358.0
+      ],
+      "confidence": 0.935964,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "）",
+      "bbox": [
+        1411.0,
+        316.0,
+        1441.0,
+        353.0
+      ],
+      "confidence": 0.952284,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 指端",
+      "bbox": [
+        294.0,
+        361.0,
+        429.0,
+        414.0
+      ],
+      "confidence": 0.999388,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 临产",
+      "bbox": [
+        1143.0,
+        364.0,
+        1279.0,
+        417.0
+      ],
+      "confidence": 0.998662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 指腹",
+      "bbox": [
+        295.0,
+        413.0,
+        428.0,
+        467.0
+      ],
+      "confidence": 0.998336,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 试胎",
+      "bbox": [
+        1141.0,
+        418.0,
+        1274.0,
+        470.0
+      ],
+      "confidence": 0.996375,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 手掌",
+      "bbox": [
+        296.0,
+        469.0,
+        428.0,
+        518.0
+      ],
+      "confidence": 0.996771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 弄胎",
+      "bbox": [
+        1141.0,
+        474.0,
+        1275.0,
+        526.0
+      ],
+      "confidence": 0.998082,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 足底",
+      "bbox": [
+        294.0,
+        520.0,
+        428.0,
+        573.0
+      ],
+      "confidence": 0.998704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 分娩",
+      "bbox": [
+        1143.0,
+        530.0,
+        1275.0,
+        579.0
+      ],
+      "confidence": 0.985902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "26. 治疗体表脓肿，实施切开引流的有利",
+      "bbox": [
+        297.0,
+        577.0,
+        992.0,
+        623.0
+      ],
+      "confidence": 0.997649,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 以上均非",
+      "bbox": [
+        1144.0,
+        585.0,
+        1351.0,
+        631.0
+      ],
+      "confidence": 0.999095,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "时机是（）",
+      "bbox": [
+        218.0,
+        627.0,
+        465.0,
+        677.0
+      ],
+      "confidence": 0.812813,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "33. 下列疾病，不会出现妇科血崩证的是",
+      "bbox": [
+        1145.0,
+        641.0,
+        1837.0,
+        686.0
+      ],
+      "confidence": 0.994836,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 肿疡初起",
+      "bbox": [
+        297.0,
+        683.0,
+        503.0,
+        731.0
+      ],
+      "confidence": 0.998856,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "（",
+      "bbox": [
+        1071.0,
+        699.0,
+        1094.0,
+        738.0
+      ],
+      "confidence": 0.402573,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "）",
+      "bbox": [
+        1150.0,
+        696.0,
+        1197.0,
+        741.0
+      ],
+      "confidence": 0.973481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 肿疡溃后",
+      "bbox": [
+        292.0,
+        732.0,
+        501.0,
+        786.0
+      ],
+      "confidence": 0.998977,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 堕胎",
+      "bbox": [
+        1144.0,
+        746.0,
+        1280.0,
+        798.0
+      ],
+      "confidence": 0.996732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 脓肿中央出现透脓点",
+      "bbox": [
+        295.0,
+        789.0,
+        688.0,
+        840.0
+      ],
+      "confidence": 0.998602,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 崩漏",
+      "bbox": [
+        1144.0,
+        803.0,
+        1274.0,
+        852.0
+      ],
+      "confidence": 0.997843,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 溃疡肉芽暗红",
+      "bbox": [
+        295.0,
+        842.0,
+        579.0,
+        892.0
+      ],
+      "confidence": 0.998769,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 经行吐衄",
+      "bbox": [
+        1145.0,
+        859.0,
+        1352.0,
+        905.0
+      ],
+      "confidence": 0.92979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 疮疡肿硬",
+      "bbox": [
+        292.0,
+        893.0,
+        502.0,
+        947.0
+      ],
+      "confidence": 0.999339,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 晚期产后出血",
+      "bbox": [
+        1144.0,
+        910.0,
+        1430.0,
+        960.0
+      ],
+      "confidence": 0.998437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "27. 湿邪所致外科疾病的好发部位是",
+      "bbox": [
+        293.0,
+        949.0,
+        994.0,
+        1005.0
+      ],
+      "confidence": 0.987962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 小产",
+      "bbox": [
+        1144.0,
+        966.0,
+        1277.0,
+        1015.0
+      ],
+      "confidence": 0.997067,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "（",
+      "bbox": [
+        222.0,
+        1010.0,
+        251.0,
+        1050.0
+      ],
+      "confidence": 0.589844,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "）",
+      "bbox": [
+        298.0,
+        1004.0,
+        352.0,
+        1054.0
+      ],
+      "confidence": 0.974386,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "34. 下列哪项是月经先期实证的临床特",
+      "bbox": [
+        1145.0,
+        1020.0,
+        1837.0,
+        1070.0
+      ],
+      "confidence": 0.997649,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 上部",
+      "bbox": [
+        294.0,
+        1054.0,
+        430.0,
+        1110.0
+      ],
+      "confidence": 0.99868,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "点（",
+      "bbox": [
+        1065.0,
+        1074.0,
+        1143.0,
+        1130.0
+      ],
+      "confidence": 0.889466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "）",
+      "bbox": [
+        1133.0,
+        1076.0,
+        1235.0,
+        1126.0
+      ],
+      "confidence": 0.769471,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 下部",
+      "bbox": [
+        292.0,
+        1106.0,
+        426.0,
+        1163.0
+      ],
+      "confidence": 0.998051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 月经量多",
+      "bbox": [
+        1145.0,
+        1131.0,
+        1356.0,
+        1179.0
+      ],
+      "confidence": 0.997506,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 中部",
+      "bbox": [
+        292.0,
+        1159.0,
+        426.0,
+        1216.0
+      ],
+      "confidence": 0.998718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 月经色淡",
+      "bbox": [
+        1145.0,
+        1188.0,
+        1351.0,
+        1234.0
+      ],
+      "confidence": 0.998138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 上肢",
+      "bbox": [
+        291.0,
+        1214.0,
+        428.0,
+        1270.0
+      ],
+      "confidence": 0.998232,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 月经质稀",
+      "bbox": [
+        1145.0,
+        1240.0,
+        1351.0,
+        1290.0
+      ],
+      "confidence": 0.998745,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 背部",
+      "bbox": [
+        291.0,
+        1268.0,
+        426.0,
+        1325.0
+      ],
+      "confidence": 0.998787,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 舌淡，脉弱",
+      "bbox": [
+        1146.0,
+        1296.0,
+        1372.0,
+        1343.0
+      ],
+      "confidence": 0.995975,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "28. 下列关于刀晕的处理，错误的是",
+      "bbox": [
+        295.0,
+        1327.0,
+        994.0,
+        1377.0
+      ],
+      "confidence": 0.995557,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 月经提前7天",
+      "bbox": [
+        1148.0,
+        1354.0,
+        1426.0,
+        1396.0
+      ],
+      "confidence": 0.979322,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "（",
+      "bbox": [
+        220.0,
+        1384.0,
+        250.0,
+        1424.0
+      ],
+      "confidence": 0.698265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        303.0,
+        1380.0,
+        347.0,
+        1427.0
+      ],
+      "confidence": 0.9681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "35. 关于子宫脱垂，下列哪项是正确的",
+      "bbox": [
+        1148.0,
+        1408.0,
+        1835.0,
+        1453.0
+      ],
+      "confidence": 0.996909,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 刀晕轻症，只要扶持患者安静平卧，室",
+      "bbox": [
+        295.0,
+        1431.0,
+        993.0,
+        1483.0
+      ],
+      "confidence": 0.993482,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "（",
+      "bbox": [
+        1070.0,
+        1464.0,
+        1098.0,
+        1507.0
+      ],
+      "confidence": 0.642272,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "）",
+      "bbox": [
+        1155.0,
+        1462.0,
+        1197.0,
+        1508.0
+      ],
+      "confidence": 0.973575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "溫保暖即可",
+      "bbox": [
+        219.0,
+        1485.0,
+        417.0,
+        1535.0
+      ],
+      "confidence": 0.956073,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. Ⅰ度：宫颈已脱出阴道口，宫体仍在阴",
+      "bbox": [
+        1150.0,
+        1519.0,
+        1833.0,
+        1564.0
+      ],
+      "confidence": 0.959891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 头位稍低，安静卧床",
+      "bbox": [
+        294.0,
+        1542.0,
+        671.0,
+        1587.0
+      ],
+      "confidence": 0.994105,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "道内",
+      "bbox": [
+        1066.0,
+        1569.0,
+        1155.0,
+        1622.0
+      ],
+      "confidence": 0.811582,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 给饮开水或糖水",
+      "bbox": [
+        296.0,
+        1594.0,
+        615.0,
+        1639.0
+      ],
+      "confidence": 0.997181,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 病因多为气虚、血虚、肾虚",
+      "bbox": [
+        1145.0,
+        1626.0,
+        1617.0,
+        1674.0
+      ],
+      "confidence": 0.99789,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 灸百会、水沟或刺合谷、少商等穴救治",
+      "bbox": [
+        295.0,
+        1648.0,
+        962.0,
+        1695.0
+      ],
+      "confidence": 0.998462,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 中医文献又称为“产肠不收、葫芦颓”",
+      "bbox": [
+        1146.0,
+        1682.0,
+        1804.0,
+        1729.0
+      ],
+      "confidence": 0.974795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 应迅速做完手术，进行急救",
+      "bbox": [
+        296.0,
+        1701.0,
+        787.0,
+        1746.0
+      ],
+      "confidence": 0.98477,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. Ⅲ度：宫颈及部分宫体已脱出阴道口",
+      "bbox": [
+        1146.0,
+        1736.0,
+        1787.0,
+        1781.0
+      ],
+      "confidence": 0.958771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "29. 有头疽好发于（）",
+      "bbox": [
+        296.0,
+        1754.0,
+        709.0,
+        1799.0
+      ],
+      "confidence": 0.9413,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 子宫托仅适用于Ⅰ度子宫脱垂者",
+      "bbox": [
+        1145.0,
+        1791.0,
+        1731.0,
+        1839.0
+      ],
+      "confidence": 0.993004,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 项后背部",
+      "bbox": [
+        296.0,
+        1807.0,
+        504.0,
+        1854.0
+      ],
+      "confidence": 0.999321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "36. 妊娠期瘀阻胎元，使用活血化瘀药的",
+      "bbox": [
+        1145.0,
+        1847.0,
+        1833.0,
+        1893.0
+      ],
+      "confidence": 0.99359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 面部",
+      "bbox": [
+        292.0,
+        1859.0,
+        425.0,
+        1912.0
+      ],
+      "confidence": 0.999596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "原则是（）",
+      "bbox": [
+        1067.0,
+        1899.0,
+        1316.0,
+        1949.0
+      ],
+      "confidence": 0.915028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 四肢部",
+      "bbox": [
+        295.0,
+        1914.0,
+        460.0,
+        1962.0
+      ],
+      "confidence": 0.99755,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 臀部",
+      "bbox": [
+        294.0,
+        1964.0,
+        429.0,
+        2016.0
+      ],
+      "confidence": 0.998685,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 治病与安胎并举",
+      "bbox": [
+        1146.0,
+        1957.0,
+        1468.0,
+        2002.0
+      ],
+      "confidence": 0.999535,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "B. 衰其大半而止",
+      "bbox": [
+        1144.0,
+        2009.0,
+        1425.0,
+        2058.0
+      ],
+      "confidence": 0.998412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 颈前两侧",
+      "bbox": [
+        295.0,
+        2019.0,
+        500.0,
+        2069.0
+      ],
+      "confidence": 0.998882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "C. 禁止使用",
+      "bbox": [
+        1142.0,
+        2061.0,
+        1352.0,
+        2115.0
+      ],
+      "confidence": 0.99903,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "30. 不属清热法适应证的是（",
+      "bbox": [
+        298.0,
+        2077.0,
+        765.0,
+        2119.0
+      ],
+      "confidence": 0.98733,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "）",
+      "bbox": [
+        837.0,
+        2080.0,
+        860.0,
+        2116.0
+      ],
+      "confidence": 0.699242,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 病去即止",
+      "bbox": [
+        1142.0,
+        2116.0,
+        1352.0,
+        2170.0
+      ],
+      "confidence": 0.999281,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 热毒内传之走黄内陷",
+      "bbox": [
+        298.0,
+        2128.0,
+        698.0,
+        2174.0
+      ],
+      "confidence": 0.998551,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 慎用",
+      "bbox": [
+        1141.0,
+        2171.0,
+        1277.0,
+        2223.0
+      ],
+      "confidence": 0.997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 药物性皮炎皮损色红灼热",
+      "bbox": [
+        296.0,
+        2182.0,
+        769.0,
+        2227.0
+      ],
+      "confidence": 0.998632,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 疮疡溃后脓出不畅",
+      "bbox": [
+        297.0,
+        2236.0,
+        655.0,
+        2281.0
+      ],
+      "confidence": 0.998294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "37. 下列各项，属经行感冒常见病因的是（",
+      "bbox": [
+        1145.0,
+        2230.0,
+        1753.0,
+        2273.0
+      ],
+      "confidence": 0.959337,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "）",
+      "bbox": [
+        1809.0,
+        2234.0,
+        1835.0,
+        2266.0
+      ],
+      "confidence": 0.990842,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "D. 流痰后期，阴虚火旺，虚热不退者",
+      "bbox": [
+        295.0,
+        2287.0,
+        887.0,
+        2336.0
+      ],
+      "confidence": 0.994707,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 风",
+      "bbox": [
+        1143.0,
+        2281.0,
+        1241.0,
+        2332.0
+      ],
+      "confidence": 0.996656,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 局部红、肿、热、痛",
+      "bbox": [
+        296.0,
+        2343.0,
+        640.0,
+        2388.0
+      ],
+      "confidence": 0.996694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 寒",
+      "bbox": [
+        1141.0,
+        2334.0,
+        1236.0,
+        2387.0
+      ],
+      "confidence": 0.995628,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "31. 下列各项，不属人工流产并发症的",
+      "bbox": [
+        296.0,
+        2395.0,
+        994.0,
+        2443.0
+      ],
+      "confidence": 0.996079,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 暑",
+      "bbox": [
+        1141.0,
+        2389.0,
+        1236.0,
+        2442.0
+      ],
+      "confidence": 0.994859,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "是（",
+      "bbox": [
+        214.0,
+        2448.0,
+        292.0,
+        2501.0
+      ],
+      "confidence": 0.837378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "）",
+      "bbox": [
+        298.0,
+        2449.0,
+        390.0,
+        2500.0
+      ],
+      "confidence": 0.846569,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "D. 湿",
+      "bbox": [
+        1141.0,
+        2444.0,
+        1238.0,
+        2495.0
+      ],
+      "confidence": 0.992644,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "A. 人流综合征",
+      "bbox": [
+        297.0,
+        2504.0,
+        548.0,
+        2552.0
+      ],
+      "confidence": 0.998483,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "E. 燥",
+      "bbox": [
+        1140.0,
+        2497.0,
+        1237.0,
+        2552.0
+      ],
+      "confidence": 0.99248,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "B. 子宫穿孔",
+      "bbox": [
+        296.0,
+        2558.0,
+        504.0,
+        2605.0
+      ],
+      "confidence": 0.998315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "38. 患者宫颈脱出阴道口，宫体仍在阴道",
+      "bbox": [
+        1148.0,
+        2558.0,
+        1837.0,
+        2599.0
+      ],
+      "confidence": 0.996652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "C. 人流后宫缩不良",
+      "bbox": [
+        296.0,
+        2611.0,
+        620.0,
+        2660.0
+      ],
+      "confidence": 0.996744,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "内，为（",
+      "bbox": [
+        1071.0,
+        2610.0,
+        1201.0,
+        2657.0
+      ],
+      "confidence": 0.868855,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "D. 人流不全",
+      "bbox": [
+        296.0,
+        2667.0,
+        510.0,
+        2714.0
+      ],
+      "confidence": 0.998767,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "A. 子宫脱垂Ⅰ度轻型",
+      "bbox": [
+        1147.0,
+        2664.0,
+        1505.0,
+        2710.0
+      ],
+      "confidence": 0.997061,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "E. 人流术后感染",
+      "bbox": [
+        293.0,
+        2718.0,
+        584.0,
+        2771.0
+      ],
+      "confidence": 0.998851,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "B. 子宫脱垂Ⅰ度重型",
+      "bbox": [
+        1146.0,
+        2721.0,
+        1498.0,
+        2762.0
+      ],
+      "confidence": 0.993491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "85",
+      "bbox": [
+        1009.0,
+        2786.0,
+        1059.0,
+        2829.0
+      ],
+      "confidence": 0.999738,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 105,
+      "text": "—",
+      "bbox": [
+        1063.0,
+        2790.0,
+        1118.0,
+        2823.0
+      ],
+      "confidence": 0.483039,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

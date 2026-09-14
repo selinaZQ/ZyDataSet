@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 29,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        420.2,
+        45.793,
+        538.642,
+        57.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "53. 按十二经脉的流注次序，肝经向下流",
+      "bbox": [
+        69.2,
+        76.671,
+        289.143,
+        88.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "穴位（）",
+      "bbox": [
+        312.52,
+        76.771,
+        372.016,
+        90.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "注的经脉是（）",
+      "bbox": [
+        46.5,
+        92.191,
+        140.579,
+        105.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A. 脾俞、胃俞",
+      "bbox": [
+        336.96,
+        93.003,
+        406.91,
+        106.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 膀胱经",
+      "bbox": [
+        69.62,
+        109.271,
+        120.079,
+        122.506
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 胃俞、太白",
+      "bbox": [
+        336.8,
+        109.003,
+        406.84,
+        122.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 胆经",
+      "bbox": [
+        69.53,
+        125.591,
+        105.967,
+        138.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 胃俞、足三里",
+      "bbox": [
+        336.61,
+        125.113,
+        418.68,
+        138.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 三焦经",
+      "bbox": [
+        69.25,
+        141.662,
+        118.631,
+        154.694
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 脾俞、中脘",
+      "bbox": [
+        336.57,
+        141.043,
+        406.48,
+        154.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 心经",
+      "bbox": [
+        69.17,
+        158.341,
+        107.053,
+        171.366
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 胃俞、中脘",
+      "bbox": [
+        337.02,
+        156.823,
+        406.97,
+        170.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 肺经",
+      "bbox": [
+        69.41,
+        174.641,
+        106.442,
+        187.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "61. 治疗瘾疹的主穴是（）",
+      "bbox": [
+        336.93,
+        173.002,
+        488.799,
+        184.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "54. 膀胱经的合穴是（）",
+      "bbox": [
+        69.11,
+        190.682,
+        207.333,
+        202.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 曲池、合谷、血海、膈俞、委中",
+      "bbox": [
+        336.89,
+        189.483,
+        511.69,
+        202.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 上巨虚",
+      "bbox": [
+        69.22,
+        206.692,
+        119.85,
+        219.597
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 曲池、太冲、大椎、风池、中脘",
+      "bbox": [
+        336.9,
+        206.313,
+        511.09,
+        219.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 下巨虚",
+      "bbox": [
+        69.39,
+        223.752,
+        117.799,
+        237.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 大椎、太冲、血海、内庭、三阴交",
+      "bbox": [
+        336.9,
+        222.164,
+        521.85,
+        235.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 足三里",
+      "bbox": [
+        69.0,
+        240.002,
+        118.352,
+        252.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 血海、内庭、气海、天枢、足三里",
+      "bbox": [
+        336.69,
+        237.983,
+        523.28,
+        251.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 委阳",
+      "bbox": [
+        69.14,
+        255.672,
+        105.58,
+        268.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 外关、风池、大椎、膈俞、三阴交",
+      "bbox": [
+        337.06,
+        254.403,
+        521.63,
+        267.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 委中",
+      "bbox": [
+        69.3,
+        271.772,
+        104.964,
+        285.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "62. 十二经脉中，多气多血之经是（）",
+      "bbox": [
+        337.25,
+        271.173,
+        542.969,
+        284.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "55. 髀枢至膝中的骨度分寸是（）",
+      "bbox": [
+        69.26,
+        288.342,
+        258.309,
+        300.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 足厥阴肝经",
+      "bbox": [
+        337.19,
+        288.092,
+        412.146,
+        300.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 14寸",
+      "bbox": [
+        69.47,
+        304.922,
+        110.96,
+        316.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 足太阳膀胱经",
+      "bbox": [
+        337.04,
+        304.633,
+        422.593,
+        317.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 15寸",
+      "bbox": [
+        69.15,
+        320.922,
+        109.4,
+        332.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 手阳明大肠经",
+      "bbox": [
+        336.86,
+        320.632,
+        423.038,
+        333.726
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 16寸",
+      "bbox": [
+        69.44,
+        336.692,
+        110.06,
+        348.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 足少阳胆经",
+      "bbox": [
+        336.63,
+        336.722,
+        411.607,
+        349.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 18寸",
+      "bbox": [
+        69.1,
+        352.832,
+        110.44,
+        364.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 手少阴心经",
+      "bbox": [
+        336.75,
+        353.092,
+        410.43,
+        365.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 19寸",
+      "bbox": [
+        69.34,
+        369.301,
+        110.72,
+        381.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "63. 手三里位于阳溪穴与曲池穴连线上，",
+      "bbox": [
+        336.9,
+        368.192,
+        559.68,
+        380.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "56. 外邪由皮毛传入脏腑的途径，依次是（）",
+      "bbox": [
+        69.4,
+        385.743,
+        287.603,
+        399.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "曲池穴下（）",
+      "bbox": [
+        313.88,
+        385.173,
+        395.966,
+        398.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 络脉→孙脉→经脉",
+      "bbox": [
+        69.22,
+        400.282,
+        182.861,
+        412.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 5寸",
+      "bbox": [
+        337.06,
+        400.812,
+        373.0,
+        412.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 孙脉→经脉→络脉",
+      "bbox": [
+        69.39,
+        416.321,
+        180.765,
+        428.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 4寸",
+      "bbox": [
+        336.61,
+        418.252,
+        371.4,
+        430.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 经脉→孙脉→络脉",
+      "bbox": [
+        69.36,
+        432.632,
+        181.344,
+        445.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 3寸",
+      "bbox": [
+        336.55,
+        433.932,
+        371.22,
+        445.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 络脉→经脉→孙脉",
+      "bbox": [
+        68.98,
+        448.281,
+        181.849,
+        460.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 2寸",
+      "bbox": [
+        336.45,
+        449.902,
+        371.85,
+        462.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 孙脉→络脉→经脉",
+      "bbox": [
+        69.28,
+        464.651,
+        181.32,
+        477.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 1寸",
+      "bbox": [
+        336.77,
+        464.782,
+        371.2,
+        476.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "57. 脾之大络,名为（）",
+      "bbox": [
+        69.63,
+        480.462,
+        202.736,
+        492.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "64. 临床上治疗实、热、痛、瘀证首选（）",
+      "bbox": [
+        336.77,
+        481.813,
+        543.229,
+        493.503
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 天池",
+      "bbox": [
+        69.4,
+        497.831,
+        108.555,
+        510.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 艾灸法",
+      "bbox": [
+        336.79,
+        498.152,
+        386.898,
+        511.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 俞府",
+      "bbox": [
+        69.31,
+        513.671,
+        106.792,
+        526.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 耳针疗法",
+      "bbox": [
+        336.7,
+        513.652,
+        398.016,
+        526.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 鸠尾",
+      "bbox": [
+        69.36,
+        530.721,
+        106.508,
+        543.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 头针疗法",
+      "bbox": [
+        336.87,
+        529.672,
+        398.435,
+        542.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 大包",
+      "bbox": [
+        69.22,
+        546.691,
+        107.355,
+        559.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 三棱针疗法",
+      "bbox": [
+        336.6,
+        545.702,
+        410.727,
+        558.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "E. 虚里",
+      "bbox": [
+        69.22,
+        562.581,
+        106.385,
+        575.536
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 皮肤针疗法",
+      "bbox": [
+        336.87,
+        563.142,
+        410.453,
+        575.827
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "58. 八会穴中的髓会穴是（）",
+      "bbox": [
+        69.26,
+        578.081,
+        238.309,
+        589.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "65. 下合穴中可治疗肠痈、痢疾的是（）",
+      "bbox": [
+        336.88,
+        578.643,
+        544.006,
+        590.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 阳陵泉",
+      "bbox": [
+        69.0,
+        595.652,
+        119.95,
+        608.605
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 足三里",
+      "bbox": [
+        336.82,
+        594.742,
+        387.607,
+        607.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 悬钟",
+      "bbox": [
+        69.0,
+        611.621,
+        105.671,
+        624.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 上巨虚",
+      "bbox": [
+        336.81,
+        611.813,
+        385.293,
+        625.142
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 太渊",
+      "bbox": [
+        68.93,
+        628.292,
+        105.717,
+        641.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 下巨虚",
+      "bbox": [
+        337.01,
+        628.123,
+        385.976,
+        641.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 膻中",
+      "bbox": [
+        68.78,
+        644.221,
+        105.24,
+        657.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 委中",
+      "bbox": [
+        336.93,
+        643.663,
+        372.82,
+        656.673
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 中脘",
+      "bbox": [
+        69.39,
+        661.142,
+        106.928,
+        674.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 阳陵泉",
+      "bbox": [
+        336.74,
+        659.833,
+        385.971,
+        672.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "59. 下列各组腧穴中，相距不是1寸的是",
+      "bbox": [
+        69.27,
+        677.091,
+        288.127,
+        689.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "66. 有关针灸治疗蛇串疮，叙述不正确的",
+      "bbox": [
+        337.15,
+        675.891,
+        553.995,
+        687.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "（）",
+      "bbox": [
+        46.74,
+        694.872,
+        79.833,
+        706.682
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "是（）",
+      "bbox": [
+        312.4,
+        693.595,
+        359.633,
+        705.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 中极、关元",
+      "bbox": [
+        69.47,
+        709.742,
+        139.302,
+        721.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 治以泻火解毒，清热利湿",
+      "bbox": [
+        337.07,
+        709.243,
+        479.57,
+        720.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 下脘、中脘",
+      "bbox": [
+        69.33,
+        725.422,
+        139.03,
+        738.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 以局部阿是穴、夹脊为主穴",
+      "bbox": [
+        336.93,
+        726.272,
+        489.61,
+        739.732
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 中脘、上脘",
+      "bbox": [
+        69.46,
+        742.332,
+        139.29,
+        755.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 疱疹局部阿是穴用围刺法",
+      "bbox": [
+        336.88,
+        742.102,
+        484.358,
+        755.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "D. 内关、间使",
+      "bbox": [
+        69.53,
+        758.392,
+        140.56,
+        771.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 对出现的疱疹不能用三棱针点刺",
+      "bbox": [
+        336.76,
+        758.132,
+        520.847,
+        771.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 外关、支沟",
+      "bbox": [
+        69.79,
+        774.392,
+        138.3,
+        787.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 后遗神经痛者可在局部用皮肤针",
+      "bbox": [
+        337.11,
+        774.102,
+        520.92,
+        787.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "60. 用俞募配穴法治疗胃病应选下列哪组",
+      "bbox": [
+        69.75,
+        790.172,
+        288.257,
+        802.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "123一",
+      "bbox": [
+        291.89,
+        813.796,
+        324.61,
+        822.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

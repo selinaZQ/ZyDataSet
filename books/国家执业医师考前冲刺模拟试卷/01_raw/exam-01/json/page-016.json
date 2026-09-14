@@ -1,0 +1,1355 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 16,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        172.0,
+        91.0,
+        587.0,
+        129.0
+      ],
+      "confidence": 0.998402,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        637.0,
+        91.0,
+        882.0,
+        133.0
+      ],
+      "confidence": 0.999761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 氯化钾",
+      "bbox": [
+        246.0,
+        203.0,
+        426.0,
+        251.0
+      ],
+      "confidence": 0.99697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "B. 陌生人之间的关系",
+      "bbox": [
+        1178.0,
+        203.0,
+        1570.0,
+        255.0
+      ],
+      "confidence": 0.998845,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "49. 下列有关国家对传染病防治的方针与",
+      "bbox": [
+        248.0,
+        262.0,
+        1006.0,
+        305.0
+      ],
+      "confidence": 0.998086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "C. 主动一被动关系",
+      "bbox": [
+        1178.0,
+        261.0,
+        1530.0,
+        311.0
+      ],
+      "confidence": 0.986915,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "办法最恰当的提法是（)",
+      "bbox": [
+        168.0,
+        319.0,
+        677.0,
+        361.0
+      ],
+      "confidence": 0.925385,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "D. 类似父（母）子间的关系",
+      "bbox": [
+        1178.0,
+        318.0,
+        1657.0,
+        366.0
+      ],
+      "confidence": 0.928557,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 预防为主、防治结合、统一管理",
+      "bbox": [
+        252.0,
+        378.0,
+        850.0,
+        415.0
+      ],
+      "confidence": 0.99426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "E. 商品关系",
+      "bbox": [
+        1178.0,
+        375.0,
+        1400.0,
+        422.0
+      ],
+      "confidence": 0.998547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 预防为主、防治结合、分类管理",
+      "bbox": [
+        249.0,
+        433.0,
+        847.0,
+        474.0
+      ],
+      "confidence": 0.997371,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "56. 生命价值论指的是()",
+      "bbox": [
+        1178.0,
+        429.0,
+        1715.0,
+        478.0
+      ],
+      "confidence": 0.951541,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 预防为主、防治结合、分级管理",
+      "bbox": [
+        247.0,
+        485.0,
+        849.0,
+        532.0
+      ],
+      "confidence": 0.997802,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 生命神圣与人道论的统一",
+      "bbox": [
+        1178.0,
+        484.0,
+        1704.0,
+        535.0
+      ],
+      "confidence": 0.997917,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 预防为主、防治结合、分片管理",
+      "bbox": [
+        249.0,
+        543.0,
+        850.0,
+        588.0
+      ],
+      "confidence": 0.990167,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 生命神圣与生命质量的统一",
+      "bbox": [
+        1178.0,
+        542.0,
+        1741.0,
+        591.0
+      ],
+      "confidence": 0.997777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 预防为主、防治结合、层级管理",
+      "bbox": [
+        249.0,
+        602.0,
+        848.0,
+        643.0
+      ],
+      "confidence": 0.997725,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 美德论与义务论的统一",
+      "bbox": [
+        1178.0,
+        598.0,
+        1659.0,
+        647.0
+      ],
+      "confidence": 0.996601,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "50. 下列各项，不属于传染病诊治工作道",
+      "bbox": [
+        246.0,
+        654.0,
+        1009.0,
+        706.0
+      ],
+      "confidence": 0.99548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 生命质量与生命价值论的统一",
+      "bbox": [
+        1178.0,
+        655.0,
+        1787.0,
+        704.0
+      ],
+      "confidence": 0.999145,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "德要求的是（)",
+      "bbox": [
+        164.0,
+        710.0,
+        512.0,
+        760.0
+      ],
+      "confidence": 0.86537,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 义务论与公益论的统一",
+      "bbox": [
+        1179.0,
+        714.0,
+        1658.0,
+        759.0
+      ],
+      "confidence": 0.998045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 重视消毒隔离",
+      "bbox": [
+        246.0,
+        767.0,
+        557.0,
+        816.0
+      ],
+      "confidence": 0.997589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "57. 在临床医学研究中要求对资料保密，",
+      "bbox": [
+        1177.0,
+        766.0,
+        1944.0,
+        821.0
+      ],
+      "confidence": 0.99773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 遵守国家相关法律",
+      "bbox": [
+        247.0,
+        827.0,
+        633.0,
+        869.0
+      ],
+      "confidence": 0.999068,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "以下哪一点是不属于该范畴的（",
+      "bbox": [
+        1097.0,
+        826.0,
+        1681.0,
+        874.0
+      ],
+      "confidence": 0.992252,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "(）",
+      "bbox": [
+        1662.0,
+        826.0,
+        1789.0,
+        874.0
+      ],
+      "confidence": 0.531945,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 合理使用医疗资源",
+      "bbox": [
+        246.0,
+        881.0,
+        636.0,
+        930.0
+      ],
+      "confidence": 0.9997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 对研究资料严加保密",
+      "bbox": [
+        1180.0,
+        883.0,
+        1621.0,
+        930.0
+      ],
+      "confidence": 0.998888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 具有无私奉献精神",
+      "bbox": [
+        246.0,
+        939.0,
+        637.0,
+        984.0
+      ],
+      "confidence": 0.997542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 对研究成果严加保密",
+      "bbox": [
+        1179.0,
+        941.0,
+        1616.0,
+        986.0
+      ],
+      "confidence": 0.999379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 严格疫情报告制度",
+      "bbox": [
+        247.0,
+        997.0,
+        635.0,
+        1038.0
+      ],
+      "confidence": 0.998894,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 医师与患者之间的保密",
+      "bbox": [
+        1179.0,
+        993.0,
+        1659.0,
+        1043.0
+      ],
+      "confidence": 0.960644,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "51. 下列哪项符合二度Ⅰ型房室传导阻滞",
+      "bbox": [
+        246.0,
+        1051.0,
+        1009.0,
+        1100.0
+      ],
+      "confidence": 0.988939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 研究者与受试者之间的保密",
+      "bbox": [
+        1178.0,
+        1048.0,
+        1746.0,
+        1101.0
+      ],
+      "confidence": 0.999522,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "的心电图表现（)",
+      "bbox": [
+        164.0,
+        1106.0,
+        557.0,
+        1154.0
+      ],
+      "confidence": 0.939769,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 研究者与双盲对象之间的保密",
+      "bbox": [
+        1178.0,
+        1104.0,
+        1785.0,
+        1159.0
+      ],
+      "confidence": 0.999452,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. P-P间期及P-R间期均不等",
+      "bbox": [
+        246.0,
+        1160.0,
+        811.0,
+        1212.0
+      ],
+      "confidence": 0.997722,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "58. 医德范畴审慎主要是指()",
+      "bbox": [
+        1180.0,
+        1165.0,
+        1800.0,
+        1213.0
+      ],
+      "confidence": 0.949776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 相邻的P-P间期进行性缩短",
+      "bbox": [
+        245.0,
+        1217.0,
+        808.0,
+        1267.0
+      ],
+      "confidence": 0.998461,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 对自己行为是否符合道德准则的自我",
+      "bbox": [
+        1182.0,
+        1219.0,
+        1944.0,
+        1272.0
+      ],
+      "confidence": 0.995419,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 包含受阻P波在内的R-R间期小于正",
+      "bbox": [
+        246.0,
+        1273.0,
+        1011.0,
+        1327.0
+      ],
+      "confidence": 0.981557,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "评定",
+      "bbox": [
+        1088.0,
+        1271.0,
+        1189.0,
+        1332.0
+      ],
+      "confidence": 0.999407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "常P-P间期的两倍",
+      "bbox": [
+        166.0,
+        1333.0,
+        507.0,
+        1379.0
+      ],
+      "confidence": 0.995169,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 医务人员理性上自尊的表现",
+      "bbox": [
+        1180.0,
+        1337.0,
+        1740.0,
+        1382.0
+      ],
+      "confidence": 0.999544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 最常见的传导比例为2:1",
+      "bbox": [
+        244.0,
+        1385.0,
+        755.0,
+        1436.0
+      ],
+      "confidence": 0.966877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 对患者高度负责的精神和严谨的科学",
+      "bbox": [
+        1183.0,
+        1391.0,
+        1943.0,
+        1438.0
+      ],
+      "confidence": 0.999082,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 受阻P波前的一个P-R间期延长",
+      "bbox": [
+        245.0,
+        1442.0,
+        902.0,
+        1493.0
+      ],
+      "confidence": 0.993794,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "作风",
+      "bbox": [
+        1091.0,
+        1443.0,
+        1190.0,
+        1497.0
+      ],
+      "confidence": 0.99827,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "52. 急性化脓性骨髓炎骨改变的X线表现",
+      "bbox": [
+        245.0,
+        1500.0,
+        1011.0,
+        1551.0
+      ],
+      "confidence": 0.989288,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 医务人员在道德上应该履行的职责",
+      "bbox": [
+        1182.0,
+        1506.0,
+        1870.0,
+        1551.0
+      ],
+      "confidence": 0.999417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "在发病多长时间可出现（)",
+      "bbox": [
+        164.0,
+        1557.0,
+        721.0,
+        1602.0
+      ],
+      "confidence": 0.930183,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 医务人员对自己和他人行为之间关系",
+      "bbox": [
+        1182.0,
+        1561.0,
+        1943.0,
+        1606.0
+      ],
+      "confidence": 0.994875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 即刻",
+      "bbox": [
+        244.0,
+        1609.0,
+        391.0,
+        1662.0
+      ],
+      "confidence": 0.998437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "的内心体验",
+      "bbox": [
+        1096.0,
+        1613.0,
+        1313.0,
+        1663.0
+      ],
+      "confidence": 0.999056,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 3天内",
+      "bbox": [
+        242.0,
+        1667.0,
+        413.0,
+        1714.0
+      ],
+      "confidence": 0.995292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "59. 医德评价中最普遍、最重要的一种方",
+      "bbox": [
+        1179.0,
+        1672.0,
+        1943.0,
+        1720.0
+      ],
+      "confidence": 0.998376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 3～7天",
+      "bbox": [
+        243.0,
+        1721.0,
+        435.0,
+        1772.0
+      ],
+      "confidence": 0.970736,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "式是（",
+      "bbox": [
+        1094.0,
+        1725.0,
+        1238.0,
+        1774.0
+      ],
+      "confidence": 0.977742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "）",
+      "bbox": [
+        1216.0,
+        1728.0,
+        1320.0,
+        1773.0
+      ],
+      "confidence": 0.767585,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 1～2周",
+      "bbox": [
+        244.0,
+        1779.0,
+        436.0,
+        1826.0
+      ],
+      "confidence": 0.977734,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 社会舆论",
+      "bbox": [
+        1180.0,
+        1781.0,
+        1408.0,
+        1831.0
+      ],
+      "confidence": 0.996992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 2周以上",
+      "bbox": [
+        242.0,
+        1835.0,
+        455.0,
+        1885.0
+      ],
+      "confidence": 0.975383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 内心信念",
+      "bbox": [
+        1179.0,
+        1837.0,
+        1404.0,
+        1886.0
+      ],
+      "confidence": 0.991006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "53. 下列各项，不属中国古代医德思想内",
+      "bbox": [
+        245.0,
+        1892.0,
+        1009.0,
+        1943.0
+      ],
+      "confidence": 0.993631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 传统习俗",
+      "bbox": [
+        1180.0,
+        1893.0,
+        1405.0,
+        1943.0
+      ],
+      "confidence": 0.99891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "容的是（)",
+      "bbox": [
+        159.0,
+        1944.0,
+        427.0,
+        1997.0
+      ],
+      "confidence": 0.869969,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 幸福指数",
+      "bbox": [
+        1179.0,
+        1949.0,
+        1407.0,
+        1999.0
+      ],
+      "confidence": 0.999312,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 救死扶伤、一视同仁的道德准则",
+      "bbox": [
+        246.0,
+        2004.0,
+        875.0,
+        2054.0
+      ],
+      "confidence": 0.986089,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 医德荣誉",
+      "bbox": [
+        1179.0,
+        2005.0,
+        1405.0,
+        2055.0
+      ],
+      "confidence": 0.99927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 仁爱救人、赤诚济世的事业准则",
+      "bbox": [
+        245.0,
+        2061.0,
+        869.0,
+        2110.0
+      ],
+      "confidence": 0.994341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "60. 受理申请医师注册的卫生健康主管",
+      "bbox": [
+        1182.0,
+        2064.0,
+        1941.0,
+        2111.0
+      ],
+      "confidence": 0.999303,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 清廉正直、不图钱财的道德品质",
+      "bbox": [
+        247.0,
+        2117.0,
+        871.0,
+        2169.0
+      ],
+      "confidence": 0.994846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "部门对不符合条件不予注册的，应当自受理",
+      "bbox": [
+        1099.0,
+        2124.0,
+        1941.0,
+        2169.0
+      ],
+      "confidence": 0.992273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 认真负责、一丝不苟的服务态度",
+      "bbox": [
+        246.0,
+        2172.0,
+        874.0,
+        2226.0
+      ],
+      "confidence": 0.996866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "申请之日起多少日内书面通知申请人，并说",
+      "bbox": [
+        1098.0,
+        2176.0,
+        1941.0,
+        2227.0
+      ],
+      "confidence": 0.989057,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 不畏权贵、忠于医业的献身精神",
+      "bbox": [
+        246.0,
+        2229.0,
+        871.0,
+        2281.0
+      ],
+      "confidence": 0.995111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "明理由（",
+      "bbox": [
+        1099.0,
+        2234.0,
+        1289.0,
+        2282.0
+      ],
+      "confidence": 0.984644,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "54. 伤寒菌血液培养，阳性率最高的时间",
+      "bbox": [
+        246.0,
+        2287.0,
+        1014.0,
+        2341.0
+      ],
+      "confidence": 0.995153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 15日",
+      "bbox": [
+        1182.0,
+        2290.0,
+        1330.0,
+        2334.0
+      ],
+      "confidence": 0.998928,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "是（",
+      "bbox": [
+        158.0,
+        2339.0,
+        240.0,
+        2394.0
+      ],
+      "confidence": 0.798919,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "）",
+      "bbox": [
+        247.0,
+        2343.0,
+        347.0,
+        2393.0
+      ],
+      "confidence": 0.698821,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 20日",
+      "bbox": [
+        1179.0,
+        2345.0,
+        1328.0,
+        2393.0
+      ],
+      "confidence": 0.998507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 第1周",
+      "bbox": [
+        246.0,
+        2396.0,
+        434.0,
+        2450.0
+      ],
+      "confidence": 0.990642,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 30日",
+      "bbox": [
+        1182.0,
+        2404.0,
+        1325.0,
+        2448.0
+      ],
+      "confidence": 0.999043,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 第2周",
+      "bbox": [
+        247.0,
+        2456.0,
+        428.0,
+        2504.0
+      ],
+      "confidence": 0.998086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 40日",
+      "bbox": [
+        1182.0,
+        2461.0,
+        1325.0,
+        2504.0
+      ],
+      "confidence": 0.997387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 第3周",
+      "bbox": [
+        249.0,
+        2513.0,
+        428.0,
+        2560.0
+      ],
+      "confidence": 0.99854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 45日",
+      "bbox": [
+        1182.0,
+        2517.0,
+        1325.0,
+        2560.0
+      ],
+      "confidence": 0.997391,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 第4周",
+      "bbox": [
+        247.0,
+        2569.0,
+        429.0,
+        2617.0
+      ],
+      "confidence": 0.998477,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "61. 下列药物，不能用于艾滋病治疗的",
+      "bbox": [
+        1183.0,
+        2573.0,
+        1939.0,
+        2617.0
+      ],
+      "confidence": 0.996758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 第5周",
+      "bbox": [
+        247.0,
+        2628.0,
+        428.0,
+        2671.0
+      ],
+      "confidence": 0.999407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "是（",
+      "bbox": [
+        1095.0,
+        2626.0,
+        1168.0,
+        2674.0
+      ],
+      "confidence": 0.937405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "）",
+      "bbox": [
+        1233.0,
+        2629.0,
+        1269.0,
+        2671.0
+      ],
+      "confidence": 0.989918,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "55. 在下列各项中，最能反映医患关系性",
+      "bbox": [
+        250.0,
+        2685.0,
+        1011.0,
+        2727.0
+      ],
+      "confidence": 0.993727,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "A. 齐多夫定",
+      "bbox": [
+        1184.0,
+        2685.0,
+        1405.0,
+        2728.0
+      ],
+      "confidence": 0.995735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "质的是医务人员与患者之间的（",
+      "bbox": [
+        161.0,
+        2738.0,
+        743.0,
+        2785.0
+      ],
+      "confidence": 0.995383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "）",
+      "bbox": [
+        822.0,
+        2741.0,
+        848.0,
+        2778.0
+      ],
+      "confidence": 0.971641,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "B. 双脱氧胞苷",
+      "bbox": [
+        1180.0,
+        2739.0,
+        1440.0,
+        2784.0
+      ],
+      "confidence": 0.998184,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "A. 信托关系",
+      "bbox": [
+        246.0,
+        2795.0,
+        473.0,
+        2841.0
+      ],
+      "confidence": 0.997856,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "C. 双脱氧肌苷",
+      "bbox": [
+        1180.0,
+        2793.0,
+        1441.0,
+        2843.0
+      ],
+      "confidence": 0.998589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "16",
+      "bbox": [
+        1029.0,
+        2866.0,
+        1082.0,
+        2908.0
+      ],
+      "confidence": 0.999792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "一",
+      "bbox": [
+        1094.0,
+        2872.0,
+        1150.0,
+        2903.0
+      ],
+      "confidence": 0.516053,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

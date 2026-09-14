@@ -1,0 +1,1238 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 17,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1442.0,
+        150.0,
+        1850.0,
+        188.0
+      ],
+      "confidence": 0.929212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 重视人的内在价值",
+      "bbox": [
+        224.0,
+        261.0,
+        618.0,
+        306.0
+      ],
+      "confidence": 0.998655,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 价值论",
+      "bbox": [
+        1144.0,
+        257.0,
+        1325.0,
+        308.0
+      ],
+      "confidence": 0.999152,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "58. 《希波克拉底誓言》的精髓是（",
+      "bbox": [
+        225.0,
+        319.0,
+        820.0,
+        364.0
+      ],
+      "confidence": 0.968523,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        899.0,
+        323.0,
+        923.0,
+        361.0
+      ],
+      "confidence": 0.805379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 公益论",
+      "bbox": [
+        1145.0,
+        317.0,
+        1323.0,
+        363.0
+      ],
+      "confidence": 0.999096,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 为患者谋福利，绝不伤害患者",
+      "bbox": [
+        225.0,
+        376.0,
+        809.0,
+        425.0
+      ],
+      "confidence": 0.995867,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "64. 下列有关肾综合征出血热的描述，正",
+      "bbox": [
+        1148.0,
+        379.0,
+        1894.0,
+        420.0
+      ],
+      "confidence": 0.994642,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 爱人与爱艺术平行",
+      "bbox": [
+        224.0,
+        436.0,
+        615.0,
+        482.0
+      ],
+      "confidence": 0.998745,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "确的是（）",
+      "bbox": [
+        1061.0,
+        431.0,
+        1324.0,
+        485.0
+      ],
+      "confidence": 0.812243,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 恪守职业道德",
+      "bbox": [
+        224.0,
+        495.0,
+        532.0,
+        541.0
+      ],
+      "confidence": 0.997226,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 发病以青少年为主",
+      "bbox": [
+        1149.0,
+        493.0,
+        1535.0,
+        537.0
+      ],
+      "confidence": 0.998244,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 尊重患者",
+      "bbox": [
+        224.0,
+        553.0,
+        448.0,
+        599.0
+      ],
+      "confidence": 0.99888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 一般不经呼吸道传播",
+      "bbox": [
+        1145.0,
+        548.0,
+        1572.0,
+        596.0
+      ],
+      "confidence": 0.991939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 对患者要有同情心",
+      "bbox": [
+        223.0,
+        610.0,
+        615.0,
+        659.0
+      ],
+      "confidence": 0.998783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 无明显季节性",
+      "bbox": [
+        1146.0,
+        607.0,
+        1450.0,
+        654.0
+      ],
+      "confidence": 0.999349,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "59. 医学伦理学发展到生命伦理学阶段，",
+      "bbox": [
+        224.0,
+        670.0,
+        978.0,
+        716.0
+      ],
+      "confidence": 0.995777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 所有患者均有5期经过",
+      "bbox": [
+        1148.0,
+        668.0,
+        1619.0,
+        713.0
+      ],
+      "confidence": 0.999318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "其理论基础的核心是（）",
+      "bbox": [
+        141.0,
+        726.0,
+        660.0,
+        777.0
+      ],
+      "confidence": 0.956102,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 可有母婴传播",
+      "bbox": [
+        1146.0,
+        725.0,
+        1452.0,
+        770.0
+      ],
+      "confidence": 0.97647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 生命神圣论",
+      "bbox": [
+        225.0,
+        788.0,
+        495.0,
+        835.0
+      ],
+      "confidence": 0.998176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "65. 《医疗纠纷预防和处理条例》规定患者",
+      "bbox": [
+        1147.0,
+        783.0,
+        1898.0,
+        832.0
+      ],
+      "confidence": 0.999115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 美德论",
+      "bbox": [
+        223.0,
+        844.0,
+        403.0,
+        892.0
+      ],
+      "confidence": 0.998912,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "在发生医疗纠纷的时候可以封存和复印病历，",
+      "bbox": [
+        1065.0,
+        841.0,
+        1897.0,
+        891.0
+      ],
+      "confidence": 0.997607,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 义务论",
+      "bbox": [
+        224.0,
+        903.0,
+        404.0,
+        950.0
+      ],
+      "confidence": 0.99836,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "下列资料中哪项属于可以封存但不能复印的",
+      "bbox": [
+        1066.0,
+        902.0,
+        1897.0,
+        947.0
+      ],
+      "confidence": 0.99882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 生命质量与生命价值",
+      "bbox": [
+        224.0,
+        964.0,
+        657.0,
+        1009.0
+      ],
+      "confidence": 0.999744,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "病历资料（）",
+      "bbox": [
+        1062.0,
+        956.0,
+        1368.0,
+        1006.0
+      ],
+      "confidence": 0.86767,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 人道论",
+      "bbox": [
+        223.0,
+        1021.0,
+        404.0,
+        1067.0
+      ],
+      "confidence": 0.998579,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 会诊记录",
+      "bbox": [
+        1150.0,
+        1019.0,
+        1372.0,
+        1061.0
+      ],
+      "confidence": 0.997997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "60. 下面关于医务人员权利的理解，不正",
+      "bbox": [
+        227.0,
+        1082.0,
+        977.0,
+        1123.0
+      ],
+      "confidence": 0.995363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 门诊病历",
+      "bbox": [
+        1146.0,
+        1075.0,
+        1366.0,
+        1121.0
+      ],
+      "confidence": 0.999216,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "确的是（）",
+      "bbox": [
+        141.0,
+        1135.0,
+        403.0,
+        1186.0
+      ],
+      "confidence": 0.858537,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 手术及麻醉记录单",
+      "bbox": [
+        1149.0,
+        1135.0,
+        1532.0,
+        1177.0
+      ],
+      "confidence": 0.999293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 医务人员享受权利的前提是履行自己",
+      "bbox": [
+        228.0,
+        1199.0,
+        977.0,
+        1239.0
+      ],
+      "confidence": 0.997775,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 病理报告单",
+      "bbox": [
+        1146.0,
+        1192.0,
+        1409.0,
+        1238.0
+      ],
+      "confidence": 0.999583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "的义务",
+      "bbox": [
+        140.0,
+        1251.0,
+        272.0,
+        1306.0
+      ],
+      "confidence": 0.999789,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 化验报告单",
+      "bbox": [
+        1148.0,
+        1252.0,
+        1407.0,
+        1295.0
+      ],
+      "confidence": 0.998756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 医务人员权利的范围是维护患者平等",
+      "bbox": [
+        224.0,
+        1315.0,
+        978.0,
+        1357.0
+      ],
+      "confidence": 0.998016,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "66. 不属于“行政处罚”的是（",
+      "bbox": [
+        1147.0,
+        1310.0,
+        1658.0,
+        1354.0
+      ],
+      "confidence": 0.984896,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "）",
+      "bbox": [
+        1733.0,
+        1318.0,
+        1754.0,
+        1347.0
+      ],
+      "confidence": 0.993053,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "医疗权利的实现，促进患者身心健康",
+      "bbox": [
+        147.0,
+        1373.0,
+        794.0,
+        1417.0
+      ],
+      "confidence": 0.990653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 警告",
+      "bbox": [
+        1145.0,
+        1367.0,
+        1288.0,
+        1416.0
+      ],
+      "confidence": 0.998615,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 医务人员享有的职业权利是其必须履",
+      "bbox": [
+        228.0,
+        1434.0,
+        978.0,
+        1475.0
+      ],
+      "confidence": 0.998933,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 罚款",
+      "bbox": [
+        1144.0,
+        1427.0,
+        1283.0,
+        1475.0
+      ],
+      "confidence": 0.997936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "行的义务",
+      "bbox": [
+        141.0,
+        1489.0,
+        311.0,
+        1540.0
+      ],
+      "confidence": 0.99972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 降职",
+      "bbox": [
+        1144.0,
+        1485.0,
+        1284.0,
+        1534.0
+      ],
+      "confidence": 0.999083,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 医务人员享有的权利是患者实现自己",
+      "bbox": [
+        222.0,
+        1548.0,
+        978.0,
+        1595.0
+      ],
+      "confidence": 0.998682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 吊销执业医师证书",
+      "bbox": [
+        1146.0,
+        1546.0,
+        1534.0,
+        1587.0
+      ],
+      "confidence": 0.999623,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "医疗权利的满足",
+      "bbox": [
+        142.0,
+        1607.0,
+        436.0,
+        1656.0
+      ],
+      "confidence": 0.999824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 没收违法所得",
+      "bbox": [
+        1148.0,
+        1607.0,
+        1448.0,
+        1648.0
+      ],
+      "confidence": 0.998627,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 医务人员权利与患者权利发生矛盾时，",
+      "bbox": [
+        223.0,
+        1668.0,
+        978.0,
+        1713.0
+      ],
+      "confidence": 0.997934,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "67. 医疗机构药剂人员调配处方时的错误",
+      "bbox": [
+        1147.0,
+        1667.0,
+        1899.0,
+        1706.0
+      ],
+      "confidence": 0.998914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "要求医务人员放弃权利而服从患者的权利",
+      "bbox": [
+        141.0,
+        1725.0,
+        899.0,
+        1773.0
+      ],
+      "confidence": 0.999661,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "行为是（）",
+      "bbox": [
+        1061.0,
+        1722.0,
+        1323.0,
+        1771.0
+      ],
+      "confidence": 0.898493,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "61. 下列除哪项外，均可出现周围性",
+      "bbox": [
+        223.0,
+        1784.0,
+        981.0,
+        1831.0
+      ],
+      "confidence": 0.995613,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 处方必须经过核对，对处方所列药品不",
+      "bbox": [
+        1151.0,
+        1786.0,
+        1899.0,
+        1823.0
+      ],
+      "confidence": 0.995727,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "呕吐（）",
+      "bbox": [
+        137.0,
+        1839.0,
+        357.0,
+        1893.0
+      ],
+      "confidence": 0.820735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "得擅自更改",
+      "bbox": [
+        1063.0,
+        1840.0,
+        1275.0,
+        1886.0
+      ],
+      "confidence": 0.999434,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 洋地黄中毒",
+      "bbox": [
+        223.0,
+        1902.0,
+        488.0,
+        1948.0
+      ],
+      "confidence": 0.998761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "B. 处方所列药品缺货时用同类药品代用",
+      "bbox": [
+        1146.0,
+        1902.0,
+        1866.0,
+        1942.0
+      ],
+      "confidence": 0.999431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 急性胃炎",
+      "bbox": [
+        220.0,
+        1959.0,
+        441.0,
+        2009.0
+      ],
+      "confidence": 0.997674,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "C. 对有配伍禁忌的处方，应当拒绝调配",
+      "bbox": [
+        1149.0,
+        1960.0,
+        1849.0,
+        2001.0
+      ],
+      "confidence": 0.993315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 胃穿孔",
+      "bbox": [
+        220.0,
+        2018.0,
+        401.0,
+        2069.0
+      ],
+      "confidence": 0.998854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "D. 对有超剂量的处方，应当拒绝调配",
+      "bbox": [
+        1148.0,
+        2020.0,
+        1810.0,
+        2060.0
+      ],
+      "confidence": 0.986294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 胆囊炎",
+      "bbox": [
+        219.0,
+        2073.0,
+        403.0,
+        2129.0
+      ],
+      "confidence": 0.998662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "E. 必要时，经处方医师更正或者重新签",
+      "bbox": [
+        1146.0,
+        2080.0,
+        1903.0,
+        2120.0
+      ],
+      "confidence": 0.996007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 咽部受激惹",
+      "bbox": [
+        220.0,
+        2136.0,
+        485.0,
+        2186.0
+      ],
+      "confidence": 0.998282,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "字，方可调整",
+      "bbox": [
+        1065.0,
+        2136.0,
+        1294.0,
+        2181.0
+      ],
+      "confidence": 0.95036,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "62. 中医四诊的道德要求是（",
+      "bbox": [
+        223.0,
+        2197.0,
+        732.0,
+        2242.0
+      ],
+      "confidence": 0.966692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "）",
+      "bbox": [
+        808.0,
+        2198.0,
+        844.0,
+        2241.0
+      ],
+      "confidence": 0.949788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "68. 医疗机构的负责人、药品采购人员、医",
+      "bbox": [
+        1148.0,
+        2197.0,
+        1904.0,
+        2237.0
+      ],
+      "confidence": 0.998871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 安神定志",
+      "bbox": [
+        222.0,
+        2254.0,
+        447.0,
+        2304.0
+      ],
+      "confidence": 0.998966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "师、药师等有关人员收受药品上市许可持有",
+      "bbox": [
+        1065.0,
+        2253.0,
+        1904.0,
+        2299.0
+      ],
+      "confidence": 0.998389,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 认真负责",
+      "bbox": [
+        220.0,
+        2312.0,
+        441.0,
+        2364.0
+      ],
+      "confidence": 0.999056,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "人、药品生产企业、药品经营企业或者代理人",
+      "bbox": [
+        1065.0,
+        2311.0,
+        1905.0,
+        2359.0
+      ],
+      "confidence": 0.999531,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 保守医密",
+      "bbox": [
+        220.0,
+        2371.0,
+        442.0,
+        2422.0
+      ],
+      "confidence": 0.998957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "给予的财物或者其他不正当利益的，由卫生健",
+      "bbox": [
+        1065.0,
+        2372.0,
+        1906.0,
+        2417.0
+      ],
+      "confidence": 0.996786,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 知情同意",
+      "bbox": [
+        220.0,
+        2431.0,
+        443.0,
+        2481.0
+      ],
+      "confidence": 0.999294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "康主管部门或者本单位给予处分，没收违法所",
+      "bbox": [
+        1063.0,
+        2432.0,
+        1905.0,
+        2477.0
+      ],
+      "confidence": 0.990918,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 尊重患者",
+      "bbox": [
+        220.0,
+        2490.0,
+        442.0,
+        2540.0
+      ],
+      "confidence": 0.999088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "得;情节严重的，（）",
+      "bbox": [
+        1061.0,
+        2487.0,
+        1492.0,
+        2538.0
+      ],
+      "confidence": 0.870542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "63. 下列哪一个不属于医学伦理学的理论",
+      "bbox": [
+        224.0,
+        2552.0,
+        978.0,
+        2597.0
+      ],
+      "confidence": 0.998538,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 记过、没收违法所得",
+      "bbox": [
+        1144.0,
+        2546.0,
+        1558.0,
+        2595.0
+      ],
+      "confidence": 0.997843,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "基础（）",
+      "bbox": [
+        138.0,
+        2610.0,
+        363.0,
+        2661.0
+      ],
+      "confidence": 0.87859,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 吊销执业许可证",
+      "bbox": [
+        1144.0,
+        2607.0,
+        1490.0,
+        2652.0
+      ],
+      "confidence": 0.99971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 生命论",
+      "bbox": [
+        223.0,
+        2669.0,
+        406.0,
+        2717.0
+      ],
+      "confidence": 0.998694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 吊销执业医师证书",
+      "bbox": [
+        1145.0,
+        2666.0,
+        1531.0,
+        2711.0
+      ],
+      "confidence": 0.999735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 美德论",
+      "bbox": [
+        222.0,
+        2728.0,
+        400.0,
+        2775.0
+      ],
+      "confidence": 0.999129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 警告、降职",
+      "bbox": [
+        1140.0,
+        2720.0,
+        1389.0,
+        2773.0
+      ],
+      "confidence": 0.998783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 人道论",
+      "bbox": [
+        222.0,
+        2790.0,
+        401.0,
+        2837.0
+      ],
+      "confidence": 0.999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 处分、没收违法所得",
+      "bbox": [
+        1141.0,
+        2780.0,
+        1552.0,
+        2829.0
+      ],
+      "confidence": 0.997754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "63",
+      "bbox": [
+        993.0,
+        2858.0,
+        1048.0,
+        2900.0
+      ],
+      "confidence": 0.999322,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "—",
+      "bbox": [
+        1056.0,
+        2866.0,
+        1107.0,
+        2895.0
+      ],
+      "confidence": 0.438294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

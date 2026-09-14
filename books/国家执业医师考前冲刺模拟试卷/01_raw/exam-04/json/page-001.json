@@ -1,0 +1,856 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 1,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        415.7,
+        45.998,
+        533.747,
+        56.898
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        93.68,
+        118.968,
+        498.368,
+        141.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        176.97,
+        148.418,
+        412.529,
+        170.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "第一单元",
+      "bbox": [
+        260.5,
+        211.115,
+        329.386,
+        226.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "A1 型选择题（1～87题）",
+      "bbox": [
+        234.8,
+        257.609,
+        354.48,
+        270.756
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "1. 五行中火的“所胜”是（）",
+      "bbox": [
+        68.36,
+        325.29,
+        223.866,
+        336.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "B. 有条件的",
+      "bbox": [
+        331.43,
+        324.971,
+        390.464,
+        335.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 水",
+      "bbox": [
+        68.32,
+        340.911,
+        94.414,
+        351.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 必然的",
+      "bbox": [
+        331.33,
+        341.061,
+        378.831,
+        352.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 木",
+      "bbox": [
+        68.01,
+        356.712,
+        92.813,
+        367.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 偶然的",
+      "bbox": [
+        331.3,
+        356.621,
+        379.15,
+        367.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 土",
+      "bbox": [
+        68.01,
+        372.881,
+        93.171,
+        383.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 量变",
+      "bbox": [
+        331.47,
+        372.691,
+        367.483,
+        383.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 金",
+      "bbox": [
+        68.23,
+        388.731,
+        93.762,
+        399.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "6. 元神之府指的是（）",
+      "bbox": [
+        331.53,
+        388.581,
+        460.94,
+        399.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 火",
+      "bbox": [
+        67.99,
+        404.361,
+        93.303,
+        415.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 脑",
+      "bbox": [
+        331.56,
+        404.781,
+        356.75,
+        415.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "2. “太仓”所指的是（）",
+      "bbox": [
+        68.2,
+        420.42,
+        200.043,
+        431.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 胆",
+      "bbox": [
+        331.33,
+        420.121,
+        355.037,
+        431.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 三焦",
+      "bbox": [
+        68.18,
+        435.981,
+        106.776,
+        446.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 骨",
+      "bbox": [
+        331.44,
+        436.161,
+        355.322,
+        447.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 胃",
+      "bbox": [
+        68.27,
+        451.501,
+        91.738,
+        462.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 髓",
+      "bbox": [
+        331.26,
+        451.951,
+        356.11,
+        462.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 小肠",
+      "bbox": [
+        68.08,
+        467.371,
+        105.308,
+        478.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 女子胞",
+      "bbox": [
+        331.42,
+        467.501,
+        379.031,
+        478.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 脾",
+      "bbox": [
+        68.0,
+        483.311,
+        93.673,
+        494.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "7. 女子胞的功能活动与下述哪项关系密",
+      "bbox": [
+        331.44,
+        482.99,
+        546.08,
+        494.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 大肠",
+      "bbox": [
+        68.09,
+        499.331,
+        105.346,
+        510.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "切（）",
+      "bbox": [
+        307.81,
+        499.271,
+        352.956,
+        510.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "3. 《灵枢·顺气一日分为四时》说疾病病",
+      "bbox": [
+        68.18,
+        515.2,
+        283.004,
+        526.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 心、肝、脾、冲脉、督脉",
+      "bbox": [
+        331.48,
+        514.751,
+        462.867,
+        525.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "情随昼夜时间节律而变化，其病“安”的时间",
+      "bbox": [
+        42.95,
+        530.73,
+        282.605,
+        541.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 心、肝、肾、冲脉、带脉",
+      "bbox": [
+        331.31,
+        530.191,
+        461.63,
+        541.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "是（）",
+      "bbox": [
+        42.97,
+        546.621,
+        90.723,
+        557.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 心、肝、肾、冲脉、督脉",
+      "bbox": [
+        331.42,
+        546.121,
+        461.577,
+        557.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 旦",
+      "bbox": [
+        67.91,
+        562.611,
+        94.148,
+        573.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 冲脉、带脉、任脉、心、脾",
+      "bbox": [
+        331.14,
+        561.561,
+        472.764,
+        572.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 昼",
+      "bbox": [
+        67.78,
+        578.572,
+        92.54,
+        589.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 心、肝、脾、肾、冲脉、任脉",
+      "bbox": [
+        331.44,
+        577.891,
+        483.002,
+        588.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 夕",
+      "bbox": [
+        67.83,
+        594.312,
+        91.83,
+        605.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "8. 肝藏血与脾统血的共同生理功能",
+      "bbox": [
+        331.46,
+        593.731,
+        546.72,
+        605.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 前夜",
+      "bbox": [
+        67.74,
+        610.192,
+        105.561,
+        621.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "是（）",
+      "bbox": [
+        307.76,
+        609.831,
+        353.173,
+        620.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 后夜",
+      "bbox": [
+        67.78,
+        626.132,
+        105.156,
+        636.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 贮藏血液",
+      "bbox": [
+        331.69,
+        625.331,
+        392.58,
+        636.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "4. “壮水之主，以制阳光”的治法，最适于",
+      "bbox": [
+        67.47,
+        641.941,
+        282.887,
+        652.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 调节血量",
+      "bbox": [
+        331.48,
+        641.422,
+        390.84,
+        652.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "治疗的是（）",
+      "bbox": [
+        43.38,
+        657.751,
+        126.486,
+        668.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 统摄血液",
+      "bbox": [
+        331.47,
+        657.13,
+        391.443,
+        668.09
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 阴盛则寒之证",
+      "bbox": [
+        67.9,
+        673.511,
+        155.02,
+        684.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 防止出血",
+      "bbox": [
+        331.42,
+        673.502,
+        392.048,
+        684.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 阴虚则热之证",
+      "bbox": [
+        67.82,
+        689.412,
+        153.253,
+        700.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 化生血液",
+      "bbox": [
+        331.58,
+        689.281,
+        391.484,
+        700.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 阴盛伤阳之证",
+      "bbox": [
+        68.01,
+        705.361,
+        153.478,
+        716.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "9. 脏腑关系中，“水火既济”指的是（）",
+      "bbox": [
+        331.67,
+        705.361,
+        540.346,
+        716.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 阴损及阳之证",
+      "bbox": [
+        67.96,
+        721.091,
+        153.928,
+        731.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 肝与肾",
+      "bbox": [
+        331.63,
+        721.211,
+        381.036,
+        732.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 阳损及阴之证",
+      "bbox": [
+        68.45,
+        736.751,
+        153.806,
+        747.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 心与肾",
+      "bbox": [
+        331.63,
+        737.131,
+        379.414,
+        747.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "5. 阴阳的相互转化是（）",
+      "bbox": [
+        66.89,
+        753.279,
+        213.303,
+        764.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 肝与脾",
+      "bbox": [
+        331.55,
+        753.132,
+        379.398,
+        763.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 绝对的",
+      "bbox": [
+        68.91,
+        768.071,
+        118.453,
+        778.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 肺与脾",
+      "bbox": [
+        331.44,
+        768.793,
+        380.241,
+        779.453
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "143",
+      "bbox": [
+        286.9,
+        788.267,
+        300.3,
+        796.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "—",
+      "bbox": [
+        312.87,
+        787.254,
+        321.64,
+        796.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 47,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        410.38,
+        52.257,
+        526.866,
+        63.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "A3 型选择题（119～120题）",
+      "bbox": [
+        220.4,
+        86.88,
+        359.491,
+        98.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        67.23,
+        165.72,
+        184.222,
+        176.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 月经先后无定期",
+      "bbox": [
+        327.33,
+        165.28,
+        423.745,
+        176.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "患者，女，33岁。结婚5年，有正常性生活",
+      "bbox": [
+        67.32,
+        183.288,
+        278.0,
+        194.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 经行身痛",
+      "bbox": [
+        327.51,
+        181.82,
+        387.427,
+        192.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "而未受孕。平素月经周期或先或后，经量多少",
+      "bbox": [
+        44.42,
+        200.038,
+        277.592,
+        211.058
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "120. 该患者的治法为（）",
+      "bbox": [
+        327.81,
+        197.4,
+        469.053,
+        208.58
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "不一，经前烦躁易怒，乳房胀痛，精神抑郁，舌",
+      "bbox": [
+        43.89,
+        216.058,
+        277.726,
+        227.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 疏肝解郁，理血调经",
+      "bbox": [
+        327.5,
+        214.48,
+        442.871,
+        225.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "暗红，苔薄白，脉弦细。",
+      "bbox": [
+        44.19,
+        232.667,
+        165.3,
+        243.677
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 逐瘀荡胞，调经助孕",
+      "bbox": [
+        327.37,
+        231.08,
+        440.941,
+        242.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "119. 该患者诊断为（）",
+      "bbox": [
+        66.92,
+        247.89,
+        194.016,
+        258.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 燥湿化痰，理气调经",
+      "bbox": [
+        327.3,
+        247.55,
+        441.529,
+        258.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 痛经",
+      "bbox": [
+        66.59,
+        264.5,
+        103.088,
+        275.5
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 补肾益气，温养冲任",
+      "bbox": [
+        327.25,
+        264.03,
+        441.843,
+        275.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 闭经",
+      "bbox": [
+        66.49,
+        281.04,
+        101.46,
+        292.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 滋肾养血，调补冲任",
+      "bbox": [
+        327.39,
+        280.58,
+        441.154,
+        291.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 不孕症",
+      "bbox": [
+        66.58,
+        297.53,
+        113.461,
+        308.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        221.85,
+        330.64,
+        358.711,
+        342.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        67.73,
+        410.32,
+        209.208,
+        421.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 心",
+      "bbox": [
+        327.44,
+        410.491,
+        352.504,
+        421.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 发",
+      "bbox": [
+        66.92,
+        425.46,
+        92.316,
+        436.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 肾",
+      "bbox": [
+        327.1,
+        425.601,
+        350.905,
+        436.55
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 背疽",
+      "bbox": [
+        66.92,
+        441.03,
+        102.507,
+        452.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 脾",
+      "bbox": [
+        327.2,
+        441.25,
+        351.082,
+        452.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 肠痈",
+      "bbox": [
+        66.97,
+        456.18,
+        102.786,
+        467.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 肝",
+      "bbox": [
+        327.16,
+        456.73,
+        352.161,
+        467.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 烂疔",
+      "bbox": [
+        66.79,
+        471.74,
+        103.42,
+        482.73
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 胃",
+      "bbox": [
+        327.15,
+        472.51,
+        350.121,
+        483.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 委中毒",
+      "bbox": [
+        66.94,
+        487.19,
+        114.439,
+        498.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "127. 女子的乳房,属（）",
+      "bbox": [
+        327.59,
+        487.7,
+        461.153,
+        498.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "121. 以部位命名的是（）",
+      "bbox": [
+        67.24,
+        502.461,
+        206.946,
+        513.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "128. 男子的乳房,属（）",
+      "bbox": [
+        327.61,
+        503.18,
+        460.996,
+        514.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "122. 以疾病特性命名的是（）",
+      "bbox": [
+        67.04,
+        517.94,
+        230.516,
+        528.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        327.9,
+        518.58,
+        469.492,
+        529.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        67.58,
+        533.31,
+        209.296,
+        544.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 知柏地黄丸",
+      "bbox": [
+        327.17,
+        533.65,
+        399.594,
+        544.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 龙胆泻肝汤合萆薢渗湿汤",
+      "bbox": [
+        66.66,
+        548.96,
+        210.019,
+        561.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 济生肾气丸",
+      "bbox": [
+        326.77,
+        549.21,
+        397.976,
+        560.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 大分清饮",
+      "bbox": [
+        66.54,
+        564.32,
+        125.808,
+        575.32
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 真武汤",
+      "bbox": [
+        326.85,
+        564.4,
+        374.218,
+        575.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 加味五苓散",
+      "bbox": [
+        66.51,
+        579.74,
+        137.877,
+        590.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 附桂八味丸",
+      "bbox": [
+        326.68,
+        579.98,
+        398.5,
+        590.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 当归四逆汤",
+      "bbox": [
+        66.49,
+        595.41,
+        137.825,
+        606.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 调元肾气丸",
+      "bbox": [
+        326.94,
+        595.33,
+        398.421,
+        606.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 当归饮子",
+      "bbox": [
+        66.54,
+        610.74,
+        125.632,
+        621.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "129. 治疗前列腺炎阴虚火旺证，应首",
+      "bbox": [
+        327.2,
+        610.73,
+        538.019,
+        621.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "123. 治疗湿疮湿热蕴肤证，应首选（）",
+      "bbox": [
+        66.83,
+        626.19,
+        272.193,
+        637.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "选（）",
+      "bbox": [
+        303.05,
+        626.66,
+        348.443,
+        637.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "124. 治疗湿疮血虚风燥证，应首选（）",
+      "bbox": [
+        66.82,
+        641.97,
+        272.326,
+        652.98
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "130. 治疗前列腺增生，肾阳不足，气化无",
+      "bbox": [
+        327.07,
+        641.69,
+        537.557,
+        652.67
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        67.28,
+        657.61,
+        208.587,
+        668.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "权证，应首选（）",
+      "bbox": [
+        302.83,
+        657.43,
+        401.506,
+        668.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 螺疔",
+      "bbox": [
+        66.48,
+        672.79,
+        103.109,
+        683.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        327.5,
+        672.82,
+        469.033,
+        684.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 蛇头疔",
+      "bbox": [
+        66.52,
+        688.73,
+        113.213,
+        699.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 固阴煎",
+      "bbox": [
+        326.76,
+        688.46,
+        375.467,
+        699.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 蛇眼疔",
+      "bbox": [
+        66.53,
+        704.2,
+        113.731,
+        715.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 六味地黄丸",
+      "bbox": [
+        326.59,
+        704.43,
+        397.896,
+        715.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 蛀节疗",
+      "bbox": [
+        66.28,
+        719.84,
+        114.218,
+        730.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 大补元煎",
+      "bbox": [
+        326.64,
+        719.79,
+        385.824,
+        730.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 鱼肚疔",
+      "bbox": [
+        66.56,
+        735.43,
+        113.683,
+        746.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 左归丸",
+      "bbox": [
+        326.54,
+        735.59,
+        375.115,
+        746.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "125. 生于手指骨节间的疗疮称为（）",
+      "bbox": [
+        66.64,
+        751.04,
+        266.16,
+        762.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 归肾丸",
+      "bbox": [
+        326.56,
+        750.94,
+        374.466,
+        761.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "126. 生于指腹部的疗疮称为（）",
+      "bbox": [
+        66.87,
+        766.6,
+        242.086,
+        777.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "131. 月经先后无定期，经来量少，色淡",
+      "bbox": [
+        326.92,
+        766.17,
+        533.743,
+        777.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        67.36,
+        781.97,
+        208.669,
+        792.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "暗，质稀，头晕耳鸣，腰骶酸痛。治疗应首",
+      "bbox": [
+        303.35,
+        781.57,
+        533.19,
+        792.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "——189",
+      "bbox": [
+        264.82,
+        807.059,
+        295.247,
+        817.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

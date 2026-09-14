@@ -1,0 +1,17 @@
+[
+  {"exam": "一", "unit": "二", "question_no": 77, "answer": "C", "page": 10, "marker_mode": "leading"},
+  {"exam": "一", "unit": "二", "question_no": 110, "answer": "C", "page": 12, "marker_mode": "trailing"},
+  {"exam": "一", "unit": "二", "question_no": 115, "answer": "E", "page": 12, "marker_mode": "trailing"},
+  {"exam": "一", "unit": "三", "question_no": 71, "answer": "D", "page": 16, "marker_mode": "leading"},
+  {"exam": "一", "unit": "三", "question_no": 117, "answer": "B", "page": 18, "marker_mode": "leading"},
+  {"exam": "二", "unit": "一", "question_no": 140, "answer": "E", "page": 31, "marker_mode": "leading"},
+  {"exam": "二", "unit": "二", "question_no": 120, "answer": "A", "page": 37, "marker_mode": "corrupt_a"},
+  {"exam": "三", "unit": "三", "question_no": 10, "answer": "A", "page": 63, "marker_mode": "corrupt_a"},
+  {"exam": "四", "unit": "一", "question_no": 26, "answer": "A", "page": 75, "marker_mode": "corrupt_a"},
+  {"exam": "四", "unit": "三", "question_no": 49, "answer": "A", "page": 87, "marker_mode": "trailing"},
+  {"exam": "四", "unit": "三", "question_no": 59, "answer": "C", "page": 88, "marker_mode": "trailing"},
+  {"exam": "四", "unit": "三", "question_no": 82, "answer": "A", "page": 89, "marker_mode": "leading"},
+  {"exam": "四", "unit": "三", "question_no": 143, "answer": "E", "page": 91, "marker_mode": "leading"},
+  {"exam": "四", "unit": "四", "question_no": 99, "answer": "B", "page": 95, "marker_mode": "leading"},
+  {"exam": "四", "unit": "四", "question_no": 100, "answer": "E", "page": 95, "marker_mode": "leading"}
+]

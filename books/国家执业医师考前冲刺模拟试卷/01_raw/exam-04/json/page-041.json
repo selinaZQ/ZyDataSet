@@ -1,0 +1,1220 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 41,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        406.73,
+        47.22,
+        523.308,
+        58.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 小便清长，夜尿频繁，大便溏薄",
+      "bbox": [
+        62.54,
+        77.178,
+        230.504,
+        88.329
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 脉搏减慢，血压增高",
+      "bbox": [
+        324.21,
+        76.719,
+        436.578,
+        87.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 面色萎黄，四肢倦怠，纳少便溏",
+      "bbox": [
+        62.35,
+        93.179,
+        231.385,
+        104.299
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 脉搏减慢，血压减低",
+      "bbox": [
+        324.19,
+        92.479,
+        437.441,
+        103.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 舌淡苔白润，脉沉迟",
+      "bbox": [
+        62.35,
+        109.099,
+        176.063,
+        120.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 脉搏、血压均无明显变化",
+      "bbox": [
+        324.14,
+        108.459,
+        461.369,
+        119.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "51. 治疗产后发热血瘀证，应首选（）",
+      "bbox": [
+        62.14,
+        125.428,
+        264.479,
+        136.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "58. 5周岁小儿的血压应为（）",
+      "bbox": [
+        324.22,
+        124.529,
+        491.636,
+        135.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 小柴胡汤",
+      "bbox": [
+        62.42,
+        141.289,
+        122.69,
+        152.409
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 70 /50 mmHg",
+      "bbox": [
+        324.29,
+        141.04,
+        399.051,
+        154.795
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 大柴胡汤",
+      "bbox": [
+        61.78,
+        157.499,
+        120.494,
+        168.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 80 /60 mmHg",
+      "bbox": [
+        323.9,
+        157.459,
+        397.185,
+        170.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 桃红消瘀汤",
+      "bbox": [
+        61.71,
+        173.739,
+        132.956,
+        184.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 90 /60 mmHg",
+      "bbox": [
+        324.09,
+        173.839,
+        397.569,
+        187.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 白虎汤",
+      "bbox": [
+        61.65,
+        189.849,
+        109.269,
+        200.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 100 /70 mmHg",
+      "bbox": [
+        323.85,
+        189.959,
+        403.767,
+        203.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 生化汤加味",
+      "bbox": [
+        61.51,
+        205.988,
+        132.993,
+        217.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 110 /80 mmHg",
+      "bbox": [
+        323.93,
+        206.2,
+        403.545,
+        219.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "52. 下列各项，不属于子宫脱垂中医病名",
+      "bbox": [
+        61.54,
+        222.978,
+        275.031,
+        234.138
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "59. 以下各项是小儿咳嗽的病机的是（）",
+      "bbox": [
+        324.03,
+        222.089,
+        533.163,
+        233.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "的是（）",
+      "bbox": [
+        40.1,
+        238.859,
+        94.45,
+        249.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 肺气郁闭",
+      "bbox": [
+        324.06,
+        238.179,
+        383.73,
+        249.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 阴挺",
+      "bbox": [
+        61.58,
+        254.709,
+        98.51,
+        265.799
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 肺失清肃",
+      "bbox": [
+        323.69,
+        254.509,
+        382.467,
+        265.599
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 阴蚀",
+      "bbox": [
+        61.55,
+        270.879,
+        96.546,
+        281.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 肺气失宣",
+      "bbox": [
+        323.73,
+        270.759,
+        382.48,
+        281.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 阴痔",
+      "bbox": [
+        61.2,
+        287.079,
+        96.908,
+        298.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 肺失宣肃",
+      "bbox": [
+        323.58,
+        286.889,
+        383.29,
+        297.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 产肠不收",
+      "bbox": [
+        61.18,
+        303.629,
+        121.817,
+        314.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 以上均非",
+      "bbox": [
+        323.85,
+        303.139,
+        382.618,
+        314.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 阴脱",
+      "bbox": [
+        61.25,
+        319.549,
+        97.41,
+        330.689
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "60. 按照小儿年龄分期标准，婴儿期指的",
+      "bbox": [
+        323.85,
+        319.279,
+        535.686,
+        330.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "53. 下列各项，不属放置宫内节育器禁忌",
+      "bbox": [
+        61.4,
+        336.148,
+        275.631,
+        347.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "是（）",
+      "bbox": [
+        300.2,
+        335.819,
+        345.096,
+        346.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "证的是（）",
+      "bbox": [
+        39.41,
+        352.749,
+        106.953,
+        363.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "A. 从出生后脐带结扎开始到28天",
+      "bbox": [
+        323.68,
+        351.839,
+        497.383,
+        362.929
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 滴虫性阴道炎",
+      "bbox": [
+        61.69,
+        368.449,
+        146.78,
+        379.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 出生28天后至1周岁",
+      "bbox": [
+        323.63,
+        368.179,
+        446.43,
+        379.969
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 月经过多",
+      "bbox": [
+        61.53,
+        385.079,
+        120.946,
+        396.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 1 ～3周岁",
+      "bbox": [
+        323.59,
+        384.499,
+        384.128,
+        397.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 重度痛经",
+      "bbox": [
+        61.65,
+        401.249,
+        121.485,
+        412.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 2～3周岁",
+      "bbox": [
+        323.6,
+        400.629,
+        384.939,
+        411.709
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 宫颈口松",
+      "bbox": [
+        61.57,
+        417.539,
+        122.197,
+        428.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 1 ～5周岁",
+      "bbox": [
+        323.53,
+        416.959,
+        384.196,
+        429.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 足月产后3月",
+      "bbox": [
+        61.78,
+        433.929,
+        146.11,
+        445.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "61. 小儿乳牙出齐的时间是（）",
+      "bbox": [
+        323.73,
+        433.669,
+        493.603,
+        444.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "54. 下列各项，不属胎动不安和异位妊娠",
+      "bbox": [
+        61.85,
+        449.979,
+        276.013,
+        461.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 6个月",
+      "bbox": [
+        323.67,
+        449.809,
+        368.54,
+        461.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "鉴别要点的是（）",
+      "bbox": [
+        39.65,
+        466.73,
+        143.6,
+        477.859
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 1岁",
+      "bbox": [
+        323.5,
+        466.129,
+        354.485,
+        477.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 阴道出血",
+      "bbox": [
+        61.94,
+        482.899,
+        123.1,
+        494.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 1岁半",
+      "bbox": [
+        323.47,
+        482.339,
+        367.48,
+        493.419
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 腹痛程度、性质",
+      "bbox": [
+        61.51,
+        499.099,
+        151.624,
+        510.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 2岁左右",
+      "bbox": [
+        323.42,
+        498.76,
+        379.753,
+        509.81
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. B超检测孕囊着床部位",
+      "bbox": [
+        61.71,
+        515.209,
+        192.906,
+        526.349
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 以上均非",
+      "bbox": [
+        323.52,
+        514.739,
+        382.067,
+        525.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 妇检宫颈举痛",
+      "bbox": [
+        61.59,
+        531.709,
+        146.091,
+        542.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "62. 小儿舌体胖嫩，舌边齿痕显著者，多见",
+      "bbox": [
+        323.64,
+        530.899,
+        536.165,
+        541.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 妇检附件包块",
+      "bbox": [
+        61.66,
+        548.139,
+        145.758,
+        559.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "于（）",
+      "bbox": [
+        300.41,
+        547.859,
+        345.14,
+        558.979
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "55. 下列各项，不属雌激素作用的是（）",
+      "bbox": [
+        61.8,
+        564.389,
+        271.373,
+        575.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 脾肾阳虚",
+      "bbox": [
+        323.44,
+        563.119,
+        383.691,
+        574.219
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 促进卵泡发育",
+      "bbox": [
+        61.65,
+        580.439,
+        147.017,
+        591.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 肺肾阴虚",
+      "bbox": [
+        323.44,
+        579.229,
+        381.879,
+        590.339
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 使阴道上皮细胞脱落加快",
+      "bbox": [
+        61.57,
+        596.849,
+        206.401,
+        607.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 阴虚火旺",
+      "bbox": [
+        323.54,
+        595.829,
+        382.441,
+        606.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 促使乳腺管增生",
+      "bbox": [
+        61.58,
+        613.109,
+        157.573,
+        624.249
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 气血瘀滞",
+      "bbox": [
+        323.32,
+        612.079,
+        382.925,
+        623.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 促进第二性征发育",
+      "bbox": [
+        61.46,
+        629.249,
+        170.34,
+        640.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 心脾积热",
+      "bbox": [
+        323.66,
+        628.419,
+        382.694,
+        639.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 促进骨中钙的沉积",
+      "bbox": [
+        61.6,
+        645.419,
+        170.023,
+        656.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "63. 儿童注意力缺陷多动症的发病年龄多",
+      "bbox": [
+        323.68,
+        644.939,
+        536.541,
+        656.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "56. 小儿正常舌象是（）",
+      "bbox": [
+        61.61,
+        662.099,
+        197.46,
+        673.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "见于（）",
+      "bbox": [
+        300.02,
+        661.609,
+        357.113,
+        672.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 淡白",
+      "bbox": [
+        61.72,
+        678.049,
+        97.68,
+        689.189
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 新生儿期",
+      "bbox": [
+        323.6,
+        677.01,
+        383.889,
+        688.06
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 绛红",
+      "bbox": [
+        61.49,
+        694.548,
+        96.89,
+        705.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 婴儿期",
+      "bbox": [
+        323.45,
+        693.599,
+        370.247,
+        704.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "C. 紫暗",
+      "bbox": [
+        61.45,
+        710.869,
+        97.289,
+        721.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 幼儿期",
+      "bbox": [
+        323.58,
+        709.789,
+        370.673,
+        720.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "D. 暗红",
+      "bbox": [
+        61.44,
+        727.248,
+        97.654,
+        738.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 学龄期",
+      "bbox": [
+        323.49,
+        725.969,
+        371.295,
+        737.089
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "E. 淡红",
+      "bbox": [
+        61.61,
+        743.619,
+        97.406,
+        754.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 以上均非",
+      "bbox": [
+        323.6,
+        742.01,
+        382.598,
+        753.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "57. 随着小儿年龄的增加（）",
+      "bbox": [
+        61.6,
+        759.738,
+        221.596,
+        770.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "64. 疳积证的治法是（）",
+      "bbox": [
+        323.75,
+        758.169,
+        458.266,
+        769.299
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 脉搏增快，血压增高",
+      "bbox": [
+        61.71,
+        776.169,
+        176.747,
+        787.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 调脾健运",
+      "bbox": [
+        323.65,
+        774.03,
+        383.884,
+        785.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "B. 脉搏增快，血压减低",
+      "bbox": [
+        61.53,
+        792.639,
+        175.036,
+        803.729
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 消积理脾",
+      "bbox": [
+        323.44,
+        790.26,
+        382.349,
+        801.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "183",
+      "bbox": [
+        279.17,
+        811.239,
+        291.853,
+        819.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "一",
+      "bbox": [
+        305.12,
+        810.08,
+        313.19,
+        818.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

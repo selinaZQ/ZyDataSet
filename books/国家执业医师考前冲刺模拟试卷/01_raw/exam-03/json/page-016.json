@@ -1,0 +1,1233 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 16,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        64.82,
+        58.251,
+        267.411,
+        70.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 有感染后免疫性",
+      "bbox": [
+        86.58,
+        89.051,
+        183.354,
+        100.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 头孢唑啉",
+      "bbox": [
+        350.68,
+        88.941,
+        413.668,
+        100.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 有流行病学特征",
+      "bbox": [
+        86.72,
+        105.171,
+        183.506,
+        117.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 氯霉素",
+      "bbox": [
+        350.95,
+        103.791,
+        399.045,
+        115.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 有发热",
+      "bbox": [
+        86.58,
+        120.161,
+        135.977,
+        132.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 链霉素",
+      "bbox": [
+        350.4,
+        119.721,
+        399.119,
+        131.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 有传染性",
+      "bbox": [
+        86.8,
+        135.941,
+        147.923,
+        147.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 环丙沙星",
+      "bbox": [
+        350.54,
+        135.661,
+        411.995,
+        147.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "46. 右上肺中心型肺癌的典型X线表现",
+      "bbox": [
+        85.86,
+        151.831,
+        302.047,
+        163.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 庆大霉素",
+      "bbox": [
+        350.48,
+        150.701,
+        411.515,
+        162.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "是（）",
+      "bbox": [
+        62.51,
+        167.941,
+        109.553,
+        179.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "53. 目前认为志贺菌致病必须具备的条件",
+      "bbox": [
+        350.73,
+        166.851,
+        569.005,
+        178.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 两肺锁骨下区的片状阴影",
+      "bbox": [
+        86.48,
+        182.821,
+        233.155,
+        194.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "是（）",
+      "bbox": [
+        326.17,
+        182.971,
+        373.593,
+        194.911
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 肺内有多发的肿块影",
+      "bbox": [
+        86.46,
+        198.741,
+        207.078,
+        210.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 过度劳累",
+      "bbox": [
+        350.56,
+        197.481,
+        412.93,
+        209.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 肺门肿块和右肺上叶不张连在一起形",
+      "bbox": [
+        86.2,
+        213.741,
+        301.385,
+        225.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 暴饮暴食",
+      "bbox": [
+        350.7,
+        213.851,
+        411.181,
+        225.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "成横行S状的下缘",
+      "bbox": [
+        62.06,
+        231.161,
+        158.761,
+        243.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 细菌变异性",
+      "bbox": [
+        350.33,
+        229.541,
+        423.846,
+        241.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 肺内有多发的薄壁空洞",
+      "bbox": [
+        86.2,
+        245.721,
+        219.577,
+        257.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 痢疾杆菌对肠黏膜上皮细胞的侵袭力",
+      "bbox": [
+        350.6,
+        244.551,
+        558.402,
+        256.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 靠近肺门处可见支气管充气征",
+      "bbox": [
+        86.17,
+        261.801,
+        256.423,
+        273.691
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 发病季节",
+      "bbox": [
+        350.85,
+        260.571,
+        411.45,
+        272.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "47. 体温在39以上，每日波动2，此热",
+      "bbox": [
+        85.82,
+        275.761,
+        305.36,
+        288.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "54. 下列各项，不符合道德要求的是（）",
+      "bbox": [
+        350.77,
+        276.501,
+        566.213,
+        288.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "型是（）",
+      "bbox": [
+        62.2,
+        292.741,
+        122.276,
+        305.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 尽量为患者选择安全有效的药物",
+      "bbox": [
+        350.54,
+        291.661,
+        537.07,
+        303.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 稽留热",
+      "bbox": [
+        86.59,
+        308.641,
+        136.842,
+        320.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 要严格遵守各种抗生素的用药规则，尽",
+      "bbox": [
+        350.33,
+        307.321,
+        568.749,
+        319.211
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 间歇热",
+      "bbox": [
+        86.28,
+        323.751,
+        135.083,
+        335.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "可能开患者要求的好药，贵重药物",
+      "bbox": [
+        326.36,
+        323.171,
+        506.057,
+        335.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 弛张热",
+      "bbox": [
+        86.19,
+        339.661,
+        135.611,
+        351.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 在医疗过程中要为患者保守秘密",
+      "bbox": [
+        350.33,
+        338.681,
+        535.505,
+        350.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 波状热",
+      "bbox": [
+        86.66,
+        355.781,
+        136.2,
+        367.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 对婴幼患儿、老年患者的用药应该谨",
+      "bbox": [
+        350.36,
+        354.131,
+        569.005,
+        366.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 不规则热",
+      "bbox": [
+        86.72,
+        371.611,
+        148.413,
+        383.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "慎，防止肾功能损害",
+      "bbox": [
+        326.0,
+        370.231,
+        438.12,
+        382.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "48. 代谢性酸中毒可出现（）",
+      "bbox": [
+        86.36,
+        386.601,
+        249.046,
+        398.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 钻研药理知识，防止粗疏和盲目用药",
+      "bbox": [
+        350.34,
+        385.621,
+        553.528,
+        397.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 潮式呼吸",
+      "bbox": [
+        86.72,
+        402.371,
+        150.135,
+        414.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "55. 尊重患者知情同意权，其正确的做法",
+      "bbox": [
+        350.67,
+        401.541,
+        568.768,
+        413.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 库斯莫尔呼吸",
+      "bbox": [
+        86.78,
+        417.671,
+        172.828,
+        429.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "是（）",
+      "bbox": [
+        326.19,
+        417.801,
+        373.186,
+        429.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 间停呼吸",
+      "bbox": [
+        86.86,
+        434.571,
+        148.854,
+        446.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 婴幼患儿可以由监护人决定其诊疗方",
+      "bbox": [
+        350.44,
+        432.611,
+        565.863,
+        444.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 夜间阵发性呼吸困难",
+      "bbox": [
+        86.72,
+        449.421,
+        209.999,
+        461.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "案",
+      "bbox": [
+        326.75,
+        449.671,
+        338.64,
+        461.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 吸气性呼吸困难",
+      "bbox": [
+        86.89,
+        465.491,
+        185.601,
+        477.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 家属无承诺，即使患者本人知情同意也",
+      "bbox": [
+        350.32,
+        464.651,
+        569.17,
+        476.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "49. 下列哪种情况发生室性期前收缩，临",
+      "bbox": [
+        86.72,
+        481.361,
+        305.97,
+        493.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "不得给予手术",
+      "bbox": [
+        326.25,
+        480.721,
+        398.245,
+        492.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "床上应予以积极治疗（）",
+      "bbox": [
+        60.95,
+        496.981,
+        209.719,
+        509.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 对特殊急诊患者的抢救都同样对待",
+      "bbox": [
+        350.33,
+        495.441,
+        547.489,
+        507.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 慢性心肌缺血",
+      "bbox": [
+        87.03,
+        512.781,
+        174.566,
+        524.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 无须做到患者完全知情",
+      "bbox": [
+        350.3,
+        511.321,
+        485.567,
+        523.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 无器质性心脏病者",
+      "bbox": [
+        87.05,
+        526.651,
+        196.714,
+        538.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 只经患者同意即可手术",
+      "bbox": [
+        350.37,
+        526.201,
+        485.096,
+        538.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 肺部感染",
+      "bbox": [
+        86.92,
+        543.511,
+        148.439,
+        555.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "56. 医疗机构开展诊疗活动必须",
+      "bbox": [
+        350.53,
+        542.811,
+        571.06,
+        555.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 急性心肌炎症或梗死",
+      "bbox": [
+        86.82,
+        559.761,
+        209.671,
+        571.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "按照（）",
+      "bbox": [
+        326.27,
+        558.411,
+        384.749,
+        570.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 心功能不全者",
+      "bbox": [
+        86.94,
+        574.701,
+        172.631,
+        586.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 核准的项目",
+      "bbox": [
+        350.32,
+        573.641,
+        420.923,
+        585.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "50. 乙型脑炎（简称乙脑）的主要传染源",
+      "bbox": [
+        87.05,
+        590.711,
+        302.223,
+        602.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 登记的项目",
+      "bbox": [
+        350.23,
+        589.461,
+        419.37,
+        601.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "是（）",
+      "bbox": [
+        62.23,
+        606.021,
+        110.036,
+        618.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 核准的诊疗项目",
+      "bbox": [
+        350.27,
+        605.831,
+        444.645,
+        617.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 猪",
+      "bbox": [
+        86.71,
+        622.121,
+        113.097,
+        633.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 登记的诊疗项目",
+      "bbox": [
+        350.32,
+        620.761,
+        444.588,
+        632.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 乙脑病毒携带者",
+      "bbox": [
+        86.67,
+        636.581,
+        184.027,
+        648.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 核准登记的诊疗项目",
+      "bbox": [
+        350.51,
+        636.501,
+        469.096,
+        648.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 乙脑患者",
+      "bbox": [
+        86.92,
+        651.921,
+        147.722,
+        663.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "57. 下述情形中，属于三级医疗事故的是",
+      "bbox": [
+        350.36,
+        651.721,
+        568.514,
+        663.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 蚊虫",
+      "bbox": [
+        86.92,
+        668.001,
+        124.441,
+        679.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "造成病员（）",
+      "bbox": [
+        326.39,
+        668.601,
+        408.793,
+        680.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 野鼠",
+      "bbox": [
+        87.25,
+        684.111,
+        123.489,
+        695.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 重度残疾",
+      "bbox": [
+        350.26,
+        683.801,
+        411.917,
+        695.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "51. 空腹听诊出现振水音，可见于（）",
+      "bbox": [
+        87.31,
+        699.231,
+        291.043,
+        711.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 中度残废或严重功能障碍",
+      "bbox": [
+        350.12,
+        699.681,
+        497.717,
+        711.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 肝硬化腹水",
+      "bbox": [
+        87.39,
+        715.951,
+        161.319,
+        727.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 轻度残废或一般功能障碍",
+      "bbox": [
+        349.82,
+        715.091,
+        498.314,
+        726.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 肾病综合征",
+      "bbox": [
+        87.37,
+        730.251,
+        159.363,
+        742.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 死亡",
+      "bbox": [
+        350.04,
+        730.901,
+        386.476,
+        742.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 结核性腹膜炎",
+      "bbox": [
+        87.45,
+        747.081,
+        171.655,
+        758.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 重度残废或严重功能障碍",
+      "bbox": [
+        349.96,
+        746.501,
+        497.693,
+        758.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 幽门梗阻",
+      "bbox": [
+        87.17,
+        760.961,
+        149.053,
+        772.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "58. 下列各项，属于行政处罚的是（）",
+      "bbox": [
+        350.04,
+        762.621,
+        558.619,
+        774.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 急性肠炎",
+      "bbox": [
+        87.95,
+        777.171,
+        147.65,
+        789.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 罚款",
+      "bbox": [
+        349.88,
+        778.201,
+        387.738,
+        790.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "52. 治疗伤寒应首选的药物是（）",
+      "bbox": [
+        88.23,
+        792.121,
+        272.436,
+        804.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "B. 降级",
+      "bbox": [
+        350.1,
+        793.001,
+        385.657,
+        804.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "110",
+      "bbox": [
+        305.73,
+        815.581,
+        318.9,
+        824.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

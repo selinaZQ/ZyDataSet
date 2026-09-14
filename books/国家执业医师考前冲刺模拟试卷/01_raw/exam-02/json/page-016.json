@@ -1,0 +1,1290 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 16,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        88.0,
+        124.0,
+        521.0,
+        169.0
+      ],
+      "confidence": 0.995479,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        565.0,
+        123.0,
+        824.0,
+        172.0
+      ],
+      "confidence": 0.999437,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "状是（",
+      "bbox": [
+        80.0,
+        236.0,
+        203.0,
+        286.0
+      ],
+      "confidence": 0.974752,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "）",
+      "bbox": [
+        275.0,
+        245.0,
+        301.0,
+        280.0
+      ],
+      "confidence": 0.990134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 结肠",
+      "bbox": [
+        1127.0,
+        238.0,
+        1277.0,
+        290.0
+      ],
+      "confidence": 0.999457,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 发热",
+      "bbox": [
+        165.0,
+        292.0,
+        317.0,
+        349.0
+      ],
+      "confidence": 0.998278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 回肠下段集合淋巴结与孤立淋巴滤泡",
+      "bbox": [
+        1130.0,
+        301.0,
+        1877.0,
+        342.0
+      ],
+      "confidence": 0.996467,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 咳嗽",
+      "bbox": [
+        167.0,
+        356.0,
+        311.0,
+        404.0
+      ],
+      "confidence": 0.996938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 乙状结肠",
+      "bbox": [
+        1130.0,
+        358.0,
+        1359.0,
+        401.0
+      ],
+      "confidence": 0.996858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 呼吸困难",
+      "bbox": [
+        168.0,
+        415.0,
+        397.0,
+        462.0
+      ],
+      "confidence": 0.998781,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "53. 对急诊患者，当手术是抢救患者的唯",
+      "bbox": [
+        1129.0,
+        417.0,
+        1913.0,
+        464.0
+      ],
+      "confidence": 0.994665,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 腹泻",
+      "bbox": [
+        167.0,
+        473.0,
+        313.0,
+        521.0
+      ],
+      "confidence": 0.998072,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "一方案时，最符合医学道德的做法是（",
+      "bbox": [
+        1044.0,
+        475.0,
+        1753.0,
+        524.0
+      ],
+      "confidence": 0.96631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 鼻塞、流涕",
+      "bbox": [
+        167.0,
+        534.0,
+        418.0,
+        580.0
+      ],
+      "confidence": 0.997921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 首先考虑患者的选择",
+      "bbox": [
+        1130.0,
+        532.0,
+        1586.0,
+        581.0
+      ],
+      "confidence": 0.998295,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "47. 艾滋病病毒主要侵害人体的系统是",
+      "bbox": [
+        167.0,
+        591.0,
+        954.0,
+        640.0
+      ],
+      "confidence": 0.986499,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 立即进行手术",
+      "bbox": [
+        1129.0,
+        593.0,
+        1448.0,
+        640.0
+      ],
+      "confidence": 0.998615,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "）",
+      "bbox": [
+        172.0,
+        651.0,
+        219.0,
+        697.0
+      ],
+      "confidence": 0.986547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 在征得其家属或单位同意后，立即进行",
+      "bbox": [
+        1129.0,
+        652.0,
+        1914.0,
+        699.0
+      ],
+      "confidence": 0.993518,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 免疫系统",
+      "bbox": [
+        167.0,
+        710.0,
+        400.0,
+        757.0
+      ],
+      "confidence": 0.998508,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "手术",
+      "bbox": [
+        1038.0,
+        704.0,
+        1138.0,
+        761.0
+      ],
+      "confidence": 0.999322,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "B. 消化系统",
+      "bbox": [
+        166.0,
+        769.0,
+        392.0,
+        815.0
+      ],
+      "confidence": 0.999132,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 放弃手术",
+      "bbox": [
+        1127.0,
+        765.0,
+        1366.0,
+        819.0
+      ],
+      "confidence": 0.997313,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "C. 内分泌系统",
+      "bbox": [
+        167.0,
+        828.0,
+        437.0,
+        875.0
+      ],
+      "confidence": 0.998374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 患者拒绝手术时可不手术",
+      "bbox": [
+        1129.0,
+        826.0,
+        1667.0,
+        876.0
+      ],
+      "confidence": 0.998259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 神经系统",
+      "bbox": [
+        164.0,
+        886.0,
+        397.0,
+        936.0
+      ],
+      "confidence": 0.999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "54. 《中华人民共和国药品管理法》对医疗",
+      "bbox": [
+        1128.0,
+        886.0,
+        1915.0,
+        936.0
+      ],
+      "confidence": 0.999309,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 循环系统",
+      "bbox": [
+        164.0,
+        943.0,
+        394.0,
+        993.0
+      ],
+      "confidence": 0.999374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "机构配制的制剂有一系列规定，下列哪项不符",
+      "bbox": [
+        1041.0,
+        945.0,
+        1915.0,
+        994.0
+      ],
+      "confidence": 0.997315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "48. 根据传染病防治法，SARS的管理应",
+      "bbox": [
+        166.0,
+        1005.0,
+        951.0,
+        1051.0
+      ],
+      "confidence": 0.997343,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "合上述规定（）",
+      "bbox": [
+        1039.0,
+        1000.0,
+        1406.0,
+        1055.0
+      ],
+      "confidence": 0.921011,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "）",
+      "bbox": [
+        174.0,
+        1064.0,
+        218.0,
+        1110.0
+      ],
+      "confidence": 0.987448,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 应当是本单位临床需要而市场上没有",
+      "bbox": [
+        1130.0,
+        1064.0,
+        1914.0,
+        1109.0
+      ],
+      "confidence": 0.99731,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "（",
+      "bbox": [
+        89.0,
+        1075.0,
+        104.0,
+        1103.0
+      ],
+      "confidence": 0.592948,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 按甲类管理",
+      "bbox": [
+        166.0,
+        1122.0,
+        440.0,
+        1168.0
+      ],
+      "confidence": 0.999433,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "供应的品种",
+      "bbox": [
+        1040.0,
+        1120.0,
+        1267.0,
+        1170.0
+      ],
+      "confidence": 0.999355,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 按乙类管理",
+      "bbox": [
+        163.0,
+        1179.0,
+        436.0,
+        1228.0
+      ],
+      "confidence": 0.999481,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 可以部分在市场销售",
+      "bbox": [
+        1129.0,
+        1183.0,
+        1578.0,
+        1224.0
+      ],
+      "confidence": 0.99858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 按丙类管理",
+      "bbox": [
+        166.0,
+        1240.0,
+        437.0,
+        1287.0
+      ],
+      "confidence": 0.999485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 必须按照规定进行质量检验",
+      "bbox": [
+        1132.0,
+        1240.0,
+        1709.0,
+        1282.0
+      ],
+      "confidence": 0.99839,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 各级医疗机构自行决定",
+      "bbox": [
+        164.0,
+        1296.0,
+        654.0,
+        1345.0
+      ],
+      "confidence": 0.998801,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 凭医师处方在本医疗机构使用",
+      "bbox": [
+        1130.0,
+        1299.0,
+        1753.0,
+        1340.0
+      ],
+      "confidence": 0.995957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 各省级卫生管理机构自行决定",
+      "bbox": [
+        164.0,
+        1358.0,
+        783.0,
+        1404.0
+      ],
+      "confidence": 0.99938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 不得在市场销售",
+      "bbox": [
+        1128.0,
+        1357.0,
+        1492.0,
+        1402.0
+      ],
+      "confidence": 0.999012,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "49. 感染艾滋病病毒到发病，一般潜伏期",
+      "bbox": [
+        166.0,
+        1419.0,
+        949.0,
+        1464.0
+      ],
+      "confidence": 0.989,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "55. 下列各项，不属于医德修养内容的是",
+      "bbox": [
+        1128.0,
+        1416.0,
+        1916.0,
+        1462.0
+      ],
+      "confidence": 0.99671,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "为（",
+      "bbox": [
+        76.0,
+        1475.0,
+        155.0,
+        1529.0
+      ],
+      "confidence": 0.873544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "）",
+      "bbox": [
+        179.0,
+        1477.0,
+        261.0,
+        1524.0
+      ],
+      "confidence": 0.950134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "（",
+      "bbox": [
+        1040.0,
+        1477.0,
+        1070.0,
+        1519.0
+      ],
+      "confidence": 0.811598,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        1144.0,
+        1477.0,
+        1182.0,
+        1518.0
+      ],
+      "confidence": 0.977562,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 6个月",
+      "bbox": [
+        163.0,
+        1535.0,
+        341.0,
+        1583.0
+      ],
+      "confidence": 0.993972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 树立正确的医德认识，在实践中进行医",
+      "bbox": [
+        1130.0,
+        1534.0,
+        1916.0,
+        1579.0
+      ],
+      "confidence": 0.993376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 2～10年（平均5年）",
+      "bbox": [
+        162.0,
+        1593.0,
+        598.0,
+        1641.0
+      ],
+      "confidence": 0.943483,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "德品质的培养",
+      "bbox": [
+        1039.0,
+        1589.0,
+        1310.0,
+        1641.0
+      ],
+      "confidence": 0.998917,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 1～2年",
+      "bbox": [
+        163.0,
+        1653.0,
+        361.0,
+        1701.0
+      ],
+      "confidence": 0.935893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 认真学习医学伦理学知识，进行医德理",
+      "bbox": [
+        1128.0,
+        1652.0,
+        1917.0,
+        1697.0
+      ],
+      "confidence": 0.99177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 3～4月",
+      "bbox": [
+        162.0,
+        1712.0,
+        361.0,
+        1761.0
+      ],
+      "confidence": 0.909068,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "论修养",
+      "bbox": [
+        1034.0,
+        1704.0,
+        1181.0,
+        1764.0
+      ],
+      "confidence": 0.999673,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 3～5天",
+      "bbox": [
+        163.0,
+        1771.0,
+        362.0,
+        1818.0
+      ],
+      "confidence": 0.944295,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 在医疗实践中以医德原则和规范要求",
+      "bbox": [
+        1129.0,
+        1770.0,
+        1916.0,
+        1815.0
+      ],
+      "confidence": 0.998406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "50. 传播途径中哪一项与艾滋病无关",
+      "bbox": [
+        166.0,
+        1831.0,
+        948.0,
+        1876.0
+      ],
+      "confidence": 0.996354,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "自己，进行认知修养",
+      "bbox": [
+        1041.0,
+        1825.0,
+        1419.0,
+        1878.0
+      ],
+      "confidence": 0.978318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "（",
+      "bbox": [
+        78.0,
+        1892.0,
+        107.0,
+        1935.0
+      ],
+      "confidence": 0.535484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "）",
+      "bbox": [
+        167.0,
+        1888.0,
+        220.0,
+        1937.0
+      ],
+      "confidence": 0.966264,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "D. 学习国家医疗体制改革文件，进行卫生",
+      "bbox": [
+        1127.0,
+        1888.0,
+        1916.0,
+        1933.0
+      ],
+      "confidence": 0.995698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 性接触",
+      "bbox": [
+        166.0,
+        1948.0,
+        354.0,
+        1996.0
+      ],
+      "confidence": 0.998223,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "政策修养",
+      "bbox": [
+        1038.0,
+        1946.0,
+        1222.0,
+        1997.0
+      ],
+      "confidence": 0.99994,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 注射",
+      "bbox": [
+        163.0,
+        2007.0,
+        306.0,
+        2055.0
+      ],
+      "confidence": 0.999378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 以正确的医德思想克服旧的道德观念",
+      "bbox": [
+        1128.0,
+        2009.0,
+        1916.0,
+        2050.0
+      ],
+      "confidence": 0.993463,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 虫媒",
+      "bbox": [
+        164.0,
+        2066.0,
+        306.0,
+        2115.0
+      ],
+      "confidence": 0.994302,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "的影响，进行医德信念修养",
+      "bbox": [
+        1040.0,
+        2064.0,
+        1550.0,
+        2113.0
+      ],
+      "confidence": 0.971577,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 母婴",
+      "bbox": [
+        163.0,
+        2125.0,
+        308.0,
+        2174.0
+      ],
+      "confidence": 0.998466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "56. 医学道德评价的方式有（（）",
+      "bbox": [
+        1127.0,
+        2121.0,
+        1777.0,
+        2171.0
+      ],
+      "confidence": 0.890531,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 器官移植",
+      "bbox": [
+        164.0,
+        2186.0,
+        391.0,
+        2232.0
+      ],
+      "confidence": 0.997393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 内心信念",
+      "bbox": [
+        1127.0,
+        2182.0,
+        1364.0,
+        2232.0
+      ],
+      "confidence": 0.996755,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "51. 我国实行预防接种证制度的对象是（",
+      "bbox": [
+        166.0,
+        2245.0,
+        852.0,
+        2289.0
+      ],
+      "confidence": 0.978714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 社会舆论",
+      "bbox": [
+        1126.0,
+        2243.0,
+        1356.0,
+        2289.0
+      ],
+      "confidence": 0.99475,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 儿童",
+      "bbox": [
+        166.0,
+        2303.0,
+        313.0,
+        2351.0
+      ],
+      "confidence": 0.996874,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 传统习俗",
+      "bbox": [
+        1124.0,
+        2300.0,
+        1357.0,
+        2350.0
+      ],
+      "confidence": 0.999359,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 在校学生",
+      "bbox": [
+        164.0,
+        2364.0,
+        390.0,
+        2410.0
+      ],
+      "confidence": 0.999201,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 以上都是",
+      "bbox": [
+        1124.0,
+        2361.0,
+        1358.0,
+        2407.0
+      ],
+      "confidence": 0.997682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 未成年人",
+      "bbox": [
+        164.0,
+        2421.0,
+        392.0,
+        2471.0
+      ],
+      "confidence": 0.998051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 以上都不是",
+      "bbox": [
+        1127.0,
+        2422.0,
+        1400.0,
+        2465.0
+      ],
+      "confidence": 0.996181,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 成年人",
+      "bbox": [
+        164.0,
+        2482.0,
+        353.0,
+        2529.0
+      ],
+      "confidence": 0.99888,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "57. 从伦理学上分析，生物一心理一社会医",
+      "bbox": [
+        1124.0,
+        2478.0,
+        1922.0,
+        2529.0
+      ],
+      "confidence": 0.984908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 全体社会公民",
+      "bbox": [
+        164.0,
+        2539.0,
+        480.0,
+        2588.0
+      ],
+      "confidence": 0.999278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "学模式取代生物医学模式在本质上反映（",
+      "bbox": [
+        1038.0,
+        2539.0,
+        1798.0,
+        2587.0
+      ],
+      "confidence": 0.987249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "）",
+      "bbox": [
+        1875.0,
+        2548.0,
+        1902.0,
+        2582.0
+      ],
+      "confidence": 0.992938,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "52. 伤寒最具特征性的病变部位在",
+      "bbox": [
+        166.0,
+        2602.0,
+        944.0,
+        2647.0
+      ],
+      "confidence": 0.997823,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 医疗技术的进步",
+      "bbox": [
+        1127.0,
+        2600.0,
+        1496.0,
+        2645.0
+      ],
+      "confidence": 0.998649,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "）",
+      "bbox": [
+        191.0,
+        2666.0,
+        222.0,
+        2703.0
+      ],
+      "confidence": 0.98921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "B. 以疾病为中心的医学观念",
+      "bbox": [
+        1124.0,
+        2657.0,
+        1665.0,
+        2705.0
+      ],
+      "confidence": 0.99969,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "A. 肝、胆囊",
+      "bbox": [
+        164.0,
+        2718.0,
+        377.0,
+        2767.0
+      ],
+      "confidence": 0.997854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "C. 医学道德的进步",
+      "bbox": [
+        1126.0,
+        2717.0,
+        1489.0,
+        2762.0
+      ],
+      "confidence": 0.998706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "B. 肠系膜淋巴结",
+      "bbox": [
+        163.0,
+        2776.0,
+        478.0,
+        2824.0
+      ],
+      "confidence": 0.997785,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "D. 重视人的心理健康",
+      "bbox": [
+        1126.0,
+        2779.0,
+        1534.0,
+        2820.0
+      ],
+      "confidence": 0.999086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "62",
+      "bbox": [
+        966.0,
+        2848.0,
+        1021.0,
+        2890.0
+      ],
+      "confidence": 0.999194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "—",
+      "bbox": [
+        1044.0,
+        2856.0,
+        1088.0,
+        2885.0
+      ],
+      "confidence": 0.819755,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

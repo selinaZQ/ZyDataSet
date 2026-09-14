@@ -1,0 +1,1251 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 18,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        174.0,
+        73.0,
+        598.0,
+        116.0
+      ],
+      "confidence": 0.999143,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        638.0,
+        78.0,
+        887.0,
+        116.0
+      ],
+      "confidence": 0.999788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 人感染新亚型流感",
+      "bbox": [
+        252.0,
+        186.0,
+        643.0,
+        228.0
+      ],
+      "confidence": 0.996153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 早发现、早观察、早隔离、早治疗",
+      "bbox": [
+        1184.0,
+        183.0,
+        1811.0,
+        228.0
+      ],
+      "confidence": 0.99453,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 流行性和地方性斑疹伤寒",
+      "bbox": [
+        253.0,
+        245.0,
+        766.0,
+        283.0
+      ],
+      "confidence": 0.996629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 早报告、早观察、早治疗、早康复",
+      "bbox": [
+        1182.0,
+        235.0,
+        1808.0,
+        283.0
+      ],
+      "confidence": 0.997503,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "74. 腹痛、腹泻、黏液脓血便，伴发热恶寒，",
+      "bbox": [
+        252.0,
+        300.0,
+        1009.0,
+        340.0
+      ],
+      "confidence": 0.984227,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 早发现、早报告、早隔离、早治疗",
+      "bbox": [
+        1183.0,
+        291.0,
+        1808.0,
+        335.0
+      ],
+      "confidence": 0.992466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "最可能的诊断是（",
+      "bbox": [
+        167.0,
+        353.0,
+        493.0,
+        398.0
+      ],
+      "confidence": 0.976276,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 早发现、早报告、早隔离、早康复",
+      "bbox": [
+        1183.0,
+        345.0,
+        1808.0,
+        390.0
+      ],
+      "confidence": 0.992802,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "）",
+      "bbox": [
+        568.0,
+        358.0,
+        593.0,
+        392.0
+      ],
+      "confidence": 0.979388,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 细菌性痢疾",
+      "bbox": [
+        250.0,
+        409.0,
+        516.0,
+        456.0
+      ],
+      "confidence": 0.993247,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 早预防、早发现、早治疗、早康复",
+      "bbox": [
+        1183.0,
+        398.0,
+        1808.0,
+        444.0
+      ],
+      "confidence": 0.983933,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "76. 感染的类型不包括（",
+      "bbox": [
+        1183.0,
+        454.0,
+        1615.0,
+        498.0
+      ],
+      "confidence": 0.988249,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 阿米巴痢疾",
+      "bbox": [
+        250.0,
+        468.0,
+        509.0,
+        510.0
+      ],
+      "confidence": 0.98528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 首发感染",
+      "bbox": [
+        1184.0,
+        510.0,
+        1406.0,
+        553.0
+      ],
+      "confidence": 0.998269,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 急性胃肠炎",
+      "bbox": [
+        250.0,
+        525.0,
+        508.0,
+        568.0
+      ],
+      "confidence": 0.998234,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 继发感染",
+      "bbox": [
+        1183.0,
+        564.0,
+        1398.0,
+        607.0
+      ],
+      "confidence": 0.998949,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 流行性脑脊髓膜炎",
+      "bbox": [
+        247.0,
+        581.0,
+        638.0,
+        626.0
+      ],
+      "confidence": 0.997846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 重复感染",
+      "bbox": [
+        1184.0,
+        619.0,
+        1400.0,
+        662.0
+      ],
+      "confidence": 0.998466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 霍乱",
+      "bbox": [
+        245.0,
+        636.0,
+        385.0,
+        685.0
+      ],
+      "confidence": 0.998411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 混合感染",
+      "bbox": [
+        1183.0,
+        671.0,
+        1403.0,
+        714.0
+      ],
+      "confidence": 0.998153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "75. 《突发公共卫生事件应急条例》规定，",
+      "bbox": [
+        249.0,
+        697.0,
+        1007.0,
+        737.0
+      ],
+      "confidence": 0.974403,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 重叠感染",
+      "bbox": [
+        1180.0,
+        724.0,
+        1404.0,
+        773.0
+      ],
+      "confidence": 0.979374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "医疗卫生机构应当对传染病做到（",
+      "bbox": [
+        167.0,
+        753.0,
+        781.0,
+        797.0
+      ],
+      "confidence": 0.988921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "）",
+      "bbox": [
+        860.0,
+        754.0,
+        889.0,
+        792.0
+      ],
+      "confidence": 0.985808,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A2 型选择题(77～118题)",
+      "bbox": [
+        817.0,
+        861.0,
+        1302.0,
+        905.0
+      ],
+      "confidence": 0.980362,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "答题说明:每一道考题是以一个小案例出现的，其下面都有A、B、C、D、E五个备选答案，请",
+      "bbox": [
+        269.0,
+        955.0,
+        1928.0,
+        1001.0
+      ],
+      "confidence": 0.942883,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "从中选择一个最佳答案，并在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        186.0,
+        1012.0,
+        1632.0,
+        1055.0
+      ],
+      "confidence": 0.992548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "77. 患者，女，30岁。尿频、尿痛2天。检",
+      "bbox": [
+        249.0,
+        1107.0,
+        1016.0,
+        1153.0
+      ],
+      "confidence": 0.970586,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 慢性胆囊炎发作",
+      "bbox": [
+        1186.0,
+        1107.0,
+        1540.0,
+        1153.0
+      ],
+      "confidence": 0.998265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "查：体温38℃，右肾区叩击痛。尿蛋白（士），尿",
+      "bbox": [
+        166.0,
+        1165.0,
+        1014.0,
+        1206.0
+      ],
+      "confidence": 0.961012,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 十二指肠溃疡发作",
+      "bbox": [
+        1186.0,
+        1165.0,
+        1574.0,
+        1206.0
+      ],
+      "confidence": 0.999128,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "中红细胞2～4/HP，白细胞20～30/HP。应首",
+      "bbox": [
+        167.0,
+        1220.0,
+        1012.0,
+        1261.0
+      ],
+      "confidence": 0.957465,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 胃溃疡伴幽门梗阻",
+      "bbox": [
+        1186.0,
+        1220.0,
+        1576.0,
+        1261.0
+      ],
+      "confidence": 0.997341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "先考虑的是（)",
+      "bbox": [
+        161.0,
+        1269.0,
+        508.0,
+        1318.0
+      ],
+      "confidence": 0.87222,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 胃溃疡恶变",
+      "bbox": [
+        1184.0,
+        1272.0,
+        1453.0,
+        1318.0
+      ],
+      "confidence": 0.998735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 急性膀胱炎",
+      "bbox": [
+        247.0,
+        1328.0,
+        512.0,
+        1371.0
+      ],
+      "confidence": 0.997429,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 复合性溃疡病",
+      "bbox": [
+        1184.0,
+        1327.0,
+        1493.0,
+        1372.0
+      ],
+      "confidence": 0.998518,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 急性肾炎",
+      "bbox": [
+        244.0,
+        1382.0,
+        465.0,
+        1428.0
+      ],
+      "confidence": 0.998676,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "81. 患者，男，19岁。在烈日下打篮球1小",
+      "bbox": [
+        1184.0,
+        1379.0,
+        1949.0,
+        1430.0
+      ],
+      "confidence": 0.982858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 急性肾盂肾炎",
+      "bbox": [
+        245.0,
+        1436.0,
+        551.0,
+        1481.0
+      ],
+      "confidence": 0.972838,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "时，大汗后出现头痛、头晕、胸闷、心悸、恶心，",
+      "bbox": [
+        1100.0,
+        1436.0,
+        1949.0,
+        1485.0
+      ],
+      "confidence": 0.991693,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 尿道综合征",
+      "bbox": [
+        244.0,
+        1491.0,
+        510.0,
+        1538.0
+      ],
+      "confidence": 0.998739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "并有腹肌疼痛。体格检查:体温38.3℃，脉率",
+      "bbox": [
+        1099.0,
+        1491.0,
+        1952.0,
+        1539.0
+      ],
+      "confidence": 0.98175,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 右肾结石",
+      "bbox": [
+        242.0,
+        1543.0,
+        467.0,
+        1594.0
+      ],
+      "confidence": 0.998176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "108次/分，血压90/60mmHg。意识清楚，面色",
+      "bbox": [
+        1099.0,
+        1547.0,
+        1950.0,
+        1594.0
+      ],
+      "confidence": 0.985885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "78. 患者，男，28岁。高血压病病史半年。",
+      "bbox": [
+        242.0,
+        1600.0,
+        1016.0,
+        1653.0
+      ],
+      "confidence": 0.992675,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "潮红，双肺未闻及干、湿性啰音，心律齐。最有",
+      "bbox": [
+        1101.0,
+        1606.0,
+        1949.0,
+        1647.0
+      ],
+      "confidence": 0.990315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "近日头痛加重，恶心，呕吐，心悸，气短。检查：",
+      "bbox": [
+        160.0,
+        1657.0,
+        1014.0,
+        1706.0
+      ],
+      "confidence": 0.98088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "可能的诊断是（",
+      "bbox": [
+        1099.0,
+        1656.0,
+        1386.0,
+        1705.0
+      ],
+      "confidence": 0.991542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "）",
+      "bbox": [
+        1454.0,
+        1659.0,
+        1492.0,
+        1698.0
+      ],
+      "confidence": 0.986188,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "血压190/135mmHg，眼底视网膜出血，心电图",
+      "bbox": [
+        160.0,
+        1710.0,
+        1014.0,
+        1763.0
+      ],
+      "confidence": 0.981621,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 热痉挛",
+      "bbox": [
+        1184.0,
+        1711.0,
+        1372.0,
+        1758.0
+      ],
+      "confidence": 0.998492,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "示左室肥厚，心肌劳损，其诊断是（",
+      "bbox": [
+        158.0,
+        1763.0,
+        791.0,
+        1818.0
+      ],
+      "confidence": 0.99095,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "(）",
+      "bbox": [
+        770.0,
+        1771.0,
+        892.0,
+        1813.0
+      ],
+      "confidence": 0.620778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 热衰竭",
+      "bbox": [
+        1183.0,
+        1767.0,
+        1364.0,
+        1813.0
+      ],
+      "confidence": 0.997736,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 高血压脑病",
+      "bbox": [
+        242.0,
+        1820.0,
+        515.0,
+        1870.0
+      ],
+      "confidence": 0.998179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 低血糖",
+      "bbox": [
+        1184.0,
+        1821.0,
+        1366.0,
+        1868.0
+      ],
+      "confidence": 0.99893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 缓进型高血压病",
+      "bbox": [
+        242.0,
+        1876.0,
+        593.0,
+        1925.0
+      ],
+      "confidence": 0.999172,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 热射病",
+      "bbox": [
+        1184.0,
+        1875.0,
+        1368.0,
+        1923.0
+      ],
+      "confidence": 0.99902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 脑血管痉挛",
+      "bbox": [
+        244.0,
+        1932.0,
+        509.0,
+        1979.0
+      ],
+      "confidence": 0.998287,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 脱水",
+      "bbox": [
+        1182.0,
+        1929.0,
+        1324.0,
+        1977.0
+      ],
+      "confidence": 0.98957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 急进型高血压病",
+      "bbox": [
+        242.0,
+        1986.0,
+        596.0,
+        2035.0
+      ],
+      "confidence": 0.997686,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "82. 患者，女，40岁。既往有风湿性心脏",
+      "bbox": [
+        1185.0,
+        1986.0,
+        1953.0,
+        2031.0
+      ],
+      "confidence": 0.984115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 急性心力衰竭",
+      "bbox": [
+        241.0,
+        2038.0,
+        553.0,
+        2091.0
+      ],
+      "confidence": 0.99776,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "病史，近一周出现咳嗽、咳痰，双下肢浮肿，",
+      "bbox": [
+        1099.0,
+        2039.0,
+        1951.0,
+        2088.0
+      ],
+      "confidence": 0.981986,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "79. 患者频发房性期前收缩，自觉心悸不",
+      "bbox": [
+        244.0,
+        2097.0,
+        1014.0,
+        2144.0
+      ],
+      "confidence": 0.977638,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "不能平卧。该患者还可能出现下列哪项体",
+      "bbox": [
+        1098.0,
+        2096.0,
+        1954.0,
+        2144.0
+      ],
+      "confidence": 0.997697,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "适，心率90次/分。可以选用以下何种药物治",
+      "bbox": [
+        161.0,
+        2150.0,
+        1014.0,
+        2199.0
+      ],
+      "confidence": 0.991292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "征（)",
+      "bbox": [
+        1092.0,
+        2140.0,
+        1293.0,
+        2202.0
+      ],
+      "confidence": 0.7352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "疗（）",
+      "bbox": [
+        156.0,
+        2199.0,
+        344.0,
+        2255.0
+      ],
+      "confidence": 0.951401,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 呼吸过缓",
+      "bbox": [
+        1183.0,
+        2202.0,
+        1414.0,
+        2251.0
+      ],
+      "confidence": 0.998907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "A. 普蔡洛尔",
+      "bbox": [
+        245.0,
+        2257.0,
+        474.0,
+        2308.0
+      ],
+      "confidence": 0.913763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 深大呼吸",
+      "bbox": [
+        1182.0,
+        2255.0,
+        1407.0,
+        2305.0
+      ],
+      "confidence": 0.9996,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "B. 美西律",
+      "bbox": [
+        245.0,
+        2312.0,
+        427.0,
+        2364.0
+      ],
+      "confidence": 0.997021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 潮式呼吸",
+      "bbox": [
+        1183.0,
+        2312.0,
+        1406.0,
+        2359.0
+      ],
+      "confidence": 0.998503,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "C. 地西泮(安定）",
+      "bbox": [
+        246.0,
+        2368.0,
+        556.0,
+        2419.0
+      ],
+      "confidence": 0.923457,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 呼吸过速",
+      "bbox": [
+        1182.0,
+        2367.0,
+        1408.0,
+        2414.0
+      ],
+      "confidence": 0.998707,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "D. 地高辛",
+      "bbox": [
+        243.0,
+        2419.0,
+        430.0,
+        2475.0
+      ],
+      "confidence": 0.997196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 叹息样呼吸",
+      "bbox": [
+        1180.0,
+        2421.0,
+        1450.0,
+        2471.0
+      ],
+      "confidence": 0.997863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 奎尼丁",
+      "bbox": [
+        243.0,
+        2477.0,
+        428.0,
+        2527.0
+      ],
+      "confidence": 0.998333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "83. 患者，女，30岁。10年前患风湿热，检",
+      "bbox": [
+        1179.0,
+        2473.0,
+        1954.0,
+        2526.0
+      ],
+      "confidence": 0.961479,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "80. 患者，男，50岁。反复上腹痛15年，腹",
+      "bbox": [
+        246.0,
+        2533.0,
+        1012.0,
+        2583.0
+      ],
+      "confidence": 0.979466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "查心尖部听到舒张期隆隆样杂音。X线显示左",
+      "bbox": [
+        1099.0,
+        2530.0,
+        1954.0,
+        2580.0
+      ],
+      "confidence": 0.985858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "痛常在饭后，持续1～2小时。近半年疼痛加",
+      "bbox": [
+        160.0,
+        2589.0,
+        1014.0,
+        2638.0
+      ],
+      "confidence": 0.976809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "心房增大。应首先考虑的是()",
+      "bbox": [
+        1099.0,
+        2585.0,
+        1747.0,
+        2634.0
+      ],
+      "confidence": 0.908445,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "剧，食欲减退，体重减轻。检查:贫血貌，左锁",
+      "bbox": [
+        160.0,
+        2644.0,
+        1014.0,
+        2691.0
+      ],
+      "confidence": 0.957497,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 二尖瓣关闭不全",
+      "bbox": [
+        1184.0,
+        2639.0,
+        1539.0,
+        2685.0
+      ],
+      "confidence": 0.997999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "骨上触及肿大淋巴结，血沉46mm/h，大便隐血",
+      "bbox": [
+        160.0,
+        2699.0,
+        1015.0,
+        2745.0
+      ],
+      "confidence": 0.979472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "B. 二尖瓣狭窄",
+      "bbox": [
+        1183.0,
+        2695.0,
+        1445.0,
+        2741.0
+      ],
+      "confidence": 0.997758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "试验持续阳性。应首先考虑的是()",
+      "bbox": [
+        160.0,
+        2753.0,
+        892.0,
+        2797.0
+      ],
+      "confidence": 0.970652,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "C. 主动脉瓣关闭不全",
+      "bbox": [
+        1183.0,
+        2750.0,
+        1574.0,
+        2796.0
+      ],
+      "confidence": 0.997636,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "18",
+      "bbox": [
+        1028.0,
+        2820.0,
+        1085.0,
+        2866.0
+      ],
+      "confidence": 0.999754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "—",
+      "bbox": [
+        1093.0,
+        2825.0,
+        1152.0,
+        2863.0
+      ],
+      "confidence": 0.56957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

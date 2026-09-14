@@ -1,0 +1,1134 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 47,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1425.0,
+        72.0,
+        1828.0,
+        108.0
+      ],
+      "confidence": 0.978047,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "A3型选择题（119～120题）",
+      "bbox": [
+        780.0,
+        179.0,
+        1258.0,
+        228.0
+      ],
+      "confidence": 0.979405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "答题说明:以下提供若干个案例，每个案例下设若干道试题。请根据案例所提供的信息，在",
+      "bbox": [
+        267.0,
+        266.0,
+        1855.0,
+        311.0
+      ],
+      "confidence": 0.975212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "每一道试题下面的A、B、C、D、E五个备选答案中选择一个最佳答案，并在答题卡上将相应题号",
+      "bbox": [
+        179.0,
+        320.0,
+        1858.0,
+        370.0
+      ],
+      "confidence": 0.956948,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "的相应字母所属的方框涂黑。",
+      "bbox": [
+        181.0,
+        380.0,
+        693.0,
+        430.0
+      ],
+      "confidence": 0.99743,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "（119～120题共用题干）",
+      "bbox": [
+        244.0,
+        467.0,
+        663.0,
+        514.0
+      ],
+      "confidence": 0.950447,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 恶阻",
+      "bbox": [
+        1133.0,
+        465.0,
+        1271.0,
+        518.0
+      ],
+      "confidence": 0.998454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "患者，女，31岁。已婚，既往孕2产0。2025",
+      "bbox": [
+        244.0,
+        526.0,
+        977.0,
+        571.0
+      ],
+      "confidence": 0.97042,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 数堕胎",
+      "bbox": [
+        1133.0,
+        521.0,
+        1313.0,
+        577.0
+      ],
+      "confidence": 0.990645,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "年5月10日因阴道少量出血2天、腹痛半天就",
+      "bbox": [
+        160.0,
+        587.0,
+        975.0,
+        630.0
+      ],
+      "confidence": 0.993997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 胎动不安",
+      "bbox": [
+        1135.0,
+        583.0,
+        1350.0,
+        634.0
+      ],
+      "confidence": 0.999311,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "诊，血色淡暗，腰酸腹坠，夜尿多，舌淡，苔白，脉",
+      "bbox": [
+        160.0,
+        644.0,
+        973.0,
+        688.0
+      ],
+      "confidence": 0.98764,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "120. 此时的治疗原则是（",
+      "bbox": [
+        1140.0,
+        647.0,
+        1569.0,
+        685.0
+      ],
+      "confidence": 0.978253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "）",
+      "bbox": [
+        1649.0,
+        651.0,
+        1675.0,
+        681.0
+      ],
+      "confidence": 0.977077,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "沉细滑，平素月经规律量少，末次月经3月20",
+      "bbox": [
+        158.0,
+        704.0,
+        978.0,
+        748.0
+      ],
+      "confidence": 0.990997,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 固肾安胎，佐以益气",
+      "bbox": [
+        1139.0,
+        705.0,
+        1539.0,
+        747.0
+      ],
+      "confidence": 0.994885,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "日。尿妊娠试验阳性。",
+      "bbox": [
+        164.0,
+        764.0,
+        540.0,
+        802.0
+      ],
+      "confidence": 0.991773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 清热凉血，养血安胎",
+      "bbox": [
+        1135.0,
+        759.0,
+        1534.0,
+        807.0
+      ],
+      "confidence": 0.995441,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "119. 该患者最可能的诊断是（",
+      "bbox": [
+        236.0,
+        821.0,
+        838.0,
+        863.0
+      ],
+      "confidence": 0.966659,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "）",
+      "bbox": [
+        826.0,
+        826.0,
+        851.0,
+        856.0
+      ],
+      "confidence": 0.991488,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 活血化瘀，补肾安胎",
+      "bbox": [
+        1139.0,
+        821.0,
+        1534.0,
+        863.0
+      ],
+      "confidence": 0.99262,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 胞漏",
+      "bbox": [
+        231.0,
+        875.0,
+        373.0,
+        927.0
+      ],
+      "confidence": 0.999178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 从速下胎益母",
+      "bbox": [
+        1135.0,
+        876.0,
+        1434.0,
+        921.0
+      ],
+      "confidence": 0.99841,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 胞阻",
+      "bbox": [
+        227.0,
+        932.0,
+        367.0,
+        987.0
+      ],
+      "confidence": 0.999067,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 破血逐瘀下胎",
+      "bbox": [
+        1137.0,
+        936.0,
+        1433.0,
+        981.0
+      ],
+      "confidence": 0.995529,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        772.0,
+        1051.0,
+        1263.0,
+        1099.0
+      ],
+      "confidence": 0.978129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "答题说明:以下提供若干组考题,每组考题共用在考题前列出的A、B、C、D、E五个备选答",
+      "bbox": [
+        253.0,
+        1135.0,
+        1860.0,
+        1183.0
+      ],
+      "confidence": 0.964731,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "案,请从中选择一个与问题最密切的答案,并在答题卡上将相应题号的相应字母所属的方框涂",
+      "bbox": [
+        177.0,
+        1194.0,
+        1861.0,
+        1242.0
+      ],
+      "confidence": 0.988171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "黑。某个备选答案可能被选择一次、多次或不被选择。",
+      "bbox": [
+        175.0,
+        1252.0,
+        1121.0,
+        1300.0
+      ],
+      "confidence": 0.997972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        235.0,
+        1338.0,
+        736.0,
+        1385.0
+      ],
+      "confidence": 0.926747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "126. 传染性软疣的外治，应选用（",
+      "bbox": [
+        1143.0,
+        1339.0,
+        1716.0,
+        1377.0
+      ],
+      "confidence": 0.978175,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "）",
+      "bbox": [
+        1798.0,
+        1341.0,
+        1822.0,
+        1373.0
+      ],
+      "confidence": 0.987402,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 红丝疗",
+      "bbox": [
+        233.0,
+        1396.0,
+        408.0,
+        1444.0
+      ],
+      "confidence": 0.950158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "（127～128题共用备选答案）",
+      "bbox": [
+        1141.0,
+        1392.0,
+        1642.0,
+        1436.0
+      ],
+      "confidence": 0.928623,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 失荣",
+      "bbox": [
+        229.0,
+        1451.0,
+        364.0,
+        1505.0
+      ],
+      "confidence": 0.999292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 1周左右",
+      "bbox": [
+        1140.0,
+        1453.0,
+        1346.0,
+        1496.0
+      ],
+      "confidence": 0.992393,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 漆疮",
+      "bbox": [
+        229.0,
+        1510.0,
+        365.0,
+        1562.0
+      ],
+      "confidence": 0.998102,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 3周左右",
+      "bbox": [
+        1137.0,
+        1510.0,
+        1342.0,
+        1556.0
+      ],
+      "confidence": 0.998485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 水火烫伤",
+      "bbox": [
+        230.0,
+        1570.0,
+        446.0,
+        1617.0
+      ],
+      "confidence": 0.997603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 5周左右",
+      "bbox": [
+        1138.0,
+        1568.0,
+        1344.0,
+        1614.0
+      ],
+      "confidence": 0.998296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 酒渣鼻",
+      "bbox": [
+        229.0,
+        1626.0,
+        406.0,
+        1678.0
+      ],
+      "confidence": 0.999211,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 8周左右",
+      "bbox": [
+        1137.0,
+        1625.0,
+        1346.0,
+        1673.0
+      ],
+      "confidence": 0.998004,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "121. 其病因属感受特殊之毒的是（",
+      "bbox": [
+        231.0,
+        1684.0,
+        838.0,
+        1733.0
+      ],
+      "confidence": 0.979491,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "）",
+      "bbox": [
+        911.0,
+        1686.0,
+        940.0,
+        1726.0
+      ],
+      "confidence": 0.960335,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 10 周左右",
+      "bbox": [
+        1138.0,
+        1684.0,
+        1363.0,
+        1726.0
+      ],
+      "confidence": 0.9573,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "122. 其病因属外来伤害的是（",
+      "bbox": [
+        233.0,
+        1743.0,
+        754.0,
+        1789.0
+      ],
+      "confidence": 0.969908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "）",
+      "bbox": [
+        825.0,
+        1741.0,
+        859.0,
+        1787.0
+      ],
+      "confidence": 0.961955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "127. 梅毒的疳疮（硬下疳）在不洁性交后",
+      "bbox": [
+        1140.0,
+        1743.0,
+        1875.0,
+        1785.0
+      ],
+      "confidence": 0.960589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        235.0,
+        1802.0,
+        738.0,
+        1846.0
+      ],
+      "confidence": 0.936558,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "出现的时间是（）",
+      "bbox": [
+        1060.0,
+        1797.0,
+        1438.0,
+        1847.0
+      ],
+      "confidence": 0.927485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 知柏地黄汤",
+      "bbox": [
+        235.0,
+        1862.0,
+        492.0,
+        1904.0
+      ],
+      "confidence": 0.998192,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "128. 梅毒的杨梅疮在感染后出现的时间",
+      "bbox": [
+        1140.0,
+        1859.0,
+        1875.0,
+        1901.0
+      ],
+      "confidence": 0.995616,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 清肝止淋汤",
+      "bbox": [
+        233.0,
+        1918.0,
+        486.0,
+        1964.0
+      ],
+      "confidence": 0.999386,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "是（）",
+      "bbox": [
+        1050.0,
+        1908.0,
+        1236.0,
+        1969.0
+      ],
+      "confidence": 0.743642,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 血府逐瘀汤",
+      "bbox": [
+        235.0,
+        1977.0,
+        487.0,
+        2020.0
+      ],
+      "confidence": 0.996632,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        1143.0,
+        1976.0,
+        1649.0,
+        2018.0
+      ],
+      "confidence": 0.933859,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 解毒活血汤",
+      "bbox": [
+        234.0,
+        2033.0,
+        490.0,
+        2080.0
+      ],
+      "confidence": 0.99879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 桃红四物汤",
+      "bbox": [
+        1141.0,
+        2033.0,
+        1401.0,
+        2076.0
+      ],
+      "confidence": 0.996979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 逐瘀止血汤",
+      "bbox": [
+        234.0,
+        2092.0,
+        490.0,
+        2138.0
+      ],
+      "confidence": 0.998432,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 逍遥散合四物汤",
+      "bbox": [
+        1139.0,
+        2089.0,
+        1477.0,
+        2135.0
+      ],
+      "confidence": 0.99476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "123. 经间期出血量少，色紫黑，有小血块，",
+      "bbox": [
+        236.0,
+        2153.0,
+        972.0,
+        2194.0
+      ],
+      "confidence": 0.990114,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 通窍活血汤",
+      "bbox": [
+        1140.0,
+        2150.0,
+        1394.0,
+        2193.0
+      ],
+      "confidence": 0.99879,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "少腹胀痛。治疗应首选（）",
+      "bbox": [
+        156.0,
+        2201.0,
+        698.0,
+        2258.0
+      ],
+      "confidence": 0.95528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 六味地黄丸",
+      "bbox": [
+        1136.0,
+        2204.0,
+        1397.0,
+        2253.0
+      ],
+      "confidence": 0.996171,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "124. 经间期出血量少，色红质黏腻，胸闷",
+      "bbox": [
+        236.0,
+        2270.0,
+        975.0,
+        2311.0
+      ],
+      "confidence": 0.98663,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 七宝美髯丹",
+      "bbox": [
+        1139.0,
+        2266.0,
+        1395.0,
+        2309.0
+      ],
+      "confidence": 0.998998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "烦躁。治疗应首选（）",
+      "bbox": [
+        156.0,
+        2322.0,
+        616.0,
+        2375.0
+      ],
+      "confidence": 0.929943,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "129. 治疗油风气滞血瘀证，应首选方剂是",
+      "bbox": [
+        1139.0,
+        2325.0,
+        1876.0,
+        2367.0
+      ],
+      "confidence": 0.990213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        240.0,
+        2385.0,
+        737.0,
+        2427.0
+      ],
+      "confidence": 0.949037,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "（",
+      "bbox": [
+        1061.0,
+        2389.0,
+        1081.0,
+        2422.0
+      ],
+      "confidence": 0.734316,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "）",
+      "bbox": [
+        1151.0,
+        2383.0,
+        1188.0,
+        2427.0
+      ],
+      "confidence": 0.97038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "A. 推疣法",
+      "bbox": [
+        236.0,
+        2439.0,
+        420.0,
+        2490.0
+      ],
+      "confidence": 0.994233,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "130. 治疗油风肝肾不足证，应首选方剂是",
+      "bbox": [
+        1139.0,
+        2442.0,
+        1877.0,
+        2484.0
+      ],
+      "confidence": 0.993956,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "B. 浸渍法",
+      "bbox": [
+        235.0,
+        2496.0,
+        415.0,
+        2548.0
+      ],
+      "confidence": 0.990036,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "）",
+      "bbox": [
+        1148.0,
+        2499.0,
+        1189.0,
+        2546.0
+      ],
+      "confidence": 0.972193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "C. 针挑法",
+      "bbox": [
+        236.0,
+        2556.0,
+        417.0,
+        2607.0
+      ],
+      "confidence": 0.99829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        1143.0,
+        2560.0,
+        1640.0,
+        2597.0
+      ],
+      "confidence": 0.952692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "D. 挖除法",
+      "bbox": [
+        234.0,
+        2612.0,
+        418.0,
+        2667.0
+      ],
+      "confidence": 0.998281,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 归脾汤",
+      "bbox": [
+        1138.0,
+        2613.0,
+        1317.0,
+        2660.0
+      ],
+      "confidence": 0.994977,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "E. 结扎法",
+      "bbox": [
+        235.0,
+        2673.0,
+        418.0,
+        2724.0
+      ],
+      "confidence": 0.998591,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 逐瘀止血汤",
+      "bbox": [
+        1137.0,
+        2673.0,
+        1391.0,
+        2719.0
+      ],
+      "confidence": 0.995685,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "125. 寻常疣的外治，应选用（",
+      "bbox": [
+        238.0,
+        2733.0,
+        739.0,
+        2780.0
+      ],
+      "confidence": 0.960031,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "）",
+      "bbox": [
+        814.0,
+        2738.0,
+        838.0,
+        2777.0
+      ],
+      "confidence": 0.741182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 清肝止淋汤",
+      "bbox": [
+        1138.0,
+        2732.0,
+        1392.0,
+        2778.0
+      ],
+      "confidence": 0.998944,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "93",
+      "bbox": [
+        988.0,
+        2806.0,
+        1049.0,
+        2852.0
+      ],
+      "confidence": 0.998348,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "—",
+      "bbox": [
+        1060.0,
+        2811.0,
+        1112.0,
+        2845.0
+      ],
+      "confidence": 0.431568,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

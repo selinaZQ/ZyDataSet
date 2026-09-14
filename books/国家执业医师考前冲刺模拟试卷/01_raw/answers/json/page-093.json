@@ -1,0 +1,1324 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 93,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）参考答案及解析",
+      "bbox": [
+        307.83,
+        43.615,
+        510.688,
+        54.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "47. E【解析】治疗性冲洗者、常用量为每次",
+      "bbox": [
+        63.64,
+        68.514,
+        274.882,
+        79.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "算:收缩血压（mmHg）=年龄×2 +80,舒张血压为较",
+      "bbox": [
+        295.02,
+        69.884,
+        524.46,
+        79.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "500ml，倾入阴道冲洗器具内，每天1～ 2次，连续冲洗",
+      "bbox": [
+        44.85,
+        82.274,
+        277.24,
+        92.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "缩血压的2/3。",
+      "bbox": [
+        295.14,
+        82.675,
+        360.75,
+        92.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "系自觉症状消失。",
+      "bbox": [
+        44.52,
+        94.774,
+        121.4,
+        104.384
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "59. D【解析】病变部位在肺，常涉及脾，基本病机",
+      "bbox": [
+        314.65,
+        96.435,
+        528.23,
+        106.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "48. E【解析】妊娠恶阻的病因病机为冲气上逆.",
+      "bbox": [
+        62.45,
+        107.784,
+        274.74,
+        117.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "为肺失宣肃。",
+      "bbox": [
+        295.33,
+        110.104,
+        352.93,
+        119.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "胃失和降。",
+      "bbox": [
+        44.49,
+        120.754,
+        92.44,
+        130.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "60. B【解析】按照小几年龄分期标准，婴儿期指",
+      "bbox": [
+        314.9,
+        124.495,
+        526.982,
+        134.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "49. B【解析】闭经的诊断。女子年逾16周岁，月",
+      "bbox": [
+        61.93,
+        134.044,
+        273.899,
+        143.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "的：出生28天后至1周岁为婴儿期。",
+      "bbox": [
+        295.78,
+        137.704,
+        448.725,
+        147.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "经尚未来潮，或月经周期已建立后又中断6个月以上",
+      "bbox": [
+        43.08,
+        146.644,
+        275.081,
+        156.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "61. D【解析】生后4～10个月乳牙开始萌出.出",
+      "bbox": [
+        315.28,
+        152.865,
+        527.351,
+        163.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "育，称“闭经”。“月经1年一行，无其他不适”为避年，",
+      "bbox": [
+        43.96,
+        160.274,
+        288.697,
+        169.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "牙顺序是先下颌后上颌，自前向后依次萌出，唯尖牙例",
+      "bbox": [
+        295.65,
+        167.184,
+        528.214,
+        176.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "为特殊的月经现象，不属疾病。“49周岁月经6个月余",
+      "bbox": [
+        43.18,
+        174.034,
+        275.481,
+        183.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "外。乳牙在2～ 2.5岁出齐。",
+      "bbox": [
+        295.82,
+        182.164,
+        418.39,
+        193.404
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "未来潮“属生理性闭经。",
+      "bbox": [
+        42.64,
+        187.034,
+        148.46,
+        196.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "62. A【解析】脾肾阳虚，气化功能不足，水液代谢",
+      "bbox": [
+        315.75,
+        197.904,
+        531.69,
+        208.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "50. D【解析】肾阳虚证带下过多的主证。肾阳虚",
+      "bbox": [
+        60.24,
+        201.214,
+        275.483,
+        210.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "失常，湿阻于舌而见舌体胖嫩，受齿挤压而形成齿痕，",
+      "bbox": [
+        295.84,
+        212.654,
+        528.49,
+        222.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "衰，命门火衰，封藏失职，故带下量多，绵绵不断，清稀",
+      "bbox": [
+        42.92,
+        215.584,
+        283.42,
+        225.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "如水：腰为肾之府，肾虚而有腰酸如折；肾阳虚，阳气不",
+      "bbox": [
+        42.3,
+        229.634,
+        282.8,
+        239.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "故齿痕常与胖嫩舌同见。",
+      "bbox": [
+        296.23,
+        228.124,
+        402.05,
+        237.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "能外达可有畏寒肢冷；肾阳虚不能上温脾阳，则大便溏",
+      "bbox": [
+        42.41,
+        243.914,
+        275.724,
+        253.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "63. D【解析】儿童注意力缺陷多动症男孩多于女",
+      "bbox": [
+        316.35,
+        244.084,
+        529.063,
+        254.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "薄；不能下暖膀胱，故小便清长，或夜尿频多；舌淡苔白",
+      "bbox": [
+        42.48,
+        258.604,
+        283.23,
+        268.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "孩，多见于学龄期儿童。",
+      "bbox": [
+        296.36,
+        258.894,
+        402.18,
+        268.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "润、脉沉迟亦为肾阳虚之征。面色萎黄，四肢倦怠，纳",
+      "bbox": [
+        42.31,
+        273.084,
+        275.823,
+        282.694
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "64. B【解析】疳积证治法：消积理脾。代表方：肥",
+      "bbox": [
+        316.72,
+        275.374,
+        531.03,
+        285.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "少便溏为脾虚征象。",
+      "bbox": [
+        42.14,
+        287.584,
+        128.72,
+        297.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "儿丸。A项为疳气证的治法，C项为干疳证的治法，D",
+      "bbox": [
+        296.59,
+        290.674,
+        530.513,
+        300.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "51. E【解析】产后发热感染邪毒证用五味消毒饮",
+      "bbox": [
+        59.8,
+        302.124,
+        276.717,
+        312.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "项为口疳证的治法，E项为疳肿胀证的治法。",
+      "bbox": [
+        296.7,
+        305.994,
+        485.071,
+        315.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "合失笑散或解毒活血汤加减；外感证用荆防四物汤加",
+      "bbox": [
+        42.63,
+        317.554,
+        276.196,
+        327.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "65. B【解析】风热感冒治法：辛凉解表。主方：银",
+      "bbox": [
+        317.05,
+        322.694,
+        531.52,
+        333.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "减；血瘀证用生化汤加味；血虚证用八珍汤加减；故选E，",
+      "bbox": [
+        42.84,
+        332.814,
+        281.728,
+        344.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "翘散加减。",
+      "bbox": [
+        297.18,
+        338.194,
+        345.23,
+        347.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "其余选项不正确。",
+      "bbox": [
+        42.74,
+        347.534,
+        119.46,
+        357.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "66. A【解析】小儿水肿之脾肾阳虚证证候：全身",
+      "bbox": [
+        317.43,
+        354.204,
+        529.288,
+        364.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "52. B【解析】阴挺也称“阴脱”“阴菌”“阴痔”“产",
+      "bbox": [
+        60.03,
+        362.754,
+        294.56,
+        372.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "浮肿，以腰腹、下肢为甚，按之深陷难起，畏寒肢冷，面",
+      "bbox": [
+        297.43,
+        370.314,
+        537.43,
+        379.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "肠不收”“葫芦颓”。本病相类于西医的“子宫脱垂”。",
+      "bbox": [
+        43.27,
+        377.634,
+        283.52,
+        387.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "白无华，神倦乏力，小便量少，甚或无尿，大便溏，舌淡",
+      "bbox": [
+        298.39,
+        386.424,
+        537.89,
+        396.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "阴蚀指阴疮。",
+      "bbox": [
+        43.36,
+        393.214,
+        101.02,
+        402.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "胖，苔白滑，脉沉细。",
+      "bbox": [
+        297.31,
+        402.154,
+        393.31,
+        411.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "53. E【解析】放置宫内节育器禁忌证：①妊娠或",
+      "bbox": [
+        60.07,
+        406.814,
+        276.993,
+        416.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "67. C【解析】胎黄之气滞血瘀证证候：面目皮肤",
+      "bbox": [
+        317.59,
+        418.594,
+        529.585,
+        429.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "妊娠可疑者；②人工流产、分娩或剖宫产后有妊娠组织",
+      "bbox": [
+        43.02,
+        422.574,
+        276.776,
+        432.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "发黄，颜色逐渐加深，晦暗无华，右胁下痞块质硬，肚腹",
+      "bbox": [
+        297.68,
+        434.654,
+        537.93,
+        444.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "物残留或感染可能者；③生殖道炎症；④生殖器官肿",
+      "bbox": [
+        43.07,
+        437.804,
+        276.848,
+        447.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "瘤、子宫畸形；⑤宫颈过松、重度陈旧性宫颈裂伤或子",
+      "bbox": [
+        42.89,
+        452.904,
+        277.111,
+        462.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "膨胀，青筋显露，或见瘀斑、衄血，唇色暗红，舌见瘀点，",
+      "bbox": [
+        297.54,
+        450.394,
+        547.4,
+        460.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "宫脱垂；⑥严重的全身性疾患；⑦月经过多。E项与以",
+      "bbox": [
+        43.25,
+        468.264,
+        276.864,
+        477.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "苔黄。主治方剂血府逐瘀汤。",
+      "bbox": [
+        297.55,
+        466.384,
+        422.61,
+        476.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "上禁忌证不符，故选E。",
+      "bbox": [
+        42.57,
+        482.944,
+        147.008,
+        492.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "68. C【解析】麻疹一年四季均可发病，以冬春季",
+      "bbox": [
+        318.01,
+        482.924,
+        529.632,
+        493.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "54. A【解析】异位妊娠有停经史、阴道不规则出",
+      "bbox": [
+        60.32,
+        499.204,
+        276.384,
+        508.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "多见，6个月至5岁发病率较高，容易并发肺炎。",
+      "bbox": [
+        297.85,
+        498.944,
+        499.624,
+        508.534
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "血、突然一侧少腹撕裂样疼痛，甚则晕厥或休克。胎动",
+      "bbox": [
+        42.97,
+        514.734,
+        276.925,
+        524.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "69. A【解析】小儿营养性缺铁性贫血：6个月～6",
+      "bbox": [
+        318.11,
+        515.614,
+        515.34,
+        528.314
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "岁",
+      "bbox": [
+        519.771,
+        518.764,
+        529.321,
+        528.314
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "不安有停经史，下腹部坠痛，腰痛，少量阴道出血。难",
+      "bbox": [
+        43.13,
+        530.234,
+        277.085,
+        539.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "血红蛋白<100g/L,6岁以上血红蛋白<120g/L.",
+      "bbox": [
+        297.74,
+        531.214,
+        502.942,
+        544.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "免流产时下腹阵发性疼痛，腰酸痛均加重。腹部体征：",
+      "bbox": [
+        43.14,
+        545.904,
+        276.454,
+        555.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "70. D【解析】起病急骤，高热恶寒，肌肉酸痛为时",
+      "bbox": [
+        318.25,
+        548.144,
+        533.74,
+        558.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "异位妊娠下腹一侧或全腹压痛、反跳痛，肌紧张不明",
+      "bbox": [
+        42.94,
+        561.514,
+        276.718,
+        571.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "邪感冒的特征。",
+      "bbox": [
+        297.81,
+        564.504,
+        365.08,
+        574.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "显，可有移动性浊音。胎动不安无阳性体征。妇科检",
+      "bbox": [
+        42.92,
+        577.234,
+        277.513,
+        586.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "71. E【解析】小儿脾虚泻的治法为健脾益气，助",
+      "bbox": [
+        318.42,
+        581.104,
+        529.455,
+        592.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "查：异位妊娠后穹隆饱胀，宫颈摇举痛，子宫稍大而软，",
+      "bbox": [
+        42.75,
+        592.934,
+        283.25,
+        602.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "运止泻，方用参苓白术散。",
+      "bbox": [
+        298.03,
+        597.644,
+        413.35,
+        607.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "宫旁可扪及痛性包块。后穹隆可抽出不凝血。胎动不",
+      "bbox": [
+        42.88,
+        608.464,
+        277.473,
+        618.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "72. C【解析】遗尿多与膀胱和肾的功能失调有",
+      "bbox": [
+        318.52,
+        614.104,
+        529.296,
+        625.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "安子宫增大与月份相符，可有阴道出血，无宫颈摇",
+      "bbox": [
+        43.2,
+        624.664,
+        277.71,
+        634.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "关，其中尤以肾气不足、膀胱虚寒为多见。",
+      "bbox": [
+        298.15,
+        631.284,
+        480.93,
+        640.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "举痛。",
+      "bbox": [
+        43.17,
+        640.404,
+        71.97,
+        650.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "73. B【解析】小儿积滞之乳食内积证证候：不思乳",
+      "bbox": [
+        318.61,
+        648.194,
+        532.56,
+        658.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "55. B【解析】雌激素作用有促进卵泡发育、促使",
+      "bbox": [
+        60.95,
+        655.354,
+        277.979,
+        665.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "食，嗳腐酸馊或呕吐食物、乳片，脘腹胀满疼痛，大便酸",
+      "bbox": [
+        298.42,
+        664.994,
+        538.42,
+        674.594
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "乳腺管增生、促进第二性征发育、促进骨中钙的沉积、",
+      "bbox": [
+        43.01,
+        671.234,
+        277.895,
+        680.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "臭，烦躁啼哭，夜眠不安，手足心热，舌质红，苔白厚或黄",
+      "bbox": [
+        298.63,
+        682.074,
+        548.49,
+        691.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "使宫颈黏液分泌增加；促进外生殖器发育、丰满、色素",
+      "bbox": [
+        43.18,
+        687.064,
+        277.821,
+        696.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "厚腻，脉象弦滑，指纹紫滞。治法：消乳化食，和中导滞。",
+      "bbox": [
+        298.62,
+        698.474,
+        547.7,
+        708.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "沉着等。B项是孕激素的生理作用。",
+      "bbox": [
+        43.24,
+        702.234,
+        196.241,
+        711.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "代表方剂：乳积者，选消乳丸；食积者，选保和丸。",
+      "bbox": [
+        298.38,
+        714.774,
+        518.95,
+        724.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "56. E【解析】与成人一样，小儿的正常舌象为淡",
+      "bbox": [
+        61.42,
+        717.704,
+        278.313,
+        728.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "74. A【解析】泄泻发病，无不因于湿；小儿肺、脾",
+      "bbox": [
+        318.57,
+        730.004,
+        536.08,
+        740.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "红舌，故选E。舌质淡白为心阳不足；舌质绛红为心阴",
+      "bbox": [
+        43.38,
+        733.204,
+        277.931,
+        742.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "不足，易于感受外邪，其中以外感暑热、内伤饮食居多、",
+      "bbox": [
+        298.71,
+        745.454,
+        538.46,
+        755.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "不足；舌质紫暗或暗红为瘀血内阻。",
+      "bbox": [
+        43.29,
+        748.944,
+        197.21,
+        758.564
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "57. C【解析】随着小儿年龄的增加，小儿的脉搏",
+      "bbox": [
+        61.48,
+        763.854,
+        278.344,
+        774.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "均为热邪或易于化热。从临床统计资料看，亦以湿热",
+      "bbox": [
+        298.49,
+        761.254,
+        528.188,
+        770.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "减慢，血压增高。",
+      "bbox": [
+        43.71,
+        779.214,
+        120.59,
+        788.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "泄最多见。",
+      "bbox": [
+        298.79,
+        778.734,
+        346.84,
+        788.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "58. C【解析】正常小儿的血压可以用以下公式计",
+      "bbox": [
+        61.72,
+        794.594,
+        278.659,
+        804.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "75. C【解析】五迟、五软之痰瘀阻滞证，应治以涤",
+      "bbox": [
+        318.42,
+        792.274,
+        532.15,
+        803.134
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "—283",
+      "bbox": [
+        260.55,
+        813.594,
+        293.688,
+        823.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "—",
+      "bbox": [
+        305.82,
+        813.684,
+        315.38,
+        823.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

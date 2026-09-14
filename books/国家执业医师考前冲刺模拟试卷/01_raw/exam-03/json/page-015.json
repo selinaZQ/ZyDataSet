@@ -1,0 +1,1220 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 15,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        426.1,
+        54.92,
+        544.252,
+        66.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "B. 暗红色血便",
+      "bbox": [
+        78.77,
+        87.34,
+        150.71,
+        99.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "40. 对不伤害原则的解释,正确的",
+      "bbox": [
+        341.55,
+        87.6,
+        560.81,
+        99.89
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 柏油便",
+      "bbox": [
+        78.84,
+        102.62,
+        126.78,
+        114.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "是（）",
+      "bbox": [
+        318.12,
+        104.34,
+        364.753,
+        116.43
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "D. 洗肉水样便",
+      "bbox": [
+        78.35,
+        118.65,
+        151.155,
+        130.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 不伤害原则就是消除任何医疗伤害",
+      "bbox": [
+        342.06,
+        119.33,
+        537.036,
+        131.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 脓血便",
+      "bbox": [
+        78.72,
+        133.76,
+        126.512,
+        145.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 不伤害原则就是要求医生对患者丝毫",
+      "bbox": [
+        342.11,
+        135.26,
+        557.977,
+        147.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "34. 对心肌缺血与心内膜下梗死的鉴别，",
+      "bbox": [
+        78.28,
+        149.48,
+        287.993,
+        161.5
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "不能伤害",
+      "bbox": [
+        317.9,
+        153.85,
+        365.86,
+        165.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "最有意义的是（）",
+      "bbox": [
+        54.77,
+        165.78,
+        161.879,
+        177.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 因绝大多数医疗行为都存在着不同程",
+      "bbox": [
+        341.96,
+        167.62,
+        558.74,
+        179.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 淀粉酶",
+      "bbox": [
+        78.67,
+        181.04,
+        128.242,
+        193.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "度的伤害，所以不伤害原则是做不到的",
+      "bbox": [
+        317.97,
+        184.85,
+        526.25,
+        197.15
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 血清转氨酶",
+      "bbox": [
+        78.19,
+        197.1,
+        150.61,
+        209.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 不伤害原则要求对医学行为进行受益",
+      "bbox": [
+        341.85,
+        200.78,
+        558.486,
+        212.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. γ-谷氨酰基转肽酶",
+      "bbox": [
+        78.31,
+        213.17,
+        188.214,
+        225.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "与伤害的权衡，把可控伤害控制在最低限度",
+      "bbox": [
+        318.42,
+        216.76,
+        558.284,
+        228.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 肌酸磷酸激酶",
+      "bbox": [
+        78.12,
+        229.33,
+        163.979,
+        241.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "之内",
+      "bbox": [
+        317.73,
+        235.17,
+        341.75,
+        247.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 血清碱性磷酸酶",
+      "bbox": [
+        78.26,
+        244.26,
+        175.865,
+        256.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 对肿瘤患者进行化疗意味着绝对伤害",
+      "bbox": [
+        342.02,
+        249.12,
+        553.6,
+        261.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "35. 下列哪项提示左心功能不全（）",
+      "bbox": [
+        78.36,
+        260.14,
+        276.736,
+        272.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "41. 医师开具处方时，除特殊情况外必须",
+      "bbox": [
+        341.44,
+        265.9,
+        558.653,
+        277.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 脉搏强而大",
+      "bbox": [
+        78.69,
+        276.19,
+        153.426,
+        288.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "注明的是（）",
+      "bbox": [
+        317.9,
+        282.2,
+        400.816,
+        294.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 舒张早期奔马律",
+      "bbox": [
+        78.56,
+        292.34,
+        175.307,
+        304.33
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 患者体重",
+      "bbox": [
+        342.15,
+        298.23,
+        403.467,
+        310.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 奇脉",
+      "bbox": [
+        78.77,
+        306.63,
+        115.274,
+        318.63
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 药品的拉丁文",
+      "bbox": [
+        342.07,
+        313.31,
+        425.746,
+        325.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 脉搏过缓",
+      "bbox": [
+        78.53,
+        323.26,
+        139.883,
+        335.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 处方药或非处方药",
+      "bbox": [
+        341.89,
+        329.06,
+        450.495,
+        341.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 脉搏绝对不齐",
+      "bbox": [
+        78.79,
+        338.27,
+        163.761,
+        350.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 临床诊断",
+      "bbox": [
+        341.79,
+        346.27,
+        402.426,
+        358.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "36. 下列可引起姿势性脊柱侧凸的是（）",
+      "bbox": [
+        78.83,
+        355.56,
+        291.379,
+        367.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 患者是否为过敏体质",
+      "bbox": [
+        341.95,
+        363.26,
+        462.929,
+        375.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 佝偻病",
+      "bbox": [
+        78.68,
+        371.85,
+        128.72,
+        383.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "42. 依照《处方管理办法》的规定，为门",
+      "bbox": [
+        341.48,
+        379.19,
+        561.48,
+        391.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 先天性斜颈",
+      "bbox": [
+        78.95,
+        386.48,
+        151.73,
+        398.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "（急）诊患者开具的麻醉药品注射剂，每张处方",
+      "bbox": [
+        319.16,
+        395.63,
+        558.711,
+        407.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 胸膜肥厚",
+      "bbox": [
+        78.89,
+        401.68,
+        139.826,
+        413.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "的量为（）",
+      "bbox": [
+        319.24,
+        410.69,
+        388.899,
+        423.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 一侧腰肌瘫痪",
+      "bbox": [
+        78.57,
+        418.63,
+        164.574,
+        430.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 一次常用量",
+      "bbox": [
+        341.98,
+        426.32,
+        415.515,
+        438.31
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 儿童发育期坐或立姿势不良",
+      "bbox": [
+        78.72,
+        434.38,
+        235.836,
+        446.38
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 3日常用量",
+      "bbox": [
+        341.94,
+        443.11,
+        414.65,
+        455.79
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "37. 下列不属于有机磷农药中毒治疗中阿",
+      "bbox": [
+        78.77,
+        450.34,
+        293.689,
+        462.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 5日常用量",
+      "bbox": [
+        341.91,
+        459.07,
+        414.66,
+        471.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "托品化临床表现的是（）",
+      "bbox": [
+        54.52,
+        466.56,
+        199.253,
+        478.82
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 7日常用量",
+      "bbox": [
+        341.89,
+        476.23,
+        415.64,
+        488.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 瞳孔较前扩大",
+      "bbox": [
+        78.47,
+        482.34,
+        165.519,
+        494.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 15日常用量",
+      "bbox": [
+        342.02,
+        491.28,
+        421.05,
+        503.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 心率加快",
+      "bbox": [
+        78.69,
+        496.65,
+        139.449,
+        508.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "43. 有关结核杆菌引起的变态反应，下列",
+      "bbox": [
+        341.71,
+        508.21,
+        557.59,
+        520.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 流涎加重",
+      "bbox": [
+        78.8,
+        512.23,
+        139.448,
+        524.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "叙述哪项是错误的（）",
+      "bbox": [
+        317.79,
+        524.35,
+        450.409,
+        536.41
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 颜面潮红",
+      "bbox": [
+        78.45,
+        529.46,
+        139.857,
+        541.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 为身体组织对结核菌及其代谢产物产",
+      "bbox": [
+        342.35,
+        539.96,
+        558.602,
+        551.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 肺部湿啰音消失",
+      "bbox": [
+        78.25,
+        545.18,
+        175.19,
+        559.09
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "生的过敏反应",
+      "bbox": [
+        318.46,
+        557.53,
+        390.46,
+        569.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "38. 下列哪一项不是临终关怀的道德",
+      "bbox": [
+        78.33,
+        560.92,
+        293.837,
+        572.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 多发生于结核菌侵入人体后4～8周",
+      "bbox": [
+        342.58,
+        572.17,
+        541.378,
+        584.28
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "要求（）",
+      "bbox": [
+        53.92,
+        577.2,
+        113.209,
+        589.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 局部可出现渗出性炎症，但不出现干酪",
+      "bbox": [
+        342.69,
+        587.77,
+        558.954,
+        599.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 认识和理解临终患者",
+      "bbox": [
+        77.97,
+        593.23,
+        201.522,
+        605.23
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 尊重临终患者的权利",
+      "bbox": [
+        77.83,
+        608.87,
+        198.586,
+        620.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "样坏死",
+      "bbox": [
+        318.39,
+        605.62,
+        354.36,
+        617.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 结核菌素试验呈阳性反应",
+      "bbox": [
+        342.58,
+        620.82,
+        489.356,
+        632.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 无须满足临终患者的意愿",
+      "bbox": [
+        77.8,
+        624.88,
+        224.216,
+        636.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "D. 同情和关心临终患者的家属",
+      "bbox": [
+        77.64,
+        640.56,
+        235.848,
+        652.57
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 可出现皮肤结节性红斑",
+      "bbox": [
+        342.81,
+        637.92,
+        476.974,
+        649.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "E. 重视临终患者的生命质量",
+      "bbox": [
+        77.69,
+        656.59,
+        223.744,
+        668.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "44. 阵发性室上性心动过速最常发生于",
+      "bbox": [
+        342.43,
+        653.7,
+        558.19,
+        665.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "39. 根据美国哈佛医学院提出的“脑死亡”",
+      "bbox": [
+        77.7,
+        672.44,
+        296.943,
+        684.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "（）",
+      "bbox": [
+        319.94,
+        671.12,
+        353.776,
+        683.24
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 冠心病者",
+      "bbox": [
+        342.92,
+        685.27,
+        405.196,
+        697.26
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "概念，不能确诊“脑死亡”的条件是（）",
+      "bbox": [
+        53.43,
+        689.74,
+        265.103,
+        701.79
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 自主运动和自主呼吸消失",
+      "bbox": [
+        77.58,
+        704.35,
+        224.933,
+        716.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 正常心脏者",
+      "bbox": [
+        342.93,
+        701.26,
+        416.009,
+        713.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 对外部刺激和内部需求毫无知觉和",
+      "bbox": [
+        77.84,
+        721.15,
+        293.055,
+        733.19
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 高血压病者",
+      "bbox": [
+        343.33,
+        718.03,
+        416.147,
+        730.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "反应",
+      "bbox": [
+        53.79,
+        737.39,
+        77.81,
+        749.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 心肌病者",
+      "bbox": [
+        343.25,
+        734.94,
+        404.753,
+        746.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 体温低于32.2或服用中枢抑制药",
+      "bbox": [
+        77.88,
+        752.33,
+        293.612,
+        765.24
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 心脏瓣膜病者",
+      "bbox": [
+        343.36,
+        751.75,
+        428.834,
+        763.77
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "物者",
+      "bbox": [
+        53.96,
+        768.33,
+        78.0,
+        780.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "45. 下列各项，不属传染病基本特征的",
+      "bbox": [
+        342.87,
+        767.83,
+        555.449,
+        779.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 脑电波平直或等电位",
+      "bbox": [
+        77.73,
+        783.69,
+        199.872,
+        795.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "是（）",
+      "bbox": [
+        319.4,
+        782.89,
+        366.536,
+        796.02
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 诱导反射消失",
+      "bbox": [
+        78.13,
+        799.68,
+        162.524,
+        811.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "A. 有病原体",
+      "bbox": [
+        343.54,
+        800.52,
+        405.972,
+        812.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "109",
+      "bbox": [
+        298.43,
+        821.942,
+        311.825,
+        830.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

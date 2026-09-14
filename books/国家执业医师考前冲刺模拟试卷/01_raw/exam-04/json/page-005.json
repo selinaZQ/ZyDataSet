@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 5,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        416.54,
+        50.155,
+        535.302,
+        61.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "胸闷不舒者应首选（）",
+      "bbox": [
+        41.02,
+        81.337,
+        172.86,
+        92.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 蒲公英",
+      "bbox": [
+        331.67,
+        80.347,
+        381.36,
+        91.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 百部",
+      "bbox": [
+        65.18,
+        97.057,
+        103.249,
+        108.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 大青叶",
+      "bbox": [
+        331.76,
+        96.598,
+        380.821,
+        107.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 川贝母",
+      "bbox": [
+        64.96,
+        113.297,
+        113.688,
+        124.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "57. 慢性痢疾属湿热积滞者，宜选用",
+      "bbox": [
+        331.86,
+        113.157,
+        549.03,
+        125.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 桔梗",
+      "bbox": [
+        64.89,
+        129.347,
+        101.966,
+        140.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "（）",
+      "bbox": [
+        308.36,
+        130.507,
+        341.71,
+        141.827
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 杏仁",
+      "bbox": [
+        64.55,
+        145.797,
+        102.293,
+        157.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 保和丸",
+      "bbox": [
+        331.82,
+        146.108,
+        382.434,
+        157.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 旋覆花",
+      "bbox": [
+        64.61,
+        162.277,
+        113.836,
+        173.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 乌梅丸",
+      "bbox": [
+        331.69,
+        162.768,
+        380.438,
+        174.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "51. 治疗风热郁闭，咽喉肿痛，大便秘结",
+      "bbox": [
+        64.58,
+        178.957,
+        282.207,
+        190.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 香连丸",
+      "bbox": [
+        331.74,
+        179.648,
+        380.959,
+        190.898
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "者，应首选（）",
+      "bbox": [
+        40.06,
+        195.297,
+        129.756,
+        206.697
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 枳实导滞丸",
+      "bbox": [
+        331.53,
+        196.307,
+        405.949,
+        207.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "A. 薄荷",
+      "bbox": [
+        64.67,
+        211.887,
+        102.875,
+        223.177
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 健脾丸",
+      "bbox": [
+        331.72,
+        213.188,
+        380.839,
+        224.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "B. 蝉蜕",
+      "bbox": [
+        64.41,
+        228.477,
+        101.341,
+        239.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "58. 体现寒热并用、辛开苦降、消补兼施配",
+      "bbox": [
+        331.69,
+        229.538,
+        549.006,
+        240.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "C. 菊花",
+      "bbox": [
+        64.33,
+        245.647,
+        101.79,
+        256.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "伍特点的方剂是（）",
+      "bbox": [
+        307.25,
+        246.577,
+        426.74,
+        257.907
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "D. 蔓荆子",
+      "bbox": [
+        64.25,
+        262.147,
+        114.864,
+        273.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 半夏泻心汤",
+      "bbox": [
+        331.46,
+        263.428,
+        406.217,
+        274.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "E. 牛蒡子",
+      "bbox": [
+        64.61,
+        278.917,
+        114.286,
+        290.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 生姜泻心汤",
+      "bbox": [
+        331.39,
+        280.008,
+        403.955,
+        291.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "52. 具有补肺益肾，纳气定喘功效的药物",
+      "bbox": [
+        64.61,
+        295.497,
+        282.056,
+        306.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 甘草泻心汤",
+      "bbox": [
+        331.47,
+        296.257,
+        404.514,
+        307.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "是（）",
+      "bbox": [
+        39.74,
+        311.447,
+        87.096,
+        322.777
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 健脾丸",
+      "bbox": [
+        331.3,
+        312.828,
+        381.104,
+        324.068
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "A. 沉香",
+      "bbox": [
+        64.6,
+        328.307,
+        103.877,
+        339.587
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 枳实消痞丸",
+      "bbox": [
+        331.48,
+        329.388,
+        404.673,
+        340.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "B. 磁石",
+      "bbox": [
+        64.56,
+        345.137,
+        101.772,
+        356.427
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "59. 肾气丸中用量最大的药物是（）",
+      "bbox": [
+        331.52,
+        345.687,
+        530.636,
+        356.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "C. 蛤蚧",
+      "bbox": [
+        64.63,
+        361.547,
+        102.52,
+        372.817
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "A. 附子",
+      "bbox": [
+        331.51,
+        362.348,
+        369.456,
+        373.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "D. 益智仁",
+      "bbox": [
+        64.62,
+        377.987,
+        115.526,
+        389.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 桂枝",
+      "bbox": [
+        331.23,
+        378.857,
+        367.735,
+        390.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "E. 紫河车",
+      "bbox": [
+        64.83,
+        394.497,
+        114.779,
+        405.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 山萸肉",
+      "bbox": [
+        331.38,
+        395.338,
+        379.139,
+        406.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "53. 散剂的特点中不包括的是（）",
+      "bbox": [
+        64.81,
+        411.287,
+        252.506,
+        422.657
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 干地黄",
+      "bbox": [
+        331.12,
+        411.708,
+        380.621,
+        422.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 节省药材",
+      "bbox": [
+        64.69,
+        427.707,
+        128.715,
+        438.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 山药",
+      "bbox": [
+        331.48,
+        428.097,
+        367.94,
+        439.357
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 吸收缓慢",
+      "bbox": [
+        64.57,
+        444.297,
+        126.635,
+        455.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "60. 具有和解少阳功用的方剂是（）",
+      "bbox": [
+        331.46,
+        444.547,
+        530.883,
+        455.817
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 不易变质",
+      "bbox": [
+        64.56,
+        460.617,
+        126.871,
+        471.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 葛根芩连汤",
+      "bbox": [
+        331.48,
+        460.798,
+        405.563,
+        472.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 制作简便",
+      "bbox": [
+        64.32,
+        477.427,
+        127.567,
+        488.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 麻杏石甘汤",
+      "bbox": [
+        331.46,
+        477.577,
+        404.034,
+        488.827
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 便于携带",
+      "bbox": [
+        64.43,
+        493.857,
+        127.046,
+        505.127
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 凉膈散",
+      "bbox": [
+        331.38,
+        493.688,
+        380.555,
+        504.928
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "54. 九味羌活汤的组成药物中含有（）",
+      "bbox": [
+        64.49,
+        510.247,
+        276.48,
+        521.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 小柴胡汤",
+      "bbox": [
+        331.36,
+        510.448,
+        392.597,
+        521.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 白芍药",
+      "bbox": [
+        64.3,
+        527.037,
+        115.68,
+        538.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 竹叶石膏汤",
+      "bbox": [
+        331.45,
+        526.858,
+        404.512,
+        538.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 山茱萸",
+      "bbox": [
+        64.23,
+        543.857,
+        113.639,
+        555.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "61. 大建中汤的组成药物是（）",
+      "bbox": [
+        331.65,
+        543.378,
+        506.47,
+        554.727
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 生地黄",
+      "bbox": [
+        64.1,
+        560.438,
+        113.791,
+        571.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 生附子、干姜、肉桂、炙甘草",
+      "bbox": [
+        331.6,
+        559.948,
+        489.814,
+        571.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 麦门冬",
+      "bbox": [
+        63.94,
+        577.117,
+        114.226,
+        588.397
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 蜀椒、人参、干姜、胶饴",
+      "bbox": [
+        331.46,
+        576.338,
+        465.965,
+        587.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 枸杞子",
+      "bbox": [
+        64.33,
+        593.667,
+        113.817,
+        604.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 蜀椒、人参、干姜、炙甘草",
+      "bbox": [
+        331.52,
+        593.137,
+        477.23,
+        604.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "55. 柴葛解肌汤与大柴胡汤的组成药物中",
+      "bbox": [
+        64.23,
+        609.747,
+        281.472,
+        621.037
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 蜀椒、生附子、肉桂、胶饴",
+      "bbox": [
+        331.51,
+        609.617,
+        477.816,
+        620.867
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "均含有的是（）",
+      "bbox": [
+        39.81,
+        627.147,
+        135.85,
+        638.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 干姜、人参、桂枝、胶饴",
+      "bbox": [
+        331.76,
+        626.127,
+        466.385,
+        637.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 枳实、芍药",
+      "bbox": [
+        64.32,
+        643.457,
+        133.261,
+        654.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "62. 下列各项，不属理中丸主治范围的是",
+      "bbox": [
+        331.82,
+        643.497,
+        549.038,
+        654.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 桔梗、芍药",
+      "bbox": [
+        64.27,
+        660.437,
+        131.566,
+        671.717
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "（）",
+      "bbox": [
+        308.36,
+        660.267,
+        341.63,
+        671.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 黄芩、半夏",
+      "bbox": [
+        64.22,
+        676.907,
+        131.866,
+        688.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 阳虚失血证",
+      "bbox": [
+        331.86,
+        677.098,
+        407.077,
+        688.348
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 黄芩、桔梗",
+      "bbox": [
+        64.28,
+        693.497,
+        132.468,
+        704.777
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 脾胃虚寒之腹痛",
+      "bbox": [
+        331.68,
+        693.558,
+        429.209,
+        704.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 黄芩、芍药",
+      "bbox": [
+        64.47,
+        709.937,
+        132.105,
+        721.217
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 中焦虚寒之小儿慢惊风",
+      "bbox": [
+        331.76,
+        709.978,
+        466.445,
+        721.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "56. 治疗热毒蕴结之各种疮毒痈肿，瘰疬",
+      "bbox": [
+        64.6,
+        726.337,
+        282.191,
+        737.617
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 肝胃虚寒之胃脘痛",
+      "bbox": [
+        331.72,
+        726.558,
+        441.928,
+        737.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "结核等，应选用的药物是（）",
+      "bbox": [
+        40.57,
+        742.767,
+        203.146,
+        754.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 脾胃虚寒之胸痹",
+      "bbox": [
+        331.96,
+        742.868,
+        429.804,
+        754.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 金银花",
+      "bbox": [
+        64.86,
+        759.487,
+        115.135,
+        770.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "63. 乌梅丸的君药是（）",
+      "bbox": [
+        331.96,
+        759.217,
+        471.86,
+        770.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 紫花地丁",
+      "bbox": [
+        64.86,
+        775.797,
+        125.817,
+        787.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 乌梅",
+      "bbox": [
+        331.87,
+        775.757,
+        370.278,
+        787.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 连翘",
+      "bbox": [
+        65.21,
+        792.228,
+        102.11,
+        803.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 蜀椒、细辛",
+      "bbox": [
+        331.77,
+        792.008,
+        398.596,
+        803.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "147",
+      "bbox": [
+        286.17,
+        811.032,
+        302.035,
+        821.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        313.3,
+        811.102,
+        324.45,
+        822.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1337 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 5,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        319.1,
+        44.598,
+        531.533,
+        54.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "证。证见憎寒壮热，头项强痛，肢体酸痛，无汗，鼻塞声",
+      "bbox": [
+        43.04,
+        74.785,
+        282.063,
+        84.255
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "阳上亢——太冲、太溪；痰浊头痛——丰隆、中脘；瘀血",
+      "bbox": [
+        308.18,
+        74.495,
+        544.93,
+        83.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "重，咳嗽有痰，胸膈痞满，舌淡苔白，脉浮而按之无力。",
+      "bbox": [
+        42.98,
+        89.015,
+        279.73,
+        98.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "头痛——血海、膈俞；血虚头痛——脾俞、足三里。",
+      "bbox": [
+        307.45,
+        88.595,
+        525.26,
+        98.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "100. D【解析】该证为外感风寒表实证，故当选麻",
+      "bbox": [
+        64.26,
+        103.036,
+        282.578,
+        112.486
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "112. A【解析】脾不统血证主要表现为面色萎黄",
+      "bbox": [
+        328.47,
+        102.646,
+        544.339,
+        112.726
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "黄汤。辨证要点恶寒发热，脉浮紧。",
+      "bbox": [
+        43.08,
+        117.545,
+        196.873,
+        127.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "或苍白无华，神疲乏力，气短懒言，或食少便溏，并见出",
+      "bbox": [
+        307.55,
+        117.056,
+        543.8,
+        126.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "101. B【解析】寒湿腰痛证候：腰部冷痛重着，转",
+      "bbox": [
+        64.33,
+        131.336,
+        282.218,
+        140.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "血，或便血，或衄血，肌衄，鼻衄，或妇女月经过多、崩",
+      "bbox": [
+        307.68,
+        131.316,
+        543.883,
+        140.746
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "侧不利，逐渐加重，静卧病痛不减，寒冷和阴雨天则加",
+      "bbox": [
+        43.04,
+        145.855,
+        282.047,
+        155.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "漏，舌淡，脉细无力等。该病例符合此证的临床表现，",
+      "bbox": [
+        307.65,
+        145.695,
+        543.828,
+        155.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "重，舌质淡，苔白腻，脉沉而迟缓。该患者临床表现符",
+      "bbox": [
+        43.07,
+        160.186,
+        282.44,
+        169.626
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "故选A。",
+      "bbox": [
+        307.76,
+        160.056,
+        345.431,
+        169.476
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "合寒湿腰痛。治法：散寒行湿，温经通络。代表方：甘",
+      "bbox": [
+        42.99,
+        174.295,
+        282.432,
+        183.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "113. C【解析】患者临房时早泄，随之疲软，诊为",
+      "bbox": [
+        328.82,
+        174.056,
+        544.063,
+        183.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "姜苓术汤加减。",
+      "bbox": [
+        42.96,
+        189.545,
+        109.18,
+        199.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "阳痿。主穴：关元、三阴交、肾俞。配穴：肾阳不足配命",
+      "bbox": [
+        308.59,
+        188.816,
+        544.84,
+        198.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "102. C【解析】患者肺气亏虚，肌表疏松，表卫不",
+      "bbox": [
+        64.3,
+        203.446,
+        282.368,
+        212.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "门、太溪；惊恐伤肾配志室、胆俞；心脾两虚配心俞、脾",
+      "bbox": [
+        308.48,
+        203.176,
+        544.131,
+        212.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "固而汗出恶风，且易于感冒；动则耗气，气不摄汗，故汗",
+      "bbox": [
+        43.71,
+        217.906,
+        282.455,
+        227.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "俞、足三里；湿热下注配曲骨、阴陵泉；肝郁气滞配太",
+      "bbox": [
+        307.58,
+        217.586,
+        544.161,
+        227.035
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "出益甚；气虚则体倦乏力，面色少华。结合舌脉分析，",
+      "bbox": [
+        43.75,
+        232.185,
+        281.954,
+        241.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "冲、内关；失眠多梦配神门、心俞；食欲不振配中脘、足",
+      "bbox": [
+        308.23,
+        231.955,
+        544.98,
+        241.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "本病属于肺卫不固之汗证，故采用益气固表的玉屏风",
+      "bbox": [
+        42.96,
+        246.755,
+        282.809,
+        256.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "三里；腰膝酸软配命门、阳陵泉。",
+      "bbox": [
+        307.74,
+        246.605,
+        449.64,
+        256.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "散,故选C。",
+      "bbox": [
+        43.0,
+        261.746,
+        92.732,
+        271.156
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "114. B【解析】头胀痛欲裂，耳鸣，烦躁易怒，口",
+      "bbox": [
+        328.87,
+        260.996,
+        543.24,
+        270.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "103. D【解析】小柴胡汤的主治有七大症，是寒热",
+      "bbox": [
+        64.17,
+        275.896,
+        282.735,
+        285.356
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "苦，脉弦，说明病位在肝。目赤，溲赤便干，舌边红，苔",
+      "bbox": [
+        307.95,
+        275.546,
+        544.153,
+        284.976
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "往来，胸胁苦满，心烦喜呕，默默不欲饮食，口苦，咽干，",
+      "bbox": [
+        42.93,
+        290.415,
+        289.15,
+        299.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "薄黄，脉弦数说明病性为热，故为肝火上炎证。",
+      "bbox": [
+        308.0,
+        290.196,
+        506.429,
+        299.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "目眩。仔细对照，本例患者表现极其相似。而备选答",
+      "bbox": [
+        44.61,
+        304.686,
+        282.868,
+        314.116
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "115. B【解析】气郁，因情志不舒，气机郁结所致，",
+      "bbox": [
+        329.0,
+        304.566,
+        546.53,
+        313.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "案的大柴胡汤应该具备承气汤的阳明证，柴胡疏肝散",
+      "bbox": [
+        42.96,
+        319.246,
+        283.179,
+        328.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "症见胸满胁痛，噫气腹胀，排除A；气逆，指气上逆不顺",
+      "bbox": [
+        307.89,
+        319.266,
+        544.323,
+        328.686
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "以气滞为主，而逍遥散应该有血虚之症，都不合适。",
+      "bbox": [
+        43.63,
+        333.895,
+        265.19,
+        343.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "而出现的病变证候，火热之气逆乱上冲之证；气脱，指",
+      "bbox": [
+        308.27,
+        333.765,
+        544.262,
+        343.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "104. A【解析】普济消毒饮主治痄腮，即腮腺炎。",
+      "bbox": [
+        64.16,
+        348.006,
+        282.675,
+        357.446
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "机体正气虚怯，元气衰惫，气随血脱，阴阳欲离而出现",
+      "bbox": [
+        307.85,
+        348.386,
+        544.546,
+        357.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "局部肿胀疼痛，红肿不明显，由于是疫病，故有接触传",
+      "bbox": [
+        43.02,
+        362.525,
+        283.115,
+        371.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "的危重证候，排除C；气陷，是指在气虚的病变基础上，",
+      "bbox": [
+        308.63,
+        362.846,
+        543.931,
+        372.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "染史，其他方剂不是主治该证的。",
+      "bbox": [
+        42.87,
+        377.345,
+        187.174,
+        386.815
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "以气的升清功能不足和无力升举为主要特征的病理状",
+      "bbox": [
+        308.8,
+        377.886,
+        544.361,
+        387.316
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "105. C【解析】当归六黄汤滋阴泻火，固表止汗。",
+      "bbox": [
+        64.19,
+        391.596,
+        282.965,
+        401.046
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "态，排除D；气结，指气留滞不行，排除E；患者生气后，",
+      "bbox": [
+        308.1,
+        392.066,
+        550.686,
+        401.466
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "用于阴虚火旺盗汗，主症见发热盗汗，面赤心烦，口干",
+      "bbox": [
+        42.99,
+        406.385,
+        283.121,
+        415.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "气不往下，反往上走，出现头胀，继而晕厥，为气逆证，",
+      "bbox": [
+        307.98,
+        406.636,
+        544.23,
+        416.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "唇燥，大便干结，小便黄赤，舌红苔黄，脉数。",
+      "bbox": [
+        42.94,
+        420.695,
+        241.6,
+        430.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "故选B。",
+      "bbox": [
+        308.06,
+        421.016,
+        344.678,
+        430.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "106. B【解析】患者属胃热阴虚，有虚火上炎之征",
+      "bbox": [
+        64.25,
+        435.266,
+        283.172,
+        444.746
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "116. D【解析】脘部痞满，按之较硬而疼痛者属实",
+      "bbox": [
+        328.99,
+        435.766,
+        543.897,
+        445.186
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "象，玉女煎清胃滋阴更适合。",
+      "bbox": [
+        43.0,
+        449.686,
+        166.722,
+        459.116
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "证，多因实邪聚结胃脘所致；按之濡软而无痛者属虚",
+      "bbox": [
+        308.08,
+        450.226,
+        543.891,
+        459.666
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "107. C【解析】风寒束表，故头痛，恶寒发热；湿阻",
+      "bbox": [
+        64.33,
+        463.856,
+        283.66,
+        473.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "证，多因胃腑虚弱所致；脘部按之有形而胀痛，推之辘",
+      "bbox": [
+        308.16,
+        464.466,
+        543.739,
+        473.876
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "经络，故肢体酸重；舌苔白腻，脉浮紧，为寒湿在表之",
+      "bbox": [
+        43.06,
+        478.745,
+        283.59,
+        488.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "辘有声者，为胃中有水饮；按之局部灼热，痛不可忍者，",
+      "bbox": [
+        307.97,
+        479.086,
+        543.72,
+        488.516
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "象。营卫不和，风寒束表，治宜祛风散寒，和营燥湿，故",
+      "bbox": [
+        43.14,
+        493.236,
+        283.246,
+        502.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "为内痈；按之如囊裹水，且腹壁凹痕者，为水臌；以手叩",
+      "bbox": [
+        308.26,
+        493.955,
+        544.76,
+        503.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "选C，其余未提到湿的治疗。",
+      "bbox": [
+        42.98,
+        507.826,
+        165.76,
+        517.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "之如鼓，无波动感，按之亦无凹痕者，为气臓。根据题",
+      "bbox": [
+        308.09,
+        508.406,
+        543.727,
+        519.003
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "108. D【解析】痰热壅阻肺气，肺失清肃，故见咳",
+      "bbox": [
+        64.39,
+        522.306,
+        283.437,
+        531.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "目,故选D。",
+      "bbox": [
+        309.68,
+        522.586,
+        359.697,
+        531.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "嗽气促，咯痰量多，痰质黏稠而黄，咯吐不爽，胸胁胀",
+      "bbox": [
+        43.34,
+        536.735,
+        283.652,
+        546.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "117. A【解析】心悸、胸闷，其病位在心；气短，神",
+      "bbox": [
+        329.04,
+        536.896,
+        547.59,
+        546.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "满，面赤身热，口干，舌红苔黄腻，脉滑数，俱是痰热郁",
+      "bbox": [
+        43.11,
+        551.446,
+        283.415,
+        560.886
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "疲乏力，语声低微，其病性为气虚，综合为心气虚证。",
+      "bbox": [
+        308.1,
+        551.806,
+        533.94,
+        561.216
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "肺的表现，治宜清热化痰，肃肺止咳，故选D。止嗽散",
+      "bbox": [
+        42.92,
+        566.016,
+        283.665,
+        575.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "118. B【解析】痿证的治法：祛邪通络，濡养筋脉。",
+      "bbox": [
+        329.1,
+        566.386,
+        545.56,
+        575.836
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "用于风寒袭肺。桑菊饮用于风热犯肺。二陈汤用于痰",
+      "bbox": [
+        43.06,
+        580.516,
+        283.662,
+        589.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "以手足阳明经穴和夹脊穴为主。",
+      "bbox": [
+        308.81,
+        580.946,
+        443.91,
+        590.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "湿蕴肺。加减泻白散用于肝火犯肺。",
+      "bbox": [
+        43.03,
+        595.296,
+        203.782,
+        604.716
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "119. B【解析】腰痛，畏寒肢冷，五更泻，舌淡胖，",
+      "bbox": [
+        329.12,
+        594.866,
+        546.52,
+        604.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "109. D【解析】复元活血汤活血祛瘀、疏肝通络，",
+      "bbox": [
+        64.49,
+        609.746,
+        283.052,
+        619.176
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "脉沉细是肾阳虚证的主要表现。",
+      "bbox": [
+        308.32,
+        610.076,
+        444.03,
+        619.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "用于跌打损伤、瘀血阻滞之证。有特征性的主症胁肋",
+      "bbox": [
+        43.18,
+        624.406,
+        283.417,
+        633.816
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "120. B【解析】高热之后津液不足，血行不畅，而",
+      "bbox": [
+        329.29,
+        624.476,
+        543.861,
+        633.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "瘀肿，痛不可忍。",
+      "bbox": [
+        42.99,
+        639.056,
+        118.43,
+        648.486
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "致瘀血内生，血瘀证以痛如针刺，痛有定处，拒按，唇舌",
+      "bbox": [
+        308.41,
+        639.207,
+        543.72,
+        648.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "110. A【解析】归脾汤的病机是思虑伤脾，导致",
+      "bbox": [
+        64.61,
+        653.536,
+        283.809,
+        663.016
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "爪甲紫暗，舌质有瘀斑为辨证要点。患者舌紫绛边有",
+      "bbox": [
+        308.32,
+        653.451,
+        543.633,
+        662.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "血虚，血不养心，故而心悸心慌。脾虚不能统血，故出",
+      "bbox": [
+        43.17,
+        668.395,
+        282.865,
+        677.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "瘀斑、瘀点为血瘀之象。",
+      "bbox": [
+        308.27,
+        668.481,
+        409.107,
+        677.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "现月经量多。该例患者特征明显，故而容易判断。",
+      "bbox": [
+        43.03,
+        683.065,
+        260.884,
+        692.525
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "121. D",
+      "bbox": [
+        329.31,
+        682.841,
+        355.908,
+        691.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "111. D【解析】患者头痛如裹，痛无休止，肢体困",
+      "bbox": [
+        64.53,
+        697.546,
+        283.297,
+        706.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "122. C【解析】A项属母病及子，BE项属子病及",
+      "bbox": [
+        329.53,
+        697.381,
+        544.025,
+        706.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "重，苔白腻，脉濡，为风湿头痛，应配阴陵泉、头维。头",
+      "bbox": [
+        42.97,
+        711.765,
+        283.584,
+        721.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "母，C项属相侮传变，D项属相乘传变。",
+      "bbox": [
+        308.43,
+        711.811,
+        473.518,
+        720.671
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "痛的主穴：太阳、百会、风池、阿是穴、合谷（太阳会风池",
+      "bbox": [
+        42.9,
+        726.205,
+        283.496,
+        735.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "123. A",
+      "bbox": [
+        329.56,
+        726.821,
+        356.503,
+        735.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "谷）。配穴：太阳头痛——天柱、后溪、昆仑；阳明头",
+      "bbox": [
+        42.95,
+        740.455,
+        283.751,
+        749.935
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "124. D【解析】濡脉特点是浮细无力而软（轻取即",
+      "bbox": [
+        329.62,
+        740.761,
+        543.517,
+        749.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "痛——印堂、内庭；少阳头痛——率谷、外关、足临泣；",
+      "bbox": [
+        43.02,
+        754.845,
+        283.22,
+        764.295
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "得）；弱脉特点是沉细无力而软（重按始得）；故二者区",
+      "bbox": [
+        308.6,
+        755.151,
+        543.734,
+        764.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "厥阴头痛——太冲、内关；风寒头痛——风门、列缺；风",
+      "bbox": [
+        43.0,
+        769.465,
+        284.079,
+        778.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "别在于浮与沉。结脉特点是迟而时一止，止无定数（一",
+      "bbox": [
+        308.92,
+        769.72,
+        543.703,
+        778.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "热头痛——曲池、大椎；风湿头痛——头维、阴陵泉；肝",
+      "bbox": [
+        43.33,
+        783.725,
+        284.038,
+        793.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "息不足四至）；促脉特点是数而时一止，止无定数（一息",
+      "bbox": [
+        308.94,
+        783.921,
+        543.177,
+        792.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "195",
+      "bbox": [
+        288.27,
+        802.799,
+        301.967,
+        811.579
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

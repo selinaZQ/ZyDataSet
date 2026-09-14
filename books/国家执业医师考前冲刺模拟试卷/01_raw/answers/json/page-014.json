@@ -1,0 +1,1324 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 14,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        63.83,
+        25.116,
+        261.964,
+        35.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "恢复期应养阴益气清肺，用沙参清肺汤或桔梗杏仁煎。",
+      "bbox": [
+        61.79,
+        55.493,
+        297.044,
+        65.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "羌活、蔓荆子、川芎。阳明经常用葛根、白芷、知母。少",
+      "bbox": [
+        325.19,
+        54.683,
+        567.69,
+        64.383
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "11. C【解析】肺痈分初期、成脓期、溃脓期、恢复",
+      "bbox": [
+        82.6,
+        70.263,
+        298.919,
+        79.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "阳经常用柴胡、黄芩、川芎。太阴经常用苍术。少阴经",
+      "bbox": [
+        325.48,
+        69.743,
+        566.901,
+        79.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "期。溃脓期的特点是咳吐大量脓血痰，气味腥臭异常。",
+      "bbox": [
+        61.76,
+        85.293,
+        296.791,
+        94.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "常用杜仲、桑寄生、续断。厥阴经常用吴茱萸、藁本。",
+      "bbox": [
+        325.22,
+        84.683,
+        557.78,
+        94.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "12. C【解析】痫病的表现主要：①精神恍惚，昏不",
+      "bbox": [
+        82.15,
+        100.063,
+        298.86,
+        109.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "26. A【解析】中风有中经络、中脏腑之分，而神",
+      "bbox": [
+        346.72,
+        99.924,
+        566.674,
+        109.574
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "知人，责之于心；②口吐涎沫，两目上视，四肢抽搐；肝",
+      "bbox": [
+        61.19,
+        115.143,
+        303.69,
+        124.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "志障碍的有无是其划分的标志，故选A。半身不遂、语",
+      "bbox": [
+        325.54,
+        114.873,
+        566.928,
+        124.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "主筋、筋脉拘挛，责之于肝。",
+      "bbox": [
+        61.47,
+        130.603,
+        187.7,
+        140.313
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "言不利、肢体瘫软、口舌歪斜是中风中经络和中脏腑的",
+      "bbox": [
+        325.69,
+        129.713,
+        566.968,
+        139.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "13. A【解析】痫病的病因病机为风火气痰瘀，蒙",
+      "bbox": [
+        81.27,
+        145.254,
+        299.423,
+        154.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "共同表现，故排除BCDE。",
+      "bbox": [
+        325.21,
+        144.844,
+        441.488,
+        154.484
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "蔽心窍、壅塞经络，气机逆乱，元神失控。风痰闭阻者",
+      "bbox": [
+        60.83,
+        160.113,
+        299.384,
+        169.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "27. A【解析】水饮凌心所致心悸的临床表现：心",
+      "bbox": [
+        347.11,
+        159.574,
+        567.112,
+        170.422
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "应豁痰息风，开窍定痫，用定痫丸合适，其余选项或只",
+      "bbox": [
+        60.55,
+        175.243,
+        299.151,
+        184.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "悸眩晕、胸闷痞满、渴不欲饮、水肿、小便少等。",
+      "bbox": [
+        325.57,
+        174.773,
+        538.75,
+        184.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "祛痰，或只息风，不能开窍定痫。",
+      "bbox": [
+        60.12,
+        190.693,
+        205.62,
+        200.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "28. D【解析】黄疸阴黄包括寒湿阻遏证和脾虚湿",
+      "bbox": [
+        347.34,
+        189.644,
+        567.682,
+        200.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "14. C【解析】眩晕的治疗原则为补虚泻实，调整",
+      "bbox": [
+        80.61,
+        205.534,
+        299.617,
+        215.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "滞证，前者治疗首选茵陈术附汤，后者治疗首选黄芪建",
+      "bbox": [
+        325.7,
+        204.624,
+        567.732,
+        214.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "阴阳。",
+      "bbox": [
+        60.49,
+        221.363,
+        89.47,
+        231.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "中汤，故选D。",
+      "bbox": [
+        326.7,
+        220.334,
+        393.555,
+        229.984
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "15. C【解析】胸痹重证，阴寒极盛者，其治法是",
+      "bbox": [
+        80.59,
+        236.003,
+        300.043,
+        245.793
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "29. C【解析】脾虚中气下陷多为气淋虚证，遇劳",
+      "bbox": [
+        347.59,
+        235.104,
+        567.795,
+        245.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "“芳香温通止痛”，予乌头赤石脂丸。",
+      "bbox": [
+        59.27,
+        251.613,
+        223.66,
+        261.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "即发则为劳淋，肾虚下元不固不能制约脂液则为膏淋，",
+      "bbox": [
+        326.88,
+        250.573,
+        567.463,
+        260.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "16. B【解析】心血瘀阻之心悸治当活血化瘀、理",
+      "bbox": [
+        80.28,
+        266.644,
+        300.467,
+        276.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "热盛破血妄行的是血淋，气郁化火伤阴少腹作胀，小便",
+      "bbox": [
+        326.35,
+        265.843,
+        568.244,
+        275.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "气通络，方选桃仁红花煎。",
+      "bbox": [
+        59.13,
+        282.373,
+        175.29,
+        292.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "艰涩而痛的属气淋实证，湿热蕴结下焦，尿液受其煎",
+      "bbox": [
+        326.14,
+        281.163,
+        567.77,
+        290.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "17. B【解析】瘀血停滞之胃痛用失笑散合丹参饮",
+      "bbox": [
+        79.61,
+        297.234,
+        300.58,
+        306.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "熬，日久杂质结为砂石，则为石淋。",
+      "bbox": [
+        326.46,
+        296.443,
+        481.921,
+        306.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "加减治疗，寒邪客胃之胃痛用香苏散合良附丸加减治",
+      "bbox": [
+        58.76,
+        312.653,
+        300.566,
+        322.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "30. A【解析】癃闭表现为尿量减少，排尿困难，",
+      "bbox": [
+        348.04,
+        311.634,
+        567.704,
+        321.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "疗，湿热中阻之胃痛用清中汤加减治疗，胃阴不足之胃",
+      "bbox": [
+        58.36,
+        327.813,
+        299.887,
+        337.523
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "甚至小便闭塞不通。小便的通畅，有赖于肾和膀胱的",
+      "bbox": [
+        326.69,
+        326.923,
+        567.68,
+        336.613
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "痛用益胃汤加减治疗，脾胃虚寒之胃痛用黄芪建中汤",
+      "bbox": [
+        58.53,
+        343.333,
+        300.799,
+        353.023
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "气化作用，但从脏腑之间的整体关系来看，水液的吸",
+      "bbox": [
+        326.54,
+        342.243,
+        568.133,
+        351.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "加减治疗。",
+      "bbox": [
+        58.41,
+        359.423,
+        106.81,
+        369.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "收、运行、排泄，还有赖于三焦的气化，肺、脾、肾的通",
+      "bbox": [
+        327.13,
+        357.503,
+        569.13,
+        367.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "18. E【解析】悬饮病是饮留胁下，主要临床表现",
+      "bbox": [
+        78.95,
+        373.864,
+        301.365,
+        383.694
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "调、转输、蒸化。因此癃闭除与膀胱有关外，还和肺、",
+      "bbox": [
+        326.91,
+        372.723,
+        568.109,
+        382.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "为胸胁胀痛，患侧肋间饱满。",
+      "bbox": [
+        58.53,
+        389.563,
+        184.63,
+        399.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "脾、肾、三焦有密切关系。",
+      "bbox": [
+        326.93,
+        387.843,
+        443.33,
+        397.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "19. E【解析】厥证的基本病机是气机逆乱，升降",
+      "bbox": [
+        79.02,
+        404.263,
+        301.318,
+        414.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "31. B【解析】厥证是由阴阳失调，气机逆乱所引",
+      "bbox": [
+        348.55,
+        403.364,
+        567.468,
+        413.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "失常，阴阳之气不相顺接。病位较深，病因多直接损伤",
+      "bbox": [
+        58.23,
+        419.853,
+        301.488,
+        429.543
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "起，以突然昏倒，不省人事，四肢厥冷为主要表现的一",
+      "bbox": [
+        327.06,
+        418.763,
+        568.115,
+        428.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "内脏。E项为外感，不是内伤。",
+      "bbox": [
+        58.79,
+        435.993,
+        191.654,
+        445.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "种病证。厥证的病因可以有气虚下陷，清阳不升，痰随",
+      "bbox": [
+        327.18,
+        434.063,
+        568.406,
+        443.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "20. D【解析】口僻俗称吊线风，主要症状是口眼",
+      "bbox": [
+        78.48,
+        450.744,
+        301.624,
+        460.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "气升，上蒙清窍，失血过多，气随血脱，气血凝滞，脉络",
+      "bbox": [
+        327.23,
+        449.233,
+        568.73,
+        458.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "歪斜，但常伴耳后疼痛，口角流涎，言语不清，而无半身",
+      "bbox": [
+        57.9,
+        465.953,
+        301.545,
+        475.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "瘀阻，但是最终都引起气机逆乱，升降失常，阴阳之气",
+      "bbox": [
+        327.25,
+        464.513,
+        568.279,
+        474.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "不遂或神志障碍等表现。多因正气不足，风邪入脉络，",
+      "bbox": [
+        57.93,
+        480.933,
+        301.101,
+        490.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "不相顺接而致，故排除ACDE。",
+      "bbox": [
+        327.33,
+        479.944,
+        465.124,
+        489.584
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "气血痹阻所致，不同年龄均可罹患。",
+      "bbox": [
+        57.19,
+        497.453,
+        214.298,
+        507.163
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "32. C【解析】治疗久泻不宜分利太过，以防劫其",
+      "bbox": [
+        349.05,
+        495.363,
+        568.363,
+        506.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "21. D【解析】从症、舌、脉判断为阳气虚衰，心阳",
+      "bbox": [
+        78.13,
+        511.963,
+        301.467,
+        523.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "津液。健脾是一种补法，适用于脾虚湿胜导致的泄泻，",
+      "bbox": [
+        327.61,
+        510.883,
+        567.722,
+        520.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "欲脱之危候，治当回阳救逆固脱。",
+      "bbox": [
+        57.73,
+        528.283,
+        203.38,
+        537.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "可以治疗久泻不止。补肾也是一种补法，适用于肾阳",
+      "bbox": [
+        327.71,
+        526.413,
+        568.095,
+        536.113
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "22. D【解析】夏令感受暑湿，呕吐而并见心烦口",
+      "bbox": [
+        78.07,
+        543.113,
+        300.822,
+        554.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "虚衰所致的泄泻，同样可以治疗久泻不止。固涩，是治",
+      "bbox": [
+        327.72,
+        541.773,
+        568.105,
+        551.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "渴者，用藿香正气散去香燥甘温之药，加入黄连、佩兰、",
+      "bbox": [
+        57.47,
+        558.113,
+        301.6,
+        567.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "疗久泻不止的一种基本方法。升提，适用于中气不足，",
+      "bbox": [
+        327.56,
+        557.483,
+        567.722,
+        567.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "荷叶以清暑解热，或改用黄连香薷饮加减。",
+      "bbox": [
+        57.23,
+        574.263,
+        246.244,
+        583.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "脾虚下陷，不能固摄所致的泄泻，也可以治疗久泻",
+      "bbox": [
+        327.69,
+        572.753,
+        568.296,
+        582.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "23. C【解析】呃逆一证，总由胃气上逆而成，故理",
+      "bbox": [
+        78.14,
+        589.423,
+        302.051,
+        601.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "不止。",
+      "bbox": [
+        327.68,
+        589.153,
+        356.66,
+        598.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "气和胃，降逆止呃为基本治法，故选C。而造成胃气上",
+      "bbox": [
+        57.7,
+        605.324,
+        301.737,
+        614.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "33. C【解析】“痰”为根本，发作期“伏痰”遇诱因",
+      "bbox": [
+        349.31,
+        604.284,
+        579.18,
+        613.924
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "逆的原因又有很多，兼有血瘀的用理气化瘀降逆，兼有",
+      "bbox": [
+        57.4,
+        620.753,
+        301.549,
+        630.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "引触，痰随气升，气因痰阻，痰气搏结，壅塞气道，故痰",
+      "bbox": [
+        328.17,
+        619.943,
+        569.67,
+        629.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "肝郁气滞的用疏肝解郁降逆，兼有脾阳不足的健脾温",
+      "bbox": [
+        57.67,
+        636.673,
+        301.858,
+        646.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "鸣如吼，气息喘促，故发作期的病机主要是痰气搏结，",
+      "bbox": [
+        328.21,
+        635.423,
+        567.877,
+        645.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "中止呃，兼有胃热的清热和胃止呃。",
+      "bbox": [
+        58.47,
+        653.273,
+        213.655,
+        662.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "气道被阻，其他选项也是一些病因，但非病机。",
+      "bbox": [
+        327.62,
+        651.283,
+        534.191,
+        660.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "24. B【解析】鼓胀分类有气滞湿阻、水湿困脾、水",
+      "bbox": [
+        78.31,
+        668.023,
+        301.816,
+        678.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "34. D【解析】癫证以沉默痴呆，语无伦次，静而多",
+      "bbox": [
+        349.27,
+        666.743,
+        570.13,
+        676.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "热蕴结、瘀结水留、阳虚水盛、阴虚水停。本证水湿困",
+      "bbox": [
+        57.93,
+        683.563,
+        301.411,
+        693.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "喜为特征，狂证以喧扰不宁，躁妄打骂，动而多怒为特",
+      "bbox": [
+        327.77,
+        682.303,
+        568.576,
+        691.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "脾，故腹大胀满，按之如囊裹水，颜面浮肿；脾不运化故",
+      "bbox": [
+        58.46,
+        699.403,
+        301.658,
+        709.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "征，流涎抽搐不是本病的常见症状。",
+      "bbox": [
+        327.64,
+        698.583,
+        487.186,
+        708.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "胸脘胀闷；阳气不足则遇热则舒，精神困倦，怯寒懒动，",
+      "bbox": [
+        58.76,
+        714.913,
+        301.01,
+        724.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "35. B【解析】抵抗力是人体对病原体的抵抗能力",
+      "bbox": [
+        349.24,
+        713.323,
+        567.996,
+        723.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "小便少，大便溏，舌苔白腻，脉缓。治宜温阳健脾，行气",
+      "bbox": [
+        58.79,
+        730.543,
+        301.505,
+        740.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "的描述。感染过程中病原体的致病作用包括侵袭力、",
+      "bbox": [
+        328.35,
+        728.495,
+        568.506,
+        738.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "利水，用实脾饮。气滞湿阻用柴胡疏肝散。阳虚水停，",
+      "bbox": [
+        59.03,
+        745.883,
+        301.2,
+        755.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "毒力、数量、变异性。",
+      "bbox": [
+        327.64,
+        745.186,
+        421.64,
+        754.586
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "用附子理苓汤。瘀结水留用调营饮。",
+      "bbox": [
+        59.42,
+        761.193,
+        218.985,
+        770.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "36. E【解析】消渴的基本病机是阴虚为本，燥热",
+      "bbox": [
+        349.38,
+        759.456,
+        568.474,
+        769.386
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "25. E【解析】根据头痛部位的不同，参照经络循",
+      "bbox": [
+        79.99,
+        776.344,
+        301.862,
+        786.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "为标，故排除AB；阴阳互根互用，消渴病久可阴伤及",
+      "bbox": [
+        328.07,
+        774.976,
+        568.28,
+        784.396
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "行部位选用适当的引经药，可提高疗效。太阳经常用",
+      "bbox": [
+        59.97,
+        791.503,
+        301.387,
+        801.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "阳，见阴阳俱虚，故排除D；阴虚内热，损耗津液，则血",
+      "bbox": [
+        328.88,
+        790.596,
+        568.373,
+        799.996
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "—",
+      "bbox": [
+        283.82,
+        809.526,
+        293.2,
+        818.906
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "204——",
+      "bbox": [
+        305.01,
+        810.53,
+        351.27,
+        819.627
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

@@ -1,0 +1,1381 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 24,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        199.0,
+        161.0,
+        853.0,
+        203.0
+      ],
+      "confidence": 0.987,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "C. Courvoisier（库瓦济埃征）阳性",
+      "bbox": [
+        272.0,
+        272.0,
+        813.0,
+        309.0
+      ],
+      "confidence": 0.97982,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "DIC，应及早应用的药物是（",
+      "bbox": [
+        1044.0,
+        259.0,
+        1534.0,
+        310.0
+      ],
+      "confidence": 0.948473,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "）",
+      "bbox": [
+        1587.0,
+        268.0,
+        1613.0,
+        300.0
+      ],
+      "confidence": 0.987877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "D. Courvoisier（库瓦济埃征）阴性",
+      "bbox": [
+        268.0,
+        322.0,
+        814.0,
+        364.0
+      ],
+      "confidence": 0.969522,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "142. 流脑治疗中，可减轻毒血症，解痉，抗",
+      "bbox": [
+        1126.0,
+        313.0,
+        1844.0,
+        359.0
+      ],
+      "confidence": 0.989182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 板状腹",
+      "bbox": [
+        267.0,
+        375.0,
+        431.0,
+        418.0
+      ],
+      "confidence": 0.942612,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "休克的药物是（）",
+      "bbox": [
+        1046.0,
+        365.0,
+        1414.0,
+        414.0
+      ],
+      "confidence": 0.905119,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "131. 胰头癌引起梗阻性黄疽，可见（",
+      "bbox": [
+        267.0,
+        425.0,
+        854.0,
+        470.0
+      ],
+      "confidence": 0.917914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        927.0,
+        426.0,
+        951.0,
+        463.0
+      ],
+      "confidence": 0.595215,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "（143～144题共用备选答案）",
+      "bbox": [
+        1127.0,
+        418.0,
+        1618.0,
+        467.0
+      ],
+      "confidence": 0.92589,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "132. 急性胆囊炎，可见（）",
+      "bbox": [
+        267.0,
+        475.0,
+        758.0,
+        522.0
+      ],
+      "confidence": 0.951191,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 斑丘疹",
+      "bbox": [
+        1127.0,
+        476.0,
+        1303.0,
+        524.0
+      ],
+      "confidence": 0.99716,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "（133～134题共用备选答案）",
+      "bbox": [
+        268.0,
+        529.0,
+        752.0,
+        573.0
+      ],
+      "confidence": 0.921794,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 玫瑰疹",
+      "bbox": [
+        1126.0,
+        535.0,
+        1299.0,
+        582.0
+      ],
+      "confidence": 0.998107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 眼裂增大，眼球突出，目光闪烁，呈惊恐貌",
+      "bbox": [
+        267.0,
+        581.0,
+        961.0,
+        625.0
+      ],
+      "confidence": 0.986772,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 搔抓样瘀点",
+      "bbox": [
+        1127.0,
+        592.0,
+        1378.0,
+        638.0
+      ],
+      "confidence": 0.939932,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 面色潮红，兴奋不安，口唇干燥",
+      "bbox": [
+        265.0,
+        633.0,
+        816.0,
+        677.0
+      ],
+      "confidence": 0.990773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 红斑疹",
+      "bbox": [
+        1126.0,
+        648.0,
+        1301.0,
+        696.0
+      ],
+      "confidence": 0.998973,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 双颊暗红，口唇紫组",
+      "bbox": [
+        265.0,
+        686.0,
+        641.0,
+        730.0
+      ],
+      "confidence": 0.957914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 皮肤坏死",
+      "bbox": [
+        1128.0,
+        709.0,
+        1339.0,
+        752.0
+      ],
+      "confidence": 0.999591,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 表情淡漠，反应迟钝，呈无欲状态",
+      "bbox": [
+        263.0,
+        737.0,
+        858.0,
+        782.0
+      ],
+      "confidence": 0.990919,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "143. 流行性出血热皮肤出血的改变是",
+      "bbox": [
+        1127.0,
+        765.0,
+        1849.0,
+        811.0
+      ],
+      "confidence": 0.995141,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 面色苍白，颜面浮肿",
+      "bbox": [
+        263.0,
+        789.0,
+        640.0,
+        835.0
+      ],
+      "confidence": 0.99125,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "（",
+      "bbox": [
+        1048.0,
+        825.0,
+        1076.0,
+        867.0
+      ],
+      "confidence": 0.645218,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "）",
+      "bbox": [
+        1139.0,
+        825.0,
+        1177.0,
+        867.0
+      ],
+      "confidence": 0.961115,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "133. 典型二尖瓣面容的特点是（",
+      "bbox": [
+        263.0,
+        842.0,
+        800.0,
+        886.0
+      ],
+      "confidence": 0.968829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "）",
+      "bbox": [
+        865.0,
+        847.0,
+        889.0,
+        878.0
+      ],
+      "confidence": 0.984608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "144. 流行性脑脊髓炎皮肤严重出血的改",
+      "bbox": [
+        1128.0,
+        882.0,
+        1849.0,
+        925.0
+      ],
+      "confidence": 0.997126,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "134. 典型伤寒面容的特点是（",
+      "bbox": [
+        263.0,
+        893.0,
+        758.0,
+        938.0
+      ],
+      "confidence": 0.973431,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "）",
+      "bbox": [
+        821.0,
+        895.0,
+        854.0,
+        933.0
+      ],
+      "confidence": 0.970217,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "变是（）",
+      "bbox": [
+        1044.0,
+        934.0,
+        1261.0,
+        988.0
+      ],
+      "confidence": 0.839902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "（135～136题共用备选答案）",
+      "bbox": [
+        264.0,
+        945.0,
+        746.0,
+        991.0
+      ],
+      "confidence": 0.92747,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "A. 颈部",
+      "bbox": [
+        262.0,
+        998.0,
+        395.0,
+        1047.0
+      ],
+      "confidence": 0.998305,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        1129.0,
+        995.0,
+        1626.0,
+        1041.0
+      ],
+      "confidence": 0.91946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "B. 左锁骨上窝",
+      "bbox": [
+        261.0,
+        1049.0,
+        501.0,
+        1098.0
+      ],
+      "confidence": 0.998162,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "A. 泪滴形红细胞",
+      "bbox": [
+        1128.0,
+        1051.0,
+        1427.0,
+        1100.0
+      ],
+      "confidence": 0.999444,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "C. 右锁骨上窝",
+      "bbox": [
+        261.0,
+        1101.0,
+        501.0,
+        1151.0
+      ],
+      "confidence": 0.998638,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "B. 靶形红细胞",
+      "bbox": [
+        1127.0,
+        1112.0,
+        1380.0,
+        1159.0
+      ],
+      "confidence": 0.999648,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "D. 腋下",
+      "bbox": [
+        259.0,
+        1155.0,
+        390.0,
+        1202.0
+      ],
+      "confidence": 0.99624,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 口形红细胞",
+      "bbox": [
+        1128.0,
+        1170.0,
+        1381.0,
+        1216.0
+      ],
+      "confidence": 0.99456,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "E. 滑车上",
+      "bbox": [
+        259.0,
+        1207.0,
+        426.0,
+        1254.0
+      ],
+      "confidence": 0.995788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 镰形红细胞",
+      "bbox": [
+        1127.0,
+        1228.0,
+        1384.0,
+        1274.0
+      ],
+      "confidence": 0.999035,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "135. 胃癌出现淋巴结转移常见的部位是",
+      "bbox": [
+        262.0,
+        1261.0,
+        966.0,
+        1304.0
+      ],
+      "confidence": 0.99844,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 球形红细胞",
+      "bbox": [
+        1127.0,
+        1285.0,
+        1383.0,
+        1332.0
+      ],
+      "confidence": 0.999545,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "（",
+      "bbox": [
+        188.0,
+        1317.0,
+        213.0,
+        1355.0
+      ],
+      "confidence": 0.676045,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "）",
+      "bbox": [
+        268.0,
+        1315.0,
+        308.0,
+        1356.0
+      ],
+      "confidence": 0.983023,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "145. 骨髓纤维化常见（",
+      "bbox": [
+        1129.0,
+        1346.0,
+        1521.0,
+        1388.0
+      ],
+      "confidence": 0.958128,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "）",
+      "bbox": [
+        1591.0,
+        1349.0,
+        1616.0,
+        1385.0
+      ],
+      "confidence": 0.925559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "136. 乳腺癌出现淋巴结转移常见的部位",
+      "bbox": [
+        259.0,
+        1366.0,
+        966.0,
+        1408.0
+      ],
+      "confidence": 0.998902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "146. 缺铁性贫血可见（",
+      "bbox": [
+        1130.0,
+        1404.0,
+        1520.0,
+        1445.0
+      ],
+      "confidence": 0.989534,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "）",
+      "bbox": [
+        241.0,
+        1416.0,
+        348.0,
+        1464.0
+      ],
+      "confidence": 0.696559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        1590.0,
+        1407.0,
+        1616.0,
+        1441.0
+      ],
+      "confidence": 0.992783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "是（",
+      "bbox": [
+        184.0,
+        1419.0,
+        257.0,
+        1463.0
+      ],
+      "confidence": 0.949369,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        1132.0,
+        1462.0,
+        1624.0,
+        1503.0
+      ],
+      "confidence": 0.933443,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "（137～138题共用备选答案）",
+      "bbox": [
+        264.0,
+        1473.0,
+        738.0,
+        1511.0
+      ],
+      "confidence": 0.945998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 急性失血性贫血",
+      "bbox": [
+        262.0,
+        1524.0,
+        581.0,
+        1566.0
+      ],
+      "confidence": 0.998954,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 医患交往的社会性日益突出为社会所关",
+      "bbox": [
+        1132.0,
+        1520.0,
+        1846.0,
+        1559.0
+      ],
+      "confidence": 0.998604,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 糖尿病酮症酸中毒",
+      "bbox": [
+        258.0,
+        1574.0,
+        615.0,
+        1619.0
+      ],
+      "confidence": 0.999064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "注",
+      "bbox": [
+        1043.0,
+        1574.0,
+        1094.0,
+        1624.0
+      ],
+      "confidence": 0.999542,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 真性红细胞增多症",
+      "bbox": [
+        259.0,
+        1626.0,
+        616.0,
+        1672.0
+      ],
+      "confidence": 0.998732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 将部分医德规范，观念纳人《中华人民共",
+      "bbox": [
+        1128.0,
+        1635.0,
+        1852.0,
+        1675.0
+      ],
+      "confidence": 0.990315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 大面积烧伤",
+      "bbox": [
+        259.0,
+        1680.0,
+        501.0,
+        1723.0
+      ],
+      "confidence": 0.998222,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "和国医师法》",
+      "bbox": [
+        1047.0,
+        1690.0,
+        1271.0,
+        1736.0
+      ],
+      "confidence": 0.999529,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 急性白血病",
+      "bbox": [
+        257.0,
+        1729.0,
+        500.0,
+        1778.0
+      ],
+      "confidence": 0.998766,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 医患交往在经济条件、文化背景方面日显",
+      "bbox": [
+        1129.0,
+        1751.0,
+        1852.0,
+        1791.0
+      ],
+      "confidence": 0.998178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "137. 网织红细胞减少的疾病为（",
+      "bbox": [
+        262.0,
+        1786.0,
+        872.0,
+        1824.0
+      ],
+      "confidence": 0.976866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "）",
+      "bbox": [
+        865.0,
+        1787.0,
+        889.0,
+        1821.0
+      ],
+      "confidence": 0.969965,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "重要",
+      "bbox": [
+        1042.0,
+        1801.0,
+        1135.0,
+        1857.0
+      ],
+      "confidence": 0.999907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "138. 网织红细胞明显增多的疾病为（",
+      "bbox": [
+        262.0,
+        1838.0,
+        851.0,
+        1876.0
+      ],
+      "confidence": 0.982291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "）",
+      "bbox": [
+        923.0,
+        1838.0,
+        947.0,
+        1875.0
+      ],
+      "confidence": 0.680316,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 指导患者就医，自主选择医生、护士、治",
+      "bbox": [
+        1128.0,
+        1865.0,
+        1852.0,
+        1907.0
+      ],
+      "confidence": 0.9974,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "（139～140题共用备选答案）",
+      "bbox": [
+        263.0,
+        1888.0,
+        738.0,
+        1927.0
+      ],
+      "confidence": 0.916749,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "疗小组的做法",
+      "bbox": [
+        1046.0,
+        1923.0,
+        1295.0,
+        1965.0
+      ],
+      "confidence": 0.999258,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 飞沫",
+      "bbox": [
+        259.0,
+        1940.0,
+        391.0,
+        1983.0
+      ],
+      "confidence": 0.994822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "B. 血液",
+      "bbox": [
+        255.0,
+        1988.0,
+        388.0,
+        2040.0
+      ],
+      "confidence": 0.999321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 部分医务人员在诊疗工作中过于依靠仪",
+      "bbox": [
+        1128.0,
+        1980.0,
+        1853.0,
+        2021.0
+      ],
+      "confidence": 0.997719,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "器检测",
+      "bbox": [
+        1044.0,
+        2032.0,
+        1174.0,
+        2085.0
+      ],
+      "confidence": 0.99955,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 性接触",
+      "bbox": [
+        258.0,
+        2042.0,
+        425.0,
+        2089.0
+      ],
+      "confidence": 0.997875,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "D. 消化道",
+      "bbox": [
+        258.0,
+        2094.0,
+        428.0,
+        2141.0
+      ],
+      "confidence": 0.99882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "147. 上述各项，体现我国当今医患关系法",
+      "bbox": [
+        1130.0,
+        2094.0,
+        1850.0,
+        2136.0
+      ],
+      "confidence": 0.995159,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 母婴",
+      "bbox": [
+        257.0,
+        2145.0,
+        387.0,
+        2193.0
+      ],
+      "confidence": 0.998572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "制化趋势反映在（）",
+      "bbox": [
+        1046.0,
+        2147.0,
+        1464.0,
+        2197.0
+      ],
+      "confidence": 0.933931,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "139. 传染性非典型肺炎主要传播途径是",
+      "bbox": [
+        257.0,
+        2195.0,
+        969.0,
+        2244.0
+      ],
+      "confidence": 0.99809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "148. 上述各项，体现在医患关系中，反映",
+      "bbox": [
+        1129.0,
+        2209.0,
+        1852.0,
+        2250.0
+      ],
+      "confidence": 0.985169,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "（",
+      "bbox": [
+        184.0,
+        2255.0,
+        211.0,
+        2295.0
+      ],
+      "confidence": 0.782807,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "）",
+      "bbox": [
+        264.0,
+        2253.0,
+        311.0,
+        2297.0
+      ],
+      "confidence": 0.982992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "患者自主性的是（）",
+      "bbox": [
+        1046.0,
+        2262.0,
+        1464.0,
+        2311.0
+      ],
+      "confidence": 0.919153,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "140. 甲型肝炎主要传播途径是（",
+      "bbox": [
+        258.0,
+        2303.0,
+        794.0,
+        2347.0
+      ],
+      "confidence": 0.965693,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "）",
+      "bbox": [
+        862.0,
+        2304.0,
+        893.0,
+        2344.0
+      ],
+      "confidence": 0.96441,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        1130.0,
+        2323.0,
+        1630.0,
+        2365.0
+      ],
+      "confidence": 0.922252,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "（141～142题共用备选答案）",
+      "bbox": [
+        259.0,
+        2355.0,
+        740.0,
+        2400.0
+      ],
+      "confidence": 0.937198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "A. 尽早",
+      "bbox": [
+        1127.0,
+        2378.0,
+        1267.0,
+        2427.0
+      ],
+      "confidence": 0.991265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "A. 青霉素",
+      "bbox": [
+        258.0,
+        2409.0,
+        430.0,
+        2455.0
+      ],
+      "confidence": 0.994795,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "B. 1小时",
+      "bbox": [
+        1126.0,
+        2437.0,
+        1290.0,
+        2484.0
+      ],
+      "confidence": 0.993352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "B. 甘露醇",
+      "bbox": [
+        257.0,
+        2461.0,
+        426.0,
+        2507.0
+      ],
+      "confidence": 0.99934,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "C. 2小时",
+      "bbox": [
+        1124.0,
+        2493.0,
+        1292.0,
+        2544.0
+      ],
+      "confidence": 0.997539,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "C. 头孢菌素",
+      "bbox": [
+        258.0,
+        2513.0,
+        465.0,
+        2560.0
+      ],
+      "confidence": 0.998704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "D. 6小时",
+      "bbox": [
+        1124.0,
+        2551.0,
+        1294.0,
+        2602.0
+      ],
+      "confidence": 0.995817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "D. 肾上腺皮质激素",
+      "bbox": [
+        257.0,
+        2563.0,
+        585.0,
+        2612.0
+      ],
+      "confidence": 0.999476,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "E. 肝素",
+      "bbox": [
+        256.0,
+        2617.0,
+        390.0,
+        2666.0
+      ],
+      "confidence": 0.999733,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "E. 12小时",
+      "bbox": [
+        1126.0,
+        2612.0,
+        1311.0,
+        2658.0
+      ],
+      "confidence": 0.992246,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "141. 流脑皮肤瘀点、瘀斑不断增加，考虑",
+      "bbox": [
+        259.0,
+        2672.0,
+        968.0,
+        2716.0
+      ],
+      "confidence": 0.986763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "149. 省级人民政府在接到突发公共卫生",
+      "bbox": [
+        1126.0,
+        2672.0,
+        1852.0,
+        2718.0
+      ],
+      "confidence": 0.999204,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "- 70-",
+      "bbox": [
+        912.0,
+        2736.0,
+        1101.0,
+        2788.0
+      ],
+      "confidence": 0.883696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

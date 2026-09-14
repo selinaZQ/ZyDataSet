@@ -1,0 +1,1329 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 28,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        195.0,
+        80.0,
+        601.0,
+        118.0
+      ],
+      "confidence": 0.997573,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        638.0,
+        82.0,
+        883.0,
+        119.0
+      ],
+      "confidence": 0.999669,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 乌头汤",
+      "bbox": [
+        264.0,
+        186.0,
+        445.0,
+        241.0
+      ],
+      "confidence": 0.996608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 四肢部",
+      "bbox": [
+        1167.0,
+        186.0,
+        1356.0,
+        242.0
+      ],
+      "confidence": 0.998957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "37. 虚劳以气虚为主时，主要病变的脏",
+      "bbox": [
+        269.0,
+        252.0,
+        1007.0,
+        297.0
+      ],
+      "confidence": 0.997769,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 胸部",
+      "bbox": [
+        1165.0,
+        246.0,
+        1308.0,
+        303.0
+      ],
+      "confidence": 0.999582,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "是（",
+      "bbox": [
+        186.0,
+        308.0,
+        266.0,
+        361.0
+      ],
+      "confidence": 0.880314,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "）",
+      "bbox": [
+        258.0,
+        309.0,
+        362.0,
+        359.0
+      ],
+      "confidence": 0.778777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "C. 腹部",
+      "bbox": [
+        1165.0,
+        304.0,
+        1309.0,
+        362.0
+      ],
+      "confidence": 0.9989,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 肺、脾",
+      "bbox": [
+        268.0,
+        366.0,
+        430.0,
+        422.0
+      ],
+      "confidence": 0.998124,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "D. 头部",
+      "bbox": [
+        1166.0,
+        367.0,
+        1310.0,
+        420.0
+      ],
+      "confidence": 0.998391,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 心、肾",
+      "bbox": [
+        268.0,
+        429.0,
+        425.0,
+        480.0
+      ],
+      "confidence": 0.995205,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "E. 面部",
+      "bbox": [
+        1167.0,
+        426.0,
+        1308.0,
+        479.0
+      ],
+      "confidence": 0.967516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 肺、肾",
+      "bbox": [
+        268.0,
+        489.0,
+        425.0,
+        540.0
+      ],
+      "confidence": 0.997426,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "44. 按十二经脉气血流注次序，小肠经上",
+      "bbox": [
+        1172.0,
+        491.0,
+        1911.0,
+        532.0
+      ],
+      "confidence": 0.997472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 脾、肾",
+      "bbox": [
+        268.0,
+        547.0,
+        426.0,
+        598.0
+      ],
+      "confidence": 0.994373,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "接（",
+      "bbox": [
+        1087.0,
+        546.0,
+        1166.0,
+        598.0
+      ],
+      "confidence": 0.954107,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "（）",
+      "bbox": [
+        1143.0,
+        547.0,
+        1264.0,
+        597.0
+      ],
+      "confidence": 0.585303,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 心、肺",
+      "bbox": [
+        268.0,
+        608.0,
+        425.0,
+        655.0
+      ],
+      "confidence": 0.996185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "A. 胆经",
+      "bbox": [
+        1169.0,
+        606.0,
+        1312.0,
+        658.0
+      ],
+      "confidence": 0.998863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "38. 治疗吐血胃热盛证，应首选（",
+      "bbox": [
+        270.0,
+        668.0,
+        867.0,
+        713.0
+      ],
+      "confidence": 0.967178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "）",
+      "bbox": [
+        945.0,
+        673.0,
+        968.0,
+        708.0
+      ],
+      "confidence": 0.68541,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 心经",
+      "bbox": [
+        1169.0,
+        668.0,
+        1306.0,
+        715.0
+      ],
+      "confidence": 0.998736,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 玉女煎",
+      "bbox": [
+        270.0,
+        727.0,
+        448.0,
+        775.0
+      ],
+      "confidence": 0.997783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 胃经",
+      "bbox": [
+        1169.0,
+        726.0,
+        1307.0,
+        775.0
+      ],
+      "confidence": 0.998118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 龙胆泻肝汤",
+      "bbox": [
+        270.0,
+        789.0,
+        521.0,
+        832.0
+      ],
+      "confidence": 0.998709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 膀胱经",
+      "bbox": [
+        1169.0,
+        783.0,
+        1350.0,
+        831.0
+      ],
+      "confidence": 0.998762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 加味清胃散合泻心汤",
+      "bbox": [
+        269.0,
+        844.0,
+        686.0,
+        893.0
+      ],
+      "confidence": 0.996315,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 三焦经",
+      "bbox": [
+        1169.0,
+        844.0,
+        1349.0,
+        892.0
+      ],
+      "confidence": 0.99846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 地榆散合槐角丸",
+      "bbox": [
+        269.0,
+        906.0,
+        607.0,
+        953.0
+      ],
+      "confidence": 0.97704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "45. 按对应顺序，耳门、听宫、听会所属的",
+      "bbox": [
+        1171.0,
+        903.0,
+        1913.0,
+        949.0
+      ],
+      "confidence": 0.995568,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 泻心汤合十灰散",
+      "bbox": [
+        268.0,
+        962.0,
+        606.0,
+        1011.0
+      ],
+      "confidence": 0.997991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "经脉分别是（）",
+      "bbox": [
+        1086.0,
+        959.0,
+        1430.0,
+        1011.0
+      ],
+      "confidence": 0.918809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "39. 郁证患者，咽中不适，如有物梗阻，咯",
+      "bbox": [
+        269.0,
+        1025.0,
+        1005.0,
+        1070.0
+      ],
+      "confidence": 0.994914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 胆经、三焦经、小肠经",
+      "bbox": [
+        1172.0,
+        1022.0,
+        1600.0,
+        1066.0
+      ],
+      "confidence": 0.998032,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "之不出，咽之不下。胸中窒闷，舌苔白腻，脉弦",
+      "bbox": [
+        192.0,
+        1082.0,
+        1005.0,
+        1128.0
+      ],
+      "confidence": 0.994464,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 三焦经、胆经、小肠经",
+      "bbox": [
+        1169.0,
+        1082.0,
+        1593.0,
+        1125.0
+      ],
+      "confidence": 0.997714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "滑，其证候是（",
+      "bbox": [
+        191.0,
+        1143.0,
+        440.0,
+        1189.0
+      ],
+      "confidence": 0.961329,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "）",
+      "bbox": [
+        506.0,
+        1144.0,
+        536.0,
+        1182.0
+      ],
+      "confidence": 0.987867,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 三焦经、小肠经、胆经",
+      "bbox": [
+        1173.0,
+        1144.0,
+        1593.0,
+        1182.0
+      ],
+      "confidence": 0.997009,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 气滞痰郁",
+      "bbox": [
+        267.0,
+        1200.0,
+        484.0,
+        1248.0
+      ],
+      "confidence": 0.995329,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 胆经、小肠经、三焦经",
+      "bbox": [
+        1173.0,
+        1202.0,
+        1595.0,
+        1240.0
+      ],
+      "confidence": 0.997647,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 肝气郁结",
+      "bbox": [
+        266.0,
+        1260.0,
+        479.0,
+        1306.0
+      ],
+      "confidence": 0.998905,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 小肠经、胆经、三焦经",
+      "bbox": [
+        1174.0,
+        1262.0,
+        1595.0,
+        1300.0
+      ],
+      "confidence": 0.997621,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 气郁化火",
+      "bbox": [
+        267.0,
+        1318.0,
+        479.0,
+        1366.0
+      ],
+      "confidence": 0.995559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "46. 期门穴的位置是（",
+      "bbox": [
+        1176.0,
+        1321.0,
+        1598.0,
+        1358.0
+      ],
+      "confidence": 0.972765,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "）",
+      "bbox": [
+        1627.0,
+        1326.0,
+        1648.0,
+        1351.0
+      ],
+      "confidence": 0.990385,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 痰浊上扰",
+      "bbox": [
+        267.0,
+        1377.0,
+        481.0,
+        1424.0
+      ],
+      "confidence": 0.998817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 锁骨中线上，当第4肋间隙处",
+      "bbox": [
+        1177.0,
+        1380.0,
+        1740.0,
+        1417.0
+      ],
+      "confidence": 0.99388,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 忧郁伤神",
+      "bbox": [
+        263.0,
+        1431.0,
+        480.0,
+        1485.0
+      ],
+      "confidence": 0.991891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 锁骨中线上，当第5肋间隙处",
+      "bbox": [
+        1174.0,
+        1439.0,
+        1735.0,
+        1477.0
+      ],
+      "confidence": 0.994122,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "40. 治疗喘证肺气虚耗证的方药",
+      "bbox": [
+        267.0,
+        1495.0,
+        1003.0,
+        1541.0
+      ],
+      "confidence": 0.997974,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 锁骨中线上，当第6肋间隙处",
+      "bbox": [
+        1176.0,
+        1497.0,
+        1736.0,
+        1535.0
+      ],
+      "confidence": 0.991296,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "是（",
+      "bbox": [
+        188.0,
+        1553.0,
+        263.0,
+        1602.0
+      ],
+      "confidence": 0.892908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "）",
+      "bbox": [
+        255.0,
+        1552.0,
+        368.0,
+        1602.0
+      ],
+      "confidence": 0.73244,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 锁骨中线上，当第7肋间隙处",
+      "bbox": [
+        1174.0,
+        1557.0,
+        1738.0,
+        1595.0
+      ],
+      "confidence": 0.991063,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 三子养亲汤合二陈汤",
+      "bbox": [
+        268.0,
+        1611.0,
+        688.0,
+        1658.0
+      ],
+      "confidence": 0.997147,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 以上都不是",
+      "bbox": [
+        1172.0,
+        1613.0,
+        1429.0,
+        1656.0
+      ],
+      "confidence": 0.998213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 生脉散合补肺汤",
+      "bbox": [
+        267.0,
+        1670.0,
+        602.0,
+        1717.0
+      ],
+      "confidence": 0.996269,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "47. 在经络系统中，具有离、入、出、合循行",
+      "bbox": [
+        1172.0,
+        1674.0,
+        1913.0,
+        1714.0
+      ],
+      "confidence": 0.98741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 七味都气丸合生脉散",
+      "bbox": [
+        268.0,
+        1731.0,
+        685.0,
+        1776.0
+      ],
+      "confidence": 0.998214,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "特点的是（",
+      "bbox": [
+        1090.0,
+        1731.0,
+        1303.0,
+        1774.0
+      ],
+      "confidence": 0.907822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "）",
+      "bbox": [
+        1353.0,
+        1736.0,
+        1381.0,
+        1768.0
+      ],
+      "confidence": 0.991777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 参蛤散合金匮肾气丸",
+      "bbox": [
+        268.0,
+        1790.0,
+        686.0,
+        1836.0
+      ],
+      "confidence": 0.997523,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "A. 奇经八脉",
+      "bbox": [
+        1171.0,
+        1789.0,
+        1392.0,
+        1835.0
+      ],
+      "confidence": 0.998892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 苏子降气汤合二陈汤",
+      "bbox": [
+        267.0,
+        1848.0,
+        685.0,
+        1895.0
+      ],
+      "confidence": 0.998219,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "B. 十二经别",
+      "bbox": [
+        1169.0,
+        1848.0,
+        1387.0,
+        1895.0
+      ],
+      "confidence": 0.999083,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "41. 下列属于原络配穴法的是（",
+      "bbox": [
+        268.0,
+        1908.0,
+        804.0,
+        1953.0
+      ],
+      "confidence": 0.979564,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        881.0,
+        1909.0,
+        905.0,
+        1948.0
+      ],
+      "confidence": 0.634511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 十二经筋",
+      "bbox": [
+        1169.0,
+        1907.0,
+        1387.0,
+        1953.0
+      ],
+      "confidence": 0.996073,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 合谷、偏历",
+      "bbox": [
+        267.0,
+        1961.0,
+        508.0,
+        2015.0
+      ],
+      "confidence": 0.997682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 十二皮部",
+      "bbox": [
+        1167.0,
+        1961.0,
+        1391.0,
+        2014.0
+      ],
+      "confidence": 0.998417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 太溪、大钟",
+      "bbox": [
+        264.0,
+        2021.0,
+        502.0,
+        2075.0
+      ],
+      "confidence": 0.996537,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 十五络脉",
+      "bbox": [
+        1169.0,
+        2024.0,
+        1389.0,
+        2070.0
+      ],
+      "confidence": 0.999323,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 太渊、列缺",
+      "bbox": [
+        265.0,
+        2080.0,
+        503.0,
+        2133.0
+      ],
+      "confidence": 0.995714,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "48. 治疗昏迷，癫痫，高热，咽喉肿痛，首",
+      "bbox": [
+        1169.0,
+        2082.0,
+        1914.0,
+        2130.0
+      ],
+      "confidence": 0.984778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 合谷、列缺",
+      "bbox": [
+        267.0,
+        2141.0,
+        506.0,
+        2191.0
+      ],
+      "confidence": 0.996815,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "选（）",
+      "bbox": [
+        1081.0,
+        2135.0,
+        1266.0,
+        2196.0
+      ],
+      "confidence": 0.801487,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 冲阳、丰隆",
+      "bbox": [
+        266.0,
+        2200.0,
+        504.0,
+        2250.0
+      ],
+      "confidence": 0.995445,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 四缝",
+      "bbox": [
+        1168.0,
+        2197.0,
+        1312.0,
+        2249.0
+      ],
+      "confidence": 0.998195,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "42. 循行分布于胸中，散络于心包的经脉",
+      "bbox": [
+        269.0,
+        2262.0,
+        1005.0,
+        2308.0
+      ],
+      "confidence": 0.990394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 十宣",
+      "bbox": [
+        1167.0,
+        2258.0,
+        1306.0,
+        2306.0
+      ],
+      "confidence": 0.984754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "是（",
+      "bbox": [
+        185.0,
+        2320.0,
+        259.0,
+        2370.0
+      ],
+      "confidence": 0.844412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "）",
+      "bbox": [
+        263.0,
+        2320.0,
+        359.0,
+        2370.0
+      ],
+      "confidence": 0.870405,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 八邪",
+      "bbox": [
+        1168.0,
+        2316.0,
+        1307.0,
+        2365.0
+      ],
+      "confidence": 0.998241,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 足太阳膀胱经",
+      "bbox": [
+        270.0,
+        2381.0,
+        570.0,
+        2427.0
+      ],
+      "confidence": 0.99809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 合谷",
+      "bbox": [
+        1167.0,
+        2373.0,
+        1310.0,
+        2427.0
+      ],
+      "confidence": 0.99815,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "E. 曲池",
+      "bbox": [
+        1165.0,
+        2430.0,
+        1309.0,
+        2486.0
+      ],
+      "confidence": 0.998892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 手太阳小肠经",
+      "bbox": [
+        268.0,
+        2440.0,
+        565.0,
+        2487.0
+      ],
+      "confidence": 0.999023,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "C. 手阳明大肠经",
+      "bbox": [
+        269.0,
+        2500.0,
+        566.0,
+        2545.0
+      ],
+      "confidence": 0.999194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "49. 主治虚脱，肠鸣腹痛，泄泻等症的腧穴",
+      "bbox": [
+        1172.0,
+        2495.0,
+        1915.0,
+        2540.0
+      ],
+      "confidence": 0.98927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "D. 手少阳三焦经",
+      "bbox": [
+        268.0,
+        2560.0,
+        568.0,
+        2606.0
+      ],
+      "confidence": 0.998882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "是（",
+      "bbox": [
+        1087.0,
+        2552.0,
+        1160.0,
+        2602.0
+      ],
+      "confidence": 0.84594,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "）",
+      "bbox": [
+        1228.0,
+        2557.0,
+        1257.0,
+        2596.0
+      ],
+      "confidence": 0.98377,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "A. 天枢",
+      "bbox": [
+        1167.0,
+        2608.0,
+        1314.0,
+        2664.0
+      ],
+      "confidence": 0.997572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "E. 手厥阴心包经",
+      "bbox": [
+        268.0,
+        2618.0,
+        566.0,
+        2663.0
+      ],
+      "confidence": 0.996399,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "B. 神阙",
+      "bbox": [
+        1165.0,
+        2669.0,
+        1307.0,
+        2725.0
+      ],
+      "confidence": 0.998267,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "43. 十二经脉中，相表里的阴经与阳经的",
+      "bbox": [
+        267.0,
+        2677.0,
+        1007.0,
+        2724.0
+      ],
+      "confidence": 0.990444,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "交接部位在（",
+      "bbox": [
+        185.0,
+        2736.0,
+        423.0,
+        2783.0
+      ],
+      "confidence": 0.926984,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "C. 中极",
+      "bbox": [
+        1169.0,
+        2730.0,
+        1306.0,
+        2779.0
+      ],
+      "confidence": 0.998456,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "74",
+      "bbox": [
+        1023.0,
+        2803.0,
+        1077.0,
+        2851.0
+      ],
+      "confidence": 0.999767,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

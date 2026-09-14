@@ -1,0 +1,1220 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 91,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）参考答案及解析",
+      "bbox": [
+        308.51,
+        42.917,
+        524.973,
+        53.302
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "作用，应首选隔姜灸。",
+      "bbox": [
+        28.69,
+        71.451,
+        127.49,
+        81.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "溃疡，疮口呈凹陷形，常伴瘘管形成。麻风溃疡呈穿凿",
+      "bbox": [
+        294.59,
+        71.851,
+        537.845,
+        81.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "141. D",
+      "bbox": [
+        46.49,
+        85.542,
+        74.861,
+        95.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "形，常可深及骨部。梅毒性溃疡，其边缘削直而如雷成",
+      "bbox": [
+        294.61,
+        86.401,
+        538.3,
+        96.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "142. D【解析】冲脉的特点：①冲脉与督、任脉、足",
+      "bbox": [
+        46.61,
+        99.392,
+        273.474,
+        109.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "或略微内凹，基底高低不平。",
+      "bbox": [
+        294.58,
+        100.842,
+        422.24,
+        110.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "阳明、足少阴等经有联系，可含蓄调节十二经气血，故",
+      "bbox": [
+        28.52,
+        114.861,
+        273.551,
+        124.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "6. A【解析】以病因命名者，如冻疮、水火烫伤、破",
+      "bbox": [
+        315.34,
+        115.511,
+        543.83,
+        125.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "有十二经脉之海、血海之称；②《灵枢》：夫冲脉者，五脏",
+      "bbox": [
+        27.72,
+        129.551,
+        284.6,
+        139.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "伤风、毒蛇咬伤、漆疮。",
+      "bbox": [
+        294.71,
+        129.961,
+        403.28,
+        139.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "六腑之海也、五脏六腑皆禀焉。",
+      "bbox": [
+        27.62,
+        144.412,
+        165.52,
+        154.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "7. E【解析】虫咬皮炎热毒蕴结证治法：清热解",
+      "bbox": [
+        315.68,
+        144.382,
+        538.902,
+        154.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "143,E",
+      "bbox": [
+        45.86,
+        159.562,
+        70.385,
+        169.372
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "毒，消肿止痒。代表方：五味消毒饮合黄连解毒汤加地",
+      "bbox": [
+        294.74,
+        159.132,
+        539.003,
+        168.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "144. B【解析】绝经前后诸症的处方。针灸治疗",
+      "bbox": [
+        45.96,
+        173.852,
+        273.562,
+        184.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "肤子、白鲜皮、紫荆皮。",
+      "bbox": [
+        294.63,
+        174.672,
+        402.87,
+        184.512
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "绝经前后诸症以气海、三阴交、肝俞、脾俞、肾俞为主",
+      "bbox": [
+        26.8,
+        190.102,
+        273.572,
+        199.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "8. D【解析】湿肿而皮肉重垂胀急，深则按之如烂",
+      "bbox": [
+        315.39,
+        189.702,
+        539.105,
+        200.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "穴。肾阳不足加关元、命门，补益肾阳；肝阳上亢加百",
+      "bbox": [
+        26.58,
+        205.141,
+        273.494,
+        215.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "棉不起，浅则水亮如水疱，搔破流黄水，浸淫皮肤。而",
+      "bbox": [
+        294.64,
+        205.381,
+        538.991,
+        215.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "会、风池、太冲，平抑肝阳。",
+      "bbox": [
+        26.29,
+        220.291,
+        154.47,
+        230.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "容易混淆的E项是肿势或软如棉、馒，或硬如结核，不",
+      "bbox": [
+        294.78,
+        220.632,
+        538.853,
+        230.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "145. E【解析】手太阳小肠经支脉从缺盆上行沿",
+      "bbox": [
+        45.07,
+        235.912,
+        273.81,
+        246.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "红不热。",
+      "bbox": [
+        294.84,
+        235.552,
+        334.16,
+        245.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "颈旁上向面颊，到外眼角，弯向后，进入耳中。",
+      "bbox": [
+        26.02,
+        251.892,
+        232.45,
+        261.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "9. A【解析】火陷证凉血清热解毒，养阴清心开窍",
+      "bbox": [
+        315.68,
+        251.252,
+        538.762,
+        261.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "146. B【解析】胆经起于目外眦，上行到额角下",
+      "bbox": [
+        45.01,
+        267.242,
+        273.593,
+        277.65
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "为其治法。干陷证补益气血，清心安神开窍，虚陷温补",
+      "bbox": [
+        295.19,
+        266.832,
+        538.978,
+        276.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "耳后。",
+      "bbox": [
+        26.11,
+        283.202,
+        55.54,
+        293.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "脾肾。D项为托法，E项为补益之法。",
+      "bbox": [
+        294.89,
+        281.902,
+        458.717,
+        291.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "147. B",
+      "bbox": [
+        44.72,
+        298.752,
+        74.06,
+        308.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "10. A【解析】冲和膏活血止痛，疏风祛寒，消肿软",
+      "bbox": [
+        316.37,
+        297.692,
+        539.026,
+        308.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "148. A【解析】石门是手少阳三焦经的募穴；膈俞",
+      "bbox": [
+        44.83,
+        314.302,
+        274.212,
+        324.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "坚，适用于半阴半阳证。太乙膏性偏清凉，消肿、清火、",
+      "bbox": [
+        295.15,
+        313.481,
+        541.4,
+        323.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "是八会穴之血会；章门是脾经募穴，八会穴之脏会；期",
+      "bbox": [
+        26.21,
+        329.721,
+        273.783,
+        339.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "解毒、生肌。阳和解凝膏温经和阳，祛风散寒，调气活",
+      "bbox": [
+        294.81,
+        328.661,
+        538.747,
+        338.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "门是肝经募穴；血海是足太阴脾经的一个普通腧穴。",
+      "bbox": [
+        26.8,
+        345.841,
+        259.474,
+        355.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "血，化痰通络，用于疮形不红不热，漫肿无头之阴证疮",
+      "bbox": [
+        295.15,
+        344.321,
+        538.86,
+        354.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "149. B",
+      "bbox": [
+        44.81,
+        361.382,
+        74.21,
+        371.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "疡未溃者。咬头膏具有腐蚀性，功能蚀破疮头，适用于",
+      "bbox": [
+        295.11,
+        359.751,
+        539.274,
+        369.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "150. C【解析】太冲，主治肝经风热病证；内关，主",
+      "bbox": [
+        44.88,
+        376.962,
+        274.097,
+        387.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "肿疡脓成，不能自破，以及患者不愿接受手术切开排",
+      "bbox": [
+        294.97,
+        375.332,
+        539.258,
+        385.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "为调理心气，疏导气血；后溪，清心安神，通经活络；通",
+      "bbox": [
+        26.55,
+        392.851,
+        274.011,
+        402.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "脓者。",
+      "bbox": [
+        295.1,
+        390.852,
+        324.62,
+        400.692
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "天，清热除湿；率谷，主治少阳头痛；太阳，痰浊头痛用",
+      "bbox": [
+        26.51,
+        408.551,
+        273.957,
+        418.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "11. C【解析】疥疮由人型疥虫密切接触传染。",
+      "bbox": [
+        316.24,
+        406.402,
+        520.277,
+        416.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "之；风池，活血通经，清利头目，调和气血；百会，疏通头",
+      "bbox": [
+        26.37,
+        424.312,
+        282.47,
+        434.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "12. D【解析】疥疮的特点是在皮损处有灰白色、",
+      "bbox": [
+        316.29,
+        421.922,
+        539.321,
+        432.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "部经络气血；悬颅，主治偏头痛；侠溪，足少阳胆经荥",
+      "bbox": [
+        26.43,
+        439.681,
+        274.23,
+        449.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "浅黑色或普通颜色的隧道。",
+      "bbox": [
+        295.12,
+        437.332,
+        413.068,
+        447.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "穴，主治内伤头痛之肝阳上亢头痛；行间，主治肝经风",
+      "bbox": [
+        26.26,
+        455.132,
+        274.441,
+        464.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "13. B【解析】适应证适用于溃疡脓出不畅有袋脓",
+      "bbox": [
+        316.22,
+        453.273,
+        539.693,
+        463.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "热病证头目疾患；上星，可治疗前额神经痛；头维，疏通",
+      "bbox": [
+        26.32,
+        471.011,
+        274.282,
+        480.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "者；或创口窦道形成脓水不易排尽者；或溃疡脓腐已",
+      "bbox": [
+        295.32,
+        468.471,
+        539.109,
+        478.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "头部经络气血；合谷，主治外感头痛之阳明头痛。",
+      "bbox": [
+        26.38,
+        486.431,
+        243.947,
+        496.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "尽，新肉已生，但皮肉一时不能黏合者。",
+      "bbox": [
+        295.22,
+        484.082,
+        472.52,
+        493.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "14. E【解析】药毒有潜伏期，第一次发病多在用",
+      "bbox": [
+        316.2,
+        499.373,
+        539.298,
+        509.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "药后5～20天内，重复用药常在24小时内发生，短者甚",
+      "bbox": [
+        295.52,
+        514.802,
+        539.751,
+        525.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "第四单元",
+      "bbox": [
+        111.32,
+        527.161,
+        185.859,
+        544.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "至在用药后瞬间或数分钟内发生。",
+      "bbox": [
+        295.43,
+        530.752,
+        444.531,
+        540.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "15. C【解析】牛皮癣风湿蕴肤证治法：祛风利湿，",
+      "bbox": [
+        316.44,
+        546.112,
+        539.444,
+        556.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "清热止痒。代表方：消风散加减。",
+      "bbox": [
+        295.32,
+        561.542,
+        442.32,
+        571.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "1. B【解析】乳癖好发于25～45岁的中青年妇",
+      "bbox": [
+        45.22,
+        575.112,
+        274.332,
+        585.521
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "16. D【解析】乳房皮肤有橘皮样改变见于乳岩。",
+      "bbox": [
+        316.53,
+        577.332,
+        532.542,
+        587.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "女，其发病率占乳房疾病的75%，是临床上最常见的乳",
+      "bbox": [
+        26.49,
+        590.982,
+        274.471,
+        600.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "17. A【解析】可用于治疗白秃疮、肥疮的是拔",
+      "bbox": [
+        316.38,
+        592.382,
+        540.558,
+        603.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "房疾病。",
+      "bbox": [
+        26.53,
+        607.742,
+        65.69,
+        617.532
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "发法。",
+      "bbox": [
+        295.47,
+        609.082,
+        324.81,
+        618.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "2. E【解析】辨善恶顺逆。辨善恶是指对全身情",
+      "bbox": [
+        45.19,
+        623.063,
+        274.488,
+        633.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "18. E【解析】溺渍法适用于疮疡溃后脓水淋漓或",
+      "bbox": [
+        316.47,
+        624.172,
+        540.581,
+        634.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "况的预后判断；辨顺逆是指对局部症状体征的预后",
+      "bbox": [
+        26.72,
+        639.261,
+        274.447,
+        649.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "腐肉不脱，皮肤病瘙痒、脱屑，内、外痔的肿胀疼痛等。",
+      "bbox": [
+        295.38,
+        639.982,
+        541.63,
+        649.832
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "判断。",
+      "bbox": [
+        26.7,
+        655.612,
+        56.1,
+        665.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "19. E【解析】手足部疔疮是指发生于手足部的急",
+      "bbox": [
+        316.74,
+        655.672,
+        540.694,
+        666.16
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "3. B【解析】乳痈成脓期热毒炽盛证，其治疗应该",
+      "bbox": [
+        45.45,
+        671.242,
+        274.816,
+        681.66
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "性化脓性疾患，本病若治疗失误，容易损伤筋骨，继而",
+      "bbox": [
+        295.44,
+        672.441,
+        540.902,
+        682.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "清热解毒、托毒透脓，方用透脓散加味。",
+      "bbox": [
+        26.58,
+        687.671,
+        204.06,
+        697.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "影响手足功能。",
+      "bbox": [
+        295.6,
+        687.841,
+        364.69,
+        697.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "4. B【解析】瘤岩的治则。扶正祛邪是中医治疗",
+      "bbox": [
+        45.33,
+        703.302,
+        274.602,
+        713.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "20. E【解析】患者应卧床休息，多饮开水，床边隔",
+      "bbox": [
+        316.37,
+        703.592,
+        540.571,
+        714.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "癌瘤的原则。",
+      "bbox": [
+        26.99,
+        719.101,
+        86.21,
+        728.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "离。流火患者应抬高患肢，有皮肤黏膜破损者，应及时",
+      "bbox": [
+        295.68,
+        719.731,
+        540.753,
+        729.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "5. D【解析】如岩性溃疡，疮面多呈翻花如岩穴，",
+      "bbox": [
+        45.45,
+        734.962,
+        273.984,
+        745.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "治疗，以免感染毒邪。因脚湿气致下肢复发性丹毒患",
+      "bbox": [
+        295.54,
+        734.761,
+        540.573,
+        744.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "有的在溃疡底部见有珍珠样结节，内有紫黑坏死组织，",
+      "bbox": [
+        26.89,
+        751.421,
+        274.031,
+        761.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "者，应彻底治愈脚湿气。",
+      "bbox": [
+        295.7,
+        750.781,
+        404.38,
+        760.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "渗流血水。瘰疬之溃疡，疮口有空腔或伴瘘管，疮面肉",
+      "bbox": [
+        27.13,
+        767.282,
+        273.851,
+        777.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "21. D【解析】情志内伤，肝气郁结，郁久化热，加",
+      "bbox": [
+        316.42,
+        766.342,
+        539.83,
+        777.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "色不鲜，脓水清稀，并夹有败絮状物。附骨疽、流痰之",
+      "bbox": [
+        27.24,
+        782.501,
+        274.609,
+        792.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "之产后恣食厚味，胃内积热，以致肝胃蕴热，气血凝滞，",
+      "bbox": [
+        295.7,
+        781.271,
+        542.7,
+        791.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "—281",
+      "bbox": [
+        254.37,
+        801.572,
+        290.199,
+        811.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "—",
+      "bbox": [
+        303.58,
+        801.572,
+        313.4,
+        811.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

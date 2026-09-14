@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 45,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        411.79,
+        49.664,
+        531.222,
+        60.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 举元煎",
+      "bbox": [
+        61.58,
+        76.967,
+        110.58,
+        88.247
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E. 月经过少血虚证",
+      "bbox": [
+        327.73,
+        79.208,
+        424.858,
+        90.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 寿胎丸",
+      "bbox": [
+        61.64,
+        93.197,
+        110.537,
+        104.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "103. 患者，女，49岁，月经或前或后，烘热",
+      "bbox": [
+        328.12,
+        95.027,
+        544.47,
+        106.317
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "98. 患者,女,30岁,已婚,月经25天一行,",
+      "bbox": [
+        61.67,
+        109.707,
+        277.687,
+        122.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "出汗，五心烦热，头晕耳鸣，腰酸乏力。舌红苔",
+      "bbox": [
+        304.69,
+        110.967,
+        544.966,
+        122.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "经来量多。色深红，质稠，有血块，口渴心烦。",
+      "bbox": [
+        38.21,
+        125.687,
+        278.164,
+        137.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "薄，脉细数。治疗应首选（）",
+      "bbox": [
+        303.87,
+        126.737,
+        465.196,
+        138.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "治疗应首选（）",
+      "bbox": [
+        38.12,
+        141.917,
+        132.59,
+        153.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 左归丸",
+      "bbox": [
+        328.12,
+        142.998,
+        377.882,
+        154.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 安冲汤",
+      "bbox": [
+        61.73,
+        158.137,
+        111.791,
+        169.407
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 内补丸",
+      "bbox": [
+        327.76,
+        158.948,
+        376.325,
+        170.138
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 保阴煎",
+      "bbox": [
+        61.48,
+        174.297,
+        109.725,
+        185.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 肾气丸",
+      "bbox": [
+        327.83,
+        175.208,
+        376.581,
+        186.428
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 两地汤",
+      "bbox": [
+        61.31,
+        190.988,
+        109.989,
+        202.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 两地汤合二至丸",
+      "bbox": [
+        327.85,
+        191.578,
+        426.079,
+        202.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 解毒四物汤",
+      "bbox": [
+        61.38,
+        207.307,
+        135.16,
+        218.597
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 二仙汤合二至丸",
+      "bbox": [
+        327.91,
+        207.778,
+        425.572,
+        218.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 清热固经汤",
+      "bbox": [
+        61.27,
+        223.667,
+        134.505,
+        234.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "104. 患者,女,27岁,已婚。停经46天,妊娠",
+      "bbox": [
+        328.47,
+        224.397,
+        546.307,
+        235.677
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "99. 患者，女，33岁，已婚。经血非时而下，",
+      "bbox": [
+        61.16,
+        240.397,
+        280.812,
+        251.667
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "试验阳性。恶心呕吐，食入即吐，神疲思睡，舌淡",
+      "bbox": [
+        303.82,
+        240.977,
+        551.32,
+        252.227
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "淋漓不净，色紫暗、有块，小腹胀痛，舌紫苔薄",
+      "bbox": [
+        37.25,
+        256.627,
+        279.058,
+        267.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "苔白，脉滑缓。诊为妊娠恶阻，其证候是（）",
+      "bbox": [
+        303.88,
+        257.477,
+        531.536,
+        268.797
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "白，脉涩。治疗应首选（）",
+      "bbox": [
+        38.65,
+        273.217,
+        187.856,
+        284.527
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 脾虚痰滞",
+      "bbox": [
+        328.03,
+        273.727,
+        390.205,
+        285.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 圣愈汤",
+      "bbox": [
+        61.3,
+        289.487,
+        111.216,
+        300.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 脾胃虚弱",
+      "bbox": [
+        327.71,
+        290.088,
+        387.58,
+        301.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 逐瘀止血汤",
+      "bbox": [
+        60.94,
+        306.328,
+        134.348,
+        317.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 气阴两虚",
+      "bbox": [
+        327.96,
+        306.718,
+        388.458,
+        317.938
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 血府逐瘀汤",
+      "bbox": [
+        61.03,
+        322.927,
+        134.711,
+        334.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 肝胃不和",
+      "bbox": [
+        327.66,
+        323.188,
+        388.826,
+        334.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 少腹逐瘀汤",
+      "bbox": [
+        61.03,
+        339.827,
+        135.468,
+        351.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 以上均非",
+      "bbox": [
+        327.92,
+        339.878,
+        388.328,
+        351.098
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 膈下逐瘀汤",
+      "bbox": [
+        61.34,
+        356.107,
+        135.17,
+        367.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "105. 患者，女，29岁。已婚2年一直未孕，",
+      "bbox": [
+        328.25,
+        356.328,
+        545.121,
+        367.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "100. 患者,女,34岁,已婚。2年来月经量",
+      "bbox": [
+        61.55,
+        372.917,
+        278.934,
+        384.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "既往月经周期26～28天，行经期4～6天。现",
+      "bbox": [
+        304.24,
+        372.978,
+        546.042,
+        384.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "逐渐减少，现闭经半年。带下量少，五心烦热，",
+      "bbox": [
+        37.43,
+        389.447,
+        278.32,
+        400.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "停经45天，突然左下腹撕裂样剧痛，并伴头晕",
+      "bbox": [
+        303.81,
+        389.357,
+        546.15,
+        400.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "盗汗失眠。口干欲饮，舌红少苔，脉细数，其证",
+      "bbox": [
+        37.54,
+        406.037,
+        279.348,
+        417.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "恶心，面色苍白。不应采取的措施是（）",
+      "bbox": [
+        304.06,
+        405.847,
+        527.576,
+        417.187
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "候是（）",
+      "bbox": [
+        37.53,
+        422.228,
+        95.633,
+        433.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 妊娠试验",
+      "bbox": [
+        327.97,
+        422.298,
+        389.873,
+        433.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 肝肾不足",
+      "bbox": [
+        61.28,
+        438.737,
+        124.606,
+        449.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 腹部叩诊",
+      "bbox": [
+        327.91,
+        438.988,
+        388.166,
+        450.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 气血虚弱",
+      "bbox": [
+        61.36,
+        455.197,
+        122.254,
+        466.457
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 后穹隆穿刺",
+      "bbox": [
+        328.0,
+        455.498,
+        399.951,
+        466.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 肾阳虚弱",
+      "bbox": [
+        61.3,
+        471.817,
+        122.68,
+        483.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 立即转院",
+      "bbox": [
+        327.79,
+        472.068,
+        388.488,
+        483.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 脾虚",
+      "bbox": [
+        61.22,
+        488.247,
+        99.009,
+        499.497
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 妇科检查",
+      "bbox": [
+        328.06,
+        488.448,
+        388.37,
+        499.658
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 阴虚血燥",
+      "bbox": [
+        61.51,
+        504.807,
+        123.52,
+        516.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "106. 患者，女，23岁，已婚。孕后心烦少",
+      "bbox": [
+        328.22,
+        504.988,
+        545.716,
+        516.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "101. 患者，女，28岁，已婚。经前小腹疼痛",
+      "bbox": [
+        61.91,
+        521.507,
+        279.025,
+        532.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "寐。渴喜冷饮，腰酸腹痛，伴阴道少量出血，舌",
+      "bbox": [
+        303.96,
+        521.458,
+        545.395,
+        532.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "拒按。有灼热感，平素少腹时隐痛，经来时疼",
+      "bbox": [
+        37.72,
+        538.077,
+        279.393,
+        549.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "红苔黄，脉滑数。治疗应首选（）",
+      "bbox": [
+        304.22,
+        537.927,
+        490.16,
+        549.227
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "痛加剧。低热，经色暗红，质黏，带下黄稠，溲",
+      "bbox": [
+        37.79,
+        554.498,
+        279.46,
+        565.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 清热固经汤",
+      "bbox": [
+        328.2,
+        554.308,
+        401.608,
+        565.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "黄，舌红苔黄腻，脉弦数，其治法是（）",
+      "bbox": [
+        37.99,
+        571.267,
+        249.613,
+        582.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 保阴煎",
+      "bbox": [
+        328.04,
+        570.558,
+        375.725,
+        581.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 理气活血，化瘀止痛",
+      "bbox": [
+        61.41,
+        587.597,
+        179.831,
+        598.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 加味阿胶汤",
+      "bbox": [
+        328.22,
+        587.268,
+        400.435,
+        598.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "B. 清热除湿，化瘀止痛",
+      "bbox": [
+        61.13,
+        604.337,
+        178.2,
+        615.597
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 加味圣愈汤",
+      "bbox": [
+        328.13,
+        604.008,
+        401.172,
+        615.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 益气补血，化瘀止痛",
+      "bbox": [
+        61.15,
+        620.807,
+        178.375,
+        632.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 以上均非",
+      "bbox": [
+        328.39,
+        620.548,
+        388.691,
+        631.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 养血柔肝，理气止痛",
+      "bbox": [
+        60.99,
+        637.627,
+        178.919,
+        648.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "107. 患者，女，29岁，已婚。妊娠中期出现",
+      "bbox": [
+        328.81,
+        637.178,
+        546.032,
+        648.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "E. 调和营卫，化瘀止痛",
+      "bbox": [
+        61.22,
+        654.227,
+        178.189,
+        665.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "腹大异常。胸膈满闷，呼吸急促，神疲肢软。舌",
+      "bbox": [
+        304.3,
+        653.848,
+        545.95,
+        665.098
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "102. 患者，女，20岁，未婚。每于经期鼻",
+      "bbox": [
+        61.49,
+        670.817,
+        279.403,
+        682.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "淡胖，苔白腻，脉沉滑。应首先考虑的是（）",
+      "bbox": [
+        304.31,
+        670.468,
+        538.55,
+        681.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "衄，量多、色深红。心烦易怒，口苦咽干，尿黄",
+      "bbox": [
+        37.95,
+        687.387,
+        279.544,
+        698.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 子肿",
+      "bbox": [
+        328.72,
+        687.057,
+        366.148,
+        698.317
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "便结。近3个月来，月经提前7天。量少、色",
+      "bbox": [
+        38.18,
+        704.467,
+        279.567,
+        716.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 子烦",
+      "bbox": [
+        328.68,
+        703.668,
+        364.94,
+        714.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "红，舌红苔黄，脉弦数，其诊断是（）",
+      "bbox": [
+        38.32,
+        721.508,
+        237.166,
+        732.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 子满",
+      "bbox": [
+        328.78,
+        720.398,
+        365.16,
+        731.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 逆经肺肾阴虚证",
+      "bbox": [
+        61.17,
+        738.148,
+        161.711,
+        749.398
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 子痔",
+      "bbox": [
+        328.68,
+        737.238,
+        365.875,
+        748.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 月经先期血热证",
+      "bbox": [
+        60.88,
+        755.127,
+        159.993,
+        766.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 子晕",
+      "bbox": [
+        328.88,
+        753.918,
+        365.437,
+        765.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 逆经肝经郁火证",
+      "bbox": [
+        61.11,
+        771.567,
+        160.301,
+        782.867
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "108. 患儿，3岁。筋骨萎弱，发育迟缓，坐、",
+      "bbox": [
+        329.15,
+        770.068,
+        548.218,
+        781.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 月经先期肝郁化热证",
+      "bbox": [
+        61.07,
+        788.308,
+        185.453,
+        799.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "立、行走、牙齿的发育都晚于同龄小儿，颈项萎",
+      "bbox": [
+        304.75,
+        786.208,
+        544.847,
+        797.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—187",
+      "bbox": [
+        262.27,
+        806.867,
+        298.424,
+        817.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        310.43,
+        806.955,
+        320.89,
+        817.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

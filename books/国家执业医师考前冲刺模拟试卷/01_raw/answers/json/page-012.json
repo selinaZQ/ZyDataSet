@@ -1,0 +1,1363 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 12,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        62.29,
+        24.209,
+        260.41,
+        35.351
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "可见三系均减少。B项门脉性肝硬化可有脾功能亢进",
+      "bbox": [
+        60.01,
+        53.642,
+        296.8,
+        63.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "喷射样杂音，常伴震颤；X线检查可见左心室扩大，升",
+      "bbox": [
+        322.75,
+        53.221,
+        566.744,
+        63.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "的表现。C项血中亦可见幼稚粒细胞、但不是各阶段",
+      "bbox": [
+        59.75,
+        67.662,
+        296.639,
+        80.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "主动脉扩张。因此，本例可能的诊断为主动脉瓣狭窄，",
+      "bbox": [
+        322.71,
+        67.132,
+        565.207,
+        76.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "均能见到，且脾大少见。",
+      "bbox": [
+        58.72,
+        83.392,
+        166.96,
+        93.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "119. A【解析】患者高血压病史多年且控制不",
+      "bbox": [
+        344.44,
+        81.552,
+        567.168,
+        93.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "110. 【解析】新婚妇女若不注意外阴卫生，尿道",
+      "bbox": [
+        78.92,
+        95.872,
+        296.47,
+        107.312
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "佳，出现左心室肥厚扩张，有心衰表现，可据此诊断为",
+      "bbox": [
+        322.56,
+        95.722,
+        567.524,
+        105.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C",
+      "bbox": [
+        98.65,
+        99.426,
+        105.2,
+        109.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "附近的细菌很容易进入尿道和膀胱，甚至随尿液返流",
+      "bbox": [
+        58.23,
+        110.531,
+        296.507,
+        120.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "高血压性心脏病。",
+      "bbox": [
+        322.5,
+        110.131,
+        402.346,
+        119.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "入肾盂，引起上尿路感染、临床表现为发热、尿路刺激",
+      "bbox": [
+        57.42,
+        124.701,
+        296.555,
+        134.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "120. B【解析】患者休息时无自觉症状，但日常活",
+      "bbox": [
+        344.62,
+        124.262,
+        567.545,
+        134.132
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "征.尿中白细胞增多或白细胞管型。膀胱炎很少出现",
+      "bbox": [
+        57.36,
+        139.391,
+        296.786,
+        149.261
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "动即出现疲乏、心悸、呼吸困难或心绞痛发作，属于心",
+      "bbox": [
+        322.67,
+        138.791,
+        567.701,
+        148.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "白细胞管型，故排除E。",
+      "bbox": [
+        57.59,
+        154.752,
+        161.363,
+        164.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "功能Ⅱ级。",
+      "bbox": [
+        322.59,
+        153.382,
+        371.79,
+        163.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "111. B【解析】伤寒再燃，是指部分患者在进入恢",
+      "bbox": [
+        77.14,
+        168.262,
+        296.625,
+        180.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "121. A",
+      "bbox": [
+        344.81,
+        167.552,
+        372.937,
+        178.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "复期前，体温尚未下降至正常时又重新升高，5～ 7天",
+      "bbox": [
+        56.26,
+        182.862,
+        296.716,
+        192.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "122. D【解析】肺癌出现纵隔淋巴结转移，压迫喉",
+      "bbox": [
+        344.77,
+        182.182,
+        568.332,
+        193.812
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "后才正常，血培养阳性。",
+      "bbox": [
+        55.35,
+        198.812,
+        163.48,
+        208.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "返神经则出现声音嘶哑，同侧声带麻痹；肺癌肿瘤压迫",
+      "bbox": [
+        322.71,
+        196.992,
+        568.053,
+        206.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "112. D【解析】有机磷农药中毒，抑制了胆碱酯酶",
+      "bbox": [
+        76.14,
+        212.582,
+        296.822,
+        224.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "上腔静脉则出现头面部和前胸部瘀血，静脉曲张。",
+      "bbox": [
+        322.77,
+        211.872,
+        548.319,
+        221.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "的活性，造成组织中乙酰胆碱的积聚，使有胆碱能受体",
+      "bbox": [
+        55.59,
+        227.252,
+        296.974,
+        237.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "123. D",
+      "bbox": [
+        344.82,
+        227.033,
+        372.778,
+        237.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "的器官功能发生障碍，表现为毒蕈样症状，即由脏器平",
+      "bbox": [
+        55.15,
+        242.302,
+        296.908,
+        252.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "124. B【解析】急性腹膜炎患者仰卧，双腿屈曲，",
+      "bbox": [
+        344.87,
+        241.402,
+        567.938,
+        251.252
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "滑肌、腺体、汗腺等M受体兴奋而引起的症状，如多",
+      "bbox": [
+        54.24,
+        256.951,
+        296.805,
+        266.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "借以减轻腹部肌肉的紧张，采取强迫仰卧位；极度衰弱",
+      "bbox": [
+        322.9,
+        256.281,
+        568.158,
+        266.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "汗、流涎、视力模糊、瞳孔缩小；烟碱样症状，即由交感",
+      "bbox": [
+        54.42,
+        271.781,
+        300.92,
+        281.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "或意识丧失的患者不能自己调整或变换肢体的位置，",
+      "bbox": [
+        323.1,
+        271.161,
+        568.101,
+        281.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "神经节和横纹肌活动异常所引起的症状，如骨骼肌兴",
+      "bbox": [
+        54.03,
+        286.731,
+        297.108,
+        296.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "采取被动体位。",
+      "bbox": [
+        322.84,
+        286.181,
+        391.93,
+        296.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "奋出现肌纤维震颤。结合本病例为年轻女患者被发现",
+      "bbox": [
+        53.95,
+        301.952,
+        297.186,
+        311.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "125. A",
+      "bbox": [
+        344.96,
+        300.873,
+        372.988,
+        311.746
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "躺在公园角落，考虑为寻短见自服农药导致，故选D，",
+      "bbox": [
+        53.64,
+        316.342,
+        296.638,
+        326.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "126. C【解析】和是实现甲状腺激素生",
+      "bbox": [
+        345.07,
+        315.933,
+        567.925,
+        327.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "其余选项不会同时出现毒蕈样症状及肌纤维震颤。",
+      "bbox": [
+        53.39,
+        331.161,
+        279.191,
+        341.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "物效应的主要部分，且不受血中甲状腺结合球蛋白浓",
+      "bbox": [
+        323.04,
+        330.612,
+        568.161,
+        340.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "113. C【解析】小儿风湿热的临床表现：皮肤环形",
+      "bbox": [
+        74.26,
+        346.102,
+        297.221,
+        357.848
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "度和结合力的影响，是诊断甲亢的首选指标。TRAb",
+      "bbox": [
+        323.04,
+        345.462,
+        568.78,
+        355.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "红斑，多见于躯干及四肢屈侧，呈环形或半环形，边缘",
+      "bbox": [
+        53.2,
+        360.861,
+        297.303,
+        370.712
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "在甲亢患者中的阳性率为75%～96%，对甲亢的诊断、",
+      "bbox": [
+        323.16,
+        360.312,
+        567.982,
+        370.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "稍隆起，呈淡红色，环内皮肤颜色正常。此种红斑常于",
+      "bbox": [
+        52.94,
+        376.001,
+        297.291,
+        385.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "病情活动和复发等均有重要意义，同时是治疗停药的",
+      "bbox": [
+        323.13,
+        375.371,
+        567.697,
+        385.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "摩擦后表现明显，1天之内可时隐时现，消退后不遗留",
+      "bbox": [
+        52.92,
+        390.942,
+        296.826,
+        400.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "重要指标。甲状腺摄率主要用于鉴别不同原因的",
+      "bbox": [
+        323.21,
+        390.051,
+        567.014,
+        400.411
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "脱屑及色素沉着。",
+      "bbox": [
+        52.84,
+        406.691,
+        131.8,
+        416.561
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "甲状腺毒症。",
+      "bbox": [
+        324.37,
+        405.091,
+        383.53,
+        414.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "114. D【解析】文氏现象为二度Ⅰ型房室传导阻",
+      "bbox": [
+        73.77,
+        420.682,
+        297.556,
+        432.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "127. B【解析】VP方案,即长春新碱+泼尼松,主",
+      "bbox": [
+        345.24,
+        420.062,
+        568.022,
+        429.902
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "滞。二度Ⅰ型房室传导阻滞心室率不太慢者，无须接",
+      "bbox": [
+        52.5,
+        435.322,
+        297.437,
+        445.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "要用于急性淋巴细胞性白血病的诱导化疗。",
+      "bbox": [
+        323.18,
+        435.142,
+        522.786,
+        444.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "128. A【解析】HOAP方案包括三尖杉碱、阿霉",
+      "bbox": [
+        345.42,
+        449.262,
+        568.337,
+        460.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "受治疗。",
+      "bbox": [
+        52.36,
+        452.152,
+        91.72,
+        461.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "115. 【解析】患者输血后血压80/ 50mmHg ,自",
+      "bbox": [
+        73.52,
+        464.852,
+        296.091,
+        476.222
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "素及泼尼松，主要用于急性粒细胞白血病的化疗。慢",
+      "bbox": [
+        323.45,
+        464.692,
+        568.288,
+        474.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "E",
+      "bbox": [
+        93.5,
+        467.934,
+        99.488,
+        477.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "觉头晕、心慌，2小时排黑便3次，提示患者仍继续出",
+      "bbox": [
+        52.17,
+        480.042,
+        296.763,
+        489.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "性粒细胞白血病常用治疗药物是白消安、靛玉红等；慢",
+      "bbox": [
+        323.32,
+        479.762,
+        568.306,
+        489.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "血。消化性溃疡并出血经积极内科治疗仍有活动性出",
+      "bbox": [
+        51.86,
+        494.971,
+        296.644,
+        504.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "性淋巴细胞白血病常用苯丁酸氮芥治疗；慢性再生障",
+      "bbox": [
+        323.33,
+        494.862,
+        568.484,
+        504.702
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "血者，应掌握时机进行手术治疗。指征：①年龄>50",
+      "bbox": [
+        51.61,
+        509.552,
+        291.238,
+        519.962
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "碍性贫血常用雄激素等。",
+      "bbox": [
+        323.35,
+        509.612,
+        436.887,
+        519.442
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "岁并伴动脉硬化、经治疗24小时后出血不止；②严重",
+      "bbox": [
+        51.85,
+        524.822,
+        297.425,
+        536.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "129. B",
+      "bbox": [
+        345.52,
+        524.543,
+        373.067,
+        535.316
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "出血经内科积极治疗后仍出血不止；③近期曾反复多",
+      "bbox": [
+        52.23,
+        540.032,
+        297.384,
+        549.872
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "130. A【解析】病理情况下，瞳孔缩小，见于虹膜",
+      "bbox": [
+        345.58,
+        539.843,
+        568.74,
+        551.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "次出血；④合并幽门梗阻、胃穿孔或疑有癌变者。",
+      "bbox": [
+        51.71,
+        554.992,
+        268.41,
+        564.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "炎症、中毒（有机磷类农药）、药物反应（毛果芸香碱、吗",
+      "bbox": [
+        323.36,
+        554.852,
+        568.577,
+        564.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "116. A【解析】患者有乏力，食欲不振，厌油的症",
+      "bbox": [
+        72.85,
+        570.282,
+        297.004,
+        582.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "啡、氯丙嗪）等。瞳孔扩大见于外伤、颈交感神经刺激、",
+      "bbox": [
+        323.74,
+        570.042,
+        568.818,
+        579.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "状说明肝脏出现问题，而体检发现肝脏肿大并且有压",
+      "bbox": [
+        51.24,
+        585.581,
+        297.293,
+        595.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "青光眼绝对期、视神经萎缩、药物影响（阿托品、可卡",
+      "bbox": [
+        323.41,
+        585.011,
+        568.872,
+        594.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "痛，谷丙转氨酶升高，而没有消瘦的症状，并且发病较",
+      "bbox": [
+        51.31,
+        600.882,
+        297.202,
+        610.722
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "因）等。双侧瞳孔大小不等，常提示有颅内病变，如脑",
+      "bbox": [
+        324.28,
+        600.641,
+        569.096,
+        610.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "急，考虑急性肝炎。",
+      "bbox": [
+        51.05,
+        617.792,
+        139.52,
+        627.622
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "外伤、脑肿瘤、中枢神经梅毒、脑疝等。",
+      "bbox": [
+        323.25,
+        615.761,
+        500.55,
+        625.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "117. B【解析】此题考查糖尿病的治疗。该女性",
+      "bbox": [
+        72.53,
+        631.482,
+        297.041,
+        641.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "131. C",
+      "bbox": [
+        345.74,
+        631.183,
+        373.383,
+        642.292
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "患者体重76kg，身高160cm。计算体重指数=体重",
+      "bbox": [
+        51.01,
+        646.582,
+        296.869,
+        657.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "132. D【解析】幽门管溃疡表现为上腹痛无节律",
+      "bbox": [
+        345.7,
+        646.382,
+        569.088,
+        657.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "（kg）/身高（，该患者的体重指数是29.7，属超重，",
+      "bbox": [
+        51.67,
+        662.232,
+        296.143,
+        675.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "性并易引起呕吐；球后溃疡表现为以右上腹痛、夜间",
+      "bbox": [
+        323.23,
+        661.942,
+        568.6,
+        671.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "对肥胖伴2型糖尿病一般首选双胍类降糖药物，因其",
+      "bbox": [
+        50.89,
+        677.551,
+        296.818,
+        688.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "痛、背部放射性疼痛为主。",
+      "bbox": [
+        323.21,
+        677.592,
+        442.589,
+        687.432
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "能降低过高的血糖，降低体重，不增加胰岛素水平，对",
+      "bbox": [
+        51.3,
+        692.952,
+        296.716,
+        702.782
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "133. C【解析】医学会、司法鉴定机构作出的医疗",
+      "bbox": [
+        345.7,
+        692.322,
+        569.171,
+        703.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "血糖在正常范围者无降血糖作用，而磺酰脲类降糖药",
+      "bbox": [
+        51.31,
+        708.172,
+        296.863,
+        718.002
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "损害鉴定意见应当载明并详细论述下列内容：①是否",
+      "bbox": [
+        323.17,
+        707.652,
+        569.156,
+        717.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "物对一些肥胖伴2型糖尿病常无效。该患者目前尚无",
+      "bbox": [
+        51.17,
+        723.581,
+        296.612,
+        733.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "存在医疗损害以及损害程度；②是否存在医疗过错；③",
+      "bbox": [
+        323.16,
+        722.511,
+        569.075,
+        732.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "应用胰岛素的指征，而仅维持原饮食治疗和运动不能",
+      "bbox": [
+        51.13,
+        738.622,
+        296.533,
+        748.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "医疗过错与医疗损害是否存在因果关系；④医疗过错",
+      "bbox": [
+        323.85,
+        737.761,
+        568.914,
+        747.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "有效控制血糖，故选B。",
+      "bbox": [
+        51.09,
+        753.732,
+        157.922,
+        763.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "在医疗损害中的责任程度。",
+      "bbox": [
+        323.15,
+        754.199,
+        448.628,
+        764.259
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "118. C【解析】主动脉瓣狭窄主要临床表现为呼",
+      "bbox": [
+        72.61,
+        768.342,
+        296.396,
+        780.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "134. E【解析】发生医疗纠纷，医疗机构应当告知",
+      "bbox": [
+        345.62,
+        768.12,
+        569.13,
+        780.227
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "吸困难、心绞痛和晕厥；重要体征为主动脉瓣区收缩期",
+      "bbox": [
+        51.81,
+        783.752,
+        296.344,
+        793.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "患者或者其近亲属下列事项：①解决医疗纠纷的合法",
+      "bbox": [
+        323.37,
+        783.12,
+        568.892,
+        793.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 103,
+      "text": "202",
+      "bbox": [
+        300.76,
+        802.945,
+        315.736,
+        812.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

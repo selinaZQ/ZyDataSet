@@ -1,0 +1,1194 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 13,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        419.27,
+        50.614,
+        536.559,
+        61.454
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 脾功能亢进",
+      "bbox": [
+        70.21,
+        81.788,
+        142.88,
+        93.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 急性肠炎",
+      "bbox": [
+        334.82,
+        81.288,
+        395.932,
+        92.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "5. 过清音见于（）",
+      "bbox": [
+        69.89,
+        97.427,
+        176.713,
+        108.747
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 败血症",
+      "bbox": [
+        335.06,
+        97.858,
+        383.514,
+        109.108
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 叩击富有弹性、含气泡正常的肺组织所",
+      "bbox": [
+        69.99,
+        113.767,
+        285.698,
+        126.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "11. 治疗非重型再生障碍性贫血，应首",
+      "bbox": [
+        335.31,
+        113.937,
+        550.263,
+        125.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "产生的音响",
+      "bbox": [
+        45.97,
+        131.047,
+        104.072,
+        142.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "选（）",
+      "bbox": [
+        311.12,
+        131.037,
+        357.246,
+        142.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 叩击含有大量气体的空腔脏器时出现",
+      "bbox": [
+        69.63,
+        147.248,
+        275.865,
+        158.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 叶酸",
+      "bbox": [
+        334.97,
+        147.358,
+        372.86,
+        158.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 叩击含气量增多、弹性减退的肺组织时",
+      "bbox": [
+        69.51,
+        163.868,
+        285.65,
+        176.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 维生素",
+      "bbox": [
+        334.82,
+        163.878,
+        382.927,
+        175.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "出现",
+      "bbox": [
+        46.57,
+        181.147,
+        69.05,
+        192.387
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 硫酸亚铁",
+      "bbox": [
+        334.89,
+        180.918,
+        395.712,
+        192.148
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 叩击不含气的实质性脏器时出现",
+      "bbox": [
+        69.45,
+        197.528,
+        252.644,
+        210.201
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 雄激素",
+      "bbox": [
+        334.84,
+        197.578,
+        383.96,
+        208.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 叩击各种原因所致含气减少的肺组织",
+      "bbox": [
+        69.52,
+        213.927,
+        285.801,
+        226.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 白消安",
+      "bbox": [
+        334.88,
+        214.538,
+        383.45,
+        225.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "时出现",
+      "bbox": [
+        46.13,
+        231.0,
+        80.3,
+        242.24
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "12. 有关步态的描述，下列哪一项是错误",
+      "bbox": [
+        335.31,
+        230.508,
+        551.062,
+        241.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "6. 下列哪项不是谵妄的表现（）",
+      "bbox": [
+        69.7,
+        247.217,
+        249.626,
+        258.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "的（）",
+      "bbox": [
+        311.66,
+        247.587,
+        357.046,
+        258.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 躁动不安",
+      "bbox": [
+        69.69,
+        263.278,
+        131.859,
+        274.508
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 蹒跚步态：走路时身体左右摇摆似鸭状",
+      "bbox": [
+        334.86,
+        263.518,
+        551.026,
+        274.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 意识模糊",
+      "bbox": [
+        69.63,
+        280.028,
+        130.056,
+        291.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "步态",
+      "bbox": [
+        310.91,
+        281.438,
+        333.37,
+        292.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 定向力丧失",
+      "bbox": [
+        69.6,
+        297.008,
+        142.887,
+        309.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 醉酒步态：移步时，下肢内收过度，两腿",
+      "bbox": [
+        334.53,
+        297.108,
+        550.842,
+        308.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 幻视、幻听",
+      "bbox": [
+        69.68,
+        312.938,
+        137.738,
+        324.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "交叉如剪刀状",
+      "bbox": [
+        310.84,
+        314.148,
+        381.434,
+        325.398
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 嗜睡",
+      "bbox": [
+        69.58,
+        329.958,
+        106.65,
+        342.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 共济失调步态：行走时将足高抬，骤然",
+      "bbox": [
+        334.67,
+        329.938,
+        550.589,
+        341.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "7. 改善急性左心衰竭症状最有效的药物",
+      "bbox": [
+        69.79,
+        346.157,
+        285.644,
+        357.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "落下，双目向下注视，两脚间距较宽，闭目时摇",
+      "bbox": [
+        310.79,
+        346.657,
+        550.853,
+        357.917
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "是（）",
+      "bbox": [
+        47.02,
+        362.978,
+        91.823,
+        374.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "晃不稳",
+      "bbox": [
+        310.91,
+        363.768,
+        345.372,
+        375.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 利尿剂",
+      "bbox": [
+        69.8,
+        378.837,
+        119.907,
+        390.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 慌张步态：起步后小步急速行走，身体",
+      "bbox": [
+        334.55,
+        379.268,
+        551.066,
+        390.508
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 洋地黄",
+      "bbox": [
+        69.69,
+        395.477,
+        118.66,
+        406.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "前倾的慌张步态",
+      "bbox": [
+        310.85,
+        396.397,
+        393.38,
+        407.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 钙离子拮抗剂",
+      "bbox": [
+        69.63,
+        412.458,
+        155.223,
+        424.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 跨阈步态：患足下垂，行走时必须高抬",
+      "bbox": [
+        334.73,
+        412.268,
+        551.127,
+        425.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. β肾上腺素能受体阻滞剂",
+      "bbox": [
+        69.59,
+        428.688,
+        212.746,
+        439.938
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "患侧下肢",
+      "bbox": [
+        310.93,
+        429.388,
+        357.568,
+        440.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 血管紧张素转换酶抑制剂",
+      "bbox": [
+        69.72,
+        445.467,
+        215.95,
+        458.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "13. 导致心力衰竭前负荷不足的疾病是（）",
+      "bbox": [
+        335.13,
+        445.677,
+        545.07,
+        456.937
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "8. 下列哪项是鉴别右心衰竭与肝硬化的",
+      "bbox": [
+        69.68,
+        461.557,
+        285.534,
+        472.817
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 主动脉瓣狭窄",
+      "bbox": [
+        334.77,
+        461.748,
+        420.289,
+        472.968
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "最主要依据（）",
+      "bbox": [
+        45.43,
+        478.008,
+        140.933,
+        489.258
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 梗阻性心肌病",
+      "bbox": [
+        334.61,
+        478.368,
+        419.186,
+        489.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 腹水的程度",
+      "bbox": [
+        69.49,
+        494.568,
+        144.922,
+        505.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 主动脉瓣关闭不全",
+      "bbox": [
+        334.69,
+        494.928,
+        443.838,
+        506.148
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 颈静脉是否充盈",
+      "bbox": [
+        69.35,
+        511.198,
+        167.588,
+        522.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 二尖瓣关闭不全",
+      "bbox": [
+        334.62,
+        511.558,
+        432.377,
+        522.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 有否全身水肿",
+      "bbox": [
+        69.48,
+        528.278,
+        154.98,
+        540.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 二尖瓣狭窄",
+      "bbox": [
+        334.9,
+        527.958,
+        407.064,
+        539.188
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 有否肝大",
+      "bbox": [
+        69.41,
+        544.468,
+        131.836,
+        555.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "14. 癫痫单纯部分性发作的发作时间",
+      "bbox": [
+        335.11,
+        544.487,
+        550.827,
+        555.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 有否脾大",
+      "bbox": [
+        69.49,
+        561.648,
+        130.87,
+        573.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "是（）",
+      "bbox": [
+        310.76,
+        560.958,
+        358.053,
+        572.237
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "9. 关于腹部触诊下列各项除哪一项外均",
+      "bbox": [
+        69.42,
+        577.398,
+        285.622,
+        588.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 不超过1分钟",
+      "bbox": [
+        334.9,
+        577.728,
+        420.755,
+        588.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "恰当（）",
+      "bbox": [
+        45.07,
+        594.208,
+        103.766,
+        605.517
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 数分钟",
+      "bbox": [
+        334.74,
+        594.528,
+        382.712,
+        605.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 被检查者可取平卧位、左右侧卧位、坐位",
+      "bbox": [
+        69.25,
+        610.768,
+        286.092,
+        622.008
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 十数分钟",
+      "bbox": [
+        334.88,
+        611.198,
+        395.109,
+        622.418
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "及立位",
+      "bbox": [
+        45.14,
+        628.108,
+        79.01,
+        639.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 数十分钟",
+      "bbox": [
+        334.85,
+        627.778,
+        395.808,
+        638.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "B. 医生站立于被检查者右侧，前臂应与腹表",
+      "bbox": [
+        69.33,
+        644.357,
+        286.433,
+        655.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 1小时",
+      "bbox": [
+        334.99,
+        644.368,
+        380.611,
+        655.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "面在同一水平",
+      "bbox": [
+        45.54,
+        661.328,
+        112.98,
+        672.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "15. 以下不能作为诊断肺心病的主要依据",
+      "bbox": [
+        335.34,
+        661.177,
+        550.383,
+        672.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 医生动作轻柔，从腹痛最明显处开始",
+      "bbox": [
+        69.22,
+        677.458,
+        269.79,
+        690.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "的是（）",
+      "bbox": [
+        311.75,
+        677.648,
+        369.083,
+        688.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 边触诊边观察被检查者的反应及表情",
+      "bbox": [
+        69.23,
+        693.968,
+        276.552,
+        705.208
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 右下肺动脉扩张，横径≥15mm",
+      "bbox": [
+        335.06,
+        694.118,
+        507.635,
+        705.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 腹部触诊时五种触诊法都能用到",
+      "bbox": [
+        69.46,
+        711.007,
+        251.562,
+        723.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 肺动脉段突出",
+      "bbox": [
+        334.86,
+        710.898,
+        418.636,
+        722.128
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "10. 下列各项，可出现金属样肠蠕动音的",
+      "bbox": [
+        69.74,
+        727.028,
+        285.313,
+        738.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 肺型P波",
+      "bbox": [
+        335.06,
+        728.044,
+        397.006,
+        740.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "是（）",
+      "bbox": [
+        45.04,
+        743.468,
+        91.556,
+        754.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 右束支传导阻滞",
+      "bbox": [
+        334.9,
+        743.568,
+        432.272,
+        754.808
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 麻痹性肠梗阻",
+      "bbox": [
+        69.32,
+        760.218,
+        156.755,
+        771.468
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 呈R/ S>1",
+      "bbox": [
+        335.34,
+        760.268,
+        413.166,
+        774.196
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 机械性肠梗阻",
+      "bbox": [
+        69.23,
+        776.918,
+        154.91,
+        788.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "16. 人体铁吸收的部位主要在（）",
+      "bbox": [
+        335.47,
+        776.558,
+        518.57,
+        787.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 低血钾",
+      "bbox": [
+        69.46,
+        793.748,
+        118.067,
+        805.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 胃部幽门",
+      "bbox": [
+        335.01,
+        793.088,
+        395.858,
+        804.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—155",
+      "bbox": [
+        268.54,
+        813.154,
+        302.838,
+        823.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "—",
+      "bbox": [
+        316.75,
+        813.032,
+        327.73,
+        824.012
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

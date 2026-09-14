@@ -1,0 +1,1168 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 46,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        66.91,
+        51.699,
+        267.973,
+        62.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "据治崩三法，应首选的是（）",
+      "bbox": [
+        64.73,
+        81.329,
+        226.01,
+        94.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "114. 患者,女,40岁,已婚。经血非时而",
+      "bbox": [
+        354.12,
+        82.139,
+        567.703,
+        94.877
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 塞流",
+      "bbox": [
+        89.08,
+        98.799,
+        126.923,
+        111.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "下，淋漓日久不尽，色淡红，质清稀，伴神疲气",
+      "bbox": [
+        328.86,
+        98.729,
+        571.04,
+        110.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 澄源",
+      "bbox": [
+        88.94,
+        115.139,
+        124.808,
+        127.057
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "短，面浮肢肿。纳呆便溏。舌淡胖，苔白，脉沉",
+      "bbox": [
+        329.03,
+        114.669,
+        571.7,
+        125.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 复旧",
+      "bbox": [
+        88.83,
+        131.949,
+        123.814,
+        144.337
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "弱。治疗应首选（）",
+      "bbox": [
+        328.87,
+        130.729,
+        448.493,
+        143.457
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 调经为本",
+      "bbox": [
+        88.95,
+        147.789,
+        150.264,
+        160.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 补中益气汤",
+      "bbox": [
+        353.06,
+        147.169,
+        427.274,
+        159.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 塞流、澄源并进",
+      "bbox": [
+        88.77,
+        163.409,
+        179.809,
+        176.107
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 固本止崩汤",
+      "bbox": [
+        353.18,
+        164.149,
+        425.577,
+        176.217
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "110. 患者,女,51岁,已婚。阴部干涩,灼",
+      "bbox": [
+        89.8,
+        180.569,
+        303.548,
+        193.287
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 加减苁蓉菟丝子丸",
+      "bbox": [
+        353.28,
+        179.849,
+        462.917,
+        192.127
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "热瘙痒，带下量少色黄，五心烦热，烘热汗出。",
+      "bbox": [
+        64.31,
+        196.639,
+        304.79,
+        207.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 举元煎",
+      "bbox": [
+        353.23,
+        196.759,
+        402.447,
+        209.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "口干不欲饮，舌红少苔，脉细数无力，其治法",
+      "bbox": [
+        66.81,
+        213.239,
+        306.3,
+        224.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 归脾汤",
+      "bbox": [
+        353.36,
+        213.149,
+        401.457,
+        225.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "是（）",
+      "bbox": [
+        64.42,
+        230.179,
+        111.123,
+        242.217
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "115. 患者,女,24岁,已婚。闭经7个月,",
+      "bbox": [
+        354.06,
+        228.339,
+        567.434,
+        241.879
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 清热利湿，杀虫止痒",
+      "bbox": [
+        88.61,
+        245.419,
+        207.01,
+        258.087
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "形体肥胖，胸胁满闷，呕恶痰多，面浮足肿，舌",
+      "bbox": [
+        328.89,
+        244.239,
+        570.56,
+        256.129
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 清肝利湿，杀虫止痒",
+      "bbox": [
+        88.62,
+        262.259,
+        203.545,
+        274.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "淡苔白腻，脉沉滑，其证候是（）",
+      "bbox": [
+        328.62,
+        261.179,
+        508.513,
+        274.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 滋肾降火，调补肝肾",
+      "bbox": [
+        88.69,
+        278.299,
+        206.15,
+        290.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 肝肾不足",
+      "bbox": [
+        353.24,
+        278.129,
+        415.19,
+        289.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 滋肾养阴，除湿止带",
+      "bbox": [
+        88.36,
+        294.309,
+        206.66,
+        307.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 气血虚弱",
+      "bbox": [
+        353.2,
+        295.179,
+        413.307,
+        307.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 养阴清热，燥湿止痒",
+      "bbox": [
+        88.59,
+        311.379,
+        205.54,
+        324.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 痰湿阻滞",
+      "bbox": [
+        352.87,
+        310.819,
+        413.864,
+        322.987
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "111. 患儿出麻疹2天，皮疹密集成片，遍及",
+      "bbox": [
+        89.65,
+        327.199,
+        307.26,
+        340.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 肝血不足",
+      "bbox": [
+        353.08,
+        328.129,
+        414.087,
+        339.947
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "全身，色紫红，壮热不退，烦躁不安，神昏谵妄，",
+      "bbox": [
+        64.14,
+        344.369,
+        312.0,
+        355.739
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 肺肾阴虚",
+      "bbox": [
+        353.09,
+        342.999,
+        413.894,
+        355.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "抽搐。治疗应首选（）",
+      "bbox": [
+        64.16,
+        359.889,
+        196.163,
+        373.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "116. 患儿，11个月。泄泻2周。起病时每",
+      "bbox": [
+        354.12,
+        359.589,
+        568.174,
+        372.467
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 大定风珠",
+      "bbox": [
+        88.91,
+        376.669,
+        151.415,
+        388.897
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "日泻10多次，经治疗大减，但近日仍日行",
+      "bbox": [
+        332.62,
+        375.649,
+        568.269,
+        388.557
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "B. 羚角钩藤汤",
+      "bbox": [
+        88.81,
+        392.699,
+        161.14,
+        405.097
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "3～4次，大便稀溏色淡。每于食后作泻，面色",
+      "bbox": [
+        328.79,
+        392.409,
+        568.531,
+        405.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C. 止痉散",
+      "bbox": [
+        88.89,
+        410.309,
+        138.201,
+        422.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "萎黄，神疲倦怠，舌质淡，苔薄白，其证",
+      "bbox": [
+        328.71,
+        408.279,
+        570.05,
+        419.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "D. 黄连阿胶汤",
+      "bbox": [
+        88.97,
+        425.679,
+        162.318,
+        437.887
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "候是（）",
+      "bbox": [
+        328.54,
+        424.539,
+        387.423,
+        437.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "E. 清营汤",
+      "bbox": [
+        89.04,
+        441.699,
+        137.654,
+        453.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "A. 风寒",
+      "bbox": [
+        352.9,
+        441.659,
+        390.563,
+        453.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "112. 患儿，11个月。早产，生后一直人工",
+      "bbox": [
+        90.12,
+        458.259,
+        304.227,
+        470.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "B. 湿热",
+      "bbox": [
+        352.75,
+        458.119,
+        389.395,
+        470.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "喂养，经常泄泻。近4个月来食欲不振，面色（cid:0）",
+      "bbox": [
+        65.28,
+        474.309,
+        305.89,
+        487.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "C. 伤食",
+      "bbox": [
+        352.81,
+        474.149,
+        389.669,
+        486.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "白，唇舌爪甲苍白，毛发稀黄。精神萎靡，手足",
+      "bbox": [
+        66.72,
+        490.929,
+        308.18,
+        502.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "D. 脾虚",
+      "bbox": [
+        352.5,
+        490.789,
+        389.747,
+        503.357
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "欠温，舌淡苔白，指纹淡。检查：血红蛋白",
+      "bbox": [
+        64.36,
+        507.199,
+        301.884,
+        518.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "E. 脾肾阳虚",
+      "bbox": [
+        352.84,
+        506.929,
+        413.395,
+        519.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "60g/L。治疗应首选（）",
+      "bbox": [
+        64.78,
+        523.509,
+        197.793,
+        536.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "117. 患儿，6岁。2个月来胃纳不振，精神",
+      "bbox": [
+        353.79,
+        523.309,
+        570.14,
+        536.377
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 金匮肾气丸",
+      "bbox": [
+        89.03,
+        540.679,
+        163.675,
+        553.037
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "疲倦，伴有低热，遍身汗出，微恶风寒。治疗应",
+      "bbox": [
+        328.38,
+        539.119,
+        569.84,
+        550.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 六味地黄丸",
+      "bbox": [
+        88.76,
+        556.729,
+        161.43,
+        568.907
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "首选（）",
+      "bbox": [
+        329.26,
+        556.359,
+        387.54,
+        569.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 右归丸",
+      "bbox": [
+        88.92,
+        573.779,
+        138.125,
+        586.367
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 玉屏风散",
+      "bbox": [
+        352.93,
+        573.069,
+        415.394,
+        585.027
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 理中丸",
+      "bbox": [
+        88.62,
+        589.769,
+        138.488,
+        602.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 牡蛎散",
+      "bbox": [
+        352.82,
+        588.729,
+        402.108,
+        601.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 小建中汤",
+      "bbox": [
+        88.86,
+        605.719,
+        149.264,
+        618.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 生脉散",
+      "bbox": [
+        352.95,
+        605.779,
+        401.931,
+        618.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "113. 患儿,1岁。突然发热,T37.8，伴",
+      "bbox": [
+        89.83,
+        622.609,
+        308.76,
+        635.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 黄芪桂枝五物汤",
+      "bbox": [
+        352.74,
+        621.669,
+        450.413,
+        634.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "咳嗽，流涕，纳差；1天后口腔硬腭、颊部黏膜出",
+      "bbox": [
+        65.34,
+        638.159,
+        303.7,
+        651.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 当归六黄汤",
+      "bbox": [
+        352.84,
+        638.709,
+        425.601,
+        650.787
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "现疱疹，2天后出现米粒大小皮疹，以手、足、臀",
+      "bbox": [
+        64.3,
+        655.289,
+        308.52,
+        668.005
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "118. 患儿，男，10岁。患痄腮，腮部肿胀渐",
+      "bbox": [
+        353.81,
+        654.219,
+        568.591,
+        666.957
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "部为主，部分为疱疹，质地较硬，内有浑浊液",
+      "bbox": [
+        64.36,
+        671.279,
+        304.235,
+        682.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "消退，右侧睾丸肿胀疼痛，舌红苔黄，脉数。治",
+      "bbox": [
+        328.83,
+        671.269,
+        571.81,
+        682.759
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "体，周围绕有红晕，其诊断是（）",
+      "bbox": [
+        63.77,
+        687.409,
+        244.08,
+        700.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "疗应首选（）",
+      "bbox": [
+        328.39,
+        687.449,
+        411.893,
+        700.157
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 水痘",
+      "bbox": [
+        89.06,
+        704.799,
+        127.221,
+        717.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 银翘散",
+      "bbox": [
+        352.93,
+        705.119,
+        403.35,
+        717.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 风疹",
+      "bbox": [
+        88.8,
+        720.729,
+        125.191,
+        733.017
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 小柴胡汤",
+      "bbox": [
+        352.82,
+        720.759,
+        413.554,
+        732.997
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 幼儿急疹",
+      "bbox": [
+        88.83,
+        736.699,
+        149.697,
+        748.957
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 知柏地黄丸",
+      "bbox": [
+        352.83,
+        737.799,
+        426.404,
+        749.857
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 手足口病",
+      "bbox": [
+        88.86,
+        753.689,
+        149.923,
+        765.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 龙胆泻肝汤",
+      "bbox": [
+        352.55,
+        753.839,
+        426.03,
+        765.827
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 猩红热",
+      "bbox": [
+        88.98,
+        770.329,
+        137.758,
+        782.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 普济消毒饮",
+      "bbox": [
+        352.69,
+        769.799,
+        426.197,
+        782.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "—",
+      "bbox": [
+        286.11,
+        802.417,
+        295.38,
+        811.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "140—",
+      "bbox": [
+        306.17,
+        802.408,
+        343.52,
+        812.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

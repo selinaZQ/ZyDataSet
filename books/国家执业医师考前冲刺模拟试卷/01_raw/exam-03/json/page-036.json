@@ -1,0 +1,999 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 36,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试申医执业医师",
+      "bbox": [
+        57.53,
+        57.65,
+        260.07,
+        69.62
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "136. 大肠之募穴位于（）",
+      "bbox": [
+        80.44,
+        88.1,
+        224.633,
+        101.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "E,耳后，乳突后下凹陷处",
+      "bbox": [
+        346.25,
+        86.96,
+        484.51,
+        98.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "（137～138题共用备选答案）",
+      "bbox": [
+        80.18,
+        103.029,
+        226.819,
+        116.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "143. 安眠穴位于（）",
+      "bbox": [
+        347.75,
+        103.08,
+        469.886,
+        116.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 灯草灸",
+      "bbox": [
+        79.03,
+        118.62,
+        129.682,
+        131.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "144. 天柱穴位于（）",
+      "bbox": [
+        347.69,
+        118.02,
+        470.656,
+        131.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 隔姜灸",
+      "bbox": [
+        78.85,
+        133.19,
+        127.072,
+        146.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        347.32,
+        133.22,
+        498.139,
+        146.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 隔蒜灸",
+      "bbox": [
+        78.78,
+        148.32,
+        127.156,
+        161.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 少商、外关",
+      "bbox": [
+        346.76,
+        147.98,
+        418.77,
+        161.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D,隔盐灸",
+      "bbox": [
+        78.56,
+        163.96,
+        134.99,
+        176.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 行间、侠溪",
+      "bbox": [
+        346.61,
+        163.18,
+        417.48,
+        176.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 隔泥灸",
+      "bbox": [
+        78.64,
+        179.27,
+        127.441,
+        192.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 内关、太冲",
+      "bbox": [
+        346.43,
+        178.94,
+        418.15,
+        192.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "137. 治疗阳气暴脱，可于神阙穴施（）",
+      "bbox": [
+        79.67,
+        195.04,
+        291.719,
+        208.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "D. 睛明、太阳",
+      "bbox": [
+        346.26,
+        193.98,
+        418.34,
+        207.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "138. 治疗风寒痹痛常用（）",
+      "bbox": [
+        79.56,
+        210.84,
+        237.033,
+        223.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. 风池、太阳",
+      "bbox": [
+        346.65,
+        209.85,
+        417.14,
+        223.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "（139～140题共用备选答案）",
+      "bbox": [
+        79.36,
+        226.209,
+        226.686,
+        239.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "145. 目赤肿痛属风热者在基本处方的基",
+      "bbox": [
+        347.74,
+        225.16,
+        568.404,
+        238.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 远近配穴",
+      "bbox": [
+        78.55,
+        241.11,
+        140.857,
+        254.299
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "础上加（）",
+      "bbox": [
+        321.84,
+        240.69,
+        394.319,
+        253.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 同名经配穴",
+      "bbox": [
+        78.25,
+        257.12,
+        151.556,
+        270.296
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "146. 目赤肿痛属肝胆火盛者在基本处方",
+      "bbox": [
+        347.68,
+        256.159,
+        568.828,
+        269.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 上下配穴",
+      "bbox": [
+        78.42,
+        273.13,
+        139.834,
+        286.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "的基础上加（）",
+      "bbox": [
+        323.29,
+        271.8,
+        419.116,
+        283.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 前后配穴",
+      "bbox": [
+        78.19,
+        288.15,
+        140.083,
+        301.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        347.38,
+        287.31,
+        497.523,
+        301.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 左右配穴",
+      "bbox": [
+        78.67,
+        304.08,
+        139.744,
+        317.582
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "A. 仰靠坐位",
+      "bbox": [
+        346.56,
+        302.23,
+        409.182,
+        315.607
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "139. 治疗痔疾取长强与承山是（）",
+      "bbox": [
+        79.47,
+        318.61,
+        273.729,
+        332.336
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "B. 俯伏坐位",
+      "bbox": [
+        346.52,
+        318.19,
+        407.115,
+        331.583
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "140. 治疗失眠取神门与太溪是（）",
+      "bbox": [
+        79.7,
+        334.69,
+        273.679,
+        348.429
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "C. 仰卧位",
+      "bbox": [
+        346.35,
+        333.45,
+        395.893,
+        346.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "（141～142题共用备选答案）",
+      "bbox": [
+        79.64,
+        350.58,
+        227.713,
+        364.141
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "D. 侧卧位",
+      "bbox": [
+        346.37,
+        349.32,
+        396.762,
+        362.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A. 面赤身热，口臭唇焦，尿赤，苔黄燥，脉滑",
+      "bbox": [
+        78.65,
+        365.281,
+        310.22,
+        379.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. 俯卧位",
+      "bbox": [
+        346.41,
+        364.16,
+        396.624,
+        377.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "实",
+      "bbox": [
+        54.25,
+        381.87,
+        66.25,
+        393.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "147. 针刺头面、胸腹部及四肢部的部分腧",
+      "bbox": [
+        347.43,
+        378.58,
+        567.655,
+        392.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 暖气频作，胸胁痞满，腹胀，苔薄腻，脉",
+      "bbox": [
+        78.45,
+        396.24,
+        299.32,
+        409.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "穴宜选（）",
+      "bbox": [
+        322.3,
+        395.76,
+        393.929,
+        407.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "148. 针刺头面、前颈、上胸、肩臂、腿膝、足",
+      "bbox": [
+        347.29,
+        409.45,
+        582.27,
+        423.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "弦",
+      "bbox": [
+        54.35,
+        413.05,
+        66.3,
+        425.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 神疲气短，临厕努挣乏力，大便不燥，脉",
+      "bbox": [
+        78.69,
+        426.521,
+        309.96,
+        440.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "踝等部腧穴宜选（）",
+      "bbox": [
+        321.73,
+        425.641,
+        444.443,
+        437.64
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        347.27,
+        440.53,
+        496.633,
+        454.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "虚",
+      "bbox": [
+        54.29,
+        444.12,
+        66.27,
+        456.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 面色无华，头晕心悸，舌淡，脉细",
+      "bbox": [
+        78.38,
+        458.451,
+        264.63,
+        472.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 温和灸",
+      "bbox": [
+        346.56,
+        457.121,
+        397.35,
+        470.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 面色苍白，畏寒肢冷，尿清，舌苔白，脉",
+      "bbox": [
+        78.42,
+        473.231,
+        309.21,
+        486.907
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 温针灸",
+      "bbox": [
+        346.25,
+        472.15,
+        395.669,
+        485.275
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "沉迟",
+      "bbox": [
+        53.87,
+        491.09,
+        77.83,
+        503.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 无瘢痕灸",
+      "bbox": [
+        346.48,
+        488.13,
+        408.261,
+        501.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "141. 气滞便秘的辨证特点是（）",
+      "bbox": [
+        78.97,
+        505.25,
+        262.013,
+        518.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 雀啄灸",
+      "bbox": [
+        346.25,
+        503.12,
+        396.604,
+        516.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "142. 热秘的辨证特点是（）",
+      "bbox": [
+        79.33,
+        520.309,
+        230.119,
+        533.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 温灸器灸",
+      "bbox": [
+        346.57,
+        518.16,
+        407.637,
+        531.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（143～144题共用备选答案）",
+      "bbox": [
+        79.42,
+        535.77,
+        224.623,
+        549.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "149. 将艾条燃着的一端与施灸部位并不",
+      "bbox": [
+        347.75,
+        535.089,
+        567.253,
+        548.257
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 当翳风与风池穴连线的中点",
+      "bbox": [
+        77.99,
+        551.1,
+        239.941,
+        564.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "固定在一定的距离，而是一上一下的移动施灸",
+      "bbox": [
+        323.87,
+        549.58,
+        567.467,
+        561.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 乳突前下方与下颌角之间的凹陷中",
+      "bbox": [
+        78.13,
+        567.1,
+        273.024,
+        580.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "称为（）",
+      "bbox": [
+        321.79,
+        566.03,
+        381.939,
+        579.767
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 胸锁乳突肌与斜方肌上端之间的凹",
+      "bbox": [
+        78.31,
+        582.14,
+        295.568,
+        595.076
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "150. 将艾条的一端点燃，对准施灸部位距",
+      "bbox": [
+        347.74,
+        580.85,
+        567.953,
+        594.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "陷中",
+      "bbox": [
+        54.59,
+        599.21,
+        78.67,
+        611.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "离2～3cm进行施灸称为（）",
+      "bbox": [
+        321.78,
+        596.359,
+        491.649,
+        610.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 后发际正中直上0.5寸,旁开1.3寸,",
+      "bbox": [
+        78.27,
+        612.47,
+        296.606,
+        626.527
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "当斜方肌外缘凹陷中",
+      "bbox": [
+        55.48,
+        630.17,
+        163.21,
+        642.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "第四单元",
+      "bbox": [
+        274.61,
+        682.349,
+        343.786,
+        698.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "A1 型选择题（1～75题）",
+      "bbox": [
+        247.78,
+        717.76,
+        371.046,
+        732.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "1. 下列哪一项不是血瘤的特点（）",
+      "bbox": [
+        80.77,
+        785.85,
+        273.889,
+        799.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 边界不清",
+      "bbox": [
+        346.89,
+        785.35,
+        410.181,
+        798.475
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "130",
+      "bbox": [
+        301.51,
+        817.299,
+        315.41,
+        826.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

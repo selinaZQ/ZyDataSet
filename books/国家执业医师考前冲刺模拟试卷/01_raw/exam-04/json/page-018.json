@@ -1,0 +1,1090 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 18,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        53.36,
+        52.917,
+        253.721,
+        64.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "D. 放射性药品",
+      "bbox": [
+        75.43,
+        82.918,
+        147.703,
+        94.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 6个月以上，1年以下",
+      "bbox": [
+        338.57,
+        82.918,
+        457.451,
+        94.148
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "E. 医疗用毒性药品",
+      "bbox": [
+        75.6,
+        99.538,
+        171.399,
+        110.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 1年以上，3年以下",
+      "bbox": [
+        338.62,
+        99.488,
+        446.215,
+        110.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "67. 《中华人民共和国医师法》所称医师包",
+      "bbox": [
+        75.89,
+        116.058,
+        289.765,
+        127.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 1年以上，1年半以下",
+      "bbox": [
+        338.74,
+        115.898,
+        458.07,
+        127.128
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "括（）",
+      "bbox": [
+        51.94,
+        132.488,
+        97.608,
+        143.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "72. 具有下列何种情形的药品属于劣药范",
+      "bbox": [
+        338.71,
+        132.238,
+        552.652,
+        143.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 主治医师和主任医师",
+      "bbox": [
+        76.03,
+        149.048,
+        197.572,
+        160.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "围（）",
+      "bbox": [
+        315.74,
+        148.918,
+        361.126,
+        160.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 主治医师和住院医师",
+      "bbox": [
+        75.78,
+        165.578,
+        195.778,
+        176.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 变质的药品",
+      "bbox": [
+        338.82,
+        164.808,
+        411.489,
+        176.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 医师和助理医师",
+      "bbox": [
+        75.7,
+        182.088,
+        172.319,
+        193.328
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 以非药品冒充药品",
+      "bbox": [
+        338.6,
+        181.648,
+        445.734,
+        192.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 副主任医师和主任医师",
+      "bbox": [
+        75.74,
+        198.748,
+        208.535,
+        209.978
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 未标明有效期或者更改有效期的药品",
+      "bbox": [
+        338.81,
+        198.268,
+        542.837,
+        209.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 执业医师和执业助理医师",
+      "bbox": [
+        75.83,
+        215.248,
+        220.483,
+        226.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 国务院药品监督管理部门规定禁止使",
+      "bbox": [
+        338.68,
+        214.838,
+        553.016,
+        226.078
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "68. 城镇中发现甲类传染病和乙类传染病",
+      "bbox": [
+        75.96,
+        231.878,
+        290.262,
+        243.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "用的药品",
+      "bbox": [
+        314.91,
+        232.018,
+        360.672,
+        243.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "中的艾滋病、肺炭疽病的患者、病原携带者和",
+      "bbox": [
+        52.9,
+        248.328,
+        289.656,
+        259.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 所标明的适应证或者功能主治超出规",
+      "bbox": [
+        338.93,
+        247.758,
+        553.254,
+        258.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "疑似患者时，国家规定的报告时间是（）",
+      "bbox": [
+        52.23,
+        264.747,
+        272.52,
+        275.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "定范围的药品",
+      "bbox": [
+        315.09,
+        265.058,
+        384.722,
+        276.298
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 6小时以内",
+      "bbox": [
+        76.43,
+        281.298,
+        146.028,
+        292.538
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "73. 撰写“医家五戒十要”的医家是（）",
+      "bbox": [
+        339.03,
+        281.258,
+        547.363,
+        292.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 7小时以内",
+      "bbox": [
+        76.23,
+        297.758,
+        144.508,
+        308.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 李时珍",
+      "bbox": [
+        338.93,
+        297.648,
+        388.578,
+        308.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 10小时以内",
+      "bbox": [
+        76.36,
+        313.998,
+        150.927,
+        325.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 陈实功",
+      "bbox": [
+        338.75,
+        314.128,
+        386.376,
+        325.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 12小时以内",
+      "bbox": [
+        76.18,
+        330.688,
+        151.342,
+        341.918
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 孙思邈",
+      "bbox": [
+        338.9,
+        330.758,
+        387.155,
+        341.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 24小时以内",
+      "bbox": [
+        76.37,
+        347.078,
+        151.156,
+        358.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 张仲景",
+      "bbox": [
+        338.74,
+        347.228,
+        387.297,
+        358.468
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "69. 李某，自费学医后自行开业，因违反诊",
+      "bbox": [
+        76.5,
+        363.648,
+        290.375,
+        374.888
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 华佗",
+      "bbox": [
+        338.75,
+        363.538,
+        374.664,
+        374.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "疗护理常规，致使患者死亡。追究其刑事责任",
+      "bbox": [
+        52.12,
+        380.157,
+        290.156,
+        391.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "74. 《中华人民共和国药品管理法》规定：",
+      "bbox": [
+        338.91,
+        379.958,
+        551.447,
+        391.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "的机关是（）",
+      "bbox": [
+        53.22,
+        396.368,
+        134.736,
+        407.627
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "禁止药品的生产企业、经营企业和医疗机构在",
+      "bbox": [
+        314.77,
+        396.448,
+        552.387,
+        407.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 卫生行政部门",
+      "bbox": [
+        76.46,
+        412.857,
+        162.005,
+        424.107
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "药品购销中给予（）",
+      "bbox": [
+        315.08,
+        412.958,
+        432.18,
+        424.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 工商行政部门",
+      "bbox": [
+        76.33,
+        429.178,
+        160.241,
+        440.408
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 合作开发课题",
+      "bbox": [
+        338.74,
+        429.238,
+        424.268,
+        440.468
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 医疗事故鉴定委员会",
+      "bbox": [
+        76.31,
+        445.598,
+        197.268,
+        456.828
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 委托研发项目",
+      "bbox": [
+        338.82,
+        445.788,
+        420.777,
+        457.018
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 管辖地人民政府",
+      "bbox": [
+        76.27,
+        462.208,
+        173.799,
+        473.448
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 药物研究试验内容",
+      "bbox": [
+        338.83,
+        461.958,
+        446.554,
+        473.198
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 管辖地人民法院",
+      "bbox": [
+        76.18,
+        478.498,
+        173.159,
+        489.738
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 药品临床试验申请",
+      "bbox": [
+        338.64,
+        478.318,
+        447.492,
+        489.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "70. 依据2002年9月1日实施的《医疗事",
+      "bbox": [
+        76.31,
+        495.208,
+        290.68,
+        506.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 收受回扣或者其他不正当利益",
+      "bbox": [
+        338.79,
+        494.738,
+        506.757,
+        505.968
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "故处理条例》不属于医疗事故的是（）",
+      "bbox": [
+        51.81,
+        511.598,
+        260.716,
+        522.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "75. 下列不属于突发公共卫生事件应急工",
+      "bbox": [
+        338.96,
+        511.248,
+        552.352,
+        522.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 医疗机构违反规章造成患者重度残废",
+      "bbox": [
+        75.98,
+        527.918,
+        281.945,
+        539.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "作原则的是（）",
+      "bbox": [
+        314.81,
+        527.958,
+        408.403,
+        539.208
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 在医疗活动中，由于患者病情异常而发",
+      "bbox": [
+        75.88,
+        544.408,
+        290.317,
+        555.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "A. 分级负责",
+      "bbox": [
+        338.99,
+        544.148,
+        400.206,
+        555.368
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "生医疗意外",
+      "bbox": [
+        51.91,
+        561.548,
+        110.898,
+        572.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "B. 反应及时",
+      "bbox": [
+        338.83,
+        560.808,
+        398.529,
+        572.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 医务人员违反诊疗常规，造成患者一般",
+      "bbox": [
+        76.05,
+        577.448,
+        290.442,
+        588.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "C. 措施果断",
+      "bbox": [
+        338.89,
+        577.238,
+        399.038,
+        588.468
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "功能性障碍",
+      "bbox": [
+        51.81,
+        594.378,
+        111.022,
+        605.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "D. 依靠科学",
+      "bbox": [
+        338.87,
+        593.518,
+        399.388,
+        604.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 医务人员违反护理常规，造成患者轻度",
+      "bbox": [
+        75.97,
+        610.398,
+        290.002,
+        621.638
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "E. 预防为主",
+      "bbox": [
+        339.03,
+        610.018,
+        398.774,
+        621.248
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "残废",
+      "bbox": [
+        51.69,
+        627.478,
+        74.622,
+        638.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "76. 《中华人民共和国医师法》规定医师应",
+      "bbox": [
+        339.08,
+        626.608,
+        552.764,
+        637.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 药房等非临床科室因过失导致患者人",
+      "bbox": [
+        76.05,
+        643.278,
+        290.385,
+        654.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "当履行的职责是（）",
+      "bbox": [
+        315.93,
+        643.018,
+        432.823,
+        654.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "身损害",
+      "bbox": [
+        51.62,
+        660.218,
+        86.202,
+        671.468
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 人民至上",
+      "bbox": [
+        339.01,
+        659.248,
+        400.111,
+        670.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "71. 医师在执业活动中违反卫生行政规章",
+      "bbox": [
+        75.86,
+        676.338,
+        289.971,
+        687.568
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 生命至上",
+      "bbox": [
+        338.74,
+        675.918,
+        398.386,
+        687.138
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "制度或者技术操作规范，造成严重后果的，责",
+      "bbox": [
+        51.65,
+        692.827,
+        289.902,
+        704.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 甘于奉献",
+      "bbox": [
+        338.9,
+        692.458,
+        399.191,
+        703.698
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "令暂停执业活动，暂停期限是（）",
+      "bbox": [
+        51.59,
+        709.168,
+        235.946,
+        720.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 防病治病、保护人民健康",
+      "bbox": [
+        338.74,
+        709.048,
+        477.633,
+        720.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 3个月以上，6个月以下",
+      "bbox": [
+        76.07,
+        725.788,
+        209.107,
+        737.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 敬佑生命",
+      "bbox": [
+        338.89,
+        725.318,
+        399.226,
+        736.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "B. 6个月以上，2年以下",
+      "bbox": [
+        75.76,
+        742.048,
+        195.292,
+        753.278
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "160—",
+      "bbox": [
+        294.2,
+        804.386,
+        331.3,
+        815.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

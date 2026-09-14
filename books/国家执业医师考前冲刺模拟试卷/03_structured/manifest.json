@@ -1,0 +1,69 @@
+{
+  "documents": [
+    {
+      "file": "国家执业药师考前冲刺一.pdf",
+      "slug": "exam-01",
+      "title": "国家执业医师资格考试《中医执业医师》考前冲刺模拟试卷（一）",
+      "kind": "questions",
+      "extraction_mode": "ocr",
+      "page_count": 46,
+      "line_counts": {
+        "full": 36,
+        "left": 2108,
+        "right": 2060
+      }
+    },
+    {
+      "file": "国家执业药师考前冲刺二.pdf",
+      "slug": "exam-02",
+      "title": "国家执业医师资格考试《中医执业医师》考前冲刺模拟试卷（二）",
+      "kind": "questions",
+      "extraction_mode": "ocr",
+      "page_count": 48,
+      "line_counts": {
+        "full": 36,
+        "left": 2104,
+        "right": 2056
+      }
+    },
+    {
+      "file": "国家执业药师考前冲刺三.pdf",
+      "slug": "exam-03",
+      "title": "国家执业医师资格考试《中医执业医师》考前冲刺模拟试卷（三）",
+      "kind": "questions",
+      "extraction_mode": "text_layer",
+      "page_count": 48,
+      "line_counts": {
+        "full": 21,
+        "left": 2119,
+        "right": 2085
+      }
+    },
+    {
+      "file": "国家执业药师考前冲刺四.pdf",
+      "slug": "exam-04",
+      "title": "国家执业医师资格考试《中医执业医师》考前冲刺模拟试卷（四）",
+      "kind": "questions",
+      "extraction_mode": "text_layer",
+      "page_count": 48,
+      "line_counts": {
+        "full": 21,
+        "left": 2045,
+        "right": 2019
+      }
+    },
+    {
+      "file": "考前冲刺参考答案及解析.pdf",
+      "slug": "answers",
+      "title": "考前冲刺模拟试卷（一至四）参考答案及解析",
+      "kind": "answers",
+      "extraction_mode": "text_layer",
+      "page_count": 96,
+      "line_counts": {
+        "full": 9,
+        "left": 4604,
+        "right": 4580
+      }
+    }
+  ]
+}

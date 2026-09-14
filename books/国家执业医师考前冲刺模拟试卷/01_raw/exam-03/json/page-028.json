@@ -1,0 +1,1233 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 28,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        67.5,
+        55.157,
+        267.045,
+        66.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "39. 阳明头痛的“引经药”应首选（）",
+      "bbox": [
+        88.67,
+        86.167,
+        286.456,
+        97.507
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 第1跖骨小头后缘，赤白肉际处",
+      "bbox": [
+        352.81,
+        86.127,
+        530.823,
+        99.076
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 葛根、白芷、知母",
+      "bbox": [
+        88.48,
+        102.527,
+        189.21,
+        115.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 第1跖骨小头前缘，赤白肉际处",
+      "bbox": [
+        352.38,
+        101.827,
+        529.439,
+        114.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 羌活、川芎、蔓荆子",
+      "bbox": [
+        88.3,
+        116.877,
+        200.1,
+        129.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 第1跖骨趾关节部，赤白肉际处.",
+      "bbox": [
+        352.43,
+        116.697,
+        533.136,
+        129.674
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 柴胡、黄芩、川芎",
+      "bbox": [
+        88.33,
+        132.877,
+        188.53,
+        145.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 第1跖骨基底部前下缘，赤白肉际处",
+      "bbox": [
+        352.35,
+        132.737,
+        554.132,
+        145.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 藁本、吴茱萸、钩藤",
+      "bbox": [
+        88.15,
+        148.887,
+        200.25,
+        161.789
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 第1跖骨基底部后下缘，赤白肉际处",
+      "bbox": [
+        352.69,
+        148.727,
+        554.006,
+        161.676
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 细辛、白芷、羌活",
+      "bbox": [
+        88.38,
+        164.987,
+        187.9,
+        177.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "47. 位于腋窝正中，腋动脉搏动处的穴位",
+      "bbox": [
+        352.23,
+        164.677,
+        569.079,
+        176.067
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "40. 腰痛发病的关键是（）",
+      "bbox": [
+        87.82,
+        181.877,
+        237.46,
+        194.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "是（）",
+      "bbox": [
+        328.18,
+        182.596,
+        375.29,
+        194.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 寒湿",
+      "bbox": [
+        88.05,
+        198.317,
+        126.229,
+        211.0
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 极泉",
+      "bbox": [
+        352.47,
+        197.337,
+        391.131,
+        210.047
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 湿热",
+      "bbox": [
+        88.29,
+        214.637,
+        124.857,
+        227.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 大包",
+      "bbox": [
+        352.29,
+        214.317,
+        389.323,
+        227.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 肾虚",
+      "bbox": [
+        87.86,
+        230.287,
+        124.641,
+        243.076
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 肩前",
+      "bbox": [
+        352.44,
+        230.106,
+        389.023,
+        242.699
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 气滞",
+      "bbox": [
+        88.2,
+        246.197,
+        125.704,
+        258.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 天池",
+      "bbox": [
+        352.5,
+        246.187,
+        390.152,
+        258.676
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 血瘀",
+      "bbox": [
+        88.06,
+        262.297,
+        125.312,
+        275.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 肩髎",
+      "bbox": [
+        352.7,
+        262.117,
+        389.95,
+        274.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "41. 手、足三阳经在头部的分布规律是",
+      "bbox": [
+        87.23,
+        277.747,
+        303.936,
+        290.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "48. 手太阴肺经在上肢的分布是（）",
+      "bbox": [
+        352.32,
+        277.837,
+        552.306,
+        289.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "（）",
+      "bbox": [
+        64.49,
+        296.443,
+        98.033,
+        307.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 内侧前廉",
+      "bbox": [
+        352.55,
+        294.177,
+        414.884,
+        306.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 阳明在前，太阳在侧，少阳在后",
+      "bbox": [
+        87.82,
+        310.007,
+        262.83,
+        322.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 外侧前廉",
+      "bbox": [
+        352.41,
+        310.187,
+        413.109,
+        322.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 太阳在前，少阳在侧，阳明在后",
+      "bbox": [
+        87.86,
+        325.927,
+        261.53,
+        338.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 内侧中行",
+      "bbox": [
+        352.57,
+        326.187,
+        413.574,
+        338.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 少阳在前，阳明在侧，太阳在后",
+      "bbox": [
+        87.85,
+        341.887,
+        262.01,
+        354.799
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 外侧后廉",
+      "bbox": [
+        352.33,
+        342.147,
+        413.955,
+        354.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 阳明在前，少阳在侧，太阳在后",
+      "bbox": [
+        87.75,
+        357.967,
+        262.41,
+        370.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 内侧后廉",
+      "bbox": [
+        352.52,
+        357.147,
+        413.302,
+        369.683
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 太阳在前，阳明在侧，少阳在后",
+      "bbox": [
+        87.91,
+        373.997,
+        260.9,
+        386.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "49. 分布于胸腹第一侧线的经脉是（）",
+      "bbox": [
+        352.25,
+        373.777,
+        563.636,
+        385.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "42. 中风的病理基础是（）",
+      "bbox": [
+        87.52,
+        390.197,
+        237.45,
+        401.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 足太阴脾经",
+      "bbox": [
+        352.5,
+        390.197,
+        427.212,
+        402.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 风火痰瘀",
+      "bbox": [
+        88.33,
+        406.207,
+        151.466,
+        418.733
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 足少阴肾经",
+      "bbox": [
+        352.44,
+        405.177,
+        425.183,
+        417.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 气血逆乱",
+      "bbox": [
+        88.26,
+        422.297,
+        149.937,
+        434.723
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 足少阳胆经",
+      "bbox": [
+        352.61,
+        422.147,
+        425.178,
+        434.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 心肝火旺",
+      "bbox": [
+        88.27,
+        438.187,
+        149.873,
+        450.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 足阳明胃经",
+      "bbox": [
+        352.5,
+        438.197,
+        426.208,
+        450.524
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 肝阳上亢",
+      "bbox": [
+        88.3,
+        454.267,
+        150.72,
+        466.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 足厥阴肝经",
+      "bbox": [
+        352.73,
+        454.197,
+        425.531,
+        466.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 肝肾阴虚",
+      "bbox": [
+        88.22,
+        470.537,
+        150.146,
+        482.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "50. 翳风穴位于（）",
+      "bbox": [
+        352.81,
+        468.816,
+        465.643,
+        480.176
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "43. 首见“疟疾”病名的医籍是（）",
+      "bbox": [
+        88.06,
+        486.187,
+        275.0,
+        497.497
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "A. 胸锁乳突肌后缘，平下颌角处",
+      "bbox": [
+        352.44,
+        484.597,
+        519.97,
+        497.552
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "A. 《内经》",
+      "bbox": [
+        88.33,
+        502.147,
+        150.12,
+        515.039
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "B. 乳突前下方与下颌角之间的凹陷中",
+      "bbox": [
+        352.45,
+        500.647,
+        545.539,
+        513.719
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "B. 《金匮要略》",
+      "bbox": [
+        88.22,
+        518.417,
+        172.27,
+        531.35
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "C. 乳突后下方凹陷中",
+      "bbox": [
+        352.44,
+        517.117,
+        460.3,
+        529.616
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "C. 《神农本草经》",
+      "bbox": [
+        88.27,
+        534.107,
+        183.38,
+        547.08
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 胸锁乳突肌与斜方肌上端之间的凹陷",
+      "bbox": [
+        352.71,
+        532.737,
+        558.468,
+        545.255
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "D. 《诸病源候论》",
+      "bbox": [
+        88.24,
+        550.027,
+        184.09,
+        562.949
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "中",
+      "bbox": [
+        330.29,
+        550.117,
+        341.61,
+        561.437
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "《瘟疫论》",
+      "bbox": [
+        104.17,
+        566.037,
+        160.62,
+        577.327
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 后发际正中直上0.5寸，旁开1.3寸，当",
+      "bbox": [
+        352.8,
+        564.297,
+        567.4,
+        577.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. ",
+      "bbox": [
+        88.73,
+        567.699,
+        98.451,
+        578.989
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "44. 与水肿关系最为密切的脏腑是（）",
+      "bbox": [
+        87.81,
+        581.867,
+        298.796,
+        593.207
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "斜方肌外缘凹陷中",
+      "bbox": [
+        328.38,
+        582.077,
+        422.593,
+        593.417
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 肺、脾、肾",
+      "bbox": [
+        88.3,
+        597.987,
+        155.59,
+        610.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "51. 在五输穴中，荥穴主要治疗（）",
+      "bbox": [
+        353.08,
+        596.667,
+        545.636,
+        608.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 肺、胃、肾",
+      "bbox": [
+        88.47,
+        614.017,
+        155.17,
+        626.94
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 心下满",
+      "bbox": [
+        352.87,
+        613.027,
+        402.681,
+        625.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 心、脾、肾",
+      "bbox": [
+        88.31,
+        629.937,
+        154.71,
+        642.839
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 身热",
+      "bbox": [
+        352.98,
+        630.167,
+        389.384,
+        642.826
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 肝、脾、肾",
+      "bbox": [
+        88.22,
+        646.007,
+        155.07,
+        658.889
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 体重节痛",
+      "bbox": [
+        352.93,
+        644.767,
+        412.806,
+        657.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 心、肝、肾",
+      "bbox": [
+        88.66,
+        661.887,
+        154.63,
+        674.82
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 喘咳寒热",
+      "bbox": [
+        352.62,
+        661.737,
+        414.078,
+        674.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "45. 眩晕病机颇为复杂，归纳起来不外下",
+      "bbox": [
+        87.91,
+        677.757,
+        304.247,
+        689.077
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 逆气而泄",
+      "bbox": [
+        353.0,
+        677.797,
+        413.807,
+        690.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "列哪四个方面（）",
+      "bbox": [
+        63.69,
+        693.937,
+        172.236,
+        705.267
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "52. 手太阳小肠经与足太阳膀胱经的交接",
+      "bbox": [
+        353.15,
+        693.297,
+        568.054,
+        704.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 痰、火、风、瘀",
+      "bbox": [
+        88.59,
+        709.967,
+        178.14,
+        722.892
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "部位是（）",
+      "bbox": [
+        328.61,
+        709.467,
+        399.54,
+        720.807
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 风、痰、湿、瘀",
+      "bbox": [
+        88.28,
+        725.087,
+        177.41,
+        738.029
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 目外眦",
+      "bbox": [
+        353.0,
+        726.067,
+        402.87,
+        738.38
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 风、痰、瘀、虚",
+      "bbox": [
+        88.34,
+        740.647,
+        177.32,
+        753.569
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 目内眦",
+      "bbox": [
+        352.88,
+        741.787,
+        401.364,
+        754.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 痰、湿、虚、瘀",
+      "bbox": [
+        88.25,
+        756.897,
+        177.73,
+        769.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 目中",
+      "bbox": [
+        352.88,
+        757.687,
+        388.68,
+        770.228
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 风、火、痰、虚",
+      "bbox": [
+        88.62,
+        772.717,
+        177.55,
+        785.649
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 鼻旁",
+      "bbox": [
+        352.96,
+        773.716,
+        389.815,
+        786.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "46. 公孙穴位于（）",
+      "bbox": [
+        88.28,
+        788.967,
+        202.576,
+        800.307
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 口角旁",
+      "bbox": [
+        353.3,
+        789.726,
+        401.944,
+        802.286
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "—",
+      "bbox": [
+        287.2,
+        809.729,
+        296.34,
+        818.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "122",
+      "bbox": [
+        306.49,
+        809.318,
+        320.624,
+        818.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

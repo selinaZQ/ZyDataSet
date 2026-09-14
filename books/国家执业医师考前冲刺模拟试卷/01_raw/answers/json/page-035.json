@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 35,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）参考答案及解析",
+      "bbox": [
+        320.43,
+        35.097,
+        536.542,
+        46.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "向患侧偏移；C项有突发的胸痛、胸闷、呼吸困难、患者",
+      "bbox": [
+        43.83,
+        65.42,
+        288.759,
+        75.4
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "尿道感染症状。另外，有的患者出现原因不明的无痛",
+      "bbox": [
+        306.95,
+        65.58,
+        549.005,
+        75.56
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "常高瘦体型，检查：气管位置向患侧偏移，叩诊鼓音，听",
+      "bbox": [
+        43.02,
+        80.36,
+        292.52,
+        90.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "性淋巴结肿大，以出血为早期表现者也有近40%，伴胸",
+      "bbox": [
+        306.8,
+        80.2,
+        549.101,
+        90.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "诊患侧呼吸音减弱或消失；D项常因肺炎、肺癌等引",
+      "bbox": [
+        43.25,
+        94.2,
+        285.192,
+        104.17
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "骨疼痛。患者出血、发热、贫血、淋巴结肿大，胸骨压",
+      "bbox": [
+        307.23,
+        94.39,
+        549.262,
+        104.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "起，伴有胸闷、呼吸困难、检查：气管位置向患侧偏移，",
+      "bbox": [
+        42.73,
+        108.5,
+        292.48,
+        118.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "痛，肝大。初步考虑为急性白血病。",
+      "bbox": [
+        306.9,
+        109.11,
+        466.58,
+        119.09
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "听诊呼吸音减弱：E项多有低热、盗汗、消瘦等结核中",
+      "bbox": [
+        43.04,
+        123.24,
+        285.374,
+        133.22
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "88. D【解析】有机磷农药中毒会有神志不清，两",
+      "bbox": [
+        327.61,
+        123.57,
+        549.249,
+        133.76
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "毒表现,PPD（十）。ACDE可排除,故选B。",
+      "bbox": [
+        42.87,
+        137.84,
+        231.981,
+        147.8
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "瞳孔针尖大小（为主要诊断依据），口角流涎，口唇紫",
+      "bbox": [
+        307.19,
+        138.42,
+        549.451,
+        148.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "80. C【解析】慢性肺心病的诊断。该患者反复咳",
+      "bbox": [
+        63.64,
+        152.52,
+        285.925,
+        163.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "绀，两肺满布水泡音，肌肉震颤等表现。",
+      "bbox": [
+        306.93,
+        152.57,
+        486.39,
+        162.54
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "嗽、咳痰15年可诊为慢支，双肺叩诊呈过清音，呼吸音",
+      "bbox": [
+        43.01,
+        167.17,
+        286.114,
+        177.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "89. C【解析】该患者青年男性，上腹部灼痛，饥饿",
+      "bbox": [
+        327.63,
+        167.76,
+        550.51,
+        177.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "减弱，肺底部有湿啰音，剑突下心尖搏动明显，该处可",
+      "bbox": [
+        42.51,
+        181.85,
+        285.905,
+        193.089
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "时加重，进食后缓解，并有反酸等症状，上腹部有压痛，",
+      "bbox": [
+        307.28,
+        182.53,
+        556.78,
+        192.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "闻及3/6级收缩期杂音，肺动脉瓣区第二音亢进为肺",
+      "bbox": [
+        43.08,
+        196.81,
+        286.093,
+        206.79
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "考虑十二指肠溃疡可能性大，故选C。D项进食后疼痛",
+      "bbox": [
+        307.01,
+        197.17,
+        549.151,
+        207.14
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "气肿、肺心病体征，故选C。",
+      "bbox": [
+        42.26,
+        211.4,
+        167.178,
+        221.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "加重。",
+      "bbox": [
+        306.85,
+        211.89,
+        336.7,
+        221.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "81. B【解析】患者有典型的结核中毒表现：低热、",
+      "bbox": [
+        63.24,
+        225.701,
+        286.36,
+        236.932
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "90. E【解析】癌胚抗原测定、胃液分析、大便隐血",
+      "bbox": [
+        327.72,
+        226.8,
+        550.6,
+        236.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "盗汗。A项见于有吸烟史的年龄较大者，咳嗽咳痰，痰",
+      "bbox": [
+        42.6,
+        240.96,
+        285.873,
+        250.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "试验、X线钡餐检查均不能作为胃癌的特异性诊断标",
+      "bbox": [
+        306.99,
+        241.41,
+        549.616,
+        251.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "中带血，胸闷气急、胸痛等；C项咳脓臭痰，有发热寒战",
+      "bbox": [
+        43.03,
+        255.47,
+        287.714,
+        265.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "准，胃癌不一定见癌胚抗原测定、胃液分析、大便隐血",
+      "bbox": [
+        307.18,
+        256.39,
+        549.684,
+        266.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "等感染表现；D项有突发性的胸痛，呼吸困难，E项有反",
+      "bbox": [
+        42.49,
+        270.15,
+        285.808,
+        280.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "试验、X线钡餐异常，胃镜为诊断早期胃癌的特异性诊",
+      "bbox": [
+        306.97,
+        271.1,
+        549.809,
+        281.07
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "复的咳嗽咳痰、咯血。",
+      "bbox": [
+        42.12,
+        285.22,
+        142.02,
+        295.21
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "断,故选E。",
+      "bbox": [
+        307.43,
+        286.08,
+        360.108,
+        296.04
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "82. C【解析】患者有吸烟史，且年龄50岁，咳嗽，",
+      "bbox": [
+        63.13,
+        299.361,
+        287.028,
+        309.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "91. A【解析】补充血容量是治疗失血性休克的首",
+      "bbox": [
+        327.76,
+        300.481,
+        549.3,
+        310.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "痰中有血丝，考虑肺癌可能大。同时胸腔穿刺抽出大",
+      "bbox": [
+        42.07,
+        314.89,
+        286.126,
+        324.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "要措施。",
+      "bbox": [
+        306.87,
+        315.4,
+        346.71,
+        325.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "量血性胸腔积液，更支持这一诊断，并且已发生胸膜转",
+      "bbox": [
+        42.15,
+        329.13,
+        286.016,
+        339.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "92. A【解析】气胸时，器官向健侧移位，患侧胸部",
+      "bbox": [
+        327.8,
+        329.881,
+        551.86,
+        339.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "移，影响了胸腔积液的代谢，导致胸腔大量积液，故选",
+      "bbox": [
+        42.45,
+        344.05,
+        286.102,
+        354.03
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "隆起，叩诊呈过清音或鼓音，听诊呼吸音减弱或消失。",
+      "bbox": [
+        307.64,
+        344.48,
+        546.92,
+        354.45
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "C。根据胸腔积液的性质可鉴别其他选项。AB项为黄",
+      "bbox": [
+        42.04,
+        358.02,
+        286.225,
+        367.99
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "93. D【解析】肾盂肾炎常见于女性，致病菌可经",
+      "bbox": [
+        327.87,
+        359.271,
+        549.603,
+        369.29
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "色；D项为脓性；E项为乳白色。",
+      "bbox": [
+        42.4,
+        373.38,
+        183.244,
+        383.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "短而直的尿道口逆行性感染，临床表现为尿路刺激征，",
+      "bbox": [
+        306.93,
+        373.92,
+        549.177,
+        383.88
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "83. C【解析】美国纽约心脏病学会（NYHA）1928",
+      "bbox": [
+        63.14,
+        387.99,
+        286.421,
+        397.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "尿检见炎症细胞与颗粒管型。患者病程2年间断发",
+      "bbox": [
+        307.15,
+        388.55,
+        549.517,
+        398.51
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "年心功能分级。Ⅰ级：患者患有心脏病但活动量不受限",
+      "bbox": [
+        42.21,
+        402.56,
+        286.076,
+        412.53
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "作,故选D。",
+      "bbox": [
+        307.18,
+        403.06,
+        360.293,
+        413.01
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "制，平时一般活动不引起疲乏、心悸、呼吸困难或心绞",
+      "bbox": [
+        42.38,
+        417.32,
+        286.032,
+        427.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "94. B【解析】分析患者的临床表现、体征，考虑肝",
+      "bbox": [
+        327.81,
+        417.711,
+        550.49,
+        427.7
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "痛。Ⅱ级：心脏病患者的体力活动受到轻度的限制，休",
+      "bbox": [
+        42.25,
+        431.96,
+        286.146,
+        441.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "硬化出血可能大，且已有侧支循环建立、腹水等肝硬化",
+      "bbox": [
+        307.07,
+        432.51,
+        549.804,
+        442.49
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "息时无自觉症状，但平时一般活动下可出现疲乏、心",
+      "bbox": [
+        42.24,
+        446.49,
+        286.076,
+        456.48
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "失代偿表现，凝血功能障碍。止血应首选对全身凝血",
+      "bbox": [
+        307.09,
+        447.14,
+        549.607,
+        457.13
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "悸、呼吸困难或心绞痛。Ⅲ级：心脏病患者体力活动明",
+      "bbox": [
+        42.3,
+        461.45,
+        285.478,
+        471.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "功能有改善的治疗，故选B。",
+      "bbox": [
+        307.13,
+        461.99,
+        435.405,
+        471.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "显受限，小于平时一般活动即引起上述的症状。Ⅳ级：",
+      "bbox": [
+        42.28,
+        476.13,
+        285.458,
+        486.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "95. D【解析】肺炎球菌肺炎由于渗出到肺泡内的",
+      "bbox": [
+        327.86,
+        476.33,
+        549.676,
+        486.8
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "心脏病患者不能从事任何体力活动。休息状态下也出",
+      "bbox": [
+        42.14,
+        490.85,
+        285.317,
+        500.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "红细胞破坏后释放出含铁血黄素，混在痰中，故出现铁",
+      "bbox": [
+        307.06,
+        491.48,
+        549.794,
+        501.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "现心衰的症状，体力活动后加重。",
+      "bbox": [
+        42.18,
+        505.96,
+        192.03,
+        515.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "锈色痰。",
+      "bbox": [
+        306.86,
+        506.13,
+        346.74,
+        516.1
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "84. B【解析】心尖区可闻及舒张期杂音为二尖瓣",
+      "bbox": [
+        63.19,
+        520.031,
+        286.261,
+        530.39
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "96. C【解析】柏油样便或呕血见于上消化道出",
+      "bbox": [
+        327.72,
+        520.821,
+        548.878,
+        530.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "狭窄的特征。颈静脉怒张、肝肋下2cm为体循环淤血，",
+      "bbox": [
+        42.17,
+        534.5,
+        285.522,
+        545.3
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "血，如消化性溃疡、胃癌、癌致食道静脉曲张破裂。鲜",
+      "bbox": [
+        307.1,
+        535.62,
+        549.604,
+        545.6
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "右心衰竭的表现。同时还有因体循环淤血，导致的胃",
+      "bbox": [
+        42.01,
+        549.35,
+        285.626,
+        559.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "血便见于下消化道出血，如慢性溃疡性结肠炎、克罗恩",
+      "bbox": [
+        306.87,
+        550.48,
+        549.604,
+        560.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "肠道功能紊乱，故选B。AD项无心脏杂音表现；C项为",
+      "bbox": [
+        41.97,
+        564.24,
+        285.751,
+        574.2
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "病、肠结核、结肠癌等。",
+      "bbox": [
+        306.82,
+        564.97,
+        416.38,
+        574.93
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "肺循环淤血，表现应为端坐呼吸、咳嗽咯痰、粉红色泡",
+      "bbox": [
+        41.78,
+        578.75,
+        286.105,
+        588.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "97. A【解析】肺结核咳嗽以夜间较重，常可出现",
+      "bbox": [
+        327.52,
+        579.731,
+        549.502,
+        589.721
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "沫痰、胸闷心慌、呼吸困难等。",
+      "bbox": [
+        41.87,
+        593.75,
+        181.31,
+        603.71
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "低热、盗汗和咯血的表现。而肺癌多见于40岁以上嗜",
+      "bbox": [
+        306.84,
+        594.351,
+        549.416,
+        604.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "85. B【解析】抗“O”升高，初步怀疑为链球菌感",
+      "bbox": [
+        63.0,
+        608.751,
+        286.289,
+        618.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "烟男性，多出现刺激性咳嗽；支气管扩张有慢性咳嗽、",
+      "bbox": [
+        306.87,
+        608.941,
+        549.332,
+        618.89
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "染，结合患者咽痛发热史、膝踝腕关节红肿热痛，血沉",
+      "bbox": [
+        41.67,
+        623.4,
+        286.24,
+        633.38
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "咯痰和反复咯血史；二尖瓣狭窄引起的夜间咯血（或粉",
+      "bbox": [
+        307.3,
+        623.75,
+        549.561,
+        633.72
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "快，可以诊断为风湿热。治疗常用的药物有水杨酸制",
+      "bbox": [
+        41.78,
+        637.7,
+        285.836,
+        647.69
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "红色泡沫痰）多出现阵发性夜间呼吸困难等，而一般不",
+      "bbox": [
+        307.03,
+        638.39,
+        549.304,
+        648.37
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "剂和糖皮质激素，但对无心脏炎的患者不必使用糖皮",
+      "bbox": [
+        41.62,
+        652.83,
+        285.895,
+        662.82
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "伴盗汗、低热；急性肺水肿的表现与二尖瓣狭窄引起夜",
+      "bbox": [
+        306.85,
+        652.9,
+        549.34,
+        662.87
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "质激素，故选B。",
+      "bbox": [
+        41.65,
+        667.121,
+        119.967,
+        677.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "间咯血相似，但不会持续1个月夜间咳嗽。",
+      "bbox": [
+        307.36,
+        667.46,
+        492.716,
+        677.42
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "86. B【解析】正常状态下，心室舒张期二尖瓣开",
+      "bbox": [
+        62.86,
+        681.781,
+        286.185,
+        691.92
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "98. C【解析】浆细胞性乳腺炎，即中医的“粉刺性",
+      "bbox": [
+        327.63,
+        681.731,
+        549.77,
+        691.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "放，血液自左心房流入左心室，若二尖瓣狭窄，则心尖",
+      "bbox": [
+        41.79,
+        696.48,
+        286.13,
+        706.46
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "乳痈”，其特点是多在非哺乳期或非妊娠期发病，常有",
+      "bbox": [
+        306.81,
+        696.613,
+        549.256,
+        706.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "部可闻及舒张期隆隆样杂音，为二尖瓣狭窄的特征性",
+      "bbox": [
+        41.71,
+        710.93,
+        286.18,
+        720.91
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "乳头凹陷或溢液，初起肿块多位于乳晕部，化脓溃破后",
+      "bbox": [
+        306.93,
+        711.043,
+        549.1,
+        720.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "描述。风心病可有瓣膜赘生物而引起二尖瓣狭窄。",
+      "bbox": [
+        41.7,
+        725.14,
+        266.499,
+        735.12
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "夹有脂质样物质，易反复发作形成漏管，经久难愈。",
+      "bbox": [
+        307.02,
+        725.813,
+        529.66,
+        735.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "87. D【解析】急性白血病主要表现为脸色苍白，",
+      "bbox": [
+        63.14,
+        740.32,
+        285.73,
+        750.34
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "99. B【解析】胃十二指肠溃疡穿孔的诊断。患者",
+      "bbox": [
+        327.79,
+        740.133,
+        549.174,
+        749.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "自觉虚弱无力、多汗，容易感觉气促、心跳加快；半数以",
+      "bbox": [
+        43.47,
+        754.84,
+        293.22,
+        764.83
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "突发上腹剧痛、迅速发生全腹急性腹膜炎、肝浊音界消",
+      "bbox": [
+        307.45,
+        754.393,
+        548.579,
+        764.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "上的患者以发热为早期表现。发热时往往有鼻塞、流",
+      "bbox": [
+        41.89,
+        769.26,
+        286.385,
+        779.25
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "失，最可能的诊断应是胃十二指肠溃疡穿孔。",
+      "bbox": [
+        307.24,
+        768.953,
+        503.335,
+        778.693
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "涕、咳嗽、咳痰等呼吸道感染的症状，或尿频、尿急等泌",
+      "bbox": [
+        42.15,
+        782.86,
+        291.9,
+        792.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "100. E【解析】本题所述临床表现均可由面神经",
+      "bbox": [
+        328.39,
+        782.753,
+        548.919,
+        794.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—225",
+      "bbox": [
+        266.7,
+        801.246,
+        302.9,
+        811.496
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "—",
+      "bbox": [
+        315.23,
+        801.367,
+        325.5,
+        811.637
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

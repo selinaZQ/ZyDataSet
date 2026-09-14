@@ -1,0 +1,1155 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 19,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        418.65,
+        48.81,
+        536.23,
+        59.47
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "A2 型选择题（77～ 118题）",
+      "bbox": [
+        231.41,
+        79.049,
+        364.015,
+        90.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "77. 患者，男，48岁。近1个月来，因上腹",
+      "bbox": [
+        71.62,
+        148.358,
+        285.327,
+        159.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "B. 冠心病",
+      "bbox": [
+        334.7,
+        148.158,
+        383.052,
+        160.276
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "部不适，食欲减退，体重减轻而疑诊为胃癌。",
+      "bbox": [
+        47.15,
+        164.588,
+        284.761,
+        175.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "C. 二尖瓣狭窄，心功能不全",
+      "bbox": [
+        334.61,
+        163.718,
+        473.928,
+        176.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "为确诊，首选的检查方法是（）",
+      "bbox": [
+        47.17,
+        181.308,
+        219.353,
+        192.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "D. 高血压心脏病",
+      "bbox": [
+        334.53,
+        180.618,
+        419.861,
+        192.876
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 癌胚抗原测定",
+      "bbox": [
+        70.83,
+        198.368,
+        156.351,
+        210.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "E. 心包积液",
+      "bbox": [
+        334.63,
+        197.083,
+        395.403,
+        209.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 大便隐血试验",
+      "bbox": [
+        70.78,
+        214.858,
+        154.776,
+        227.117
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "82. 患者，女，30岁。有风湿性关节炎病",
+      "bbox": [
+        334.56,
+        213.128,
+        549.649,
+        224.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 胃液分析",
+      "bbox": [
+        70.64,
+        231.558,
+        131.059,
+        243.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "史。检查：心尖部可听到4级收缩期杂音，X线",
+      "bbox": [
+        310.4,
+        229.478,
+        549.463,
+        240.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. X线钡餐检查",
+      "bbox": [
+        70.65,
+        248.178,
+        155.067,
+        260.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "显示左心房、左心室增大。应首先考虑的心瓣",
+      "bbox": [
+        310.37,
+        245.968,
+        549.903,
+        257.158
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "胃镜检查",
+      "bbox": [
+        86.11,
+        264.648,
+        131.226,
+        275.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "膜病变是（）",
+      "bbox": [
+        310.31,
+        262.288,
+        392.973,
+        273.498
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "E. ",
+      "bbox": [
+        70.86,
+        265.625,
+        80.486,
+        276.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "78. 患者,男,60岁。高血压史20年,1小",
+      "bbox": [
+        70.9,
+        280.938,
+        285.91,
+        292.488
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "A. 二尖瓣关闭不全",
+      "bbox": [
+        334.4,
+        279.258,
+        432.738,
+        291.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "时前情绪激动后昏迷,查体:血压230/",
+      "bbox": [
+        47.47,
+        297.678,
+        282.451,
+        309.258
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "B. 二尖瓣狭窄",
+      "bbox": [
+        334.31,
+        295.698,
+        405.941,
+        308.036
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "110mmHg，双眼向右侧凝视，左侧肢体偏瘫，",
+      "bbox": [
+        47.51,
+        314.298,
+        284.534,
+        326.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "C. 主动脉瓣关闭不全",
+      "bbox": [
+        334.19,
+        312.028,
+        442.962,
+        324.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "左巴氏征（+）。考虑为（）",
+      "bbox": [
+        46.82,
+        330.358,
+        198.69,
+        341.578
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "D. 主动脉瓣狭窄",
+      "bbox": [
+        334.13,
+        328.378,
+        418.753,
+        340.632
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 高血压性脑出血",
+      "bbox": [
+        70.96,
+        347.388,
+        168.821,
+        359.576
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "E. 肺动脉瓣狭窄",
+      "bbox": [
+        334.24,
+        344.748,
+        418.03,
+        356.946
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 腔隙性脑梗死",
+      "bbox": [
+        70.78,
+        363.438,
+        155.198,
+        375.416
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "83. 患者，男，40岁。十二指肠溃疡病史15",
+      "bbox": [
+        334.24,
+        360.728,
+        549.388,
+        371.908
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 脑血栓形成",
+      "bbox": [
+        70.7,
+        379.808,
+        143.352,
+        391.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "年。近2个月来自感头痛、眩晕而就诊。检查：",
+      "bbox": [
+        310.21,
+        377.078,
+        548.344,
+        388.258
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "短暂性脑缺血发作",
+      "bbox": [
+        84.97,
+        395.898,
+        180.038,
+        407.068
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "血压160/ 100mmHg,诊断为高血压病,下列降",
+      "bbox": [
+        310.18,
+        393.148,
+        549.443,
+        405.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. ",
+      "bbox": [
+        70.61,
+        396.865,
+        81.477,
+        408.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "脑栓塞",
+      "bbox": [
+        84.53,
+        412.228,
+        119.073,
+        423.378
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "压药应慎用的是（）",
+      "bbox": [
+        310.11,
+        409.538,
+        428.053,
+        420.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "E. ",
+      "bbox": [
+        70.86,
+        413.045,
+        80.486,
+        424.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "79. 患者，男，50岁。咳嗽2个月，痰中带",
+      "bbox": [
+        70.72,
+        428.278,
+        285.171,
+        439.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 利血平",
+      "bbox": [
+        334.18,
+        426.568,
+        383.4,
+        438.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "血，不发热，抗感染治疗效果不明显。3次X线",
+      "bbox": [
+        46.92,
+        444.208,
+        285.88,
+        457.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 硝苯地平",
+      "bbox": [
+        334.08,
+        442.788,
+        393.786,
+        454.795
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "检查均显示右肺中叶炎症。为确诊，下列哪项",
+      "bbox": [
+        46.73,
+        460.738,
+        284.986,
+        471.968
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 氢氯噻嗪",
+      "bbox": [
+        334.03,
+        459.018,
+        394.346,
+        470.915
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "检查最重要（）",
+      "bbox": [
+        46.83,
+        476.678,
+        141.37,
+        487.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 肼屈嗪",
+      "bbox": [
+        334.02,
+        475.408,
+        382.986,
+        487.516
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "A. 血常规",
+      "bbox": [
+        70.66,
+        493.388,
+        120.663,
+        505.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 卡托普利",
+      "bbox": [
+        334.21,
+        491.608,
+        393.88,
+        503.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "血培养",
+      "bbox": [
+        83.93,
+        509.678,
+        118.418,
+        520.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "84. 患者,女,30岁。反复上腹痛6年,饥",
+      "bbox": [
+        334.15,
+        507.398,
+        549.158,
+        518.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. ",
+      "bbox": [
+        70.43,
+        510.767,
+        80.7,
+        521.967
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 结核菌素试验",
+      "bbox": [
+        70.45,
+        525.968,
+        155.755,
+        538.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "饿时加重，进食后减轻。近1周来进食后上腹",
+      "bbox": [
+        309.96,
+        523.658,
+        549.44,
+        534.878
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 痰结核菌检查",
+      "bbox": [
+        70.21,
+        542.288,
+        155.658,
+        554.487
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "部胀痛加重，但大量呕吐后减轻。查体：轻度",
+      "bbox": [
+        310.13,
+        540.028,
+        549.239,
+        551.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 纤维支气管镜检查",
+      "bbox": [
+        70.51,
+        558.628,
+        179.486,
+        570.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "脱水。上腹部膨隆有振水音。应首先考虑的",
+      "bbox": [
+        309.98,
+        556.528,
+        549.19,
+        567.728
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "80. 患者,男,40岁。确诊高血压病3年,",
+      "bbox": [
+        70.23,
+        574.548,
+        284.322,
+        585.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "是（）",
+      "bbox": [
+        310.09,
+        573.188,
+        356.106,
+        584.388
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "无自觉症状。检查:血压160/ 95mmHg,尿常",
+      "bbox": [
+        46.19,
+        590.878,
+        284.974,
+        603.656
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 多发性溃疡病",
+      "bbox": [
+        334.31,
+        588.928,
+        419.869,
+        600.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "规无异常，心电图及X线显示左心室肥大。应",
+      "bbox": [
+        46.41,
+        607.168,
+        285.149,
+        618.358
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 复合性溃疡病",
+      "bbox": [
+        334.14,
+        606.078,
+        418.245,
+        618.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "首先考虑的是（）",
+      "bbox": [
+        46.49,
+        623.588,
+        152.433,
+        634.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 胃溃疡恶变",
+      "bbox": [
+        334.2,
+        622.628,
+        406.566,
+        634.766
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "A. 高血压病1级",
+      "bbox": [
+        70.33,
+        640.258,
+        156.328,
+        652.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 十二指肠溃疡伴幽门梗阻",
+      "bbox": [
+        334.1,
+        638.978,
+        479.94,
+        651.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "B. 高血压病2级",
+      "bbox": [
+        70.2,
+        656.679,
+        154.441,
+        668.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 胃窦部溃疡伴急性穿孔",
+      "bbox": [
+        334.43,
+        655.438,
+        467.136,
+        667.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "C. 高血压病3级",
+      "bbox": [
+        70.15,
+        672.958,
+        154.858,
+        685.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "85. 患者，女，21岁。患慢性肾小球肾炎4",
+      "bbox": [
+        334.44,
+        671.588,
+        550.158,
+        683.258
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "D. 急进型高血压",
+      "bbox": [
+        70.12,
+        689.388,
+        155.253,
+        701.703
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "年，两天来发热咳嗽，查体：T38，重症贫血",
+      "bbox": [
+        310.23,
+        687.908,
+        548.92,
+        699.268
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 高血压脑病",
+      "bbox": [
+        70.24,
+        705.688,
+        142.7,
+        718.055
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "貌，心界向左下扩大，心率130次/分，右肺满布",
+      "bbox": [
+        310.29,
+        704.608,
+        548.666,
+        716.178
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "81. 患者,女,30岁。心悸气促2个月,咯",
+      "bbox": [
+        70.18,
+        721.618,
+        285.018,
+        733.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "湿性啰音，肝肋下1cm，无明显水肿，肾功能严",
+      "bbox": [
+        310.29,
+        720.938,
+        548.507,
+        733.527
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "粉红色泡沫痰。查体：面颊暗红，口唇紫绀，双",
+      "bbox": [
+        46.68,
+        737.998,
+        285.193,
+        749.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "重损害，胸透示右肺炎症。应选下列哪种抗生",
+      "bbox": [
+        310.11,
+        737.448,
+        548.151,
+        748.688
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "肺底闻及湿啰音，心尖区可闻及舒张期隆隆样",
+      "bbox": [
+        46.7,
+        754.338,
+        284.95,
+        766.983
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "素（）",
+      "bbox": [
+        310.44,
+        753.728,
+        356.47,
+        764.938
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "杂音，下肢浮肿，其诊断是（）",
+      "bbox": [
+        47.1,
+        770.728,
+        213.113,
+        781.938
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 多黏菌素",
+      "bbox": [
+        334.38,
+        770.728,
+        396.133,
+        782.588
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 肺源性心脏病",
+      "bbox": [
+        70.48,
+        787.679,
+        156.423,
+        799.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 卡那霉素",
+      "bbox": [
+        334.25,
+        787.068,
+        394.258,
+        798.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "—161",
+      "bbox": [
+        267.87,
+        806.531,
+        302.902,
+        815.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "——",
+      "bbox": [
+        312.52,
+        806.451,
+        328.08,
+        815.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

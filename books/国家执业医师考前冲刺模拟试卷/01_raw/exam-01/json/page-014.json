@@ -1,0 +1,1394 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 14,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        91.0,
+        21.0,
+        532.0,
+        66.0
+      ],
+      "confidence": 0.999127,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        580.0,
+        23.0,
+        834.0,
+        65.0
+      ],
+      "confidence": 0.999627,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "E. <100ml",
+      "bbox": [
+        172.0,
+        136.0,
+        393.0,
+        183.0
+      ],
+      "confidence": 0.95361,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 三尖瓣狭窄",
+      "bbox": [
+        1137.0,
+        135.0,
+        1419.0,
+        185.0
+      ],
+      "confidence": 0.997117,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "22. 心电图正常P波的时间是（",
+      "bbox": [
+        178.0,
+        199.0,
+        755.0,
+        236.0
+      ],
+      "confidence": 0.970814,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "）",
+      "bbox": [
+        839.0,
+        200.0,
+        864.0,
+        235.0
+      ],
+      "confidence": 0.97987,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 肺动脉瓣狭窄",
+      "bbox": [
+        1137.0,
+        192.0,
+        1463.0,
+        242.0
+      ],
+      "confidence": 0.998119,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. ≤0.06秒",
+      "bbox": [
+        174.0,
+        252.0,
+        423.0,
+        298.0
+      ],
+      "confidence": 0.949679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "29. 用于急性心肌梗死合并心源性休克的",
+      "bbox": [
+        1136.0,
+        250.0,
+        1944.0,
+        303.0
+      ],
+      "confidence": 0.998117,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. ≤0.12秒",
+      "bbox": [
+        172.0,
+        308.0,
+        419.0,
+        358.0
+      ],
+      "confidence": 0.952554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "血管扩张剂是（",
+      "bbox": [
+        1051.0,
+        307.0,
+        1351.0,
+        358.0
+      ],
+      "confidence": 0.97005,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "）",
+      "bbox": [
+        1429.0,
+        314.0,
+        1458.0,
+        353.0
+      ],
+      "confidence": 0.97793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. ≤0.20秒",
+      "bbox": [
+        172.0,
+        366.0,
+        419.0,
+        415.0
+      ],
+      "confidence": 0.940501,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 卡托普利",
+      "bbox": [
+        1135.0,
+        360.0,
+        1380.0,
+        419.0
+      ],
+      "confidence": 0.999549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. ≤0.30秒",
+      "bbox": [
+        171.0,
+        422.0,
+        419.0,
+        471.0
+      ],
+      "confidence": 0.953962,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 硝普钠",
+      "bbox": [
+        1133.0,
+        416.0,
+        1330.0,
+        475.0
+      ],
+      "confidence": 0.998586,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. ≤0.40秒",
+      "bbox": [
+        173.0,
+        481.0,
+        418.0,
+        528.0
+      ],
+      "confidence": 0.952712,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 硝苯地平",
+      "bbox": [
+        1137.0,
+        479.0,
+        1374.0,
+        530.0
+      ],
+      "confidence": 0.999085,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "23. 下列除哪项外，均可引起中枢性呕",
+      "bbox": [
+        175.0,
+        541.0,
+        962.0,
+        582.0
+      ],
+      "confidence": 0.996424,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 美托洛尔",
+      "bbox": [
+        1135.0,
+        533.0,
+        1375.0,
+        587.0
+      ],
+      "confidence": 0.999209,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "吐（）",
+      "bbox": [
+        81.0,
+        591.0,
+        274.0,
+        650.0
+      ],
+      "confidence": 0.840572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 氯沙坦",
+      "bbox": [
+        1137.0,
+        592.0,
+        1331.0,
+        643.0
+      ],
+      "confidence": 0.998743,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 耳源性眩晕",
+      "bbox": [
+        175.0,
+        653.0,
+        453.0,
+        699.0
+      ],
+      "confidence": 0.993575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "30. 下列哪项不属于意识障碍（",
+      "bbox": [
+        1139.0,
+        652.0,
+        1734.0,
+        702.0
+      ],
+      "confidence": 0.986051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 洋地黄中毒",
+      "bbox": [
+        174.0,
+        712.0,
+        446.0,
+        758.0
+      ],
+      "confidence": 0.995824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 嗜睡",
+      "bbox": [
+        1138.0,
+        705.0,
+        1291.0,
+        758.0
+      ],
+      "confidence": 0.997209,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 尿毒症",
+      "bbox": [
+        174.0,
+        768.0,
+        362.0,
+        815.0
+      ],
+      "confidence": 0.997197,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 抽搐",
+      "bbox": [
+        1137.0,
+        763.0,
+        1285.0,
+        816.0
+      ],
+      "confidence": 0.980578,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 胆囊炎",
+      "bbox": [
+        172.0,
+        821.0,
+        363.0,
+        875.0
+      ],
+      "confidence": 0.998019,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 意识模糊",
+      "bbox": [
+        1136.0,
+        817.0,
+        1375.0,
+        871.0
+      ],
+      "confidence": 0.998042,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 谵妄",
+      "bbox": [
+        1134.0,
+        872.0,
+        1290.0,
+        932.0
+      ],
+      "confidence": 0.896553,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 妊娠反应",
+      "bbox": [
+        177.0,
+        885.0,
+        402.0,
+        927.0
+      ],
+      "confidence": 0.998007,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 昏迷",
+      "bbox": [
+        1135.0,
+        931.0,
+        1288.0,
+        987.0
+      ],
+      "confidence": 0.99792,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "24. 医学人道主义的核心内容是（",
+      "bbox": [
+        178.0,
+        942.0,
+        795.0,
+        983.0
+      ],
+      "confidence": 0.991237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "）",
+      "bbox": [
+        878.0,
+        947.0,
+        897.0,
+        976.0
+      ],
+      "confidence": 0.837378,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 尊重患者",
+      "bbox": [
+        177.0,
+        997.0,
+        408.0,
+        1043.0
+      ],
+      "confidence": 0.99696,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "31. 下列除哪项外，均可为正常的叩诊",
+      "bbox": [
+        1138.0,
+        990.0,
+        1946.0,
+        1045.0
+      ],
+      "confidence": 0.996829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 同情患者",
+      "bbox": [
+        174.0,
+        1051.0,
+        403.0,
+        1101.0
+      ],
+      "confidence": 0.999212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "音（",
+      "bbox": [
+        1048.0,
+        1048.0,
+        1130.0,
+        1101.0
+      ],
+      "confidence": 0.963134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "）",
+      "bbox": [
+        1172.0,
+        1049.0,
+        1239.0,
+        1098.0
+      ],
+      "confidence": 0.951798,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "C. 医生对患者尽义务",
+      "bbox": [
+        175.0,
+        1111.0,
+        575.0,
+        1156.0
+      ],
+      "confidence": 0.998966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 振水音",
+      "bbox": [
+        1137.0,
+        1103.0,
+        1336.0,
+        1157.0
+      ],
+      "confidence": 0.998953,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 患者的自主权利",
+      "bbox": [
+        174.0,
+        1167.0,
+        535.0,
+        1213.0
+      ],
+      "confidence": 0.99907,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 清音",
+      "bbox": [
+        1137.0,
+        1161.0,
+        1285.0,
+        1215.0
+      ],
+      "confidence": 0.999028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 以上都不是",
+      "bbox": [
+        170.0,
+        1221.0,
+        448.0,
+        1273.0
+      ],
+      "confidence": 0.997702,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 鼓音",
+      "bbox": [
+        1137.0,
+        1218.0,
+        1286.0,
+        1271.0
+      ],
+      "confidence": 0.996761,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "25. 下列各项，可抑制细胞色素氧化酶活",
+      "bbox": [
+        173.0,
+        1280.0,
+        964.0,
+        1329.0
+      ],
+      "confidence": 0.996487,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 浊音",
+      "bbox": [
+        1137.0,
+        1277.0,
+        1286.0,
+        1326.0
+      ],
+      "confidence": 0.997058,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "性的是（)",
+      "bbox": [
+        85.0,
+        1335.0,
+        360.0,
+        1388.0
+      ],
+      "confidence": 0.912413,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 实音",
+      "bbox": [
+        1137.0,
+        1333.0,
+        1286.0,
+        1385.0
+      ],
+      "confidence": 0.999118,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 有机磷杀虫药",
+      "bbox": [
+        173.0,
+        1394.0,
+        492.0,
+        1440.0
+      ],
+      "confidence": 0.998396,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "32. 出现交叉性瘫痪的脑出血是（",
+      "bbox": [
+        1139.0,
+        1393.0,
+        1781.0,
+        1439.0
+      ],
+      "confidence": 0.964908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        1860.0,
+        1402.0,
+        1880.0,
+        1432.0
+      ],
+      "confidence": 0.829333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 重金属",
+      "bbox": [
+        171.0,
+        1451.0,
+        354.0,
+        1499.0
+      ],
+      "confidence": 0.999275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 脑外出血",
+      "bbox": [
+        1140.0,
+        1450.0,
+        1380.0,
+        1496.0
+      ],
+      "confidence": 0.999065,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 一氧化碳",
+      "bbox": [
+        173.0,
+        1511.0,
+        402.0,
+        1557.0
+      ],
+      "confidence": 0.996386,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 小脑出血",
+      "bbox": [
+        1136.0,
+        1506.0,
+        1373.0,
+        1555.0
+      ],
+      "confidence": 0.998469,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 氰化物",
+      "bbox": [
+        170.0,
+        1563.0,
+        362.0,
+        1617.0
+      ],
+      "confidence": 0.998188,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "C. 脑桥出血",
+      "bbox": [
+        1139.0,
+        1563.0,
+        1373.0,
+        1609.0
+      ],
+      "confidence": 0.997835,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 硫化物",
+      "bbox": [
+        171.0,
+        1622.0,
+        361.0,
+        1673.0
+      ],
+      "confidence": 0.999549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "D. 丘脑出血",
+      "bbox": [
+        1139.0,
+        1622.0,
+        1375.0,
+        1668.0
+      ],
+      "confidence": 0.99639,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "26. 流行性出血热患者全身各组织器官都",
+      "bbox": [
+        174.0,
+        1680.0,
+        962.0,
+        1729.0
+      ],
+      "confidence": 0.998324,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "E. 壳核出血",
+      "bbox": [
+        1139.0,
+        1678.0,
+        1374.0,
+        1724.0
+      ],
+      "confidence": 0.998052,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "可有充血、出血、变性、坏死，表现最为明显的",
+      "bbox": [
+        88.0,
+        1737.0,
+        961.0,
+        1786.0
+      ],
+      "confidence": 0.994507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "33. 肺动脉高压早期的X线表现是(",
+      "bbox": [
+        1140.0,
+        1736.0,
+        1836.0,
+        1781.0
+      ],
+      "confidence": 0.964028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "）",
+      "bbox": [
+        1910.0,
+        1743.0,
+        1931.0,
+        1771.0
+      ],
+      "confidence": 0.988778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "器官是（",
+      "bbox": [
+        85.0,
+        1792.0,
+        252.0,
+        1843.0
+      ],
+      "confidence": 0.959274,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "）",
+      "bbox": [
+        320.0,
+        1798.0,
+        351.0,
+        1835.0
+      ],
+      "confidence": 0.984422,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 双肺纹理增多",
+      "bbox": [
+        1140.0,
+        1792.0,
+        1470.0,
+        1838.0
+      ],
+      "confidence": 0.998923,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 心",
+      "bbox": [
+        171.0,
+        1849.0,
+        278.0,
+        1899.0
+      ],
+      "confidence": 0.993604,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 双肺透亮度增加",
+      "bbox": [
+        1138.0,
+        1848.0,
+        1508.0,
+        1897.0
+      ],
+      "confidence": 0.999382,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 肺",
+      "bbox": [
+        169.0,
+        1905.0,
+        272.0,
+        1957.0
+      ],
+      "confidence": 0.997651,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 右下肺动脉主干增宽",
+      "bbox": [
+        1139.0,
+        1905.0,
+        1598.0,
+        1953.0
+      ],
+      "confidence": 0.993603,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 肾",
+      "bbox": [
+        169.0,
+        1962.0,
+        273.0,
+        2016.0
+      ],
+      "confidence": 0.994653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 右心房肥大",
+      "bbox": [
+        1136.0,
+        1961.0,
+        1424.0,
+        2013.0
+      ],
+      "confidence": 0.998465,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 胃肠",
+      "bbox": [
+        168.0,
+        2017.0,
+        318.0,
+        2073.0
+      ],
+      "confidence": 0.999064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 右心室肥厚、扩张",
+      "bbox": [
+        1139.0,
+        2021.0,
+        1531.0,
+        2068.0
+      ],
+      "confidence": 0.998283,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 脑垂体",
+      "bbox": [
+        168.0,
+        2075.0,
+        358.0,
+        2129.0
+      ],
+      "confidence": 0.998959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "34. 胸腔大量积气患者触觉语颤表现的",
+      "bbox": [
+        1139.0,
+        2078.0,
+        1943.0,
+        2126.0
+      ],
+      "confidence": 0.998583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "27. 下列脊椎病变，除哪项外，脊椎叩痛常",
+      "bbox": [
+        170.0,
+        2136.0,
+        960.0,
+        2185.0
+      ],
+      "confidence": 0.987844,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "是（",
+      "bbox": [
+        1046.0,
+        2132.0,
+        1130.0,
+        2186.0
+      ],
+      "confidence": 0.891264,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "）",
+      "bbox": [
+        1150.0,
+        2133.0,
+        1238.0,
+        2184.0
+      ],
+      "confidence": 0.88732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "为阳性（）",
+      "bbox": [
+        85.0,
+        2191.0,
+        357.0,
+        2241.0
+      ],
+      "confidence": 0.872629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 增强",
+      "bbox": [
+        1138.0,
+        2191.0,
+        1290.0,
+        2243.0
+      ],
+      "confidence": 0.99873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 脊椎结核",
+      "bbox": [
+        172.0,
+        2246.0,
+        406.0,
+        2297.0
+      ],
+      "confidence": 0.997557,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 减弱或消失",
+      "bbox": [
+        1138.0,
+        2250.0,
+        1414.0,
+        2297.0
+      ],
+      "confidence": 0.999158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "B. 棘间韧带损伤",
+      "bbox": [
+        173.0,
+        2306.0,
+        486.0,
+        2353.0
+      ],
+      "confidence": 0.998563,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 稍增强",
+      "bbox": [
+        1138.0,
+        2306.0,
+        1328.0,
+        2354.0
+      ],
+      "confidence": 0.998899,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "C. 骨折",
+      "bbox": [
+        169.0,
+        2358.0,
+        318.0,
+        2415.0
+      ],
+      "confidence": 0.999003,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 正常",
+      "bbox": [
+        1135.0,
+        2361.0,
+        1286.0,
+        2414.0
+      ],
+      "confidence": 0.999006,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "D. 骨质增生",
+      "bbox": [
+        169.0,
+        2416.0,
+        405.0,
+        2470.0
+      ],
+      "confidence": 0.999392,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 无变化",
+      "bbox": [
+        1135.0,
+        2417.0,
+        1329.0,
+        2468.0
+      ],
+      "confidence": 0.999546,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "E. 椎间盘脱出",
+      "bbox": [
+        171.0,
+        2476.0,
+        446.0,
+        2526.0
+      ],
+      "confidence": 0.997353,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "35. 对诊断急性胰腺炎最有价值的血清酶",
+      "bbox": [
+        1138.0,
+        2477.0,
+        1944.0,
+        2526.0
+      ],
+      "confidence": 0.997166,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "28. 在胸骨左缘第3、第4肋间触及收缩期",
+      "bbox": [
+        171.0,
+        2533.0,
+        962.0,
+        2582.0
+      ],
+      "confidence": 0.995876,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "检查是（",
+      "bbox": [
+        1049.0,
+        2532.0,
+        1241.0,
+        2583.0
+      ],
+      "confidence": 0.920658,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "）",
+      "bbox": [
+        1286.0,
+        2538.0,
+        1319.0,
+        2574.0
+      ],
+      "confidence": 0.991574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "震颤，应考虑为（)",
+      "bbox": [
+        82.0,
+        2588.0,
+        513.0,
+        2640.0
+      ],
+      "confidence": 0.880014,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "A. 谷草转氨酶",
+      "bbox": [
+        1140.0,
+        2590.0,
+        1422.0,
+        2636.0
+      ],
+      "confidence": 0.996094,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "A. 主动脉瓣关闭不全",
+      "bbox": [
+        170.0,
+        2644.0,
+        585.0,
+        2696.0
+      ],
+      "confidence": 0.998125,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "B. 淀粉酶",
+      "bbox": [
+        1137.0,
+        2647.0,
+        1328.0,
+        2695.0
+      ],
+      "confidence": 0.999111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "B. 室间隔缺损",
+      "bbox": [
+        171.0,
+        2703.0,
+        447.0,
+        2753.0
+      ],
+      "confidence": 0.998901,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "C. 碱性磷酸酶",
+      "bbox": [
+        1138.0,
+        2703.0,
+        1417.0,
+        2752.0
+      ],
+      "confidence": 0.999279,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "C. 二尖瓣狭窄",
+      "bbox": [
+        170.0,
+        2758.0,
+        449.0,
+        2813.0
+      ],
+      "confidence": 0.998196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 104,
+      "text": "D. 谷丙转氨酶",
+      "bbox": [
+        1136.0,
+        2761.0,
+        1418.0,
+        2810.0
+      ],
+      "confidence": 0.997718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 105,
+      "text": "- 14",
+      "bbox": [
+        902.0,
+        2830.0,
+        1041.0,
+        2882.0
+      ],
+      "confidence": 0.795211,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

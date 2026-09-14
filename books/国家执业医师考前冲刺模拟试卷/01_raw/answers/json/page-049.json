@@ -1,0 +1,1038 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 49,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）参考答案及解析",
+      "bbox": [
+        315.23,
+        41.469,
+        533.424,
+        53.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "国家执业医师资格考试《中医执业医师》",
+      "bbox": [
+        111.17,
+        108.162,
+        480.37,
+        127.972
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        184.57,
+        134.303,
+        393.993,
+        153.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "的、运动着的、外向的、上升的、温热的、明亮的都属于",
+      "bbox": [
+        301.46,
+        177.111,
+        548.96,
+        187.011
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "阳；相对静止着的、内守的、下降的、寒冷的、晦暗的都",
+      "bbox": [
+        301.71,
+        193.281,
+        548.96,
+        203.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "属于阴。《素问·阴阳应象大论》说：“水火者，阴阳之",
+      "bbox": [
+        300.78,
+        209.311,
+        547.28,
+        219.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "第一单元",
+      "bbox": [
+        119.25,
+        218.286,
+        194.93,
+        237.206
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "征兆也。”阴阳属性之征兆是水与火。",
+      "bbox": [
+        300.66,
+        225.111,
+        468.45,
+        234.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "9. B【解析】心的主要生理功能是主血脉，主藏",
+      "bbox": [
+        322.04,
+        240.872,
+        546.972,
+        251.313
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "神。心的生理特性有主通明和心气下降。",
+      "bbox": [
+        300.79,
+        257.031,
+        484.358,
+        266.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "1. C【解析】体质的特点：①先天遗传性；②差异",
+      "bbox": [
+        55.94,
+        266.941,
+        279.327,
+        277.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "10. E【解析】阴阳转化是指阴阳对立的双方，在",
+      "bbox": [
+        322.39,
+        272.602,
+        546.69,
+        283.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "多样性；③形神一体性；④群类趋同性；⑤相对稳定性；",
+      "bbox": [
+        37.23,
+        283.211,
+        284.73,
+        293.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "一定的条件下，可以各自向其相反的方向转化，阴可以",
+      "bbox": [
+        300.82,
+        288.451,
+        546.369,
+        298.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "⑥动态可变性；⑦连续可测性；⑧后天可调性。",
+      "bbox": [
+        36.81,
+        299.351,
+        244.71,
+        309.251
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "转化为阳，阳也可以转化为阴。《素问·阴阳应象大",
+      "bbox": [
+        300.75,
+        304.161,
+        546.714,
+        314.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "2. E【解析】制化,“制”,即制约、克制;“化”,即生",
+      "bbox": [
+        55.7,
+        314.761,
+        289.603,
+        325.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "论》所说的“寒极生热，热极生寒”是阴阳转化关系的具",
+      "bbox": [
+        300.84,
+        320.041,
+        547.34,
+        329.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "化、变化。制化是把相生、相克联系一起而言，如果五行",
+      "bbox": [
+        36.75,
+        331.161,
+        284.0,
+        341.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "体体现。",
+      "bbox": [
+        300.93,
+        336.011,
+        340.45,
+        345.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "中只有相生而没有相克，则不能维持正常的平衡，如果",
+      "bbox": [
+        37.55,
+        347.201,
+        279.914,
+        357.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "11. A【解析】阴虚风动是指阴液枯竭，筋脉失养，",
+      "bbox": [
+        322.21,
+        351.622,
+        546.103,
+        362.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "仅有相克而没有相生，则万物无以生化。制化是通过五",
+      "bbox": [
+        36.67,
+        362.881,
+        279.944,
+        372.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "变生内风的病理变化。多见于热病后期，阴津亏损；或",
+      "bbox": [
+        300.88,
+        367.221,
+        546.656,
+        377.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "行中的相生、相克，对五行中某一行旺盛之时，予以制",
+      "bbox": [
+        36.68,
+        378.921,
+        279.517,
+        388.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "由于久病耗伤，阴液大亏所致。",
+      "bbox": [
+        301.87,
+        383.461,
+        439.91,
+        393.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "约，防止其“亢而为害”。五行学说运用生克关系的调",
+      "bbox": [
+        36.97,
+        394.921,
+        279.789,
+        404.811
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "12. D【解析】津伤化燥是指津液不足，人体各组",
+      "bbox": [
+        322.23,
+        398.902,
+        546.741,
+        409.321
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "节，解释大自然的正常生态平衡以及人体生理平衡。",
+      "bbox": [
+        37.03,
+        411.161,
+        264.27,
+        421.041
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "织器官和孔窍失其濡润，出现干燥枯涩症状的病理变",
+      "bbox": [
+        300.82,
+        414.561,
+        546.906,
+        424.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "3. E【解析】证，即证候。它是机体在疾病发展过",
+      "bbox": [
+        55.99,
+        426.551,
+        279.92,
+        437.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "化。内燥的成因多为久病伤阴耗液，或大汗、大吐、大",
+      "bbox": [
+        300.89,
+        430.501,
+        546.872,
+        440.381
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "程中的某一阶段或某一类型的病理概括，也标志着机",
+      "bbox": [
+        37.16,
+        442.831,
+        279.915,
+        452.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "泻，或亡血失精，以及某些热性病过程中的热邪伤阴或",
+      "bbox": [
+        301.04,
+        446.401,
+        546.61,
+        456.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "体对病因作用的整体反应状态，如肝风内动、心血亏",
+      "bbox": [
+        37.1,
+        458.811,
+        279.61,
+        468.711
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "湿邪化燥等。内燥病变可发生于各脏腑组织，但以肺、",
+      "bbox": [
+        301.0,
+        461.971,
+        546.301,
+        471.851
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "虚、心阳不振、痰火扰心等。痢疾与感冒属于病；发热",
+      "bbox": [
+        37.16,
+        474.751,
+        279.752,
+        484.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "胃及大肠为多见。",
+      "bbox": [
+        302.4,
+        477.921,
+        381.44,
+        487.801
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "与头痛属于症。",
+      "bbox": [
+        37.45,
+        491.011,
+        106.61,
+        500.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "13. A【解析】循行于腹部的经脉，自胸腹正中线",
+      "bbox": [
+        322.27,
+        493.552,
+        546.009,
+        503.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "4. C【解析】养生的原则：①顺应自然，了解和把",
+      "bbox": [
+        56.2,
+        506.541,
+        280.051,
+        517.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "向外排列的顺序：足少阴经、足阳明经、足太阴经、足厥",
+      "bbox": [
+        301.81,
+        509.261,
+        548.06,
+        519.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "握自然界各种变化的规律和特点，保持与自然的统一，",
+      "bbox": [
+        37.16,
+        522.601,
+        279.297,
+        532.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "阴经。",
+      "bbox": [
+        301.58,
+        525.161,
+        331.25,
+        535.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "即“天人合一”；②形神兼养，注意将调养形体与调摄精",
+      "bbox": [
+        37.7,
+        538.481,
+        284.7,
+        548.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "14. C【解析】脾的生理特性：脾气上升；喜燥恶",
+      "bbox": [
+        322.29,
+        540.942,
+        546.042,
+        551.352
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "神意识活动相结合，使“形与神俱”，即保持形神合一；",
+      "bbox": [
+        37.3,
+        554.471,
+        284.55,
+        564.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "湿；脾为孤脏。脾属土，居中央，与四方、四时无配；脾",
+      "bbox": [
+        301.14,
+        557.141,
+        548.14,
+        567.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "③调养脾肾，脾为后天之本，肾为先天之本，保养肾精，",
+      "bbox": [
+        37.38,
+        570.661,
+        284.63,
+        580.551
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "主运化，为精血津液生化之源，灌四傍而长养四脏，称",
+      "bbox": [
+        301.29,
+        573.011,
+        546.136,
+        582.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "“食饮有节”，才能保养脾肾；④因人而异，根据每个人",
+      "bbox": [
+        37.47,
+        586.541,
+        284.47,
+        596.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "为后天之本。脾有孤脏之称，是人体中最大最重要",
+      "bbox": [
+        301.26,
+        588.251,
+        545.967,
+        598.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "的体质特点、所患疾病、生活习惯等的不同制定具体的",
+      "bbox": [
+        37.82,
+        602.111,
+        279.729,
+        612.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "的脏。",
+      "bbox": [
+        301.67,
+        604.391,
+        331.34,
+        614.281
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "养生方法，才能达到有效养生的目的。",
+      "bbox": [
+        37.37,
+        618.861,
+        205.33,
+        628.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "15. B【解析】牡蛎功效：重镇安神，平肝潜阳，软",
+      "bbox": [
+        322.37,
+        620.172,
+        546.025,
+        630.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "5. E【解析】肾藏精、主水、主纳气。",
+      "bbox": [
+        56.76,
+        634.557,
+        224.41,
+        645.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "坚散结，收敛固涩。",
+      "bbox": [
+        301.15,
+        636.001,
+        389.98,
+        645.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "6. C【解析】阴阳互藏是阴阳双方交感合和的动",
+      "bbox": [
+        56.82,
+        650.491,
+        279.65,
+        660.964
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "16. C【解析】湿浊内生，又称“内湿”，是指由于脾",
+      "bbox": [
+        322.53,
+        652.002,
+        553.58,
+        662.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "力根源。天气下降，地气上升，古代哲学家是用“本乎",
+      "bbox": [
+        37.16,
+        666.771,
+        279.752,
+        676.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "的运化水湿功能和输布津液的功能障碍，从而引起水",
+      "bbox": [
+        301.94,
+        667.941,
+        545.729,
+        677.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "天者亲上，本乎地者亲下”（《周易·乾传》）来解释的：",
+      "bbox": [
+        37.33,
+        682.561,
+        281.277,
+        692.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "湿痰浊蓄积停滞的病理变化。内湿的产生，多因素体",
+      "bbox": [
+        301.11,
+        683.711,
+        545.551,
+        693.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "阴中有阳则能升，阳中有阴则能降。阴阳互藏是阴阳",
+      "bbox": [
+        37.72,
+        698.591,
+        279.333,
+        708.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "肥胖，痰湿过盛；或因恣食生冷，过食肥甘，内伤脾胃，",
+      "bbox": [
+        301.13,
+        699.661,
+        547.88,
+        709.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "消长与转化的内在根据。",
+      "bbox": [
+        37.32,
+        714.481,
+        146.11,
+        724.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "致使脾失健运，津液的输布发生障碍所致，脾的运化功",
+      "bbox": [
+        301.19,
+        715.481,
+        545.127,
+        725.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "7. E【解析】精气是天地万物相互联系的中介。",
+      "bbox": [
+        56.98,
+        730.08,
+        279.702,
+        740.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "能失职是湿浊内生的关键。",
+      "bbox": [
+        301.46,
+        731.181,
+        420.769,
+        741.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "精气分阴阳而成天地，天地交感而生万物。天地万物",
+      "bbox": [
+        37.03,
+        746.431,
+        279.862,
+        756.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "17. C【解析】脾主升清，是指脾具有将其运化和",
+      "bbox": [
+        322.8,
+        746.752,
+        544.759,
+        757.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "相互联系，相互作用，是以精气作为中介的。",
+      "bbox": [
+        37.07,
+        762.391,
+        234.67,
+        772.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "吸收的水谷精微等营养物质向上输送至心、肺等脏，通",
+      "bbox": [
+        301.87,
+        762.221,
+        544.198,
+        772.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "8. B【解析】阴阳代表着相互对立和相互关联的",
+      "bbox": [
+        56.56,
+        778.24,
+        279.805,
+        788.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "过心肺的气化作用化生气血，以营养全身，并通过脾气",
+      "bbox": [
+        301.44,
+        778.141,
+        544.203,
+        788.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "事物属性。事物阴阳属性的划分，一般地说，凡是剧烈",
+      "bbox": [
+        37.49,
+        794.001,
+        280.026,
+        803.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "的升举作用维持人体内脏位置相对恒定的作用。脾的",
+      "bbox": [
+        302.04,
+        792.891,
+        543.787,
+        802.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "一239",
+      "bbox": [
+        260.68,
+        810.403,
+        295.914,
+        821.768
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

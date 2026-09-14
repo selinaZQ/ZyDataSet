@@ -1,0 +1,1303 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 13,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1447.0,
+        119.0,
+        1860.0,
+        157.0
+      ],
+      "confidence": 0.983934,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 腹式呼吸消失",
+      "bbox": [
+        222.0,
+        233.0,
+        527.0,
+        278.0
+      ],
+      "confidence": 0.999111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 鼻部炎症",
+      "bbox": [
+        1144.0,
+        230.0,
+        1367.0,
+        281.0
+      ],
+      "confidence": 0.997848,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "8. 下列有关心脏杂音的描述，错误的是",
+      "bbox": [
+        223.0,
+        292.0,
+        978.0,
+        334.0
+      ],
+      "confidence": 0.994847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 颅脑外伤",
+      "bbox": [
+        1144.0,
+        291.0,
+        1370.0,
+        341.0
+      ],
+      "confidence": 0.996937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "）",
+      "bbox": [
+        233.0,
+        348.0,
+        270.0,
+        392.0
+      ],
+      "confidence": 0.963526,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 高血压病",
+      "bbox": [
+        1146.0,
+        353.0,
+        1367.0,
+        400.0
+      ],
+      "confidence": 0.99863,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 血流加速可以产生心脏杂音",
+      "bbox": [
+        227.0,
+        407.0,
+        782.0,
+        448.0
+      ],
+      "confidence": 0.997165,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "15. 血管壁功能异常所致的出血性疾病为",
+      "bbox": [
+        1146.0,
+        413.0,
+        1906.0,
+        459.0
+      ],
+      "confidence": 0.997864,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 杂音最响的部位，就是病变所在的部位",
+      "bbox": [
+        222.0,
+        463.0,
+        964.0,
+        509.0
+      ],
+      "confidence": 0.993583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "（",
+      "bbox": [
+        1065.0,
+        476.0,
+        1088.0,
+        513.0
+      ],
+      "confidence": 0.711741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "）",
+      "bbox": [
+        1160.0,
+        475.0,
+        1196.0,
+        519.0
+      ],
+      "confidence": 0.973383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 杂音有生理性的",
+      "bbox": [
+        223.0,
+        523.0,
+        570.0,
+        568.0
+      ],
+      "confidence": 0.999216,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 感染性紫癜",
+      "bbox": [
+        1150.0,
+        535.0,
+        1414.0,
+        577.0
+      ],
+      "confidence": 0.980667,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 杂音的强度与病变成正比",
+      "bbox": [
+        222.0,
+        577.0,
+        739.0,
+        625.0
+      ],
+      "confidence": 0.999197,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 特发性血小板减少性紫癜",
+      "bbox": [
+        1149.0,
+        596.0,
+        1662.0,
+        637.0
+      ],
+      "confidence": 0.985686,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 极度狭窄时，杂音减弱或消失",
+      "bbox": [
+        222.0,
+        635.0,
+        798.0,
+        682.0
+      ],
+      "confidence": 0.984724,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 血栓性血小板减少性紫癜",
+      "bbox": [
+        1145.0,
+        653.0,
+        1665.0,
+        701.0
+      ],
+      "confidence": 0.98182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "9. 腹痛位于右上腹部，并向右肩部放射，",
+      "bbox": [
+        220.0,
+        693.0,
+        976.0,
+        741.0
+      ],
+      "confidence": 0.985561,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 血友病",
+      "bbox": [
+        1144.0,
+        711.0,
+        1330.0,
+        763.0
+      ],
+      "confidence": 0.998904,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "提示（）",
+      "bbox": [
+        135.0,
+        750.0,
+        356.0,
+        802.0
+      ],
+      "confidence": 0.824762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 血小板增多症",
+      "bbox": [
+        1144.0,
+        770.0,
+        1453.0,
+        820.0
+      ],
+      "confidence": 0.996788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 肠炎",
+      "bbox": [
+        220.0,
+        809.0,
+        364.0,
+        858.0
+      ],
+      "confidence": 0.986351,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "16. 下列除哪项外，均是采录“既往史”所",
+      "bbox": [
+        1145.0,
+        832.0,
+        1908.0,
+        885.0
+      ],
+      "confidence": 0.986294,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 十二指肠溃疡",
+      "bbox": [
+        218.0,
+        865.0,
+        524.0,
+        914.0
+      ],
+      "confidence": 0.998706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "要表述的内容（）",
+      "bbox": [
+        1061.0,
+        889.0,
+        1456.0,
+        943.0
+      ],
+      "confidence": 0.929685,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 胃炎",
+      "bbox": [
+        217.0,
+        922.0,
+        359.0,
+        975.0
+      ],
+      "confidence": 0.997718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 过去健康情况",
+      "bbox": [
+        1148.0,
+        954.0,
+        1459.0,
+        1000.0
+      ],
+      "confidence": 0.997713,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 胆囊炎",
+      "bbox": [
+        219.0,
+        983.0,
+        402.0,
+        1031.0
+      ],
+      "confidence": 0.99848,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 预防接种情况",
+      "bbox": [
+        1146.0,
+        1015.0,
+        1453.0,
+        1061.0
+      ],
+      "confidence": 0.999419,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 急性胰腺炎",
+      "bbox": [
+        218.0,
+        1039.0,
+        483.0,
+        1087.0
+      ],
+      "confidence": 0.996511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 传染病史",
+      "bbox": [
+        1144.0,
+        1071.0,
+        1372.0,
+        1125.0
+      ],
+      "confidence": 0.998883,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "10. 反甲多见于（",
+      "bbox": [
+        218.0,
+        1096.0,
+        523.0,
+        1144.0
+      ],
+      "confidence": 0.959103,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "）",
+      "bbox": [
+        599.0,
+        1099.0,
+        626.0,
+        1139.0
+      ],
+      "confidence": 0.967063,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 过敏史",
+      "bbox": [
+        1146.0,
+        1135.0,
+        1330.0,
+        1183.0
+      ],
+      "confidence": 0.999242,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 风湿热",
+      "bbox": [
+        220.0,
+        1155.0,
+        404.0,
+        1202.0
+      ],
+      "confidence": 0.99829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 是否到过传染病的流行地区",
+      "bbox": [
+        1147.0,
+        1198.0,
+        1710.0,
+        1242.0
+      ],
+      "confidence": 0.997998,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 先天性心脏病",
+      "bbox": [
+        219.0,
+        1211.0,
+        523.0,
+        1260.0
+      ],
+      "confidence": 0.999384,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "17. 下列哪项是诊断缺铁最肯定的依",
+      "bbox": [
+        1146.0,
+        1257.0,
+        1913.0,
+        1306.0
+      ],
+      "confidence": 0.990208,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 慢性肺脓肿",
+      "bbox": [
+        219.0,
+        1269.0,
+        482.0,
+        1318.0
+      ],
+      "confidence": 0.996567,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "据（",
+      "bbox": [
+        1060.0,
+        1316.0,
+        1141.0,
+        1368.0
+      ],
+      "confidence": 0.959829,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "）",
+      "bbox": [
+        1133.0,
+        1309.0,
+        1247.0,
+        1369.0
+      ],
+      "confidence": 0.883762,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 类风湿关节炎",
+      "bbox": [
+        218.0,
+        1327.0,
+        526.0,
+        1376.0
+      ],
+      "confidence": 0.998146,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 缺铁性贫血",
+      "bbox": [
+        219.0,
+        1386.0,
+        482.0,
+        1433.0
+      ],
+      "confidence": 0.998208,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 有慢性失血史",
+      "bbox": [
+        1147.0,
+        1378.0,
+        1461.0,
+        1427.0
+      ],
+      "confidence": 0.99859,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "11. 下列关于内生肌酐清除率的叙述，正",
+      "bbox": [
+        219.0,
+        1445.0,
+        978.0,
+        1491.0
+      ],
+      "confidence": 0.993642,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 血涂片见典型小细胞低色素性红细胞",
+      "bbox": [
+        1149.0,
+        1444.0,
+        1876.0,
+        1485.0
+      ],
+      "confidence": 0.999305,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "确的是（）",
+      "bbox": [
+        138.0,
+        1502.0,
+        398.0,
+        1552.0
+      ],
+      "confidence": 0.795723,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 转铁蛋白饱和度降低",
+      "bbox": [
+        1149.0,
+        1502.0,
+        1584.0,
+        1547.0
+      ],
+      "confidence": 0.99826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 肾功能严重损害时，开始升高",
+      "bbox": [
+        222.0,
+        1562.0,
+        803.0,
+        1607.0
+      ],
+      "confidence": 0.986175,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 血清铁降低",
+      "bbox": [
+        1148.0,
+        1563.0,
+        1416.0,
+        1609.0
+      ],
+      "confidence": 0.998129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 高于80ml/min提示预后不良",
+      "bbox": [
+        219.0,
+        1618.0,
+        805.0,
+        1666.0
+      ],
+      "confidence": 0.996678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 骨髓小粒可染铁消失",
+      "bbox": [
+        1148.0,
+        1625.0,
+        1584.0,
+        1670.0
+      ],
+      "confidence": 0.999281,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 肾功能损害愈重，其清除率愈低",
+      "bbox": [
+        220.0,
+        1679.0,
+        841.0,
+        1724.0
+      ],
+      "confidence": 0.994577,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "18. 下列哪项药物不会引起白细胞减少",
+      "bbox": [
+        1149.0,
+        1687.0,
+        1914.0,
+        1732.0
+      ],
+      "confidence": 0.998411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 肾功能损害愈重，其清除率愈高",
+      "bbox": [
+        219.0,
+        1735.0,
+        843.0,
+        1784.0
+      ],
+      "confidence": 0.994182,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "（",
+      "bbox": [
+        1065.0,
+        1751.0,
+        1089.0,
+        1789.0
+      ],
+      "confidence": 0.796236,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "）",
+      "bbox": [
+        1151.0,
+        1748.0,
+        1200.0,
+        1793.0
+      ],
+      "confidence": 0.98979,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 其测定与肾功能损害程度无关",
+      "bbox": [
+        219.0,
+        1793.0,
+        821.0,
+        1841.0
+      ],
+      "confidence": 0.998626,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 甲巯咪唑",
+      "bbox": [
+        1146.0,
+        1807.0,
+        1378.0,
+        1857.0
+      ],
+      "confidence": 0.91621,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "12. 下列哪项引起的呕吐为反射性呕",
+      "bbox": [
+        219.0,
+        1853.0,
+        981.0,
+        1902.0
+      ],
+      "confidence": 0.997447,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 氯霉素",
+      "bbox": [
+        1146.0,
+        1869.0,
+        1327.0,
+        1916.0
+      ],
+      "confidence": 0.99825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "吐（",
+      "bbox": [
+        132.0,
+        1904.0,
+        216.0,
+        1962.0
+      ],
+      "confidence": 0.801926,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "）",
+      "bbox": [
+        246.0,
+        1910.0,
+        316.0,
+        1959.0
+      ],
+      "confidence": 0.985106,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 磺胺类",
+      "bbox": [
+        1144.0,
+        1925.0,
+        1330.0,
+        1980.0
+      ],
+      "confidence": 0.998902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "A. 急性胆囊炎",
+      "bbox": [
+        218.0,
+        1968.0,
+        486.0,
+        2018.0
+      ],
+      "confidence": 0.998043,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 氨基比林",
+      "bbox": [
+        1145.0,
+        1990.0,
+        1375.0,
+        2039.0
+      ],
+      "confidence": 0.997364,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 脑膜炎",
+      "bbox": [
+        217.0,
+        2023.0,
+        399.0,
+        2078.0
+      ],
+      "confidence": 0.997614,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 碳酸锂",
+      "bbox": [
+        1145.0,
+        2049.0,
+        1330.0,
+        2100.0
+      ],
+      "confidence": 0.998932,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 中暑",
+      "bbox": [
+        215.0,
+        2081.0,
+        360.0,
+        2137.0
+      ],
+      "confidence": 0.992273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "19. 胆囊肿大，无压痛，伴黄疸进行性加",
+      "bbox": [
+        1149.0,
+        2114.0,
+        1911.0,
+        2159.0
+      ],
+      "confidence": 0.98158,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 妊娠",
+      "bbox": [
+        215.0,
+        2138.0,
+        363.0,
+        2195.0
+      ],
+      "confidence": 0.991485,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "深，多考虑（",
+      "bbox": [
+        1063.0,
+        2170.0,
+        1285.0,
+        2222.0
+      ],
+      "confidence": 0.922362,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "）",
+      "bbox": [
+        1357.0,
+        2174.0,
+        1387.0,
+        2215.0
+      ],
+      "confidence": 0.979247,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "E. 尿毒症",
+      "bbox": [
+        215.0,
+        2196.0,
+        402.0,
+        2253.0
+      ],
+      "confidence": 0.998972,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "A. 胆囊炎",
+      "bbox": [
+        1145.0,
+        2228.0,
+        1334.0,
+        2283.0
+      ],
+      "confidence": 0.998983,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "13. 下列除哪项外，均可出现心电轴右偏",
+      "bbox": [
+        219.0,
+        2260.0,
+        982.0,
+        2308.0
+      ],
+      "confidence": 0.994507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "B. 胆结石",
+      "bbox": [
+        1145.0,
+        2292.0,
+        1329.0,
+        2343.0
+      ],
+      "confidence": 0.999136,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "（",
+      "bbox": [
+        139.0,
+        2325.0,
+        162.0,
+        2360.0
+      ],
+      "confidence": 0.78293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "）",
+      "bbox": [
+        225.0,
+        2318.0,
+        273.0,
+        2365.0
+      ],
+      "confidence": 0.97973,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 肝脓肿",
+      "bbox": [
+        1146.0,
+        2353.0,
+        1329.0,
+        2404.0
+      ],
+      "confidence": 0.999235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 左前分支阻滞",
+      "bbox": [
+        219.0,
+        2372.0,
+        532.0,
+        2425.0
+      ],
+      "confidence": 0.997398,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "D. 胆囊癌",
+      "bbox": [
+        1146.0,
+        2412.0,
+        1331.0,
+        2465.0
+      ],
+      "confidence": 0.998721,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 左后分支阻滞",
+      "bbox": [
+        218.0,
+        2432.0,
+        526.0,
+        2482.0
+      ],
+      "confidence": 0.995051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "E. 胰头癌",
+      "bbox": [
+        1146.0,
+        2473.0,
+        1330.0,
+        2524.0
+      ],
+      "confidence": 0.997818,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 右心室肥大",
+      "bbox": [
+        216.0,
+        2489.0,
+        486.0,
+        2539.0
+      ],
+      "confidence": 0.995927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "20. 金属调的咳嗽多由于（",
+      "bbox": [
+        1149.0,
+        2535.0,
+        1620.0,
+        2580.0
+      ],
+      "confidence": 0.977643,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 广泛心肌梗死",
+      "bbox": [
+        217.0,
+        2550.0,
+        530.0,
+        2596.0
+      ],
+      "confidence": 0.996724,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "）",
+      "bbox": [
+        1701.0,
+        2541.0,
+        1721.0,
+        2572.0
+      ],
+      "confidence": 0.428198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "A. 喉炎",
+      "bbox": [
+        1148.0,
+        2596.0,
+        1291.0,
+        2645.0
+      ],
+      "confidence": 0.997424,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 垂直位心脏",
+      "bbox": [
+        217.0,
+        2608.0,
+        487.0,
+        2655.0
+      ],
+      "confidence": 0.998167,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "B. 喉结核",
+      "bbox": [
+        1148.0,
+        2657.0,
+        1327.0,
+        2705.0
+      ],
+      "confidence": 0.998706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "14. 下列哪项是引起头痛的全身性疾病（",
+      "bbox": [
+        217.0,
+        2666.0,
+        891.0,
+        2713.0
+      ],
+      "confidence": 0.979914,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "A. 脑出血",
+      "bbox": [
+        217.0,
+        2725.0,
+        407.0,
+        2776.0
+      ],
+      "confidence": 0.997179,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "C. 声带炎",
+      "bbox": [
+        1148.0,
+        2717.0,
+        1327.0,
+        2764.0
+      ],
+      "confidence": 0.998194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "B. 神经衰弱",
+      "bbox": [
+        214.0,
+        2784.0,
+        440.0,
+        2833.0
+      ],
+      "confidence": 0.998694,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "D. 纵隔肿瘤",
+      "bbox": [
+        1146.0,
+        2779.0,
+        1372.0,
+        2829.0
+      ],
+      "confidence": 0.995554,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "59",
+      "bbox": [
+        994.0,
+        2850.0,
+        1068.0,
+        2898.0
+      ],
+      "confidence": 0.998834,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "—",
+      "bbox": [
+        1054.0,
+        2857.0,
+        1117.0,
+        2890.0
+      ],
+      "confidence": 0.663572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

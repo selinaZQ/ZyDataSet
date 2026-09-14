@@ -1,0 +1,1199 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 10,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        171.0,
+        179.0,
+        584.0,
+        217.0
+      ],
+      "confidence": 0.999093,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "武中医执业医师",
+      "bbox": [
+        564.0,
+        178.0,
+        867.0,
+        219.0
+      ],
+      "confidence": 0.945855,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "而干，脉沉数有力，其证候是（",
+      "bbox": [
+        172.0,
+        288.0,
+        683.0,
+        325.0
+      ],
+      "confidence": 0.962651,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 心血瘀阻",
+      "bbox": [
+        1150.0,
+        283.0,
+        1367.0,
+        329.0
+      ],
+      "confidence": 0.99544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "）",
+      "bbox": [
+        770.0,
+        294.0,
+        783.0,
+        318.0
+      ],
+      "confidence": 0.741956,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 表寒里热",
+      "bbox": [
+        250.0,
+        336.0,
+        468.0,
+        383.0
+      ],
+      "confidence": 0.998299,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 肾精亏虚",
+      "bbox": [
+        1150.0,
+        336.0,
+        1368.0,
+        383.0
+      ],
+      "confidence": 0.998544,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 表热里寒",
+      "bbox": [
+        247.0,
+        392.0,
+        463.0,
+        435.0
+      ],
+      "confidence": 0.998699,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 心脾两虚",
+      "bbox": [
+        1151.0,
+        394.0,
+        1367.0,
+        436.0
+      ],
+      "confidence": 0.995427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 真热假寒",
+      "bbox": [
+        248.0,
+        442.0,
+        462.0,
+        489.0
+      ],
+      "confidence": 0.997825,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "118. 患者身目发黄，黄色鲜明，腹部痞满，",
+      "bbox": [
+        1154.0,
+        442.0,
+        1888.0,
+        489.0
+      ],
+      "confidence": 0.9843,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 真寒假热",
+      "bbox": [
+        247.0,
+        496.0,
+        464.0,
+        542.0
+      ],
+      "confidence": 0.996709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "肢体困重，便溏尿黄，身热不扬。舌红苔黄腻，",
+      "bbox": [
+        1073.0,
+        497.0,
+        1887.0,
+        541.0
+      ],
+      "confidence": 0.993922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 上热下寒",
+      "bbox": [
+        249.0,
+        552.0,
+        463.0,
+        595.0
+      ],
+      "confidence": 0.996548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "脉濡数，其证候是（）",
+      "bbox": [
+        1071.0,
+        547.0,
+        1516.0,
+        601.0
+      ],
+      "confidence": 0.896371,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "115. 患者胃肠热盛，大便秘结，腹满硬痛",
+      "bbox": [
+        250.0,
+        607.0,
+        988.0,
+        647.0
+      ],
+      "confidence": 0.989064,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "A. 肝胆湿热",
+      "bbox": [
+        1154.0,
+        604.0,
+        1374.0,
+        651.0
+      ],
+      "confidence": 0.971021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "而拒按，潮热，神昏澹语，但又兼见面色苍白。",
+      "bbox": [
+        169.0,
+        660.0,
+        987.0,
+        701.0
+      ],
+      "confidence": 0.960517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "B. 大肠湿热",
+      "bbox": [
+        1151.0,
+        656.0,
+        1369.0,
+        706.0
+      ],
+      "confidence": 0.999292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "四肢厥冷，精神萎靡，其病机是（）",
+      "bbox": [
+        169.0,
+        714.0,
+        834.0,
+        754.0
+      ],
+      "confidence": 0.922351,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "C. 肝火上炎",
+      "bbox": [
+        1155.0,
+        714.0,
+        1368.0,
+        757.0
+      ],
+      "confidence": 0.998522,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 虚中夹实",
+      "bbox": [
+        249.0,
+        766.0,
+        467.0,
+        809.0
+      ],
+      "confidence": 0.998198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "D. 湿热蕴脾",
+      "bbox": [
+        1155.0,
+        768.0,
+        1369.0,
+        810.0
+      ],
+      "confidence": 0.996101,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 真实假虚",
+      "bbox": [
+        245.0,
+        817.0,
+        461.0,
+        863.0
+      ],
+      "confidence": 0.998813,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "E. 寒湿困脾",
+      "bbox": [
+        1152.0,
+        816.0,
+        1371.0,
+        865.0
+      ],
+      "confidence": 0.997411,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 由实转虚",
+      "bbox": [
+        247.0,
+        874.0,
+        459.0,
+        915.0
+      ],
+      "confidence": 0.998871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "119. 患者，女，17岁。面、鼻部粉刺，用手",
+      "bbox": [
+        1156.0,
+        875.0,
+        1889.0,
+        916.0
+      ],
+      "confidence": 0.983486,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 真虚假实",
+      "bbox": [
+        247.0,
+        927.0,
+        460.0,
+        969.0
+      ],
+      "confidence": 0.997424,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "指挤压，有米粒白色脂栓挤出，颜面潮红，舌红",
+      "bbox": [
+        1074.0,
+        928.0,
+        1891.0,
+        970.0
+      ],
+      "confidence": 0.982368,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 实中夹虚",
+      "bbox": [
+        246.0,
+        981.0,
+        460.0,
+        1022.0
+      ],
+      "confidence": 0.997631,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "苔黄，脉细数。证属肺经风热。治疗应首",
+      "bbox": [
+        1074.0,
+        980.0,
+        1893.0,
+        1025.0
+      ],
+      "confidence": 0.998033,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "116. 患者，男，50岁。咳嗽，气息喘促，胸",
+      "bbox": [
+        249.0,
+        1034.0,
+        988.0,
+        1075.0
+      ],
+      "confidence": 0.988472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "选（）",
+      "bbox": [
+        1068.0,
+        1028.0,
+        1255.0,
+        1079.0
+      ],
+      "confidence": 0.792629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "中烦闷胀痛，痰多色黄黏稠，咳吐不爽，或痰中",
+      "bbox": [
+        168.0,
+        1084.0,
+        989.0,
+        1131.0
+      ],
+      "confidence": 0.983866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "A. 枇杷清肺饮",
+      "bbox": [
+        1155.0,
+        1085.0,
+        1416.0,
+        1131.0
+      ],
+      "confidence": 0.989847,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "带血，渴喜冷饮，面红咽干，尿赤，便秘，苔黄",
+      "bbox": [
+        168.0,
+        1140.0,
+        988.0,
+        1182.0
+      ],
+      "confidence": 0.993625,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "B. 桑菊饮",
+      "bbox": [
+        1154.0,
+        1140.0,
+        1329.0,
+        1183.0
+      ],
+      "confidence": 0.997386,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "腻，脉滑数。查体：肺底部可闻及湿性和干性",
+      "bbox": [
+        167.0,
+        1193.0,
+        989.0,
+        1235.0
+      ],
+      "confidence": 0.977678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "C. 银翘散",
+      "bbox": [
+        1151.0,
+        1189.0,
+        1332.0,
+        1238.0
+      ],
+      "confidence": 0.997068,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "啰音。治疗应首选（）",
+      "bbox": [
+        166.0,
+        1243.0,
+        625.0,
+        1292.0
+      ],
+      "confidence": 0.96326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "D. 消风散",
+      "bbox": [
+        1151.0,
+        1241.0,
+        1334.0,
+        1292.0
+      ],
+      "confidence": 0.998961,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 三拗汤",
+      "bbox": [
+        246.0,
+        1300.0,
+        424.0,
+        1343.0
+      ],
+      "confidence": 0.979078,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "E. 防风通圣散",
+      "bbox": [
+        1151.0,
+        1296.0,
+        1413.0,
+        1345.0
+      ],
+      "confidence": 0.997891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 麻杏石甘汤加减",
+      "bbox": [
+        244.0,
+        1351.0,
+        580.0,
+        1395.0
+      ],
+      "confidence": 0.997773,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "120. 患者，男，60岁。形寒便溏，完谷不",
+      "bbox": [
+        1155.0,
+        1354.0,
+        1893.0,
+        1397.0
+      ],
+      "confidence": 0.989374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 二陈汤合三子养亲汤加减",
+      "bbox": [
+        245.0,
+        1403.0,
+        747.0,
+        1449.0
+      ],
+      "confidence": 0.996505,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "化，夜尿频多清长，下肢不温，舌质淡白，脉沉",
+      "bbox": [
+        1074.0,
+        1408.0,
+        1894.0,
+        1450.0
+      ],
+      "confidence": 0.992327,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 桑白皮汤加减",
+      "bbox": [
+        245.0,
+        1457.0,
+        542.0,
+        1505.0
+      ],
+      "confidence": 0.99824,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "细，其舌苔应是（",
+      "bbox": [
+        1073.0,
+        1460.0,
+        1372.0,
+        1505.0
+      ],
+      "confidence": 0.945446,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "）",
+      "bbox": [
+        1440.0,
+        1467.0,
+        1469.0,
+        1497.0
+      ],
+      "confidence": 0.996024,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 小青龙汤加减",
+      "bbox": [
+        247.0,
+        1514.0,
+        540.0,
+        1552.0
+      ],
+      "confidence": 0.995636,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 透明苔",
+      "bbox": [
+        1152.0,
+        1512.0,
+        1335.0,
+        1558.0
+      ],
+      "confidence": 0.998051,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "117. 患者，男，70岁。神志痴呆，表情淡",
+      "bbox": [
+        247.0,
+        1568.0,
+        988.0,
+        1608.0
+      ],
+      "confidence": 0.993382,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 白干苔",
+      "bbox": [
+        1152.0,
+        1566.0,
+        1330.0,
+        1612.0
+      ],
+      "confidence": 0.997164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "漠，举止失常，面色晦滞，胸闷泛恶，舌苔白腻，",
+      "bbox": [
+        169.0,
+        1622.0,
+        987.0,
+        1663.0
+      ],
+      "confidence": 0.992635,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 黄苔",
+      "bbox": [
+        1152.0,
+        1617.0,
+        1291.0,
+        1665.0
+      ],
+      "confidence": 0.998265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "脉滑，其病机是（",
+      "bbox": [
+        168.0,
+        1674.0,
+        457.0,
+        1715.0
+      ],
+      "confidence": 0.963695,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "）",
+      "bbox": [
+        529.0,
+        1675.0,
+        559.0,
+        1712.0
+      ],
+      "confidence": 0.990268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "D. 黄腻苔",
+      "bbox": [
+        1152.0,
+        1670.0,
+        1333.0,
+        1717.0
+      ],
+      "confidence": 0.998231,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 痰迷心窍",
+      "bbox": [
+        247.0,
+        1729.0,
+        462.0,
+        1770.0
+      ],
+      "confidence": 0.99677,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "E. 灰苔",
+      "bbox": [
+        1151.0,
+        1723.0,
+        1290.0,
+        1771.0
+      ],
+      "confidence": 0.997452,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 痰火扰心",
+      "bbox": [
+        247.0,
+        1785.0,
+        456.0,
+        1823.0
+      ],
+      "confidence": 0.997421,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "B1 型选择题（121～150题）",
+      "bbox": [
+        789.0,
+        1890.0,
+        1280.0,
+        1927.0
+      ],
+      "confidence": 0.932108,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "答题说明：以下提供若干组考题，每组考题共用在考题前列出的A、B、C、D、E五个备选答",
+      "bbox": [
+        267.0,
+        1963.0,
+        1875.0,
+        2009.0
+      ],
+      "confidence": 0.95838,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "案，请从中选择一个与问题最密切的答案,并在答题卡上将相应题号的相应字母所属的方框涂",
+      "bbox": [
+        189.0,
+        2016.0,
+        1874.0,
+        2063.0
+      ],
+      "confidence": 0.987121,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "黑。某个备选答案可能被选择一次、多次或不被选择。",
+      "bbox": [
+        190.0,
+        2075.0,
+        1146.0,
+        2115.0
+      ],
+      "confidence": 0.981512,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "（121～122题共用备选答案）",
+      "bbox": [
+        251.0,
+        2150.0,
+        759.0,
+        2192.0
+      ],
+      "confidence": 0.940114,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 任脉",
+      "bbox": [
+        1150.0,
+        2147.0,
+        1289.0,
+        2195.0
+      ],
+      "confidence": 0.997667,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "A. 上出息道，下走气街",
+      "bbox": [
+        248.0,
+        2201.0,
+        652.0,
+        2247.0
+      ],
+      "confidence": 0.976443,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 督脉",
+      "bbox": [
+        1151.0,
+        2200.0,
+        1289.0,
+        2248.0
+      ],
+      "confidence": 0.996783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 熏于育膜，散于胸腹",
+      "bbox": [
+        247.0,
+        2255.0,
+        647.0,
+        2300.0
+      ],
+      "confidence": 0.964127,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 带脉",
+      "bbox": [
+        1150.0,
+        2254.0,
+        1290.0,
+        2303.0
+      ],
+      "confidence": 0.997828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "C. 通过三焦，流行全身",
+      "bbox": [
+        247.0,
+        2309.0,
+        647.0,
+        2355.0
+      ],
+      "confidence": 0.996021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 阴阳维脉",
+      "bbox": [
+        1152.0,
+        2310.0,
+        1367.0,
+        2353.0
+      ],
+      "confidence": 0.998292,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 上荣头目，达于周身",
+      "bbox": [
+        247.0,
+        2362.0,
+        649.0,
+        2408.0
+      ],
+      "confidence": 0.992607,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "123. 称为“十二经脉之海”的是（",
+      "bbox": [
+        1152.0,
+        2362.0,
+        1720.0,
+        2405.0
+      ],
+      "confidence": 0.972866,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "）",
+      "bbox": [
+        1788.0,
+        2368.0,
+        1811.0,
+        2398.0
+      ],
+      "confidence": 0.988506,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 与血同行，环周不休",
+      "bbox": [
+        246.0,
+        2415.0,
+        651.0,
+        2462.0
+      ],
+      "confidence": 0.976086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "124. 具有约束纵行诸经功能的是（",
+      "bbox": [
+        1152.0,
+        2416.0,
+        1752.0,
+        2459.0
+      ],
+      "confidence": 0.966585,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "）",
+      "bbox": [
+        1827.0,
+        2420.0,
+        1853.0,
+        2454.0
+      ],
+      "confidence": 0.97874,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "121. 宗气的分布是（",
+      "bbox": [
+        246.0,
+        2468.0,
+        607.0,
+        2516.0
+      ],
+      "confidence": 0.955164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "）",
+      "bbox": [
+        680.0,
+        2471.0,
+        709.0,
+        2510.0
+      ],
+      "confidence": 0.935407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "（125～126题共用备选答案）",
+      "bbox": [
+        1154.0,
+        2467.0,
+        1660.0,
+        2512.0
+      ],
+      "confidence": 0.952494,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "122. 卫气的分布是（",
+      "bbox": [
+        248.0,
+        2523.0,
+        608.0,
+        2567.0
+      ],
+      "confidence": 0.992079,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "）",
+      "bbox": [
+        680.0,
+        2524.0,
+        710.0,
+        2561.0
+      ],
+      "confidence": 0.975198,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 下肢外侧后缘",
+      "bbox": [
+        1154.0,
+        2524.0,
+        1451.0,
+        2566.0
+      ],
+      "confidence": 0.997889,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "（123～124题共用备选答案）",
+      "bbox": [
+        250.0,
+        2574.0,
+        755.0,
+        2621.0
+      ],
+      "confidence": 0.921259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "B. 上肢内侧中线",
+      "bbox": [
+        1151.0,
+        2576.0,
+        1444.0,
+        2617.0
+      ],
+      "confidence": 0.998771,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 冲脉",
+      "bbox": [
+        247.0,
+        2629.0,
+        389.0,
+        2677.0
+      ],
+      "confidence": 0.997742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "C. 下肢外侧前缘",
+      "bbox": [
+        1151.0,
+        2629.0,
+        1444.0,
+        2671.0
+      ],
+      "confidence": 0.998674,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "56",
+      "bbox": [
+        1001.0,
+        2707.0,
+        1057.0,
+        2747.0
+      ],
+      "confidence": 0.999452,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

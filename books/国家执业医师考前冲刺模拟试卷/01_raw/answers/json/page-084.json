@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 84,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        55.77,
+        50.806,
+        260.211,
+        61.406
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "区叩击痛；肝癌见右上腹间断疼痛，有压痛，无反跳痛。",
+      "bbox": [
+        54.3,
+        80.721,
+        301.8,
+        90.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "癌手术后输过血，现追踪检查HAVAb阳性，表明患者",
+      "bbox": [
+        319.55,
+        80.461,
+        562.351,
+        90.341
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "急性胰腺炎多因饱餐后诱发，呈持续疼痛，有压痛、反",
+      "bbox": [
+        53.66,
+        94.591,
+        298.299,
+        104.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "曾经被HAV感染，对HAV已产生免疫力，日前体内",
+      "bbox": [
+        320.0,
+        94.601,
+        562.121,
+        104.471
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "跳痛。急性胃炎有恶心，呕吐，上腹部压痛，无反跳痛；",
+      "bbox": [
+        53.34,
+        108.281,
+        300.59,
+        118.171
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "已无HAV。抗HBs阳性说明患者曾患过乙肝，现在已",
+      "bbox": [
+        320.11,
+        108.601,
+        561.953,
+        118.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "急性肝炎有发热，黄疸，恶心，呕吐，右上腹压痛。",
+      "bbox": [
+        53.36,
+        122.341,
+        280.83,
+        132.231
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "经有抗体或已注射过乙肝疫苗。HCVAb阳性，说明患",
+      "bbox": [
+        319.4,
+        122.621,
+        562.28,
+        132.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "100. C【解析】钙拮抗剂阻断内流，降低平",
+      "bbox": [
+        74.66,
+        136.741,
+        297.97,
+        147.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "者感染HCV，且血清ALT150U/L升高，故可能患有输",
+      "bbox": [
+        319.21,
+        136.851,
+        562.525,
+        146.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "滑肌细胞内浓度，从而使冠状动脉扩张，如硝苯地",
+      "bbox": [
+        53.22,
+        151.501,
+        298.32,
+        161.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "血后丙型肝炎。",
+      "bbox": [
+        319.2,
+        151.611,
+        388.5,
+        161.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "平（心痛定），有强力冠脉扩张作用。定时服用可大幅",
+      "bbox": [
+        53.16,
+        165.621,
+        298.027,
+        175.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "111. C【解析】急性重型肝炎又称暴发型肝炎，发",
+      "bbox": [
+        340.35,
+        165.631,
+        562.328,
+        175.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "度的减少变异型心绞痛发作。",
+      "bbox": [
+        53.17,
+        180.261,
+        183.52,
+        190.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "病多有诱因。以急性黄疸型肝炎起病，但病情发展迅",
+      "bbox": [
+        318.76,
+        180.051,
+        562.331,
+        189.941
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "101. B【解析】仰卧位时腹部呈蛙状，侧卧位时下",
+      "bbox": [
+        74.47,
+        194.591,
+        297.656,
+        204.501
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "猛，2周内出现极度乏力，严重消化道症状，出现神经、",
+      "bbox": [
+        318.93,
+        194.481,
+        562.373,
+        204.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "侧腹部明显膨出，移动性浊音阳性，提示腹腔积液。",
+      "bbox": [
+        53.15,
+        209.131,
+        280.85,
+        219.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "精神症状，表现为嗜睡、性格改变、烦躁不安、昏迷等，",
+      "bbox": [
+        318.7,
+        208.951,
+        565.95,
+        218.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "102. A【解析】1型糖尿病多发生于青少年，其胰",
+      "bbox": [
+        74.31,
+        223.651,
+        297.889,
+        235.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "体检可见扑翼样震颤及病理反射，肝性脑病在Ⅱ度以",
+      "bbox": [
+        318.61,
+        223.531,
+        561.963,
+        233.421
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "岛素分泌缺乏，必须依赖胰岛素治疗维持生命。2型糖",
+      "bbox": [
+        53.26,
+        238.141,
+        297.929,
+        248.031
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "上（按Ⅳ度划分）。黄疸急剧加深，胆酶分离，肝浊音界",
+      "bbox": [
+        318.62,
+        238.061,
+        562.512,
+        247.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "尿病多见于30岁以上中、老年人，其胰岛素的分泌量",
+      "bbox": [
+        52.83,
+        252.721,
+        297.667,
+        262.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "进行性缩小，有出血倾向，PTA小于40%，血氨升高，",
+      "bbox": [
+        318.51,
+        252.411,
+        563.542,
+        262.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "并不低甚至还偏高，病因主要是机体对胰岛素不敏感",
+      "bbox": [
+        52.66,
+        267.061,
+        297.566,
+        276.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "出现中毒性鼓肠，肝臭，急性肾衰竭（肝肾综合征）。即",
+      "bbox": [
+        319.36,
+        266.861,
+        561.962,
+        276.751
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "（即胰岛素抵抗）。C项是糖尿病的一种急性并发症，",
+      "bbox": [
+        53.37,
+        281.481,
+        297.119,
+        291.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "使黄疸很轻，甚至尚未出现黄疸，但有上述表现者，应",
+      "bbox": [
+        318.37,
+        281.081,
+        562.099,
+        290.971
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "是血糖急剧升高引起的胰岛素严重不足激发的酸中",
+      "bbox": [
+        52.64,
+        296.161,
+        297.281,
+        306.061
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "考虑本病的诊断。",
+      "bbox": [
+        318.36,
+        295.741,
+        397.48,
+        305.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "毒；DE项尿中有蛋白。",
+      "bbox": [
+        52.8,
+        310.441,
+        153.095,
+        320.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "112. D【解析】肥皂水为碱性物质，可使肠道内呈",
+      "bbox": [
+        339.57,
+        309.901,
+        562.048,
+        319.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "103. E【解析】患者有多食、大便次数多等高代谢",
+      "bbox": [
+        74.19,
+        325.041,
+        297.643,
+        334.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "碱性，使氨增多，吸收入血后，可使血氨升高，加重肝性",
+      "bbox": [
+        318.37,
+        324.751,
+        565.62,
+        334.641
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "症状，且有双眼突出，提示有甲亢可能，而心律不齐、脉",
+      "bbox": [
+        52.73,
+        339.611,
+        300.23,
+        349.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "脑病，因此对肝性脑病患者禁用。",
+      "bbox": [
+        318.16,
+        338.871,
+        466.66,
+        348.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "搏短绌为房颤的典型表现，所以本患者有甲亢及房颤，",
+      "bbox": [
+        52.59,
+        354.331,
+        296.774,
+        364.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "113. B【解析】有慢性失血史，血红蛋白、血清铁、",
+      "bbox": [
+        339.48,
+        353.701,
+        565.95,
+        363.591
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "而本题并未提及患者有糖尿病、风心病、高血压病、肺",
+      "bbox": [
+        52.83,
+        368.841,
+        297.697,
+        378.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "铁蛋白减少，诊为缺铁性贫血。首选二价铁治疗。",
+      "bbox": [
+        318.16,
+        367.841,
+        537.194,
+        377.731
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "心病病史。",
+      "bbox": [
+        52.64,
+        383.441,
+        102.09,
+        393.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "114. B【解析】该患者红细胞,血红",
+      "bbox": [
+        339.32,
+        382.261,
+        561.708,
+        393.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "104. B【解析】胃穿孔多有胃溃疡病史，突然出现",
+      "bbox": [
+        74.16,
+        397.561,
+        297.318,
+        407.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "蛋白65g/L，提示贫血。血清铁蛋白10μg/L,<正常值",
+      "bbox": [
+        318.17,
+        396.551,
+        562.062,
+        406.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "剧烈腹痛伴休克；胃痉挛按压后可减轻；胃溃疡为节律",
+      "bbox": [
+        52.53,
+        412.231,
+        297.169,
+        422.121
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "（12μg/L），提示缺铁，故该患者最可能的诊断是缺铁性",
+      "bbox": [
+        318.68,
+        411.001,
+        562.044,
+        420.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "性、慢性、周期性疼痛，可有压痛；胃炎有饮食不节病",
+      "bbox": [
+        52.46,
+        426.501,
+        297.346,
+        436.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "贫血。",
+      "bbox": [
+        318.07,
+        426.181,
+        347.74,
+        436.071
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "史，上腹部压痛；急性胃扩张有暴饮暴食史，伴恶心，上",
+      "bbox": [
+        52.69,
+        441.441,
+        299.94,
+        451.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "115. A【解析】患者所享受的权利：基本医疗权、知",
+      "bbox": [
+        339.15,
+        439.951,
+        564.71,
+        449.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "腹部压痛。",
+      "bbox": [
+        52.45,
+        455.841,
+        101.95,
+        465.741
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "情同意权、疾病认知权、保护隐私权、监督医疗权、免除",
+      "bbox": [
+        317.76,
+        454.471,
+        565.01,
+        464.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "105. C【解析】支气管扩张大多继发于急慢性呼",
+      "bbox": [
+        74.14,
+        469.921,
+        297.012,
+        479.861
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "一定的社会责任权、要求赔偿权。无论在医疗的任何环",
+      "bbox": [
+        317.83,
+        468.641,
+        562.242,
+        478.531
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "吸道感染和支气管阻塞后，反复发生支气管炎症，导致",
+      "bbox": [
+        52.9,
+        484.391,
+        297.103,
+        494.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "节中都应考虑患者所享有的利益，不能忽视，应予以充",
+      "bbox": [
+        317.78,
+        483.051,
+        562.439,
+        492.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "支气管壁结构破坏，引起支气管异常和持久性扩张。",
+      "bbox": [
+        52.32,
+        498.291,
+        296.791,
+        508.191
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "分的尊重。同时包括实施诊疗方案的最优化原则。",
+      "bbox": [
+        317.7,
+        497.001,
+        537.565,
+        506.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "临床主要表现为慢性咳嗽、咳大量脓痰和（或）反复咯",
+      "bbox": [
+        52.94,
+        513.081,
+        296.916,
+        522.981
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "116. E【解析】《中华人民共和国药品管理法》规",
+      "bbox": [
+        339.04,
+        511.821,
+        562.198,
+        521.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "血。本患者临床症状及病史，支持支气管扩张诊断。",
+      "bbox": [
+        52.58,
+        527.771,
+        282.472,
+        537.681
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "定的法律责任有行政责任、民事责任和刑事责任。《中",
+      "bbox": [
+        317.46,
+        526.001,
+        561.663,
+        535.901
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "106. A【解析】受体激动剂是缓解哮喘症状的",
+      "bbox": [
+        74.15,
+        542.241,
+        296.393,
+        552.701
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "华人民共和国刑法》第一百四十二条规定：生产、销售",
+      "bbox": [
+        317.45,
+        541.071,
+        561.862,
+        550.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "首选药物，沙丁胺醇气雾剂属于受体激动剂。",
+      "bbox": [
+        52.7,
+        556.701,
+        268.24,
+        567.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "劣药，对人体健康造成严重危害的，处三年以上十年以",
+      "bbox": [
+        317.76,
+        555.761,
+        561.489,
+        565.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "107. A【解析】伤寒的特点是高热，血象偏低，嗜",
+      "bbox": [
+        74.18,
+        570.831,
+        296.68,
+        581.511
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "下有期徒刑，并处罚金；后果特别严重的，处十年以上",
+      "bbox": [
+        317.61,
+        570.061,
+        562.022,
+        579.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "酸粒细胞消失，骨髓象中有伤寒细胞可临床确诊。",
+      "bbox": [
+        52.87,
+        585.711,
+        272.112,
+        595.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "有期徒刑或者无期徒刑，并处罚金或者没收财产。药",
+      "bbox": [
+        317.38,
+        584.471,
+        562.068,
+        594.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "108. C【解析】根据患者病史及临床表现，可诊断",
+      "bbox": [
+        74.21,
+        599.831,
+        296.69,
+        610.371
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "品使用单位的人员明知是劣药而提供给他人使用的，",
+      "bbox": [
+        317.96,
+        598.991,
+        561.531,
+        608.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "洋地黄中毒；对于洋地黄中毒的处理，应立即停药，对",
+      "bbox": [
+        52.69,
+        614.281,
+        296.666,
+        624.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "依照前款的规定处罚。",
+      "bbox": [
+        317.41,
+        614.041,
+        416.31,
+        623.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "快速性心律失常者，应静脉补充钾盐：有传导阻滞及缓",
+      "bbox": [
+        52.7,
+        629.021,
+        296.448,
+        638.921
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "117. D【解析】任何单位和个人发现传染病患者",
+      "bbox": [
+        338.65,
+        628.141,
+        562.122,
+        638.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "慢性心律失常者可用阿托品0.5～1.0mg.皮下或静脉",
+      "bbox": [
+        52.58,
+        643.331,
+        296.092,
+        654.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "或者疑似传染病患者时，应当及时向附近的疾病预防",
+      "bbox": [
+        317.6,
+        642.991,
+        562.229,
+        652.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "注射，故选C。",
+      "bbox": [
+        52.92,
+        658.551,
+        117.555,
+        668.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "控制机构或者医疗机构报告。医疗机构对传染病应当",
+      "bbox": [
+        317.36,
+        657.311,
+        561.698,
+        667.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "109. A【解析】左心室肥大的心电图上可出现如",
+      "bbox": [
+        74.24,
+        672.431,
+        296.0,
+        682.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "实行传染病预检、分诊制度；对传染病患者、疑似传染",
+      "bbox": [
+        317.52,
+        671.871,
+        561.97,
+        681.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "下改变。①QRS波群电压增高：胸导联或>",
+      "bbox": [
+        52.84,
+        687.151,
+        290.659,
+        697.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "病患者，应当引导至相对隔离的分诊点进行初诊。医",
+      "bbox": [
+        317.15,
+        686.721,
+        561.925,
+        696.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "2. 5mV , （男性）或> 3.5mV （女性）,",
+      "bbox": [
+        52.82,
+        701.511,
+        295.436,
+        711.781
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "疗机构不具备相应救治能力的，应当将患者及其病历",
+      "bbox": [
+        317.12,
+        701.021,
+        562.141,
+        710.961
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "肢体导联中，,RₐvL> 1.2mv , >2.0mV,",
+      "bbox": [
+        52.9,
+        715.861,
+        286.652,
+        727.291
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "记录复印件一并转至具备相应救治能力的医疗机构。",
+      "bbox": [
+        317.39,
+        715.561,
+        561.946,
+        725.491
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "；②可出现额面心电轴左偏；③QRS波",
+      "bbox": [
+        126.77,
+        730.551,
+        296.291,
+        740.431
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "目前国家要求二甲以上医院必须开设感染科，县级以",
+      "bbox": [
+        318.92,
+        730.011,
+        561.92,
+        739.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "群时间延长到0.10～0.11秒,但一般<0.12秒;④在R",
+      "bbox": [
+        52.83,
+        744.701,
+        296.906,
+        754.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "下的基层医疗机构医务人员发现传染病患者后应及时",
+      "bbox": [
+        317.46,
+        744.541,
+        562.148,
+        754.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "波为主的导联，其ST段呈下斜型压低达0.05mV以",
+      "bbox": [
+        52.91,
+        758.871,
+        295.561,
+        768.761
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "报告。",
+      "bbox": [
+        317.23,
+        759.111,
+        346.96,
+        769.021
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "上，T波低平、双向或倒置。",
+      "bbox": [
+        53.05,
+        773.201,
+        178.02,
+        783.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "118. B【解析】参见《医疗事故处理条例》第二十",
+      "bbox": [
+        338.68,
+        773.172,
+        562.041,
+        783.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "110. C【解析】根据题干可知患者3个月前乳腺",
+      "bbox": [
+        74.05,
+        787.105,
+        295.785,
+        797.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "一条：设区的市级地方医学会和省、自治区、直辖市直",
+      "bbox": [
+        317.26,
+        787.431,
+        562.333,
+        797.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        275.88,
+        805.581,
+        285.75,
+        815.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "274—",
+      "bbox": [
+        296.07,
+        804.887,
+        335.75,
+        816.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

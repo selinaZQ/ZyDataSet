@@ -1,0 +1,1337 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 7,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）参考答案及解析",
+      "bbox": [
+        321.68,
+        45.861,
+        536.193,
+        55.489
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "某些疾病的特征性热型变得不典型或呈不规则热型。",
+      "bbox": [
+        46.43,
+        75.584,
+        277.457,
+        85.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "16. D【解析】胸骨压痛是急性白血病的特有",
+      "bbox": [
+        330.89,
+        75.235,
+        548.317,
+        85.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "4. D【解析】手术治疗为非小细胞肺癌的主要治",
+      "bbox": [
+        66.81,
+        89.285,
+        284.647,
+        99.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "体征。",
+      "bbox": [
+        309.67,
+        89.425,
+        338.29,
+        98.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "疗方法，鳞癌比腺癌和大细胞癌术后效果好。小细胞",
+      "bbox": [
+        45.99,
+        103.045,
+        284.759,
+        112.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "17. D【解析】细胞遗传学检查有助于白血病分型",
+      "bbox": [
+        331.15,
+        103.335,
+        548.257,
+        113.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "肺癌主张先化疗、后手术。放疗对小细胞肺癌效果较",
+      "bbox": [
+        46.13,
+        117.074,
+        284.978,
+        126.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "诊断及治疗监测。细胞化学染色有助于急性白血病分",
+      "bbox": [
+        310.05,
+        117.154,
+        548.859,
+        126.714
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "好，其次为鳞癌和腺癌。",
+      "bbox": [
+        46.3,
+        131.124,
+        151.46,
+        140.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "类鉴别，白血病确诊靠骨髓象。",
+      "bbox": [
+        309.86,
+        131.394,
+        443.56,
+        140.944
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "5. E【解析】发热、咳痰等为急性支气管炎和流行",
+      "bbox": [
+        66.8,
+        145.295,
+        284.782,
+        154.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "18. A【解析】诊断胸腔积液，X线检查能明确积",
+      "bbox": [
+        331.24,
+        145.185,
+        548.803,
+        154.725
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "性感冒都可具有的临床表现，急性支气管炎和流行性",
+      "bbox": [
+        46.15,
+        159.274,
+        285.129,
+        168.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "液的存在，但难以区别液体的性质。",
+      "bbox": [
+        310.08,
+        159.235,
+        464.151,
+        168.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "感冒若无合并并发症的话基本不会有肺部啰音。",
+      "bbox": [
+        46.12,
+        173.345,
+        256.895,
+        184.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "19. E【解析】病理性高血糖：①各型糖尿病及甲",
+      "bbox": [
+        331.37,
+        173.275,
+        547.729,
+        182.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "6. B【解析】巨大脾脏可见于慢性粒细胞白血病",
+      "bbox": [
+        67.06,
+        187.585,
+        284.97,
+        197.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "状腺功能亢进、Cushing病、肢端肥大症、嗜铬细胞瘤等",
+      "bbox": [
+        310.1,
+        187.385,
+        548.573,
+        196.895
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "急性变，故选B。急性白血病、肝硬化脾功能亢进时可",
+      "bbox": [
+        46.42,
+        201.775,
+        284.872,
+        211.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "内分泌疾病；②颅外伤、颅内出血、脑膜炎等引起颅内",
+      "bbox": [
+        311.07,
+        201.545,
+        548.119,
+        211.075
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "见脾大，但多为轻至中度。",
+      "bbox": [
+        46.31,
+        215.935,
+        160.79,
+        225.475
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "压升高刺激血糖中枢以及在疾病应激状态时；③脱水、",
+      "bbox": [
+        310.17,
+        215.775,
+        548.534,
+        225.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "7. E【解析】饮食或药品对舌苔的影响：①过食肥",
+      "bbox": [
+        67.16,
+        230.035,
+        285.063,
+        239.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "血浆呈高渗状态（高热、呕吐、腹泻）。",
+      "bbox": [
+        310.22,
+        229.895,
+        469.371,
+        239.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "甘之品及服大量镇静剂——舌苔厚腻；②长期服用抗",
+      "bbox": [
+        46.36,
+        244.305,
+        285.112,
+        253.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "20. B【解析】粒细胞缺乏症体检时口腔、咽峡、阴",
+      "bbox": [
+        330.99,
+        243.915,
+        548.35,
+        253.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "生素——舌苔黑腻或霉腐苔；③某些饮食或药物，会使",
+      "bbox": [
+        46.5,
+        258.804,
+        285.404,
+        268.364
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "道、直肠或肛门等处有坏死性溃疡及脓肿，有肝脾肿大",
+      "bbox": [
+        310.31,
+        258.295,
+        548.735,
+        267.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "舌苔染色，称为染苔，如牛奶、豆浆、钡剂、椰汁等可使",
+      "bbox": [
+        46.34,
+        272.704,
+        285.569,
+        282.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "及淋巴结肿大，尤其颌下和颈淋巴结，故选B。A项见",
+      "bbox": [
+        310.29,
+        272.475,
+        548.647,
+        282.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "舌苔变白、变厚。",
+      "bbox": [
+        46.23,
+        286.885,
+        122.55,
+        296.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "于慢性出血、白血病；C项见于血小板减少；D项见于",
+      "bbox": [
+        310.62,
+        286.655,
+        548.651,
+        296.185
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "8. A【解析】肺心病最常见的病因是COPD,",
+      "bbox": [
+        67.06,
+        301.205,
+        285.023,
+        310.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "胃肠道疾病及颅内高压；E项见于白血病。",
+      "bbox": [
+        311.45,
+        301.075,
+        494.177,
+        310.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "COPD可引起缺氧，缺氧又可导致肺部细小动脉痉挛，",
+      "bbox": [
+        46.46,
+        315.505,
+        284.841,
+        325.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "21. E【解析】每日咯血量<100ml为少量咯血,",
+      "bbox": [
+        331.11,
+        315.235,
+        548.067,
+        324.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "促使肺血管构型改建，无肌细动脉肌化、肺小动脉中膜",
+      "bbox": [
+        46.5,
+        329.594,
+        285.615,
+        339.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "100～500ml为中等量咯血,在500ml以上或一次咯血",
+      "bbox": [
+        310.82,
+        329.655,
+        548.68,
+        339.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "增生肥厚，导致肺部循环阻力的升高，使肺动脉压升",
+      "bbox": [
+        46.3,
+        343.774,
+        285.699,
+        353.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "量300～500ml为大量咯血。",
+      "bbox": [
+        310.38,
+        343.885,
+        432.936,
+        353.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "高，最终导致右心室肥大、扩张，其中，肺细小动脉痉挛",
+      "bbox": [
+        46.7,
+        358.025,
+        285.385,
+        367.545
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "22. B【解析】P波：由心房的激动所产生。前一",
+      "bbox": [
+        331.2,
+        357.955,
+        548.502,
+        367.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "起了关键性作用。",
+      "bbox": [
+        46.24,
+        372.294,
+        122.774,
+        381.844
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "半主要由右心房所产生，后一半主要由左心房所产生。",
+      "bbox": [
+        310.45,
+        372.414,
+        548.465,
+        381.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "9. A【解析】咳嗽是原发癌肿引起的肺癌最常见",
+      "bbox": [
+        67.21,
+        386.165,
+        285.477,
+        396.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "正常人P波的时间一般小于0.12秒，振幅在肢体导联",
+      "bbox": [
+        310.53,
+        386.235,
+        548.73,
+        395.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "的早期症状，另外，咯血、喘鸣、胸闷、气急、体重下降、",
+      "bbox": [
+        47.09,
+        400.255,
+        295.13,
+        409.795
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "一般小于0.25mV,胸导联一般小于0.2mV。",
+      "bbox": [
+        310.57,
+        400.475,
+        505.221,
+        409.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "发热也是原发癌肿引起的主要症状。而胸痛、吞咽困",
+      "bbox": [
+        46.31,
+        414.704,
+        285.289,
+        424.255
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "23. D【解析】引起中枢性呕吐的情况：①中枢神",
+      "bbox": [
+        331.32,
+        414.575,
+        548.617,
+        424.095
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "难等是肿瘤局部扩展引起的症状；头痛、呕吐、厌食、肝",
+      "bbox": [
+        46.26,
+        428.944,
+        285.927,
+        438.494
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "经系统疾病（如脑血管疾病、肿瘤、外伤、偏头痛等）；",
+      "bbox": [
+        310.59,
+        428.804,
+        548.06,
+        438.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "区疼痛等是肝外转移引起的症状。",
+      "bbox": [
+        47.01,
+        443.115,
+        195.83,
+        452.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "②全身性疾病（如感染、内分泌与代谢紊乱等）；③药物",
+      "bbox": [
+        310.63,
+        442.925,
+        548.767,
+        452.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "10. E【解析】左心衰竭以肺淤血及心排血量降低",
+      "bbox": [
+        67.44,
+        457.155,
+        285.664,
+        467.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "反应与药物中毒（如洋地黄、吗啡中毒）。",
+      "bbox": [
+        310.55,
+        457.075,
+        480.279,
+        466.605
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "表现为主，其中呼吸困难是左心衰竭最早出现和最重",
+      "bbox": [
+        46.38,
+        471.305,
+        285.656,
+        480.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "24. A【解析】医学伦理学以生命论、人道论、美德",
+      "bbox": [
+        331.33,
+        471.145,
+        548.71,
+        480.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "要的症状，咳嗽、咯痰、咯血、乏力同时也是左心衰竭的",
+      "bbox": [
+        46.31,
+        485.484,
+        285.539,
+        495.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "论和公益论等为基本理论，其中，生命论包括生命神圣",
+      "bbox": [
+        310.59,
+        485.364,
+        548.356,
+        494.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "症状，但最早出现和最重要症状是呼吸困难。",
+      "bbox": [
+        46.12,
+        499.584,
+        242.224,
+        509.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "论、生命质量论和生命价值论；人道论中人道主义的核",
+      "bbox": [
+        310.67,
+        499.614,
+        548.436,
+        509.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "11. E【解析】目前国内第一线抗结核药：异烟肼、",
+      "bbox": [
+        67.33,
+        513.655,
+        285.569,
+        523.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "心是尊重患者的生命、人格、尊严、平等的医疗与健康权",
+      "bbox": [
+        310.73,
+        513.805,
+        549.23,
+        523.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "利福平、链霉素、吡嗪酰胺。特点：疗效好，毒性低。",
+      "bbox": [
+        46.2,
+        527.834,
+        275.4,
+        537.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "利以及对社会、医院、医务人员的尊重；美德论中医德品",
+      "bbox": [
+        310.76,
+        527.895,
+        549.26,
+        537.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "12. B【解析】典型心绞痛发作是突然发生的位于",
+      "bbox": [
+        67.33,
+        542.035,
+        285.681,
+        551.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "质的内容有仁慈、诚挚、严谨、公正、节操；公益论中以群",
+      "bbox": [
+        310.82,
+        542.105,
+        558.6,
+        551.635
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "胸骨体上段或中段之后的压榨性、闷胀性或窒息性疼",
+      "bbox": [
+        46.03,
+        556.164,
+        285.89,
+        565.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "体利益为重，以长远利益为重，以整体利益为重。",
+      "bbox": [
+        310.7,
+        556.495,
+        520.58,
+        566.035
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "痛，亦可能波及大部分心前区，可放射至左肩左上肢前",
+      "bbox": [
+        46.09,
+        570.645,
+        285.704,
+        580.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "25. D【解析】有机磷杀虫药抑制胆碱酯酶，氰化",
+      "bbox": [
+        331.58,
+        570.445,
+        548.441,
+        579.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "内侧，舌下含硝酸甘油，如有效心绞痛应于1～3分钟",
+      "bbox": [
+        47.05,
+        584.685,
+        285.504,
+        595.111
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "物抑制细胞色素氧化酶，重金属抑制含巯基的酶类等。",
+      "bbox": [
+        310.92,
+        584.775,
+        545.997,
+        594.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "内缓解。",
+      "bbox": [
+        47.04,
+        598.935,
+        85.08,
+        608.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "26. C【解析】流行性出血热的病理解剖可见脏器",
+      "bbox": [
+        331.68,
+        599.075,
+        548.292,
+        608.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "13. D【解析】心电图出现异常Q波为陈旧性心",
+      "bbox": [
+        67.57,
+        613.085,
+        285.694,
+        622.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "中肾脏病变最明显。肉眼可见肾脂肪囊水肿、出血，镜",
+      "bbox": [
+        311.68,
+        613.205,
+        548.51,
+        622.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "肌梗死的表现，而非自发性心绞痛。自发性心绞痛可",
+      "bbox": [
+        46.35,
+        627.344,
+        285.579,
+        636.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "检肾小球充血，基底膜增厚；肾小管受压而变窄或闭",
+      "bbox": [
+        310.78,
+        627.384,
+        548.078,
+        636.934
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "于非体力活动时发作，病情加重则含服硝酸甘油不缓",
+      "bbox": [
+        46.46,
+        641.514,
+        285.689,
+        651.074
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "塞；间质有细胞浸润。",
+      "bbox": [
+        310.82,
+        641.694,
+        406.32,
+        651.244
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "解，持续时间较稳定性心绞痛长，但血清酶一般正常，",
+      "bbox": [
+        46.04,
+        655.805,
+        285.12,
+        665.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "27. D【解析】在受损部位可产生叩击痛。叩击痛",
+      "bbox": [
+        331.65,
+        655.965,
+        548.226,
+        665.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "此点与心肌梗死区别。",
+      "bbox": [
+        45.99,
+        670.045,
+        142.662,
+        679.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "阳性可见于脊椎结核、骨折及椎间盘突出、棘间韧带",
+      "bbox": [
+        311.69,
+        670.085,
+        548.452,
+        679.605
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "14. D【解析】萎缩性胃炎的胃黏膜表面反复受到",
+      "bbox": [
+        67.49,
+        684.165,
+        285.308,
+        694.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "损伤。",
+      "bbox": [
+        310.71,
+        684.177,
+        338.76,
+        693.527
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "损害后导致黏膜固有腺体萎缩，甚至消失。因此，胃黏",
+      "bbox": [
+        45.91,
+        698.394,
+        285.653,
+        707.944
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "28. B【解析】在胸骨右缘第2肋间触及收缩期震",
+      "bbox": [
+        331.66,
+        698.317,
+        548.491,
+        707.917
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "膜有不同程度的变薄，颜色灰暗，并常伴有肠上皮化",
+      "bbox": [
+        45.93,
+        712.634,
+        285.62,
+        722.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "颤，应考虑为主动脉瓣狭窄；在胸骨左缘第2肋间触及",
+      "bbox": [
+        310.98,
+        712.856,
+        548.488,
+        722.256
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "生，炎性反应及不典型增生，其余选项均不是萎缩性胃",
+      "bbox": [
+        46.19,
+        726.694,
+        284.865,
+        736.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "收缩期震颤，应考虑为肺动脉瓣狭窄；在胸骨左缘第3、",
+      "bbox": [
+        311.2,
+        726.836,
+        548.682,
+        736.236
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "炎的表现。",
+      "bbox": [
+        46.13,
+        740.795,
+        93.88,
+        750.345
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "第4肋间触及收缩期震颤，应考虑为室间隔缺损；在胸",
+      "bbox": [
+        310.77,
+        740.936,
+        548.441,
+        750.426
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "15. B【解析】食欲不振、恶心、呕吐常为慢性肾衰",
+      "bbox": [
+        67.58,
+        754.875,
+        285.801,
+        764.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "骨左缘第2肋间触及连续性震颤，应考虑为动脉导管",
+      "bbox": [
+        311.14,
+        754.626,
+        548.546,
+        764.346
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "竭患者最早出现与最常见的症状。",
+      "bbox": [
+        46.15,
+        769.094,
+        195.283,
+        778.644
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "未闭；在心尖区触及舒张期震颤，应考虑为二尖瓣狭",
+      "bbox": [
+        310.87,
+        768.836,
+        548.484,
+        778.216
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "197",
+      "bbox": [
+        290.04,
+        786.198,
+        303.955,
+        795.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

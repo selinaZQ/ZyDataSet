@@ -1,0 +1,1368 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 2,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        151.0,
+        72.0,
+        574.0,
+        110.0
+      ],
+      "confidence": 0.998664,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "中医执业医师",
+      "bbox": [
+        625.0,
+        71.0,
+        876.0,
+        112.0
+      ],
+      "confidence": 0.999708,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "C. 促进骨骼发育",
+      "bbox": [
+        227.0,
+        183.0,
+        536.0,
+        228.0
+      ],
+      "confidence": 0.998739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "C. 舌",
+      "bbox": [
+        1168.0,
+        177.0,
+        1274.0,
+        233.0
+      ],
+      "confidence": 0.994057,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "D. 促进脾胃的运化",
+      "bbox": [
+        227.0,
+        242.0,
+        580.0,
+        284.0
+      ],
+      "confidence": 0.997904,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "D. □",
+      "bbox": [
+        1168.0,
+        236.0,
+        1273.0,
+        289.0
+      ],
+      "confidence": 0.910413,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "E. 促进血液运行",
+      "bbox": [
+        225.0,
+        300.0,
+        537.0,
+        345.0
+      ],
+      "confidence": 0.998259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "E. 耳",
+      "bbox": [
+        1169.0,
+        295.0,
+        1272.0,
+        346.0
+      ],
+      "confidence": 0.990596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "11. 目的视觉功能主要取决于（",
+      "bbox": [
+        227.0,
+        357.0,
+        789.0,
+        401.0
+      ],
+      "confidence": 0.971214,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        877.0,
+        362.0,
+        895.0,
+        390.0
+      ],
+      "confidence": 0.455725,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "18. 六淫邪气中，具有“重浊”特点的是（",
+      "bbox": [
+        1174.0,
+        357.0,
+        1854.0,
+        398.0
+      ],
+      "confidence": 0.939086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 风",
+      "bbox": [
+        1168.0,
+        406.0,
+        1281.0,
+        463.0
+      ],
+      "confidence": 0.917811,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 肾中精气的充盈",
+      "bbox": [
+        226.0,
+        414.0,
+        584.0,
+        462.0
+      ],
+      "confidence": 0.997427,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 肝血的充足",
+      "bbox": [
+        225.0,
+        476.0,
+        488.0,
+        519.0
+      ],
+      "confidence": 0.998553,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 寒",
+      "bbox": [
+        1169.0,
+        467.0,
+        1273.0,
+        521.0
+      ],
+      "confidence": 0.997147,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 暑",
+      "bbox": [
+        1168.0,
+        523.0,
+        1275.0,
+        582.0
+      ],
+      "confidence": 0.996087,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 脾气的健运",
+      "bbox": [
+        223.0,
+        530.0,
+        490.0,
+        579.0
+      ],
+      "confidence": 0.994579,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 肾阳的蒸化",
+      "bbox": [
+        224.0,
+        592.0,
+        491.0,
+        635.0
+      ],
+      "confidence": 0.991498,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 湿",
+      "bbox": [
+        1172.0,
+        587.0,
+        1274.0,
+        637.0
+      ],
+      "confidence": 0.989133,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 肾阴的滋养",
+      "bbox": [
+        224.0,
+        651.0,
+        488.0,
+        693.0
+      ],
+      "confidence": 0.997442,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 火",
+      "bbox": [
+        1171.0,
+        646.0,
+        1273.0,
+        696.0
+      ],
+      "confidence": 0.997639,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "12. 所谓得气，体现的经络功能是（",
+      "bbox": [
+        224.0,
+        708.0,
+        854.0,
+        751.0
+      ],
+      "confidence": 0.978924,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "）",
+      "bbox": [
+        940.0,
+        713.0,
+        960.0,
+        743.0
+      ],
+      "confidence": 0.525537,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "19. 导致虚热证的病理变化是（",
+      "bbox": [
+        1177.0,
+        708.0,
+        1750.0,
+        749.0
+      ],
+      "confidence": 0.986268,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "）",
+      "bbox": [
+        1825.0,
+        711.0,
+        1851.0,
+        743.0
+      ],
+      "confidence": 0.982168,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 沟通经络作用",
+      "bbox": [
+        227.0,
+        769.0,
+        535.0,
+        810.0
+      ],
+      "confidence": 0.998039,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 阳偏衰",
+      "bbox": [
+        1176.0,
+        764.0,
+        1363.0,
+        810.0
+      ],
+      "confidence": 0.998466,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 运输渗灌作用",
+      "bbox": [
+        224.0,
+        827.0,
+        529.0,
+        869.0
+      ],
+      "confidence": 0.996735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 阴偏衰",
+      "bbox": [
+        1174.0,
+        821.0,
+        1357.0,
+        869.0
+      ],
+      "confidence": 0.999005,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 感应传导作用",
+      "bbox": [
+        225.0,
+        886.0,
+        529.0,
+        927.0
+      ],
+      "confidence": 0.997706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 阳偏胜",
+      "bbox": [
+        1174.0,
+        882.0,
+        1358.0,
+        930.0
+      ],
+      "confidence": 0.999072,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 调节平衡作用",
+      "bbox": [
+        224.0,
+        944.0,
+        531.0,
+        986.0
+      ],
+      "confidence": 0.997828,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 阴偏胜",
+      "bbox": [
+        1174.0,
+        941.0,
+        1361.0,
+        987.0
+      ],
+      "confidence": 0.998572,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 运行气血作用",
+      "bbox": [
+        223.0,
+        1003.0,
+        530.0,
+        1044.0
+      ],
+      "confidence": 0.995864,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 阳盛格阴",
+      "bbox": [
+        1174.0,
+        1000.0,
+        1401.0,
+        1047.0
+      ],
+      "confidence": 0.998215,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "13. 体质对疾病的传变作用，除可影响正",
+      "bbox": [
+        223.0,
+        1059.0,
+        999.0,
+        1104.0
+      ],
+      "confidence": 0.99447,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "20. 在肾主闭藏的功能活动中，最具生理",
+      "bbox": [
+        1174.0,
+        1059.0,
+        1963.0,
+        1106.0
+      ],
+      "confidence": 0.991454,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "气强弱外，另一方面的主要作用是（",
+      "bbox": [
+        141.0,
+        1120.0,
+        791.0,
+        1162.0
+      ],
+      "confidence": 0.978129,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "）",
+      "bbox": [
+        867.0,
+        1122.0,
+        897.0,
+        1160.0
+      ],
+      "confidence": 0.98194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "意义的是（）",
+      "bbox": [
+        1090.0,
+        1118.0,
+        1402.0,
+        1165.0
+      ],
+      "confidence": 0.922234,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "",
+      "bbox": [
+        780.0,
+        1131.0,
+        867.0,
+        1153.0
+      ],
+      "confidence": 0.0,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 影响病邪的“从化”",
+      "bbox": [
+        223.0,
+        1177.0,
+        644.0,
+        1221.0
+      ],
+      "confidence": 0.992429,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 纳气归肾，促进元气之生成",
+      "bbox": [
+        1175.0,
+        1176.0,
+        1740.0,
+        1223.0
+      ],
+      "confidence": 0.99533,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 对疾病的传变规律起决定作用",
+      "bbox": [
+        220.0,
+        1237.0,
+        834.0,
+        1282.0
+      ],
+      "confidence": 0.999676,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 固摄二便，防止二便之失禁",
+      "bbox": [
+        1176.0,
+        1238.0,
+        1733.0,
+        1283.0
+      ],
+      "confidence": 0.991796,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 从病位方面影响疾病传变",
+      "bbox": [
+        222.0,
+        1298.0,
+        748.0,
+        1339.0
+      ],
+      "confidence": 0.999355,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 固摄水液，防止水液无故流失",
+      "bbox": [
+        1174.0,
+        1295.0,
+        1777.0,
+        1343.0
+      ],
+      "confidence": 0.994242,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 对传变的方式起决定作用",
+      "bbox": [
+        218.0,
+        1352.0,
+        750.0,
+        1400.0
+      ],
+      "confidence": 0.999012,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 固摄精气，防止精气无故散失",
+      "bbox": [
+        1176.0,
+        1356.0,
+        1780.0,
+        1401.0
+      ],
+      "confidence": 0.995303,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 从传变的速度方面影响疾病的传变",
+      "bbox": [
+        219.0,
+        1414.0,
+        922.0,
+        1460.0
+      ],
+      "confidence": 0.999596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 摄纳阳气，防止阳气浮越于上",
+      "bbox": [
+        1174.0,
+        1413.0,
+        1780.0,
+        1461.0
+      ],
+      "confidence": 0.995355,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "14. 利小便而实大便的理论依据是（",
+      "bbox": [
+        220.0,
+        1475.0,
+        875.0,
+        1517.0
+      ],
+      "confidence": 0.988128,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "）",
+      "bbox": [
+        961.0,
+        1479.0,
+        979.0,
+        1510.0
+      ],
+      "confidence": 0.613788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "21. “益火之源，以消阴翳”指的是（",
+      "bbox": [
+        1174.0,
+        1474.0,
+        1821.0,
+        1519.0
+      ],
+      "confidence": 0.965164,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "）",
+      "bbox": [
+        1906.0,
+        1479.0,
+        1927.0,
+        1510.0
+      ],
+      "confidence": 0.980653,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 脾主运化",
+      "bbox": [
+        220.0,
+        1533.0,
+        450.0,
+        1579.0
+      ],
+      "confidence": 0.996116,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 阴病治阳",
+      "bbox": [
+        1176.0,
+        1531.0,
+        1409.0,
+        1578.0
+      ],
+      "confidence": 0.999409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 肺主通调水道",
+      "bbox": [
+        217.0,
+        1591.0,
+        527.0,
+        1636.0
+      ],
+      "confidence": 0.999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 阳病治阴",
+      "bbox": [
+        1173.0,
+        1592.0,
+        1402.0,
+        1639.0
+      ],
+      "confidence": 0.999235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 小肠主受盛",
+      "bbox": [
+        218.0,
+        1647.0,
+        487.0,
+        1700.0
+      ],
+      "confidence": 0.998939,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 热者寒之",
+      "bbox": [
+        1173.0,
+        1650.0,
+        1405.0,
+        1700.0
+      ],
+      "confidence": 0.998732,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 小肠主化物",
+      "bbox": [
+        217.0,
+        1708.0,
+        489.0,
+        1758.0
+      ],
+      "confidence": 0.999074,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 寒者热之",
+      "bbox": [
+        1172.0,
+        1707.0,
+        1407.0,
+        1759.0
+      ],
+      "confidence": 0.998873,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 小肠主泌别清浊",
+      "bbox": [
+        217.0,
+        1768.0,
+        573.0,
+        1813.0
+      ],
+      "confidence": 0.996415,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 阳中求阴",
+      "bbox": [
+        1172.0,
+        1768.0,
+        1406.0,
+        1818.0
+      ],
+      "confidence": 0.998692,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "15. 五脏共同的生理特点是（",
+      "bbox": [
+        217.0,
+        1827.0,
+        746.0,
+        1875.0
+      ],
+      "confidence": 0.97878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "）",
+      "bbox": [
+        826.0,
+        1836.0,
+        850.0,
+        1871.0
+      ],
+      "confidence": 0.985548,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "22. 火的特性是（",
+      "bbox": [
+        1174.0,
+        1829.0,
+        1489.0,
+        1875.0
+      ],
+      "confidence": 0.961081,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        1571.0,
+        1834.0,
+        1597.0,
+        1869.0
+      ],
+      "confidence": 0.988186,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 传化物",
+      "bbox": [
+        217.0,
+        1882.0,
+        408.0,
+        1937.0
+      ],
+      "confidence": 0.983808,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "A. 曲直",
+      "bbox": [
+        1172.0,
+        1882.0,
+        1324.0,
+        1939.0
+      ],
+      "confidence": 0.998994,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 实而不能满",
+      "bbox": [
+        218.0,
+        1947.0,
+        485.0,
+        1993.0
+      ],
+      "confidence": 0.998742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 稼穑",
+      "bbox": [
+        1171.0,
+        1944.0,
+        1319.0,
+        1997.0
+      ],
+      "confidence": 0.955374,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 藏精气",
+      "bbox": [
+        214.0,
+        1999.0,
+        403.0,
+        2058.0
+      ],
+      "confidence": 0.994462,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 从革",
+      "bbox": [
+        1172.0,
+        2003.0,
+        1319.0,
+        2055.0
+      ],
+      "confidence": 0.998031,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 泻而不藏",
+      "bbox": [
+        214.0,
+        2060.0,
+        449.0,
+        2115.0
+      ],
+      "confidence": 0.998254,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 炎上",
+      "bbox": [
+        1172.0,
+        2063.0,
+        1320.0,
+        2115.0
+      ],
+      "confidence": 0.998355,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 受盛传化水谷",
+      "bbox": [
+        214.0,
+        2121.0,
+        531.0,
+        2174.0
+      ],
+      "confidence": 0.998634,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 润下",
+      "bbox": [
+        1172.0,
+        2124.0,
+        1318.0,
+        2172.0
+      ],
+      "confidence": 0.997401,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "16. 《素问·上古天真论》说:“筋骨坚，发",
+      "bbox": [
+        217.0,
+        2182.0,
+        1003.0,
+        2236.0
+      ],
+      "confidence": 0.962088,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "23. 下列情志相胜关系中，错误的是（",
+      "bbox": [
+        1174.0,
+        2184.0,
+        1830.0,
+        2230.0
+      ],
+      "confidence": 0.980114,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "）",
+      "bbox": [
+        1904.0,
+        2189.0,
+        1928.0,
+        2222.0
+      ],
+      "confidence": 0.995867,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "长极，身体盛壮”，是指女子哪个年龄段的生理",
+      "bbox": [
+        130.0,
+        2243.0,
+        1001.0,
+        2292.0
+      ],
+      "confidence": 0.983258,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 怒胜思",
+      "bbox": [
+        1174.0,
+        2242.0,
+        1364.0,
+        2289.0
+      ],
+      "confidence": 0.997851,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "表现（）",
+      "bbox": [
+        125.0,
+        2298.0,
+        367.0,
+        2354.0
+      ],
+      "confidence": 0.816341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 思胜恐",
+      "bbox": [
+        1172.0,
+        2301.0,
+        1359.0,
+        2349.0
+      ],
+      "confidence": 0.998304,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 二七",
+      "bbox": [
+        216.0,
+        2360.0,
+        364.0,
+        2409.0
+      ],
+      "confidence": 0.996865,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 恐胜喜",
+      "bbox": [
+        1173.0,
+        2360.0,
+        1359.0,
+        2407.0
+      ],
+      "confidence": 0.998919,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 三七",
+      "bbox": [
+        214.0,
+        2418.0,
+        359.0,
+        2467.0
+      ],
+      "confidence": 0.999233,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 喜胜悲",
+      "bbox": [
+        1171.0,
+        2417.0,
+        1362.0,
+        2468.0
+      ],
+      "confidence": 0.998609,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 四七",
+      "bbox": [
+        214.0,
+        2477.0,
+        361.0,
+        2526.0
+      ],
+      "confidence": 0.997837,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 惊胜怒",
+      "bbox": [
+        1171.0,
+        2476.0,
+        1361.0,
+        2527.0
+      ],
+      "confidence": 0.998777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "D. 五七",
+      "bbox": [
+        213.0,
+        2535.0,
+        362.0,
+        2584.0
+      ],
+      "confidence": 0.998197,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "24. 下列各项，与肺主通调水道功能关系",
+      "bbox": [
+        1172.0,
+        2537.0,
+        1964.0,
+        2584.0
+      ],
+      "confidence": 0.992781,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "E. 六七",
+      "bbox": [
+        213.0,
+        2594.0,
+        359.0,
+        2643.0
+      ],
+      "confidence": 0.998338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "最密切的是（）",
+      "bbox": [
+        1084.0,
+        2594.0,
+        1446.0,
+        2646.0
+      ],
+      "confidence": 0.942793,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "17. 脾在窍为（",
+      "bbox": [
+        216.0,
+        2654.0,
+        485.0,
+        2700.0
+      ],
+      "confidence": 0.949109,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "）",
+      "bbox": [
+        563.0,
+        2656.0,
+        592.0,
+        2695.0
+      ],
+      "confidence": 0.972871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "A. 气机的调节",
+      "bbox": [
+        1176.0,
+        2657.0,
+        1447.0,
+        2700.0
+      ],
+      "confidence": 0.998971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "A. 鼻",
+      "bbox": [
+        209.0,
+        2707.0,
+        322.0,
+        2766.0
+      ],
+      "confidence": 0.994691,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "B. 朝百脉",
+      "bbox": [
+        1172.0,
+        2714.0,
+        1357.0,
+        2762.0
+      ],
+      "confidence": 0.994436,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "B. 目",
+      "bbox": [
+        208.0,
+        2769.0,
+        312.0,
+        2823.0
+      ],
+      "confidence": 0.991333,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "C. 主宣发与肃降",
+      "bbox": [
+        1171.0,
+        2770.0,
+        1486.0,
+        2823.0
+      ],
+      "confidence": 0.995237,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "- 48 -",
+      "bbox": [
+        936.0,
+        2844.0,
+        1146.0,
+        2895.0
+      ],
+      "confidence": 0.852094,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

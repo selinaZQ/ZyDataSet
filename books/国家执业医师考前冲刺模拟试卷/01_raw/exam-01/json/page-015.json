@@ -1,0 +1,1329 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 15,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1451.0,
+        101.0,
+        1866.0,
+        143.0
+      ],
+      "confidence": 0.924924,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 乳酸脱氢酶",
+      "bbox": [
+        218.0,
+        207.0,
+        491.0,
+        260.0
+      ],
+      "confidence": 0.995925,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "43. 下列关于感染过程的描述，错误的",
+      "bbox": [
+        1156.0,
+        213.0,
+        1908.0,
+        257.0
+      ],
+      "confidence": 0.993366,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "36. 对诊断系统性红斑狼疮最有意义的检",
+      "bbox": [
+        219.0,
+        266.0,
+        989.0,
+        313.0
+      ],
+      "confidence": 0.997578,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "是（)",
+      "bbox": [
+        1066.0,
+        263.0,
+        1252.0,
+        319.0
+      ],
+      "confidence": 0.752146,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "查是（)",
+      "bbox": [
+        134.0,
+        319.0,
+        358.0,
+        370.0
+      ],
+      "confidence": 0.811595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 病原体与人体相互作用，相互斗争的过",
+      "bbox": [
+        1156.0,
+        322.0,
+        1913.0,
+        369.0
+      ],
+      "confidence": 0.99163,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "A. 免疫球蛋白测定",
+      "bbox": [
+        222.0,
+        376.0,
+        577.0,
+        422.0
+      ],
+      "confidence": 0.996543,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "程称为感染过程",
+      "bbox": [
+        1072.0,
+        378.0,
+        1369.0,
+        424.0
+      ],
+      "confidence": 0.999329,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "B. 抗核抗体",
+      "bbox": [
+        219.0,
+        429.0,
+        446.0,
+        479.0
+      ],
+      "confidence": 0.999181,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 感染过程的构成必须具备病原体、人体",
+      "bbox": [
+        1152.0,
+        434.0,
+        1913.0,
+        481.0
+      ],
+      "confidence": 0.998898,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "C. 总补体溶血活力测定",
+      "bbox": [
+        220.0,
+        486.0,
+        657.0,
+        531.0
+      ],
+      "confidence": 0.997853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "和外环境三个因素",
+      "bbox": [
+        1071.0,
+        485.0,
+        1414.0,
+        539.0
+      ],
+      "confidence": 0.999708,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "D. 玫瑰花试验",
+      "bbox": [
+        219.0,
+        539.0,
+        491.0,
+        588.0
+      ],
+      "confidence": 0.998265,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 病原体侵人人体，临床上出现相应的症",
+      "bbox": [
+        1150.0,
+        540.0,
+        1914.0,
+        596.0
+      ],
+      "confidence": 0.994376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "E. 淋巴细胞转化试验",
+      "bbox": [
+        220.0,
+        596.0,
+        614.0,
+        641.0
+      ],
+      "confidence": 0.998802,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "状、体征则意味着感染过程的开始",
+      "bbox": [
+        1071.0,
+        598.0,
+        1686.0,
+        648.0
+      ],
+      "confidence": 0.997944,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "37. 诊断非ST段抬高的心肌梗死，价值最",
+      "bbox": [
+        218.0,
+        648.0,
+        989.0,
+        703.0
+      ],
+      "confidence": 0.985655,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 病原体侵人的数量越大，出现显性感染",
+      "bbox": [
+        1149.0,
+        648.0,
+        1914.0,
+        707.0
+      ],
+      "confidence": 0.994259,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "大的实验室指标是()",
+      "bbox": [
+        135.0,
+        699.0,
+        619.0,
+        757.0
+      ],
+      "confidence": 0.913737,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "的危险也越大",
+      "bbox": [
+        1068.0,
+        704.0,
+        1334.0,
+        762.0
+      ],
+      "confidence": 0.999484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 肌钙蛋白",
+      "bbox": [
+        220.0,
+        759.0,
+        448.0,
+        810.0
+      ],
+      "confidence": 0.999028,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 病原体的致病力包括毒力、侵袭力、病",
+      "bbox": [
+        1149.0,
+        760.0,
+        1915.0,
+        819.0
+      ],
+      "confidence": 0.997898,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 肌酸激酶",
+      "bbox": [
+        218.0,
+        815.0,
+        443.0,
+        865.0
+      ],
+      "confidence": 0.999297,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "原体数量和变异性",
+      "bbox": [
+        1071.0,
+        818.0,
+        1417.0,
+        867.0
+      ],
+      "confidence": 0.999193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 天门冬氨酸氨基转移酶",
+      "bbox": [
+        220.0,
+        871.0,
+        697.0,
+        916.0
+      ],
+      "confidence": 0.996716,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "44. 甲类传染病是指(（)",
+      "bbox": [
+        1150.0,
+        867.0,
+        1652.0,
+        925.0
+      ],
+      "confidence": 0.896902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 乳酸脱氢酶",
+      "bbox": [
+        220.0,
+        926.0,
+        487.0,
+        972.0
+      ],
+      "confidence": 0.995549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "A. SARS、狂犬病",
+      "bbox": [
+        1153.0,
+        923.0,
+        1473.0,
+        979.0
+      ],
+      "confidence": 0.996936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 肌酸激酶同工酶",
+      "bbox": [
+        219.0,
+        982.0,
+        569.0,
+        1027.0
+      ],
+      "confidence": 0.998679,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 黑热病、炭疽",
+      "bbox": [
+        1154.0,
+        984.0,
+        1441.0,
+        1031.0
+      ],
+      "confidence": 0.996583,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "38. 对肺炎的病原学诊断中，以下哪种方",
+      "bbox": [
+        220.0,
+        1035.0,
+        987.0,
+        1086.0
+      ],
+      "confidence": 0.994321,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 人感染新亚型流感、天花",
+      "bbox": [
+        1154.0,
+        1039.0,
+        1651.0,
+        1087.0
+      ],
+      "confidence": 0.994846,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "法可提高细菌的检出率（)",
+      "bbox": [
+        138.0,
+        1089.0,
+        696.0,
+        1138.0
+      ],
+      "confidence": 0.960334,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 鼠疫、霍乱",
+      "bbox": [
+        1154.0,
+        1093.0,
+        1403.0,
+        1143.0
+      ],
+      "confidence": 0.994312,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 午后深咳留痰",
+      "bbox": [
+        219.0,
+        1143.0,
+        534.0,
+        1195.0
+      ],
+      "confidence": 0.998221,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 伤寒、流行性出血热",
+      "bbox": [
+        1155.0,
+        1150.0,
+        1568.0,
+        1195.0
+      ],
+      "confidence": 0.99832,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "B. PCR检测",
+      "bbox": [
+        217.0,
+        1199.0,
+        448.0,
+        1249.0
+      ],
+      "confidence": 0.998735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "45. 发生霍乱时，对疫区接触者的检疫期",
+      "bbox": [
+        1155.0,
+        1205.0,
+        1914.0,
+        1252.0
+      ],
+      "confidence": 0.983952,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 行咽拭子培养",
+      "bbox": [
+        218.0,
+        1256.0,
+        523.0,
+        1301.0
+      ],
+      "confidence": 0.997887,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "是（",
+      "bbox": [
+        1068.0,
+        1257.0,
+        1149.0,
+        1310.0
+      ],
+      "confidence": 0.893116,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "）",
+      "bbox": [
+        1189.0,
+        1261.0,
+        1249.0,
+        1306.0
+      ],
+      "confidence": 0.947257,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "D. 留取痰的浆液部分培养",
+      "bbox": [
+        219.0,
+        1312.0,
+        699.0,
+        1357.0
+      ],
+      "confidence": 0.998739,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 3天",
+      "bbox": [
+        1153.0,
+        1313.0,
+        1289.0,
+        1365.0
+      ],
+      "confidence": 0.997518,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "E. 同时进行需氧菌和厌氧菌的培养",
+      "bbox": [
+        218.0,
+        1366.0,
+        869.0,
+        1412.0
+      ],
+      "confidence": 0.999381,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 5天",
+      "bbox": [
+        1152.0,
+        1371.0,
+        1284.0,
+        1418.0
+      ],
+      "confidence": 0.998325,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "39. 上腹壁反射的反射中枢位于（",
+      "bbox": [
+        220.0,
+        1424.0,
+        823.0,
+        1466.0
+      ],
+      "confidence": 0.97462,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "）",
+      "bbox": [
+        905.0,
+        1429.0,
+        925.0,
+        1460.0
+      ],
+      "confidence": 0.599275,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 7天",
+      "bbox": [
+        1152.0,
+        1424.0,
+        1285.0,
+        1473.0
+      ],
+      "confidence": 0.996111,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 胸髓7～8节段",
+      "bbox": [
+        219.0,
+        1477.0,
+        552.0,
+        1524.0
+      ],
+      "confidence": 0.986666,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 9天",
+      "bbox": [
+        1154.0,
+        1481.0,
+        1285.0,
+        1525.0
+      ],
+      "confidence": 0.99763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 胸髓9～10节段",
+      "bbox": [
+        218.0,
+        1531.0,
+        567.0,
+        1580.0
+      ],
+      "confidence": 0.991177,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 12天",
+      "bbox": [
+        1154.0,
+        1535.0,
+        1303.0,
+        1579.0
+      ],
+      "confidence": 0.99853,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 胸髓11～12节段",
+      "bbox": [
+        218.0,
+        1587.0,
+        588.0,
+        1635.0
+      ],
+      "confidence": 0.990353,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "46. 根据突发事件应急处理的需要，有权紧",
+      "bbox": [
+        1154.0,
+        1590.0,
+        1916.0,
+        1638.0
+      ],
+      "confidence": 0.979843,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 腰髓1～2节段",
+      "bbox": [
+        218.0,
+        1642.0,
+        548.0,
+        1691.0
+      ],
+      "confidence": 0.975408,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "急调集人员、储备的物资、交通工具以及相关设",
+      "bbox": [
+        1073.0,
+        1647.0,
+        1916.0,
+        1691.0
+      ],
+      "confidence": 0.998707,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 腰髓3～4节段",
+      "bbox": [
+        219.0,
+        1700.0,
+        546.0,
+        1743.0
+      ],
+      "confidence": 0.982185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "施、设备；必要时，对人员进行疏散或者隔离，并可",
+      "bbox": [
+        1071.0,
+        1702.0,
+        1915.0,
+        1748.0
+      ],
+      "confidence": 0.979706,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "40. 引起吸气性呼吸困难的疾病是（",
+      "bbox": [
+        219.0,
+        1754.0,
+        863.0,
+        1798.0
+      ],
+      "confidence": 0.979633,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "）",
+      "bbox": [
+        945.0,
+        1760.0,
+        966.0,
+        1791.0
+      ],
+      "confidence": 0.978456,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "以依法对传染病疫区实行封锁的是（)",
+      "bbox": [
+        1073.0,
+        1756.0,
+        1799.0,
+        1802.0
+      ],
+      "confidence": 0.94575,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 气管肿瘤",
+      "bbox": [
+        217.0,
+        1807.0,
+        443.0,
+        1857.0
+      ],
+      "confidence": 0.998628,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "A. 县级以上地方人民政府卫生行政主管",
+      "bbox": [
+        1156.0,
+        1812.0,
+        1914.0,
+        1858.0
+      ],
+      "confidence": 0.997944,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 慢性阻塞性肺气肿",
+      "bbox": [
+        218.0,
+        1865.0,
+        608.0,
+        1910.0
+      ],
+      "confidence": 0.993084,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "部门",
+      "bbox": [
+        1066.0,
+        1862.0,
+        1163.0,
+        1919.0
+      ],
+      "confidence": 0.999783,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 支气管哮喘",
+      "bbox": [
+        217.0,
+        1920.0,
+        481.0,
+        1966.0
+      ],
+      "confidence": 0.994826,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "B. 县级以上地方人民政府",
+      "bbox": [
+        1155.0,
+        1923.0,
+        1632.0,
+        1968.0
+      ],
+      "confidence": 0.999363,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 气胸",
+      "bbox": [
+        216.0,
+        1972.0,
+        359.0,
+        2025.0
+      ],
+      "confidence": 0.996562,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "C. 所在地省级人民政府",
+      "bbox": [
+        1157.0,
+        1980.0,
+        1591.0,
+        2021.0
+      ],
+      "confidence": 0.999062,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 大块肺不张",
+      "bbox": [
+        219.0,
+        2033.0,
+        482.0,
+        2075.0
+      ],
+      "confidence": 0.996464,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 突发事件应急处理指挥部",
+      "bbox": [
+        1155.0,
+        2033.0,
+        1676.0,
+        2078.0
+      ],
+      "confidence": 0.999318,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "41. HIV造成机体免疫功能损害主要侵犯",
+      "bbox": [
+        222.0,
+        2089.0,
+        984.0,
+        2130.0
+      ],
+      "confidence": 0.997408,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 国务院卫生行政主管部门",
+      "bbox": [
+        1155.0,
+        2088.0,
+        1675.0,
+        2133.0
+      ],
+      "confidence": 0.999527,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "的细胞是()",
+      "bbox": [
+        135.0,
+        2138.0,
+        442.0,
+        2191.0
+      ],
+      "confidence": 0.921058,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "47. 下列不支持艾滋病诊断的是（",
+      "bbox": [
+        1156.0,
+        2143.0,
+        1754.0,
+        2188.0
+      ],
+      "confidence": 0.972574,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "）",
+      "bbox": [
+        1828.0,
+        2149.0,
+        1853.0,
+        2184.0
+      ],
+      "confidence": 0.9917,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "A. CD4+T淋巴细胞",
+      "bbox": [
+        219.0,
+        2194.0,
+        595.0,
+        2243.0
+      ],
+      "confidence": 0.98936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "A. 口咽念珠菌感染",
+      "bbox": [
+        1156.0,
+        2198.0,
+        1511.0,
+        2243.0
+      ],
+      "confidence": 0.99718,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "B. CD8+T淋巴细胞",
+      "bbox": [
+        218.0,
+        2251.0,
+        590.0,
+        2297.0
+      ],
+      "confidence": 0.982895,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "B. 持续发热",
+      "bbox": [
+        1152.0,
+        2251.0,
+        1378.0,
+        2301.0
+      ],
+      "confidence": 0.999645,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "C. B淋巴细胞",
+      "bbox": [
+        218.0,
+        2308.0,
+        479.0,
+        2354.0
+      ],
+      "confidence": 0.995682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "C. 头痛，进行性痴呆",
+      "bbox": [
+        1155.0,
+        2309.0,
+        1524.0,
+        2354.0
+      ],
+      "confidence": 0.987958,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "D. NK细胞",
+      "bbox": [
+        218.0,
+        2361.0,
+        439.0,
+        2411.0
+      ],
+      "confidence": 0.998407,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "D. 皮肤黏膜出血",
+      "bbox": [
+        1154.0,
+        2365.0,
+        1462.0,
+        2410.0
+      ],
+      "confidence": 0.998804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 浆细胞",
+      "bbox": [
+        219.0,
+        2417.0,
+        403.0,
+        2465.0
+      ],
+      "confidence": 0.999536,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "E. 慢性腹泻",
+      "bbox": [
+        1152.0,
+        2420.0,
+        1377.0,
+        2466.0
+      ],
+      "confidence": 0.995508,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "42. 胃溃疡最主要的症状是(",
+      "bbox": [
+        220.0,
+        2472.0,
+        736.0,
+        2520.0
+      ],
+      "confidence": 0.970741,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "）",
+      "bbox": [
+        817.0,
+        2477.0,
+        843.0,
+        2513.0
+      ],
+      "confidence": 0.957271,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "48. 洋地黄毒性反应所致室性期前收缩伴",
+      "bbox": [
+        1153.0,
+        2473.0,
+        1913.0,
+        2525.0
+      ],
+      "confidence": 0.998676,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "A. 暖气、反酸",
+      "bbox": [
+        220.0,
+        2527.0,
+        473.0,
+        2577.0
+      ],
+      "confidence": 0.921983,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "低血钾治疗宜首选（",
+      "bbox": [
+        1072.0,
+        2530.0,
+        1436.0,
+        2577.0
+      ],
+      "confidence": 0.964338,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "）",
+      "bbox": [
+        1509.0,
+        2534.0,
+        1540.0,
+        2574.0
+      ],
+      "confidence": 0.975213,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "B. 恶心、呕吐",
+      "bbox": [
+        220.0,
+        2584.0,
+        464.0,
+        2630.0
+      ],
+      "confidence": 0.997342,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "A. β受体阻滞剂",
+      "bbox": [
+        1154.0,
+        2584.0,
+        1452.0,
+        2634.0
+      ],
+      "confidence": 0.993144,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "C. 呕吐、黑便",
+      "bbox": [
+        220.0,
+        2638.0,
+        468.0,
+        2688.0
+      ],
+      "confidence": 0.996493,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "B. 普鲁卡因胺",
+      "bbox": [
+        1151.0,
+        2639.0,
+        1417.0,
+        2689.0
+      ],
+      "confidence": 0.932248,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "D. 上腹疼痛",
+      "bbox": [
+        222.0,
+        2696.0,
+        446.0,
+        2742.0
+      ],
+      "confidence": 0.999154,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "C. 可不需治疗",
+      "bbox": [
+        1151.0,
+        2694.0,
+        1416.0,
+        2744.0
+      ],
+      "confidence": 0.999047,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "E. 食欲减退",
+      "bbox": [
+        219.0,
+        2750.0,
+        443.0,
+        2796.0
+      ],
+      "confidence": 0.997484,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "D. 静脉注射利多卡因",
+      "bbox": [
+        1152.0,
+        2752.0,
+        1542.0,
+        2797.0
+      ],
+      "confidence": 0.998243,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

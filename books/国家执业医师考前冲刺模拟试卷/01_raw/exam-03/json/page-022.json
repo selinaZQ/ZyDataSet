@@ -1,0 +1,1207 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 22,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        59.23,
+        60.754,
+        261.559,
+        72.423
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "红素（+），尿胆原（+）。应首先考虑的是",
+      "bbox": [
+        56.88,
+        91.113,
+        297.695,
+        103.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "A. 病毒性脑炎",
+      "bbox": [
+        346.84,
+        92.384,
+        422.352,
+        105.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "（）",
+      "bbox": [
+        57.84,
+        109.264,
+        92.009,
+        120.884
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "B. 尿毒症",
+      "bbox": [
+        346.81,
+        108.554,
+        395.531,
+        120.991
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "A. 蚕豆病",
+      "bbox": [
+        81.68,
+        124.064,
+        132.031,
+        136.742
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "C. 癫痫",
+      "bbox": [
+        346.62,
+        124.114,
+        383.86,
+        136.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "B. 胃炎",
+      "bbox": [
+        81.29,
+        140.734,
+        121.45,
+        153.315
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "D. 有机磷农药中毒",
+      "bbox": [
+        346.46,
+        139.634,
+        446.072,
+        152.325
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "C. 胆道蛔虫症",
+      "bbox": [
+        81.25,
+        156.174,
+        154.905,
+        168.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "E. 先天性心脏病",
+      "bbox": [
+        346.63,
+        155.584,
+        433.318,
+        168.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "D. 急性病毒性肝炎",
+      "bbox": [
+        81.24,
+        171.134,
+        179.329,
+        184.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "113. 患者，女，38岁。洗衣时突发右侧肢",
+      "bbox": [
+        347.57,
+        171.124,
+        567.531,
+        182.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "E. 胆结石",
+      "bbox": [
+        81.39,
+        188.144,
+        130.677,
+        200.882
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "体活动不灵。查体：意识清，失语，二尖瓣区可",
+      "bbox": [
+        322.13,
+        186.734,
+        571.45,
+        198.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "108. 患者，男，52岁。突发脑出血，现症见",
+      "bbox": [
+        82.6,
+        202.774,
+        299.07,
+        214.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "闻及双期杂音，心房纤颤，右侧偏瘫，上肢重于",
+      "bbox": [
+        323.87,
+        202.744,
+        571.81,
+        214.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "头痛,呕吐,昏迷。查体:血压200/ 120mmH g.",
+      "bbox": [
+        57.22,
+        218.353,
+        295.185,
+        232.537
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "下肢，右偏身痛觉减退。应首先考虑的诊",
+      "bbox": [
+        322.4,
+        218.633,
+        567.834,
+        230.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "应迅速采取的治疗是（）",
+      "bbox": [
+        56.45,
+        234.244,
+        201.059,
+        247.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "断是（）",
+      "bbox": [
+        323.08,
+        235.044,
+        382.319,
+        247.604
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "A. 止血",
+      "bbox": [
+        81.06,
+        252.314,
+        120.156,
+        265.402
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "A. 脑血栓形成",
+      "bbox": [
+        346.63,
+        251.644,
+        422.489,
+        264.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "B. 降血压",
+      "bbox": [
+        81.08,
+        268.094,
+        130.359,
+        280.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "B. 脑栓塞",
+      "bbox": [
+        346.48,
+        267.604,
+        395.888,
+        280.596
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "C. 降颅压",
+      "bbox": [
+        81.14,
+        283.944,
+        130.69,
+        296.881
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "C. 脑出血",
+      "bbox": [
+        346.49,
+        284.644,
+        395.698,
+        297.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "D. 维持生命体征",
+      "bbox": [
+        80.74,
+        299.264,
+        168.101,
+        312.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "D. 蛛网膜下腔出血",
+      "bbox": [
+        346.31,
+        299.253,
+        446.871,
+        312.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "E. 防止血管痉挛",
+      "bbox": [
+        80.72,
+        316.154,
+        167.716,
+        329.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "E. 短暂性脑缺血发作",
+      "bbox": [
+        346.62,
+        315.704,
+        457.753,
+        328.752
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "109. 患者，男，50岁。既往体健，查体时发",
+      "bbox": [
+        81.81,
+        331.884,
+        303.19,
+        343.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "114. 患者,男,50岁。高血压病病史15",
+      "bbox": [
+        347.66,
+        330.674,
+        568.41,
+        344.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "现肝右季肋下2cm处质硬、无压痛，脾可触及，",
+      "bbox": [
+        56.08,
+        347.714,
+        302.78,
+        359.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "年，未坚持服药。2小时前因情绪激动突然意",
+      "bbox": [
+        322.34,
+        346.734,
+        567.428,
+        358.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "ALT正常范围，肝穿刺病理有假小叶形成。应",
+      "bbox": [
+        56.66,
+        363.693,
+        298.453,
+        377.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "识不清，双侧瞳孔不等大。应首先考虑",
+      "bbox": [
+        322.16,
+        362.613,
+        568.028,
+        374.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "诊断为（）",
+      "bbox": [
+        56.13,
+        379.944,
+        128.126,
+        392.024
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "的是（）",
+      "bbox": [
+        323.92,
+        380.084,
+        381.319,
+        392.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "A. 慢性活动性肝炎",
+      "bbox": [
+        81.06,
+        396.574,
+        181.314,
+        409.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 酒精中毒",
+      "bbox": [
+        346.52,
+        396.684,
+        408.836,
+        409.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "B. 慢性持续性肝炎",
+      "bbox": [
+        80.77,
+        412.254,
+        179.457,
+        425.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 药物中毒",
+      "bbox": [
+        346.38,
+        412.694,
+        407.415,
+        425.214
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "C. 代偿期肝硬化",
+      "bbox": [
+        81.05,
+        428.604,
+        168.411,
+        441.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 高血压性脑出血",
+      "bbox": [
+        346.42,
+        428.654,
+        444.888,
+        441.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "D. 肝淤血",
+      "bbox": [
+        80.88,
+        445.584,
+        131.72,
+        458.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 脑血栓",
+      "bbox": [
+        346.27,
+        444.594,
+        396.314,
+        457.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "E. 多囊肝",
+      "bbox": [
+        81.28,
+        460.884,
+        131.285,
+        473.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 心功能不全",
+      "bbox": [
+        346.44,
+        460.654,
+        420.163,
+        473.474
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "110. 患者突感胸闷、心前区痛，心电图显",
+      "bbox": [
+        82.09,
+        475.774,
+        299.92,
+        487.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "115. 患者心悸。查体：心律完全不规则。",
+      "bbox": [
+        347.45,
+        474.793,
+        563.91,
+        486.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "示室间隔前部心肌梗死。营养患处的动脉来",
+      "bbox": [
+        56.73,
+        491.613,
+        298.623,
+        503.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "心率快慢不等，心音强弱绝对不一致。脉搏短",
+      "bbox": [
+        322.18,
+        490.613,
+        566.888,
+        502.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "自（）",
+      "bbox": [
+        59.94,
+        508.394,
+        104.283,
+        520.054
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "绌。应首先考虑的是（）",
+      "bbox": [
+        321.88,
+        506.564,
+        470.073,
+        518.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "A. 左冠状动脉旋支",
+      "bbox": [
+        81.22,
+        524.174,
+        181.698,
+        537.242
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "A. 窦性心律不齐",
+      "bbox": [
+        346.48,
+        523.124,
+        434.294,
+        536.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "B. 右冠状动脉右旋支",
+      "bbox": [
+        81.05,
+        540.214,
+        192.29,
+        553.105
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "B. 房性期前收缩",
+      "bbox": [
+        346.48,
+        539.104,
+        432.461,
+        552.096
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 右冠状动脉后室间支",
+      "bbox": [
+        81.28,
+        556.624,
+        204.01,
+        569.401
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "C. 心房纤颤",
+      "bbox": [
+        346.43,
+        555.394,
+        408.185,
+        568.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 冠状动脉前室间支",
+      "bbox": [
+        81.02,
+        572.154,
+        192.799,
+        585.072
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "D. 房室交界性期前收缩",
+      "bbox": [
+        346.4,
+        571.184,
+        469.937,
+        584.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 右冠状动脉窦房结支",
+      "bbox": [
+        81.23,
+        588.144,
+        204.311,
+        601.032
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "E. 室性期前收缩",
+      "bbox": [
+        346.43,
+        587.204,
+        432.544,
+        600.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "111. 患者，男，65岁。突感上腹部剧烈疼",
+      "bbox": [
+        82.04,
+        602.663,
+        298.687,
+        614.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "116. 患者,女,62岁。确诊2型糖尿病2",
+      "bbox": [
+        347.54,
+        602.673,
+        568.354,
+        614.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "痛。取硝酸甘油片含服，未能缓解。查体：脸",
+      "bbox": [
+        56.32,
+        618.524,
+        302.37,
+        630.213
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "年，予以合理饮食和运动治疗并口服二甲双胍",
+      "bbox": [
+        322.25,
+        618.463,
+        567.35,
+        630.624
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "色青白。血压80/ 60mmHg （10.67/ 7.98kPa）,",
+      "bbox": [
+        56.4,
+        636.004,
+        297.019,
+        649.462
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "500mg,每日3次。查体:身高173cm,体重",
+      "bbox": [
+        322.88,
+        634.604,
+        567.27,
+        647.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "除心率140次/分外，心肺听诊无异常，腹平软，",
+      "bbox": [
+        57.37,
+        650.504,
+        308.09,
+        662.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "78kg,血压130/90mmHg,心、肺和腹部检查未见",
+      "bbox": [
+        322.79,
+        650.744,
+        566.572,
+        664.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "无压痛、反跳痛，肠鸣音存在。应首先考虑的",
+      "bbox": [
+        56.63,
+        666.294,
+        297.797,
+        677.944
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "异常。复查空腹血糖5.2mmol/L，三餐后2小时",
+      "bbox": [
+        322.45,
+        666.664,
+        566.975,
+        680.043
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "是（）",
+      "bbox": [
+        56.34,
+        684.644,
+        103.663,
+        697.306
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "血糖分别为11. 4mmol/L,13. 1mmol/L和",
+      "bbox": [
+        322.43,
+        683.004,
+        567.05,
+        696.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 胃痉挛",
+      "bbox": [
+        81.03,
+        700.224,
+        133.87,
+        713.232
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "12. 6mmol/L。下一步最合理的治疗是（）",
+      "bbox": [
+        323.63,
+        698.854,
+        554.243,
+        712.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 胃穿孔",
+      "bbox": [
+        80.91,
+        716.224,
+        132.21,
+        729.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 禁食",
+      "bbox": [
+        346.8,
+        716.234,
+        385.2,
+        729.172
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 急性胰腺炎",
+      "bbox": [
+        81.36,
+        732.584,
+        154.891,
+        745.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 改用胰岛素",
+      "bbox": [
+        346.75,
+        732.173,
+        419.74,
+        744.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 心绞痛",
+      "bbox": [
+        81.3,
+        747.664,
+        131.248,
+        760.687
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 改用磺酰脲类降血糖药",
+      "bbox": [
+        346.75,
+        747.683,
+        482.741,
+        760.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 心肌梗死",
+      "bbox": [
+        81.62,
+        763.674,
+        143.966,
+        776.686
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 加用磺酰脲类降血糖药",
+      "bbox": [
+        346.54,
+        763.643,
+        483.291,
+        776.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "112. 患儿发热，随后出现呕吐和意识障",
+      "bbox": [
+        82.6,
+        779.283,
+        298.237,
+        791.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 加用α-葡萄糖苷酶抑制剂",
+      "bbox": [
+        346.55,
+        779.053,
+        495.607,
+        792.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "碍。应首先考虑的是（）",
+      "bbox": [
+        56.98,
+        794.393,
+        202.263,
+        806.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "117. 9岁学生，1月底因突起高热、剧烈头",
+      "bbox": [
+        347.71,
+        795.234,
+        565.779,
+        808.536
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "116—",
+      "bbox": [
+        302.13,
+        817.177,
+        339.23,
+        827.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

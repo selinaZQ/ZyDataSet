@@ -1,0 +1,1350 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 44,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        54.27,
+        48.301,
+        254.245,
+        58.666
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "日内可逐渐痊愈，但常易复发。",
+      "bbox": [
+        54.09,
+        78.732,
+        190.87,
+        88.502
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "25. B【解析】蛇头疔，初起指端感觉麻痒而痛，继",
+      "bbox": [
+        333.16,
+        77.463,
+        556.399,
+        87.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "13. A【解析】痒的病因有热胜、风胜、湿胜、虫淫、",
+      "bbox": [
+        73.64,
+        91.993,
+        303.74,
+        101.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "而刺痛，灼热肿胀，色红不明显，随后肿势逐渐扩大。",
+      "bbox": [
+        312.84,
+        92.083,
+        546.6,
+        101.823
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "血虚。风、湿、热、虫之邪客于皮肤肌表，引起皮肉间气",
+      "bbox": [
+        52.18,
+        106.243,
+        295.43,
+        115.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "26. C【解析】脓成方可排脓，脓肿中央出现透脓",
+      "bbox": [
+        333.34,
+        106.273,
+        556.794,
+        117.931
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "血不和，郁而生微热，热则微痒；或血虚风燥阻于皮肤，",
+      "bbox": [
+        52.2,
+        120.743,
+        295.95,
+        130.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "点为切开引流的最佳时机。",
+      "bbox": [
+        312.62,
+        120.413,
+        432.178,
+        130.153
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "肤失所养，内生虚热，热则微痒，故答案选A。",
+      "bbox": [
+        52.07,
+        135.153,
+        255.97,
+        144.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "27. B【解析】湿邪致病，多湿热相兼，多侵犯人体",
+      "bbox": [
+        333.27,
+        134.923,
+        556.584,
+        144.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "14. E【解析】蛛网膜下隙麻醉的适应证：①下腹",
+      "bbox": [
+        73.55,
+        149.553,
+        291.836,
+        159.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "下部，患部肿胀、水疱、脓疱、糜烂流脓、瘙痒，常伴纳食",
+      "bbox": [
+        312.79,
+        149.173,
+        566.03,
+        158.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "部及盆腔手术；②下肢手术；③肛门及会阴部手术。",
+      "bbox": [
+        52.13,
+        164.123,
+        276.38,
+        173.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "不佳、胸闷呕恶、腹胀腹满、舌苔腻等症状。",
+      "bbox": [
+        312.57,
+        163.803,
+        507.57,
+        173.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "15. A【解析】脾肾阳气不足，不能温养四肢，复感",
+      "bbox": [
+        73.25,
+        178.453,
+        293.33,
+        188.193
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "28. E【解析】轻者，只要扶持患者安静平卧，室温",
+      "bbox": [
+        333.32,
+        177.973,
+        556.761,
+        187.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "寒湿之邪，则脉络凝滞，这是脱疽发生的主要病因及病",
+      "bbox": [
+        51.87,
+        193.222,
+        291.968,
+        202.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "保暖即可，或头位稍低，安静卧床，给饮开水或糖水。",
+      "bbox": [
+        312.49,
+        192.732,
+        556.357,
+        202.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "理演变过程。",
+      "bbox": [
+        51.84,
+        207.873,
+        110.22,
+        217.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "重者伴有意识障碍，当灸百会、人中或刺合谷、少商等",
+      "bbox": [
+        312.68,
+        206.863,
+        556.745,
+        216.603
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "16. C【解析】肿块扪诊若有震颤，说明合并有甲",
+      "bbox": [
+        73.18,
+        221.973,
+        291.12,
+        231.673
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "穴救治。",
+      "bbox": [
+        312.85,
+        221.763,
+        351.53,
+        231.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "状腺功能亢进；气管移位与否，是手术之前需要了解的",
+      "bbox": [
+        51.71,
+        236.553,
+        291.944,
+        246.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "29. A【解析】有头疽，好发于项后、背部等皮肤厚",
+      "bbox": [
+        333.37,
+        235.763,
+        556.892,
+        247.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "内容之一；淋巴结是否肿大，多为判断瘿病性质的主要",
+      "bbox": [
+        52.54,
+        251.092,
+        291.943,
+        260.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "韧之处，多见于中老年人及消渴病患者，并容易发生",
+      "bbox": [
+        312.66,
+        250.452,
+        556.68,
+        260.212
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "参考内容之一。",
+      "bbox": [
+        51.71,
+        265.432,
+        120.1,
+        275.202
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "内陷。",
+      "bbox": [
+        313.54,
+        264.793,
+        342.61,
+        274.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "17. B【解析】疖，热毒蕴结证，证候：常见于气实",
+      "bbox": [
+        73.1,
+        279.923,
+        292.91,
+        289.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "30. C【解析】清热法：用寒凉药物，使内蕴之热毒",
+      "bbox": [
+        333.32,
+        279.213,
+        556.825,
+        290.541
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "火盛患者。好发于项后发际、背部、臀部。轻者疖肿只",
+      "bbox": [
+        51.77,
+        294.072,
+        291.868,
+        303.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "得以清解，是外科的主要治疗法则。“疮疡溃后脓出不",
+      "bbox": [
+        312.65,
+        293.722,
+        556.767,
+        303.482
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "有一两个，多则可散发全身，或簇集一处，或此愈彼起。",
+      "bbox": [
+        51.61,
+        308.752,
+        295.86,
+        318.522
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "畅”适用于内托法。内托法：用补益和透脓药物，扶助",
+      "bbox": [
+        313.13,
+        308.092,
+        556.574,
+        317.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "伴发热，口渴，溲赤，便秘，苔黄，脉数。主治方剂：黄连",
+      "bbox": [
+        51.57,
+        323.212,
+        305.07,
+        332.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "正气，托毒外出，使疮疡毒邪移深居浅，早日液化成脓，",
+      "bbox": [
+        312.87,
+        322.622,
+        556.87,
+        332.382
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "解毒汤。",
+      "bbox": [
+        51.4,
+        337.502,
+        90.48,
+        347.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "或使病灶趋于局限化，使邪盛者不致脓毒旁窜深溃，正",
+      "bbox": [
+        312.98,
+        336.842,
+        556.673,
+        346.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "18. C【解析】痈，火毒凝结证，证候：局部突然肿",
+      "bbox": [
+        73.16,
+        351.833,
+        293.77,
+        361.553
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "虚者不致毒邪内陷，从而达到脓出毒泄，肿痛消退的",
+      "bbox": [
+        312.74,
+        351.003,
+        556.259,
+        360.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "胀，光软无头，迅速结块，皮肤焮红，少数病例皮色不",
+      "bbox": [
+        51.64,
+        366.313,
+        292.342,
+        377.27
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "目的。",
+      "bbox": [
+        314.58,
+        366.093,
+        343.74,
+        375.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "变，到酿脓时才转为红色，灼热疼痛。日后逐渐扩大，",
+      "bbox": [
+        51.74,
+        380.703,
+        291.997,
+        390.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "31. C【解析】人工流产并发症：人流综合征，子宫",
+      "bbox": [
+        333.35,
+        379.963,
+        556.437,
+        391.459
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "变成高肿发硬。重者可有恶寒发热，头痛，泛恶，口渴，",
+      "bbox": [
+        51.57,
+        394.892,
+        296.07,
+        404.672
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "穿孔，人流不全，宫腔或颈管内口粘连，人流术后感",
+      "bbox": [
+        313.0,
+        394.412,
+        556.625,
+        404.182
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "舌苔黄腻，脉弦滑或洪数等症状。主治方剂：仙方活",
+      "bbox": [
+        51.4,
+        409.142,
+        292.262,
+        418.922
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "染等。",
+      "bbox": [
+        312.95,
+        409.052,
+        342.26,
+        418.822
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "命饮。",
+      "bbox": [
+        51.17,
+        423.783,
+        80.42,
+        433.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "32. A【解析】临产的征兆是胎位下移、小腹坠胀、",
+      "bbox": [
+        333.42,
+        422.873,
+        556.505,
+        434.217
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "19. D【解析】“七恶”:心恶、肝恶、脾恶、肺恶、肾",
+      "bbox": [
+        73.19,
+        437.603,
+        308.543,
+        447.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "有便意或见红，故选A。分娩是指怀孕末期，即孕280",
+      "bbox": [
+        312.96,
+        437.503,
+        556.986,
+        447.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "恶、脏腑败坏、气血衰竭（脱证）。肺脏正气虚衰，气血",
+      "bbox": [
+        51.5,
+        452.262,
+        292.787,
+        462.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "天左右，胎儿及胎衣自母体阴道娩出的过程。",
+      "bbox": [
+        313.12,
+        451.802,
+        511.676,
+        461.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "不足，而以病邪占优势地位，预后不佳，如治疗得当，也",
+      "bbox": [
+        51.46,
+        466.773,
+        294.96,
+        476.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "33. C【解析】血崩证以阴道急剧而大量的出血为",
+      "bbox": [
+        333.51,
+        465.753,
+        556.307,
+        475.963
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "能转化为善证、顺证。",
+      "bbox": [
+        51.39,
+        481.192,
+        148.99,
+        490.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "主症，可由ABDE项引起。而C项，是指每逢经行前后",
+      "bbox": [
+        313.52,
+        480.743,
+        556.367,
+        490.453
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "20. E【解析】丹毒，湿热毒蕴证，证候：发于下肢，",
+      "bbox": [
+        72.64,
+        495.503,
+        302.49,
+        505.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "或经期，出现周期性的吐血或衄血。",
+      "bbox": [
+        313.06,
+        495.093,
+        469.601,
+        504.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "局部红赤肿胀、灼热疼痛，或见水疱、紫斑，甚至结毒化",
+      "bbox": [
+        51.33,
+        509.902,
+        295.33,
+        519.662
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "34. E【解析】ABCD项都是气虚证的表现,E项",
+      "bbox": [
+        333.64,
+        509.533,
+        556.222,
+        520.679
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "脓或皮肤坏死。或反复发作，可形成大脚风。伴发热，",
+      "bbox": [
+        51.25,
+        523.822,
+        292.268,
+        533.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "为实证的月经先期的概念，故选E。",
+      "bbox": [
+        313.25,
+        523.852,
+        468.385,
+        533.612
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "胃纳不香。舌红，苔黄腻，脉滑数。治法：利湿清热",
+      "bbox": [
+        52.39,
+        538.303,
+        292.727,
+        548.053
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "35. C【解析】子宫脱垂的概念、病机、治疗。A项",
+      "bbox": [
+        333.8,
+        537.813,
+        556.179,
+        549.441
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "解毒。",
+      "bbox": [
+        51.13,
+        553.743,
+        80.32,
+        563.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "为Ⅱ度轻型子宫脱垂，D项为Ⅱ度重型子宫脱垂。子",
+      "bbox": [
+        313.57,
+        552.613,
+        556.716,
+        562.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "21. D【解析】痈之大者名发。说明发的病变范围",
+      "bbox": [
+        72.49,
+        567.583,
+        292.233,
+        577.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "宫脱垂的病因为气虚和肾虚造成带脉失约，子宫脱出。",
+      "bbox": [
+        313.34,
+        567.613,
+        556.152,
+        577.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "较痈为大，生于结喉处的，称为锁喉痈。",
+      "bbox": [
+        51.27,
+        581.943,
+        226.41,
+        591.673
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "子宫托可用于Ⅰ度、Ⅱ度子宫脱垂的患者。",
+      "bbox": [
+        313.28,
+        581.843,
+        501.478,
+        591.573
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "22. E【解析】气瘿，女性发病率较男性略高。一",
+      "bbox": [
+        72.42,
+        596.213,
+        292.537,
+        606.613
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "36. B【解析】妊娠期瘀阻胎元，使用活血化瘀药",
+      "bbox": [
+        333.97,
+        595.903,
+        556.661,
+        605.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "般多发生在青春期，在流行地区常见于入学年龄的儿",
+      "bbox": [
+        51.25,
+        610.772,
+        292.725,
+        620.542
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "的原则，“所谓有故无殒，亦无殒也”，但需严格掌握剂",
+      "bbox": [
+        314.0,
+        610.763,
+        556.5,
+        620.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "童。初起时无明显不适感，甲状腺呈弥漫性肿大，腺体",
+      "bbox": [
+        51.43,
+        625.282,
+        292.673,
+        635.062
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "量，衰其大半而止。",
+      "bbox": [
+        313.56,
+        625.503,
+        401.22,
+        635.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "表面较平坦，质软不痛，皮色如常，腺体随吞咽动作而",
+      "bbox": [
+        51.41,
+        640.013,
+        292.563,
+        649.753
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "37. A【解析】经行感冒以感受风邪为主，夹寒则",
+      "bbox": [
+        334.02,
+        639.484,
+        555.936,
+        650.871
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "上下移动。",
+      "bbox": [
+        51.36,
+        655.042,
+        100.16,
+        664.802
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "为风寒，夹热则为风热。多由素体气虚，卫阳不密，经",
+      "bbox": [
+        313.59,
+        654.583,
+        556.311,
+        664.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "23. A【解析】筋瘤之劳倦伤气证，证候：久站久行",
+      "bbox": [
+        72.59,
+        668.953,
+        293.15,
+        680.229
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "行阴血下注于胞宫，体虚益甚，此时血室正开，腠理疏",
+      "bbox": [
+        313.31,
+        669.083,
+        556.453,
+        678.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "或劳累时瘤体增大，下坠不适感加重；常伴气短乏力，",
+      "bbox": [
+        51.46,
+        683.642,
+        292.007,
+        693.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "松，卫气不固，风邪乘虚侵袭；或素有伏邪，随月经周期",
+      "bbox": [
+        313.52,
+        683.812,
+        557.52,
+        693.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "脘腹坠胀，腰酸；舌淡，苔薄白，脉细缓无力。治法：补",
+      "bbox": [
+        51.28,
+        698.222,
+        295.53,
+        707.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "反复乘虚而发。",
+      "bbox": [
+        313.42,
+        698.352,
+        381.74,
+        708.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "中益气，活血舒筋。代表方：补中益气汤加减。",
+      "bbox": [
+        52.12,
+        712.522,
+        256.87,
+        722.272
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "38. C【解析】子宫脱垂分度：Ⅰ度轻型，宫颈外口",
+      "bbox": [
+        334.26,
+        712.573,
+        555.202,
+        723.762
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "24. A【解析】乳痈，正虚毒恋证，证候：溃脓后乳",
+      "bbox": [
+        72.69,
+        726.813,
+        294.89,
+        736.533
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "距处女膜缘<4cm，未达处女膜缘；Ⅰ度重型，宫颈已达",
+      "bbox": [
+        313.51,
+        726.793,
+        556.573,
+        736.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "房肿痛虽轻，但疮口脓水不断，脓汁清稀，愈合缓慢或",
+      "bbox": [
+        51.75,
+        741.322,
+        292.747,
+        751.092
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "处女膜缘，阴道口可见子宫颈；Ⅱ度轻型，宫颈脱出阴",
+      "bbox": [
+        313.43,
+        741.173,
+        555.823,
+        750.873
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "形成乳漏。全身乏力，面色少华，或低热不退，饮食减",
+      "bbox": [
+        51.81,
+        755.612,
+        292.828,
+        765.392
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "道口，宫体仍在阴道内；Ⅱ度重型，部分宫体脱出阴道",
+      "bbox": [
+        313.6,
+        755.224,
+        556.365,
+        764.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "少。舌淡，苔薄，脉弱无力。治法：益气和营托毒。方",
+      "bbox": [
+        52.23,
+        770.172,
+        292.798,
+        779.952
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "口；Ⅲ度：宫颈及宫体全部脱出至阴道口外。",
+      "bbox": [
+        314.99,
+        770.364,
+        506.79,
+        779.954
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "药：托里消毒散加减。",
+      "bbox": [
+        52.14,
+        784.382,
+        149.94,
+        794.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "39. B【解析】经行口糜阴虚火旺证的主要证候：",
+      "bbox": [
+        334.29,
+        784.374,
+        555.809,
+        794.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "—",
+      "bbox": [
+        273.48,
+        802.504,
+        283.08,
+        812.104
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 102,
+      "text": "234—",
+      "bbox": [
+        293.25,
+        802.583,
+        331.31,
+        812.363
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

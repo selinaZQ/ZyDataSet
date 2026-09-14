@@ -1,0 +1,1103 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 17,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        428.27,
+        55.022,
+        547.351,
+        66.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 赔偿损失",
+      "bbox": [
+        78.22,
+        86.692,
+        139.193,
+        99.778
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "61. 被传染病病原体污染的污水、污物、粪",
+      "bbox": [
+        343.91,
+        85.432,
+        562.827,
+        97.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 撤职",
+      "bbox": [
+        78.15,
+        101.992,
+        116.908,
+        115.004
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "便，有关单位必须按照以下规定进行处",
+      "bbox": [
+        319.28,
+        102.661,
+        562.87,
+        115.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 赔礼道歉",
+      "bbox": [
+        78.23,
+        118.722,
+        139.821,
+        131.95
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "理（）",
+      "bbox": [
+        319.2,
+        119.932,
+        366.843,
+        132.891
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "59. 根据《中华人民共和国医师法》的规",
+      "bbox": [
+        78.06,
+        133.332,
+        295.241,
+        145.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 在疾病预防控制机构的指导下进行消毒",
+      "bbox": [
+        343.51,
+        134.672,
+        560.79,
+        147.647
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "定。全国医师资格考试办法的制定部",
+      "bbox": [
+        53.4,
+        149.281,
+        296.61,
+        162.331
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "处理",
+      "bbox": [
+        319.38,
+        151.901,
+        343.595,
+        163.771
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "门是（）",
+      "bbox": [
+        55.48,
+        165.002,
+        112.243,
+        178.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 在卫生防疫机构的指导监督下进行抑菌",
+      "bbox": [
+        343.57,
+        165.722,
+        561.255,
+        178.89
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "A. 国务院",
+      "bbox": [
+        78.2,
+        181.262,
+        130.52,
+        194.451
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "处理",
+      "bbox": [
+        319.68,
+        182.232,
+        343.46,
+        194.022
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "B. 国务院劳动部门",
+      "bbox": [
+        77.84,
+        197.162,
+        175.6,
+        210.361
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 在卫生防疫机构的指导下进行消毒处",
+      "bbox": [
+        343.4,
+        196.762,
+        555.621,
+        209.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "C. 国务院人事部门",
+      "bbox": [
+        77.78,
+        212.221,
+        175.63,
+        225.282
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "理",
+      "bbox": [
+        319.14,
+        215.522,
+        330.96,
+        227.342
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "D. 国务院卫生健康主管部门",
+      "bbox": [
+        77.19,
+        229.172,
+        224.132,
+        242.301
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 由卫生防疫机构进行消毒处理",
+      "bbox": [
+        343.27,
+        228.172,
+        514.113,
+        241.088
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "E. 国务院教育行政部门",
+      "bbox": [
+        78.09,
+        244.172,
+        200.32,
+        257.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 由卫生防疫机构进行严密消毒处理",
+      "bbox": [
+        343.25,
+        245.141,
+        538.425,
+        258.052
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "60. 下列各项，属医患关系基本内容",
+      "bbox": [
+        78.28,
+        258.571,
+        294.357,
+        272.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "62. 对流动人口中的传染病患者、疑似患",
+      "bbox": [
+        343.4,
+        259.752,
+        560.416,
+        271.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "的是（）",
+      "bbox": [
+        54.81,
+        275.822,
+        113.503,
+        289.391
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "者处理的原则是（）",
+      "bbox": [
+        319.56,
+        275.992,
+        438.383,
+        287.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 技术操作和服务态度",
+      "bbox": [
+        78.42,
+        291.652,
+        202.256,
+        304.68
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 就地控制、就地治疗、就地康复",
+      "bbox": [
+        343.36,
+        291.082,
+        523.031,
+        304.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "B. 技术方面和法律方面",
+      "bbox": [
+        78.09,
+        307.662,
+        200.226,
+        320.737
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 就地隔离、就地治疗、就地康复",
+      "bbox": [
+        343.05,
+        307.082,
+        524.367,
+        320.566
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "C. 法律方面和伦理方面",
+      "bbox": [
+        78.31,
+        322.632,
+        200.781,
+        335.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 就地控制、就地观察、就地治疗",
+      "bbox": [
+        342.94,
+        322.072,
+        524.731,
+        335.558
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 处理医者和患者的矛盾",
+      "bbox": [
+        77.9,
+        337.742,
+        213.501,
+        350.842
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 就地隔离、就地观察、就地治疗",
+      "bbox": [
+        342.4,
+        338.092,
+        524.781,
+        351.61
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 技术方面和非技术方面",
+      "bbox": [
+        77.66,
+        354.692,
+        213.654,
+        367.678
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 就地观察、就地治疗、就地康复",
+      "bbox": [
+        343.01,
+        352.932,
+        524.769,
+        366.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "A2 型选择题（63～118题）",
+      "bbox": [
+        240.54,
+        385.372,
+        372.976,
+        398.864
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "63. 患者，女，32岁。饱餐后出现上腹部剧",
+      "bbox": [
+        78.85,
+        451.522,
+        296.53,
+        463.592
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "D. 血管紧张素转换酶抑制剂",
+      "bbox": [
+        342.8,
+        453.602,
+        488.001,
+        466.567
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "痛伴恶心呕吐，呕后腹痛反而加重，服解痉剂",
+      "bbox": [
+        54.47,
+        468.192,
+        298.193,
+        480.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "E. 利尿剂",
+      "bbox": [
+        342.91,
+        470.302,
+        392.21,
+        482.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "无效。检查：体温39。心率120次/分,腹部",
+      "bbox": [
+        54.3,
+        482.412,
+        294.003,
+        494.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "65. 患者，男，60岁。有慢性支气管炎及肺",
+      "bbox": [
+        342.87,
+        483.842,
+        560.43,
+        496.412
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "紧张。有压痛、反跳痛，血清淀粉酶350U/L,",
+      "bbox": [
+        55.29,
+        499.322,
+        290.996,
+        512.852
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "心病病史。近1周感冒后出现咳嗽，吐黄痰，心",
+      "bbox": [
+        318.63,
+        498.592,
+        568.3,
+        512.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "血钙1.63mmol/L.应首先考虑的是（）",
+      "bbox": [
+        54.28,
+        515.412,
+        281.663,
+        528.936
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "悸气短加重，神志清，血气分析在正常范围。",
+      "bbox": [
+        317.93,
+        515.742,
+        560.98,
+        527.562
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "A. 急性心肌梗死",
+      "bbox": [
+        78.55,
+        531.632,
+        165.878,
+        544.788
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "下列哪项治疗是错误的（）",
+      "bbox": [
+        318.42,
+        531.332,
+        475.429,
+        544.766
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "B. 溃疡性穿孔",
+      "bbox": [
+        78.45,
+        546.682,
+        151.808,
+        559.608
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "A. 抗感染",
+      "bbox": [
+        343.32,
+        546.382,
+        391.87,
+        559.463
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "C. 急性胰腺炎",
+      "bbox": [
+        78.36,
+        562.712,
+        151.497,
+        575.606
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "B. 止咳",
+      "bbox": [
+        342.7,
+        563.272,
+        379.558,
+        576.563
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "D. 急性阑尾炎",
+      "bbox": [
+        78.12,
+        578.682,
+        152.321,
+        591.598
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "C. 祛痰",
+      "bbox": [
+        342.88,
+        579.452,
+        379.804,
+        592.554
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "E. 急性肠梗阻",
+      "bbox": [
+        78.18,
+        594.652,
+        151.781,
+        607.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "D. 呼吸兴奋剂",
+      "bbox": [
+        342.7,
+        595.152,
+        417.069,
+        608.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "64. 患者，男，68岁。体能下降2年，加重伴",
+      "bbox": [
+        78.32,
+        608.952,
+        305.61,
+        622.477
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "E. 氨茶碱",
+      "bbox": [
+        342.7,
+        610.152,
+        392.241,
+        623.034
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "活动后呼吸困难、气急1个月。体格检查：脉搏",
+      "bbox": [
+        53.58,
+        624.762,
+        303.38,
+        636.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "66. 患者，男，20岁，反复咳嗽，咯痰量多已",
+      "bbox": [
+        343.19,
+        624.622,
+        575.901,
+        638.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "102次/分,呼吸24次/分,血压90/ 60mmHg,呼",
+      "bbox": [
+        54.94,
+        639.751,
+        294.92,
+        653.654
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "2年。今天突然咯鲜血300ml.无发热，不消",
+      "bbox": [
+        319.04,
+        640.782,
+        560.587,
+        654.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "吸较急促，双肺底闻及细小水泡音。心界向左",
+      "bbox": [
+        54.52,
+        656.342,
+        294.086,
+        668.152
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "瘦。听诊：右下肺闻及小水泡音。应首先考虑",
+      "bbox": [
+        319.1,
+        657.142,
+        560.032,
+        668.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "侧扩大，心音低钝，心率102次/分，节律规整，",
+      "bbox": [
+        53.32,
+        672.532,
+        300.16,
+        684.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "的是（）",
+      "bbox": [
+        320.59,
+        672.612,
+        378.176,
+        686.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "于胸骨右缘第2肋间闻及粗糙的收缩期杂音。",
+      "bbox": [
+        54.16,
+        688.072,
+        291.92,
+        701.262
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 大叶性肺炎",
+      "bbox": [
+        343.01,
+        689.072,
+        417.8,
+        701.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "心电图示左心室高电压。胸部X线示靴形心。",
+      "bbox": [
+        53.88,
+        704.102,
+        299.39,
+        717.772
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "B. 肺结核",
+      "bbox": [
+        343.18,
+        704.702,
+        391.88,
+        717.544
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "拟诊为主动脉瓣狭窄伴心力衰竭，治疗中应慎",
+      "bbox": [
+        53.8,
+        720.152,
+        294.528,
+        731.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 支气管扩张",
+      "bbox": [
+        343.25,
+        721.312,
+        416.544,
+        734.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "用的药物是（）",
+      "bbox": [
+        54.1,
+        735.082,
+        149.743,
+        748.577
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "D. 风湿性心脏病二尖瓣狭窄",
+      "bbox": [
+        342.96,
+        736.132,
+        489.422,
+        749.347
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "A. 抗心律失常药",
+      "bbox": [
+        78.06,
+        752.262,
+        164.393,
+        765.308
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 肺脓肿",
+      "bbox": [
+        343.25,
+        753.522,
+        392.63,
+        766.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "B. 抗生素",
+      "bbox": [
+        77.44,
+        768.202,
+        126.504,
+        781.36
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "67. 一患者受凉后咳嗽、高热、咳铁锈色",
+      "bbox": [
+        343.39,
+        767.622,
+        558.438,
+        779.452
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "C. 洋地黄",
+      "bbox": [
+        77.97,
+        784.172,
+        127.246,
+        797.326
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "痰，胸痛，随呼吸运动而加重，屏住呼吸时减",
+      "bbox": [
+        318.88,
+        784.062,
+        561.96,
+        796.472
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "-",
+      "bbox": [
+        281.0,
+        816.312,
+        283.93,
+        825.112
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "111",
+      "bbox": [
+        297.62,
+        815.681,
+        311.348,
+        824.481
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

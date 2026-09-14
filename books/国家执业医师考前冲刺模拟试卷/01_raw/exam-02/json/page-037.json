@@ -1,0 +1,1173 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 37,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（二）",
+      "bbox": [
+        1367.0,
+        160.0,
+        1735.0,
+        197.0
+      ],
+      "confidence": 0.921301,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "（149～150题共用备选答案）",
+      "bbox": [
+        283.0,
+        263.0,
+        747.0,
+        311.0
+      ],
+      "confidence": 0.929477,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 陶道",
+      "bbox": [
+        1098.0,
+        263.0,
+        1229.0,
+        312.0
+      ],
+      "confidence": 0.998444,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 身柱",
+      "bbox": [
+        281.0,
+        314.0,
+        418.0,
+        368.0
+      ],
+      "confidence": 0.998752,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 大椎",
+      "bbox": [
+        1097.0,
+        314.0,
+        1227.0,
+        366.0
+      ],
+      "confidence": 0.995595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 至阳",
+      "bbox": [
+        277.0,
+        368.0,
+        413.0,
+        423.0
+      ],
+      "confidence": 0.999525,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "149. 以上腧穴中，退热的要穴是（",
+      "bbox": [
+        1102.0,
+        374.0,
+        1630.0,
+        413.0
+      ],
+      "confidence": 0.924992,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 风府",
+      "bbox": [
+        279.0,
+        420.0,
+        413.0,
+        477.0
+      ],
+      "confidence": 0.997568,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "150. 以上腧穴中，治疗疗疮的要穴是（",
+      "bbox": [
+        1104.0,
+        426.0,
+        1674.0,
+        467.0
+      ],
+      "confidence": 0.938019,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        1744.0,
+        434.0,
+        1765.0,
+        463.0
+      ],
+      "confidence": 0.975295,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "第四单元",
+      "bbox": [
+        880.0,
+        618.0,
+        1109.0,
+        686.0
+      ],
+      "confidence": 0.999822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A1 型选择题（1～75题）",
+      "bbox": [
+        804.0,
+        785.0,
+        1185.0,
+        822.0
+      ],
+      "confidence": 0.939332,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "答题说明:每一道考试题下面有A、B、C,D、E五个备选答案,请从中选择一个最佳答案，并",
+      "bbox": [
+        305.0,
+        872.0,
+        1758.0,
+        917.0
+      ],
+      "confidence": 0.926112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "在答题卡上将相应题号的相应字母所属的方框涂黑。",
+      "bbox": [
+        230.0,
+        926.0,
+        1067.0,
+        969.0
+      ],
+      "confidence": 0.998559,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "1. 附骨疽脓腔较深、脓液不易畅流者宜采",
+      "bbox": [
+        283.0,
+        1015.0,
+        958.0,
+        1061.0
+      ],
+      "confidence": 0.99267,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 艾灸法",
+      "bbox": [
+        1100.0,
+        1009.0,
+        1268.0,
+        1063.0
+      ],
+      "confidence": 0.99902,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "用（）",
+      "bbox": [
+        203.0,
+        1063.0,
+        374.0,
+        1122.0
+      ],
+      "confidence": 0.822095,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 烧灼法",
+      "bbox": [
+        1102.0,
+        1066.0,
+        1269.0,
+        1114.0
+      ],
+      "confidence": 0.997389,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "A. 药线引流",
+      "bbox": [
+        282.0,
+        1119.0,
+        489.0,
+        1170.0
+      ],
+      "confidence": 0.999514,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 封闭疗法",
+      "bbox": [
+        1104.0,
+        1121.0,
+        1305.0,
+        1164.0
+      ],
+      "confidence": 0.999267,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "B. 垫棉法",
+      "bbox": [
+        283.0,
+        1174.0,
+        446.0,
+        1222.0
+      ],
+      "confidence": 0.998128,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "6. 对肛管直肠癌有重要意义的简易诊断",
+      "bbox": [
+        1106.0,
+        1174.0,
+        1779.0,
+        1216.0
+      ],
+      "confidence": 0.997852,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "C. 扩创引流",
+      "bbox": [
+        283.0,
+        1227.0,
+        484.0,
+        1274.0
+      ],
+      "confidence": 0.998112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "方法是（",
+      "bbox": [
+        1028.0,
+        1222.0,
+        1175.0,
+        1273.0
+      ],
+      "confidence": 0.979176,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "）",
+      "bbox": [
+        1230.0,
+        1229.0,
+        1262.0,
+        1265.0
+      ],
+      "confidence": 0.988976,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "D. 导管引流",
+      "bbox": [
+        281.0,
+        1277.0,
+        485.0,
+        1327.0
+      ],
+      "confidence": 0.99878,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A. X线摄片",
+      "bbox": [
+        1105.0,
+        1278.0,
+        1307.0,
+        1321.0
+      ],
+      "confidence": 0.995959,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "E. 以上皆非",
+      "bbox": [
+        281.0,
+        1333.0,
+        484.0,
+        1379.0
+      ],
+      "confidence": 0.998881,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 肛门直肠指诊",
+      "bbox": [
+        1102.0,
+        1328.0,
+        1379.0,
+        1377.0
+      ],
+      "confidence": 0.999253,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "2. 蛇眼疗的成脓时间为（",
+      "bbox": [
+        283.0,
+        1386.0,
+        687.0,
+        1430.0
+      ],
+      "confidence": 0.953892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 病理检查",
+      "bbox": [
+        1104.0,
+        1383.0,
+        1307.0,
+        1429.0
+      ],
+      "confidence": 0.999337,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "）",
+      "bbox": [
+        752.0,
+        1394.0,
+        772.0,
+        1421.0
+      ],
+      "confidence": 0.982775,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "A. 2～3天",
+      "bbox": [
+        281.0,
+        1438.0,
+        462.0,
+        1484.0
+      ],
+      "confidence": 0.981596,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "D. 亚甲蓝染色",
+      "bbox": [
+        1106.0,
+        1438.0,
+        1345.0,
+        1480.0
+      ],
+      "confidence": 0.998309,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "B. 3～5天",
+      "bbox": [
+        280.0,
+        1492.0,
+        457.0,
+        1539.0
+      ],
+      "confidence": 0.96758,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "E. 纤维结肠镜检查",
+      "bbox": [
+        1106.0,
+        1490.0,
+        1418.0,
+        1531.0
+      ],
+      "confidence": 0.999516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "C. 5～7天",
+      "bbox": [
+        280.0,
+        1543.0,
+        457.0,
+        1593.0
+      ],
+      "confidence": 0.973433,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "7. 丹毒主要病因病机是血热火毒为患，发",
+      "bbox": [
+        1105.0,
+        1542.0,
+        1780.0,
+        1586.0
+      ],
+      "confidence": 0.997511,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "D. 7～10天",
+      "bbox": [
+        281.0,
+        1600.0,
+        476.0,
+        1642.0
+      ],
+      "confidence": 0.979971,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "于头面部者多兼夹（）",
+      "bbox": [
+        1030.0,
+        1591.0,
+        1456.0,
+        1642.0
+      ],
+      "confidence": 0.934355,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "E. 2周",
+      "bbox": [
+        280.0,
+        1652.0,
+        400.0,
+        1697.0
+      ],
+      "confidence": 0.989397,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 肝脾郁热",
+      "bbox": [
+        1105.0,
+        1647.0,
+        1312.0,
+        1693.0
+      ],
+      "confidence": 0.999212,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "3. 乳岩的致病因素，属（",
+      "bbox": [
+        283.0,
+        1704.0,
+        666.0,
+        1748.0
+      ],
+      "confidence": 0.978639,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "）",
+      "bbox": [
+        730.0,
+        1704.0,
+        759.0,
+        1746.0
+      ],
+      "confidence": 0.913018,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 湿热",
+      "bbox": [
+        1102.0,
+        1701.0,
+        1232.0,
+        1750.0
+      ],
+      "confidence": 0.994957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 外感六淫邪毒",
+      "bbox": [
+        283.0,
+        1758.0,
+        562.0,
+        1801.0
+      ],
+      "confidence": 0.998316,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 风热",
+      "bbox": [
+        1102.0,
+        1752.0,
+        1233.0,
+        1801.0
+      ],
+      "confidence": 0.998067,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 外来伤害",
+      "bbox": [
+        280.0,
+        1809.0,
+        482.0,
+        1856.0
+      ],
+      "confidence": 0.999052,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 胎毒",
+      "bbox": [
+        1101.0,
+        1803.0,
+        1234.0,
+        1856.0
+      ],
+      "confidence": 0.998474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 情志内伤",
+      "bbox": [
+        281.0,
+        1863.0,
+        484.0,
+        1909.0
+      ],
+      "confidence": 0.997091,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 寒湿",
+      "bbox": [
+        1102.0,
+        1859.0,
+        1232.0,
+        1907.0
+      ],
+      "confidence": 0.998011,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 饮食不节",
+      "bbox": [
+        280.0,
+        1916.0,
+        485.0,
+        1963.0
+      ],
+      "confidence": 0.999015,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "8. 瘿病的主要病因是（",
+      "bbox": [
+        1107.0,
+        1916.0,
+        1472.0,
+        1954.0
+      ],
+      "confidence": 0.943957,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 感受特殊之毒",
+      "bbox": [
+        283.0,
+        1971.0,
+        557.0,
+        2014.0
+      ],
+      "confidence": 0.999076,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "A. 气滞、血瘀、痰凝",
+      "bbox": [
+        1106.0,
+        1965.0,
+        1424.0,
+        2010.0
+      ],
+      "confidence": 0.996014,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "4. 下列切开法的注意事项中，错误的是",
+      "bbox": [
+        283.0,
+        2024.0,
+        955.0,
+        2068.0
+      ],
+      "confidence": 0.996942,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "B. 气虚、水停、寒痰",
+      "bbox": [
+        1105.0,
+        2019.0,
+        1418.0,
+        2064.0
+      ],
+      "confidence": 0.997702,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "（",
+      "bbox": [
+        207.0,
+        2078.0,
+        236.0,
+        2120.0
+      ],
+      "confidence": 0.738777,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "）",
+      "bbox": [
+        291.0,
+        2077.0,
+        331.0,
+        2120.0
+      ],
+      "confidence": 0.975651,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "C. 外邪、食滞、郁热",
+      "bbox": [
+        1107.0,
+        2074.0,
+        1418.0,
+        2115.0
+      ],
+      "confidence": 0.997329,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 在关节部位，宜谨慎开刀，切口应越过",
+      "bbox": [
+        285.0,
+        2130.0,
+        955.0,
+        2172.0
+      ],
+      "confidence": 0.991004,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "D. 血瘀、食积、痰浊",
+      "bbox": [
+        1105.0,
+        2123.0,
+        1419.0,
+        2171.0
+      ],
+      "confidence": 0.99406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "关节",
+      "bbox": [
+        203.0,
+        2177.0,
+        293.0,
+        2232.0
+      ],
+      "confidence": 0.999927,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "E. 痰浊、虫积、食滞",
+      "bbox": [
+        1105.0,
+        2177.0,
+        1419.0,
+        2222.0
+      ],
+      "confidence": 0.994202,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 血瘤、岩肿不宜切开",
+      "bbox": [
+        283.0,
+        2236.0,
+        649.0,
+        2280.0
+      ],
+      "confidence": 0.997588,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "9. 治愈后，遗留有萎缩性瘢痕的皮肤病",
+      "bbox": [
+        1106.0,
+        2233.0,
+        1780.0,
+        2275.0
+      ],
+      "confidence": 0.992124,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 患者体弱应先内服调补药，然后开刀",
+      "bbox": [
+        284.0,
+        2288.0,
+        953.0,
+        2331.0
+      ],
+      "confidence": 0.991908,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "是（",
+      "bbox": [
+        1028.0,
+        2282.0,
+        1099.0,
+        2332.0
+      ],
+      "confidence": 0.905852,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "）",
+      "bbox": [
+        1128.0,
+        2283.0,
+        1191.0,
+        2327.0
+      ],
+      "confidence": 0.955757,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 白秃疮",
+      "bbox": [
+        1102.0,
+        2333.0,
+        1273.0,
+        2385.0
+      ],
+      "confidence": 0.985194,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "B. 肥疮",
+      "bbox": [
+        1449.0,
+        2332.0,
+        1580.0,
+        2387.0
+      ],
+      "confidence": 0.984364,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "D. 面部疗疮，尤其是口鼻部位，忌早期",
+      "bbox": [
+        284.0,
+        2339.0,
+        955.0,
+        2386.0
+      ],
+      "confidence": 0.993425,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "开刀",
+      "bbox": [
+        205.0,
+        2390.0,
+        293.0,
+        2447.0
+      ],
+      "confidence": 0.991893,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "C. 鹅掌风",
+      "bbox": [
+        1102.0,
+        2385.0,
+        1268.0,
+        2436.0
+      ],
+      "confidence": 0.997381,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "D. 疥疮",
+      "bbox": [
+        1451.0,
+        2389.0,
+        1581.0,
+        2438.0
+      ],
+      "confidence": 0.998143,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "E. 白疝",
+      "bbox": [
+        1102.0,
+        2440.0,
+        1232.0,
+        2488.0
+      ],
+      "confidence": 0.811644,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "E. 进刀时，刀头要求向上挑取，不宜向下",
+      "bbox": [
+        283.0,
+        2445.0,
+        955.0,
+        2495.0
+      ],
+      "confidence": 0.98756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "制划",
+      "bbox": [
+        208.0,
+        2500.0,
+        292.0,
+        2552.0
+      ],
+      "confidence": 0.791936,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "10. 抽动障碍脾虚痰聚证治法为（",
+      "bbox": [
+        1106.0,
+        2495.0,
+        1635.0,
+        2539.0
+      ],
+      "confidence": 0.981079,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 清肝泻火，息风镇惊",
+      "bbox": [
+        1105.0,
+        2545.0,
+        1478.0,
+        2593.0
+      ],
+      "confidence": 0.994352,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "5. 毒蛇咬伤后，下列局部处理方法中，错",
+      "bbox": [
+        285.0,
+        2552.0,
+        956.0,
+        2600.0
+      ],
+      "confidence": 0.996312,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "吴的是（）",
+      "bbox": [
+        212.0,
+        2603.0,
+        452.0,
+        2657.0
+      ],
+      "confidence": 0.80779,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 健脾化痰，平肝息风",
+      "bbox": [
+        1104.0,
+        2599.0,
+        1470.0,
+        2646.0
+      ],
+      "confidence": 0.991678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "C. 滋阴潜阳，柔肝息风",
+      "bbox": [
+        1105.0,
+        2652.0,
+        1472.0,
+        2697.0
+      ],
+      "confidence": 0.996752,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 早期结扎",
+      "bbox": [
+        286.0,
+        2662.0,
+        491.0,
+        2705.0
+      ],
+      "confidence": 0.997254,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 扩创排毒",
+      "bbox": [
+        283.0,
+        2714.0,
+        486.0,
+        2761.0
+      ],
+      "confidence": 0.999055,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 滋阴养血，柔肝息风",
+      "bbox": [
+        1104.0,
+        2705.0,
+        1473.0,
+        2750.0
+      ],
+      "confidence": 0.996477,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "83",
+      "bbox": [
+        970.0,
+        2773.0,
+        1021.0,
+        2813.0
+      ],
+      "confidence": 0.999857,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "—",
+      "bbox": [
+        1026.0,
+        2777.0,
+        1077.0,
+        2806.0
+      ],
+      "confidence": 0.684413,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

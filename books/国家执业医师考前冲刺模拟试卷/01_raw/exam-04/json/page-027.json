@@ -1,0 +1,1181 @@
+{
+  "source_file": "国家执业药师考前冲刺四.pdf",
+  "source_sha256": "1626dec7fcaa613362e4088ecfa5a2fc6a802b803a98fa940348ec2596c310fd",
+  "page": 27,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（四）",
+      "bbox": [
+        418.57,
+        50.867,
+        537.807,
+        62.137
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 病在血分",
+      "bbox": [
+        63.75,
+        81.125,
+        125.075,
+        92.635
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 多为低热",
+      "bbox": [
+        333.74,
+        80.675,
+        394.46,
+        92.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 是为脏病",
+      "bbox": [
+        63.79,
+        96.995,
+        125.48,
+        108.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 多为高热",
+      "bbox": [
+        333.29,
+        96.425,
+        394.884,
+        107.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 是为腑病",
+      "bbox": [
+        63.59,
+        113.095,
+        124.632,
+        124.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 自觉发热，体温并不高",
+      "bbox": [
+        333.24,
+        112.365,
+        462.902,
+        123.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "19. 水肿属风水相搏者，最佳选方是（）",
+      "bbox": [
+        63.87,
+        129.275,
+        278.74,
+        140.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 有反复发热史",
+      "bbox": [
+        333.34,
+        128.355,
+        419.475,
+        139.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 越婢加术汤",
+      "bbox": [
+        63.39,
+        145.255,
+        138.079,
+        156.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "26. 血厥实证的主治方剂是（）",
+      "bbox": [
+        333.48,
+        144.265,
+        509.689,
+        155.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 五苓散",
+      "bbox": [
+        63.07,
+        161.655,
+        111.73,
+        173.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "A. 补阳还五汤",
+      "bbox": [
+        333.55,
+        160.575,
+        408.747,
+        172.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 五皮饮",
+      "bbox": [
+        62.86,
+        178.035,
+        112.017,
+        189.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "B. 羚角钩藤汤",
+      "bbox": [
+        333.32,
+        176.985,
+        406.976,
+        188.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 桂枝汤",
+      "bbox": [
+        62.61,
+        194.155,
+        112.074,
+        205.645
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "C. 复元活血汤",
+      "bbox": [
+        333.47,
+        193.525,
+        407.259,
+        205.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 麻黄连翘赤小豆汤",
+      "bbox": [
+        62.73,
+        210.695,
+        173.645,
+        222.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 生化汤",
+      "bbox": [
+        333.31,
+        209.895,
+        383.317,
+        221.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "20. 下列哪项不是眩晕肝阳上亢证的主",
+      "bbox": [
+        62.76,
+        227.245,
+        283.059,
+        238.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 失笑散",
+      "bbox": [
+        333.48,
+        226.215,
+        383.287,
+        237.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "症（）",
+      "bbox": [
+        39.31,
+        244.145,
+        84.986,
+        255.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "27. 癃闭的病位虽在膀胱，但与本病关系",
+      "bbox": [
+        333.47,
+        242.325,
+        553.104,
+        253.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "A. 头痛",
+      "bbox": [
+        62.72,
+        260.205,
+        100.42,
+        271.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "密切的脏腑还有（）",
+      "bbox": [
+        308.95,
+        259.585,
+        429.719,
+        271.095
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "B. 面赤",
+      "bbox": [
+        62.54,
+        277.215,
+        99.078,
+        288.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 肺、脾、肾、三焦",
+      "bbox": [
+        333.36,
+        275.845,
+        437.643,
+        287.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "C. 烦躁",
+      "bbox": [
+        62.67,
+        293.065,
+        99.829,
+        304.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 肺、肾、胃、三焦",
+      "bbox": [
+        333.18,
+        292.765,
+        435.995,
+        304.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "D. 口苦",
+      "bbox": [
+        62.5,
+        310.025,
+        100.166,
+        321.505
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 肝、脾、肾、小肠",
+      "bbox": [
+        333.2,
+        309.105,
+        435.969,
+        320.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "E. 乏力",
+      "bbox": [
+        62.62,
+        326.595,
+        99.181,
+        338.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 肺、脾、胃、三焦",
+      "bbox": [
+        333.03,
+        325.755,
+        436.497,
+        337.245
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "21. 真心痛寒凝心脉的主治方剂是（）",
+      "bbox": [
+        62.56,
+        343.195,
+        277.119,
+        354.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 肺、脾、肝、小肠",
+      "bbox": [
+        333.15,
+        342.215,
+        436.323,
+        353.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "A. 保元汤",
+      "bbox": [
+        62.69,
+        359.565,
+        113.566,
+        371.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "28. 脑瘤痰瘀阻窍证的主治方剂是（）",
+      "bbox": [
+        333.22,
+        358.855,
+        547.889,
+        370.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "B. 血府逐瘀汤",
+      "bbox": [
+        62.41,
+        376.535,
+        136.417,
+        388.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "A. 复元活血汤",
+      "bbox": [
+        333.22,
+        375.625,
+        408.721,
+        387.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "C. 四逆汤",
+      "bbox": [
+        62.41,
+        393.265,
+        111.886,
+        404.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "B. 通窍活血汤",
+      "bbox": [
+        333.14,
+        392.195,
+        406.853,
+        403.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "D. 当归四逆汤",
+      "bbox": [
+        62.19,
+        409.615,
+        137.433,
+        421.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "C. 血府逐瘀汤",
+      "bbox": [
+        332.97,
+        408.875,
+        407.06,
+        420.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "E. 四逆加人参汤",
+      "bbox": [
+        62.38,
+        426.365,
+        149.481,
+        437.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "D. 大定风珠",
+      "bbox": [
+        332.93,
+        425.675,
+        395.677,
+        437.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "22. 下列哪项除外，均为鼓胀的主要特",
+      "bbox": [
+        62.53,
+        442.565,
+        283.329,
+        454.095
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "E. 二陈汤",
+      "bbox": [
+        332.89,
+        441.945,
+        382.489,
+        453.445
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "征（）",
+      "bbox": [
+        38.87,
+        460.115,
+        84.953,
+        472.065
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "29. 下列哪项不是痰饮病的常见病因（）",
+      "bbox": [
+        333.05,
+        458.505,
+        551.02,
+        470.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "A. 腹大如鼓",
+      "bbox": [
+        62.67,
+        476.235,
+        126.177,
+        487.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "A. 外感寒湿",
+      "bbox": [
+        333.02,
+        474.925,
+        396.481,
+        486.405
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "B. 四肢枯瘦",
+      "bbox": [
+        62.47,
+        492.735,
+        123.919,
+        504.225
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "B. 饮食所伤",
+      "bbox": [
+        332.97,
+        491.505,
+        394.602,
+        502.995
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "C. 皮色苍黄",
+      "bbox": [
+        62.46,
+        509.185,
+        124.652,
+        520.685
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "C. 情志失调",
+      "bbox": [
+        332.98,
+        508.125,
+        394.658,
+        519.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "D. 胁下或腹部痞块",
+      "bbox": [
+        62.45,
+        525.465,
+        162.558,
+        536.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "D. 劳欲所伤",
+      "bbox": [
+        333.07,
+        524.715,
+        395.633,
+        536.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "E. 下肢水肿",
+      "bbox": [
+        62.65,
+        541.975,
+        124.628,
+        553.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "E. 久病体虚，年高体弱",
+      "bbox": [
+        333.24,
+        541.225,
+        450.32,
+        552.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "23. 肺胀痰浊壅肺证的治法是（）",
+      "bbox": [
+        62.66,
+        558.615,
+        252.509,
+        570.165
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "30. 黄汗的病机特点为（）",
+      "bbox": [
+        333.21,
+        557.855,
+        485.329,
+        569.395
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 化痰降气，健脾益肺",
+      "bbox": [
+        62.69,
+        575.055,
+        182.083,
+        586.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 肺卫不固",
+      "bbox": [
+        333.25,
+        574.365,
+        396.077,
+        585.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 清肺化痰，降逆平喘",
+      "bbox": [
+        62.48,
+        591.755,
+        180.181,
+        603.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 营卫不和",
+      "bbox": [
+        333.23,
+        591.095,
+        394.548,
+        602.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "C. 温肾健脾，化饮利水",
+      "bbox": [
+        62.45,
+        608.205,
+        180.417,
+        619.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 阴虚火旺",
+      "bbox": [
+        333.31,
+        607.935,
+        395.31,
+        619.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "D. 补肺纳肾，降气平喘",
+      "bbox": [
+        62.19,
+        624.935,
+        180.973,
+        636.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 气阴两虚",
+      "bbox": [
+        333.34,
+        624.505,
+        396.078,
+        635.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "E. 以上均非",
+      "bbox": [
+        62.35,
+        641.685,
+        124.35,
+        653.175
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 湿闭阳郁",
+      "bbox": [
+        333.56,
+        641.455,
+        395.79,
+        652.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "24. 癫狂的主要病理因素不包括（）",
+      "bbox": [
+        62.36,
+        658.595,
+        264.884,
+        670.125
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "31. 麻杏石甘汤适宜治疗喘证的（）",
+      "bbox": [
+        333.57,
+        658.435,
+        536.189,
+        670.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "A. 痰",
+      "bbox": [
+        62.41,
+        675.375,
+        88.665,
+        686.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "A. 风寒壅肺证",
+      "bbox": [
+        333.83,
+        674.985,
+        410.183,
+        686.465
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "B. 火",
+      "bbox": [
+        62.15,
+        692.445,
+        86.551,
+        703.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "B. 痰热郁肺证",
+      "bbox": [
+        333.52,
+        691.815,
+        408.504,
+        703.305
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "C. 气",
+      "bbox": [
+        62.14,
+        708.335,
+        87.036,
+        719.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "C. 表寒肺热证",
+      "bbox": [
+        333.86,
+        708.645,
+        408.921,
+        720.145
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "D. 瘀",
+      "bbox": [
+        62.23,
+        725.355,
+        88.104,
+        736.865
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "D. 痰浊阻肺证",
+      "bbox": [
+        333.61,
+        725.425,
+        409.559,
+        736.915
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "E. 寒",
+      "bbox": [
+        62.36,
+        741.975,
+        86.947,
+        753.475
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "E. 肺气郁痹证",
+      "bbox": [
+        333.83,
+        742.085,
+        408.986,
+        753.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "25. 下列哪一项不属于内伤发热的诊断要",
+      "bbox": [
+        62.44,
+        758.944,
+        283.213,
+        770.504
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "32. 外感咳嗽与内伤咳嗽的鉴别，无意义",
+      "bbox": [
+        333.86,
+        758.614,
+        552.043,
+        770.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "点（）",
+      "bbox": [
+        39.89,
+        775.075,
+        84.486,
+        786.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "的是（）",
+      "bbox": [
+        309.92,
+        775.735,
+        368.789,
+        787.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "A. 起病缓慢，病程长",
+      "bbox": [
+        62.38,
+        791.935,
+        169.147,
+        803.455
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "A. 病情的缓急",
+      "bbox": [
+        334.08,
+        791.905,
+        409.367,
+        803.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "—169",
+      "bbox": [
+        267.2,
+        812.141,
+        300.914,
+        823.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    }
+  ]
+}

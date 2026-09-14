@@ -1,0 +1,1259 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 24,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        57.26,
+        60.149,
+        260.97,
+        72.269
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 网织红细胞增多",
+      "bbox": [
+        79.36,
+        91.609,
+        176.039,
+        104.806
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "138. 急性胆囊炎的临床表现是（）",
+      "bbox": [
+        346.65,
+        91.009,
+        544.666,
+        103.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "127. 慢性粒细胞白血病的特点是（）",
+      "bbox": [
+        80.22,
+        107.239,
+        285.533,
+        119.379
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "（139～140题共用备选答案）",
+      "bbox": [
+        346.33,
+        105.828,
+        496.907,
+        117.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "128. 急性白血病的特点是（）",
+      "bbox": [
+        80.75,
+        121.929,
+        251.163,
+        134.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "A. 苦笑面容",
+      "bbox": [
+        345.64,
+        120.769,
+        408.282,
+        132.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "（129～130题共用备选答案）",
+      "bbox": [
+        79.97,
+        136.788,
+        226.079,
+        150.602
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "B. 伤寒面容",
+      "bbox": [
+        345.65,
+        136.689,
+        406.203,
+        148.819
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 进行性贫血",
+      "bbox": [
+        79.08,
+        152.149,
+        153.708,
+        165.289
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "C. 甲亢面容",
+      "bbox": [
+        345.64,
+        151.499,
+        407.161,
+        163.619
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 皮肤、鼻腔等处发生坏死性溃疡",
+      "bbox": [
+        79.08,
+        167.469,
+        259.24,
+        181.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "D. 二尖瓣面容",
+      "bbox": [
+        345.44,
+        167.909,
+        420.043,
+        181.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 皮肤、黏膜出血",
+      "bbox": [
+        78.86,
+        182.639,
+        174.54,
+        196.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "E. 慢性病面容",
+      "bbox": [
+        345.62,
+        182.809,
+        419.619,
+        196.438
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 频繁性呕吐",
+      "bbox": [
+        79.08,
+        198.059,
+        152.638,
+        211.338
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "139. 消瘦，两眼球突出，兴奋不安，呈惊恐",
+      "bbox": [
+        346.94,
+        197.209,
+        575.526,
+        209.399
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 胸骨压痛",
+      "bbox": [
+        79.16,
+        213.099,
+        139.739,
+        226.238
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "貌,多见于（）",
+      "bbox": [
+        321.7,
+        212.309,
+        412.083,
+        225.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "129. 血小板减少可出现的临床表现",
+      "bbox": [
+        80.09,
+        229.319,
+        297.71,
+        242.96
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "140. 两颧紫红，口唇紫绀，多见于（）",
+      "bbox": [
+        346.69,
+        228.399,
+        558.583,
+        240.559
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "是（）",
+      "bbox": [
+        54.22,
+        243.749,
+        101.896,
+        257.288
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "（141～142题共用备选答案）",
+      "bbox": [
+        346.45,
+        243.689,
+        496.889,
+        257.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "130. 粒细胞缺乏症可出现的临床表现",
+      "bbox": [
+        79.91,
+        259.609,
+        296.496,
+        273.02
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 指关节梭状畸形",
+      "bbox": [
+        345.8,
+        259.379,
+        446.052,
+        271.519
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "是（）",
+      "bbox": [
+        54.51,
+        274.189,
+        101.846,
+        288.048
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 杵状指",
+      "bbox": [
+        345.79,
+        274.689,
+        394.148,
+        288.139
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "（131～132题共用备选答案）",
+      "bbox": [
+        79.73,
+        290.029,
+        226.605,
+        303.786
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 匙状甲",
+      "bbox": [
+        345.32,
+        289.649,
+        392.69,
+        302.868
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 高热",
+      "bbox": [
+        79.17,
+        304.209,
+        116.947,
+        317.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 浮髌现象",
+      "bbox": [
+        345.54,
+        305.608,
+        407.198,
+        319.103
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 抽搐",
+      "bbox": [
+        79.04,
+        320.629,
+        115.139,
+        334.168
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 肢端肥大",
+      "bbox": [
+        345.73,
+        320.639,
+        407.161,
+        333.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 三偏征",
+      "bbox": [
+        78.83,
+        336.759,
+        127.927,
+        350.449
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "141. 支气管扩张，常表现为（）",
+      "bbox": [
+        346.62,
+        335.949,
+        526.289,
+        348.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 脑膜刺激征明显",
+      "bbox": [
+        78.59,
+        351.259,
+        178.109,
+        364.708
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "142. 类风湿关节炎，常表现为（）",
+      "bbox": [
+        346.79,
+        350.989,
+        539.163,
+        363.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 脑脊液大多正常",
+      "bbox": [
+        78.66,
+        366.239,
+        176.706,
+        379.718
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "（143～144题共用备选答案）",
+      "bbox": [
+        346.41,
+        366.999,
+        496.498,
+        380.748
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "131. 蛛网膜下腔出血的体征是（）",
+      "bbox": [
+        79.82,
+        381.079,
+        274.023,
+        393.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "A. 血清前列腺特异抗原（PSA）",
+      "bbox": [
+        345.57,
+        381.789,
+        510.17,
+        395.44
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "132. 内囊区出血的表现是（）",
+      "bbox": [
+        79.92,
+        397.689,
+        249.863,
+        409.919
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "B. 血清甲胎蛋白（AFP）",
+      "bbox": [
+        345.51,
+        397.198,
+        470.195,
+        410.992
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "（133～134题共用备选答案）",
+      "bbox": [
+        79.83,
+        412.959,
+        227.461,
+        426.726
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "C. 血清癌抗原125（CA125）",
+      "bbox": [
+        345.41,
+        412.259,
+        492.002,
+        426.093
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 癔症",
+      "bbox": [
+        78.69,
+        427.209,
+        117.325,
+        440.648
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "D. 血清癌胚抗原（CEA）",
+      "bbox": [
+        345.57,
+        427.288,
+        472.352,
+        441.102
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 破伤风",
+      "bbox": [
+        78.81,
+        443.419,
+        128.9,
+        456.928
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "E. 血清糖链抗原19-9（CA19-9）",
+      "bbox": [
+        345.76,
+        443.238,
+        515.456,
+        456.869
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 脑血管疾病",
+      "bbox": [
+        78.85,
+        458.279,
+        153.57,
+        471.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "143. 诊断胰腺癌首选的检验项目是",
+      "bbox": [
+        346.75,
+        458.259,
+        569.01,
+        471.982
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 中毒性痢疾",
+      "bbox": [
+        78.67,
+        474.309,
+        154.215,
+        488.038
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "（）",
+      "bbox": [
+        322.51,
+        473.938,
+        356.206,
+        487.74
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 菌膜炎",
+      "bbox": [
+        78.99,
+        489.659,
+        128.346,
+        503.028
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "144. 诊断卵巢癌首选的检验项目是",
+      "bbox": [
+        346.6,
+        488.268,
+        569.05,
+        501.007
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "133. 抽搐伴高血压，肢体瘫痪，见于（）",
+      "bbox": [
+        79.84,
+        504.249,
+        293.543,
+        516.369
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "（）",
+      "bbox": [
+        322.8,
+        505.379,
+        356.076,
+        519.146
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "134. 抽搐伴苦笑面容，见于（）",
+      "bbox": [
+        79.67,
+        519.209,
+        256.033,
+        531.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "（145～146题共用备选答案）",
+      "bbox": [
+        346.74,
+        518.249,
+        495.21,
+        532.026
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "（135～136题共用备选答案）",
+      "bbox": [
+        79.81,
+        533.699,
+        227.067,
+        546.199
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 肺大疱",
+      "bbox": [
+        345.8,
+        533.329,
+        395.611,
+        546.84
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "A. 医患关系是一种民事法律关系",
+      "bbox": [
+        78.72,
+        549.159,
+        252.308,
+        562.618
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 肺脓肿",
+      "bbox": [
+        345.71,
+        548.629,
+        393.21,
+        561.829
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "B. 医患关系是具有道德意义较强的社会",
+      "bbox": [
+        78.65,
+        565.329,
+        296.562,
+        578.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 浸润型肺结核空洞形成",
+      "bbox": [
+        345.82,
+        563.229,
+        482.233,
+        576.838
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "关系",
+      "bbox": [
+        53.78,
+        581.379,
+        78.02,
+        593.499
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 慢性纤维空洞型肺结核",
+      "bbox": [
+        345.68,
+        579.259,
+        483.659,
+        591.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "C. 医患关系是一种商家与消费者的关系",
+      "bbox": [
+        78.66,
+        595.219,
+        286.721,
+        608.818
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 周围型肺癌空洞形成",
+      "bbox": [
+        346.01,
+        594.199,
+        469.781,
+        607.798
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "D. 医患关系是包括非技术性和技术性方",
+      "bbox": [
+        78.59,
+        610.299,
+        296.563,
+        623.668
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "145. X线下见右上肺有多发的厚壁空洞。",
+      "bbox": [
+        346.83,
+        609.209,
+        564.168,
+        621.319
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "周围有较广泛的纤维条索影。应首先考虑的",
+      "bbox": [
+        321.78,
+        623.879,
+        566.895,
+        635.999
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "面的关系",
+      "bbox": [
+        54.38,
+        627.629,
+        102.86,
+        639.749
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "E. 医患关系是患者与治疗者在诊疗和保",
+      "bbox": [
+        78.78,
+        640.649,
+        296.489,
+        653.97
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "是（）",
+      "bbox": [
+        321.62,
+        640.179,
+        368.376,
+        653.069
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "健中所建立的联系",
+      "bbox": [
+        53.27,
+        657.669,
+        150.574,
+        669.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "146. X线下见右下肺出现大片的浓密阴",
+      "bbox": [
+        346.84,
+        655.219,
+        566.756,
+        667.359
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "135. 反映医患关系本质的是（）",
+      "bbox": [
+        79.97,
+        670.879,
+        261.706,
+        683.939
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "影，其内见一个含有液平面的圆形空洞，洞内",
+      "bbox": [
+        321.44,
+        670.059,
+        571.91,
+        682.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "136. 概括医患关系内容的是（）",
+      "bbox": [
+        79.92,
+        686.229,
+        260.986,
+        698.389
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "壁光整，洞壁较厚应首先考虑的是（）",
+      "bbox": [
+        321.43,
+        685.969,
+        539.676,
+        698.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "（137～138题共用备选答案）",
+      "bbox": [
+        79.88,
+        702.359,
+        226.64,
+        714.509
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "（147～148题共用备选答案）",
+      "bbox": [
+        346.75,
+        701.759,
+        497.038,
+        715.548
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "A. 呕吐物为隔餐食物，带腐臭味",
+      "bbox": [
+        78.88,
+        717.639,
+        248.36,
+        731.528
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "A. 医学关系中的主体在道义上应享有的",
+      "bbox": [
+        346.12,
+        717.619,
+        567.488,
+        731.209
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "B. 呕吐物为黄绿色，带粪臭味",
+      "bbox": [
+        79.2,
+        732.469,
+        235.65,
+        746.319
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "权利和利益",
+      "bbox": [
+        321.08,
+        733.029,
+        381.68,
+        745.149
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "C. 呕吐物为大量黏液及食物",
+      "bbox": [
+        79.3,
+        747.729,
+        225.625,
+        759.849
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 医学关系中的主体在道义上应履行的",
+      "bbox": [
+        345.9,
+        747.739,
+        566.759,
+        761.478
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "D. 呕吐物为血液",
+      "bbox": [
+        79.78,
+        763.159,
+        165.822,
+        776.669
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "职责和使命",
+      "bbox": [
+        321.51,
+        764.039,
+        382.11,
+        776.159
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "E. 吐出胃内容物后仍干呕不止",
+      "bbox": [
+        79.75,
+        778.139,
+        238.261,
+        791.609
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "C. 医学关系的主体对应尽义务的自我认",
+      "bbox": [
+        345.85,
+        778.759,
+        567.869,
+        792.233
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "137. 急性胃炎的临床表现是（）",
+      "bbox": [
+        80.73,
+        792.959,
+        261.419,
+        805.109
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "识和自我评价的能力",
+      "bbox": [
+        320.99,
+        795.159,
+        430.07,
+        807.279
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "118",
+      "bbox": [
+        301.1,
+        815.228,
+        314.968,
+        824.118
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

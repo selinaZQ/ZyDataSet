@@ -1,0 +1,1337 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 8,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        64.84,
+        41.621,
+        262.923,
+        51.241
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "窄；在心尖区触及收缩期震颤，应考虑为重度二尖瓣关",
+      "bbox": [
+        63.49,
+        71.545,
+        298.813,
+        81.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "43. C【解析】病原体通过各种途径进入人体，就",
+      "bbox": [
+        343.41,
+        69.685,
+        559.693,
+        80.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "闭不全。",
+      "bbox": [
+        63.74,
+        86.135,
+        101.86,
+        95.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "意味着感染过程的开始，而临床上是否出现相应的症",
+      "bbox": [
+        323.36,
+        84.815,
+        559.494,
+        94.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "29. B【解析】急性心肌梗死合并心源性休克时，",
+      "bbox": [
+        83.96,
+        99.985,
+        297.825,
+        109.555
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "状、体征，则取决于病原体的致病力和机体的免疫",
+      "bbox": [
+        323.1,
+        99.425,
+        559.529,
+        108.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "常用硝普钠或硝酸甘油静脉滴注，直至左心室充盈压",
+      "bbox": [
+        63.4,
+        114.235,
+        298.487,
+        123.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "功能。",
+      "bbox": [
+        323.17,
+        114.415,
+        351.73,
+        123.935
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "下降。",
+      "bbox": [
+        63.04,
+        128.975,
+        91.6,
+        138.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "44. D【解析】甲类传染病：鼠疫、霍乱；乙类传染",
+      "bbox": [
+        343.57,
+        128.065,
+        560.09,
+        137.625
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "30. B【解析】轻度意识障碍包括意识模糊、嗜睡",
+      "bbox": [
+        83.72,
+        143.245,
+        298.23,
+        152.765
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "病：传染性非典型肺炎（SARS）、艾滋病、病毒性肝炎、",
+      "bbox": [
+        323.21,
+        142.805,
+        559.177,
+        152.285
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "状态和朦胧状态。中度意识障碍包括混浊状态或精神",
+      "bbox": [
+        63.05,
+        157.405,
+        298.137,
+        166.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "脊髓灰质炎、狂犬病等；丙类传染病：流行性感冒、流行",
+      "bbox": [
+        323.14,
+        157.535,
+        560.89,
+        167.045
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "错乱状态、谵妄状态。重度意识障碍包括昏睡状态或",
+      "bbox": [
+        63.17,
+        171.735,
+        298.504,
+        181.265
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "性腮腺炎、风疹、麻风病等，故选D。SARS、狂犬病、炭",
+      "bbox": [
+        323.3,
+        171.855,
+        563.28,
+        181.375
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "浅昏迷状态、昏迷状态、深昏迷状态和木僵状态。",
+      "bbox": [
+        63.0,
+        186.455,
+        271.78,
+        195.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "疽、流行性出血热和人感染新亚型流感均属于乙类传",
+      "bbox": [
+        323.34,
+        186.365,
+        559.265,
+        195.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "31. A【解析】叩诊音临床上分为清音、鼓音、过",
+      "bbox": [
+        83.51,
+        201.035,
+        298.764,
+        210.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "染病。",
+      "bbox": [
+        323.22,
+        201.375,
+        351.6,
+        210.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "清音、浊音和实音5种。",
+      "bbox": [
+        63.12,
+        215.645,
+        165.569,
+        225.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "45. B【解析】患者和带菌者是霍乱的主要传染",
+      "bbox": [
+        343.74,
+        215.506,
+        558.955,
+        225.435
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "32. C【解析】一侧脑桥少量出血，表现为交叉性",
+      "bbox": [
+        83.47,
+        230.195,
+        298.628,
+        239.695
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "源，患者在发病期间，可连续排菌，时间一般为5日。",
+      "bbox": [
+        323.41,
+        230.165,
+        566.06,
+        239.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "瘫痪，两眼向病灶侧凝视麻痹，但多数累及两侧脑桥，",
+      "bbox": [
+        62.92,
+        244.475,
+        298.159,
+        253.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "对接触者应严密检疫5日，留粪培养并服药预防。",
+      "bbox": [
+        323.3,
+        244.875,
+        537.489,
+        254.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "出血破入第四脑室，迅速出现深度昏迷、双侧瞳孔针尖",
+      "bbox": [
+        63.8,
+        259.195,
+        298.733,
+        268.675
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "46. D【解析】《突发公共卫生事件应急条例》规",
+      "bbox": [
+        343.85,
+        259.175,
+        559.233,
+        268.665
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "样缩小、四肢瘫痪和中枢性高热的特征性体征，并出现",
+      "bbox": [
+        63.11,
+        273.695,
+        298.816,
+        283.215
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "定，突发事件发生后，国务院设立全国突发事件应急处",
+      "bbox": [
+        323.41,
+        273.895,
+        559.116,
+        283.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "中枢性呼吸障碍和去脑强直，多于数天内死亡。",
+      "bbox": [
+        63.74,
+        288.305,
+        265.967,
+        297.835
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "理指挥部，负责对全国突发事件应急处理的统一领导、",
+      "bbox": [
+        323.48,
+        288.255,
+        558.748,
+        297.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "33. C【解析】常见循环系统疾病的影像诊断。肺",
+      "bbox": [
+        83.62,
+        302.735,
+        298.935,
+        312.235
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "统一指挥。省、自治区、直辖市人民政府成立地方突发",
+      "bbox": [
+        323.53,
+        302.995,
+        559.017,
+        312.515
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "动脉高压表现：右下肺动脉干扩张，肺动脉段中度凸出",
+      "bbox": [
+        63.27,
+        317.235,
+        298.1,
+        326.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "事件应急处理指挥部，负责领导、指挥本行政区域内突",
+      "bbox": [
+        323.56,
+        317.405,
+        558.828,
+        326.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "或其高度>3mm，中心肺动脉扩张和外周分支纤细。",
+      "bbox": [
+        63.25,
+        332.055,
+        286.963,
+        341.565
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "发事件应急处理工作，故选D。",
+      "bbox": [
+        323.51,
+        331.865,
+        455.408,
+        341.335
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "34. B【解析】语音震颤的强弱受到发音的强弱、",
+      "bbox": [
+        83.61,
+        346.205,
+        298.634,
+        355.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "47. D【解析】高危人群存在下列情况两项或两项",
+      "bbox": [
+        343.9,
+        346.105,
+        558.512,
+        355.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "音调的高低、胸壁的厚薄以及气道通畅程度的影响。",
+      "bbox": [
+        63.2,
+        360.705,
+        298.59,
+        370.195
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "以上者，应考虑艾滋病的可能：①近期体重下降10%以",
+      "bbox": [
+        324.19,
+        360.495,
+        558.128,
+        369.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "减弱或消失主要见于肺泡内含气量过多、支气管阻塞、",
+      "bbox": [
+        63.0,
+        375.365,
+        298.925,
+        384.885
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "上；②慢性咳嗽或腹泻3个月以上；③间歇或持续发热",
+      "bbox": [
+        323.59,
+        375.255,
+        558.611,
+        384.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "大量胸腔积液或气胸、胸膜高度增厚粘连、胸壁皮下气",
+      "bbox": [
+        63.21,
+        389.415,
+        298.887,
+        398.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "1个月以上；④全身淋巴结肿大；⑤反复出现带状疱疹",
+      "bbox": [
+        323.96,
+        389.595,
+        558.733,
+        399.085
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "肿或皮下水肿。",
+      "bbox": [
+        63.07,
+        404.135,
+        129.71,
+        413.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "或慢性播散性单纯疱疹感染；⑥口咽念珠菌感染。",
+      "bbox": [
+        323.47,
+        403.855,
+        558.146,
+        413.385
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "35. B【解析】急性胰腺炎最有价值的血清酶检查",
+      "bbox": [
+        83.74,
+        418.385,
+        298.931,
+        428.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "ABE项均支持艾滋病的诊断。结合艾滋病的临床表",
+      "bbox": [
+        323.68,
+        418.265,
+        558.368,
+        427.775
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "是血尿淀粉酶。",
+      "bbox": [
+        62.97,
+        433.185,
+        129.61,
+        442.705
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "现，艾滋病在4期主要出现5种表现，其中神经系统症",
+      "bbox": [
+        323.7,
+        432.895,
+        558.312,
+        442.395
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "36. B【解析】抗核抗体常用于弥漫性结缔组织病",
+      "bbox": [
+        83.75,
+        447.325,
+        298.92,
+        456.945
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "状主要表现有头痛、癫痫、进行性痴呆和下肢瘫痪等，",
+      "bbox": [
+        323.48,
+        447.155,
+        557.816,
+        456.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "的诊断，尤其是抗核抗体中的抗双链（天然）DNA抗体",
+      "bbox": [
+        63.8,
+        461.445,
+        299.087,
+        470.965
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "故C项也支持艾滋病诊断。艾滋病对皮肤黏膜造成的",
+      "bbox": [
+        323.65,
+        461.635,
+        557.937,
+        471.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "对诊断系统性红斑狼疮有较高的特异性。",
+      "bbox": [
+        62.88,
+        476.285,
+        240.875,
+        485.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "损害，主要是肿瘤和感染等，并不出现出血症状，故皮",
+      "bbox": [
+        323.52,
+        475.965,
+        558.131,
+        485.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "37. A【解析】根据典型的临床表现、典型的心电",
+      "bbox": [
+        83.65,
+        490.525,
+        298.678,
+        500.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "肤黏膜出血不能作为艾滋病诊断的依据，故选D。",
+      "bbox": [
+        323.52,
+        490.265,
+        535.986,
+        499.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "图改变以及血清肌钙蛋白和心肌酶的改变，一般可确",
+      "bbox": [
+        63.76,
+        505.075,
+        298.6,
+        514.585
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "48. E【解析】洋地黄中毒所致的室性期前收缩，",
+      "bbox": [
+        343.77,
+        504.746,
+        557.607,
+        514.255
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "定诊断。对于非ST段抬高的心肌梗死，肌钙蛋白测定",
+      "bbox": [
+        62.86,
+        519.065,
+        298.917,
+        528.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "应立即停用洋地黄，给予苯妥英钠或氯化钾等治疗。",
+      "bbox": [
+        323.48,
+        519.315,
+        546.813,
+        528.825
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "的诊断价值更大。",
+      "bbox": [
+        63.82,
+        533.875,
+        139.74,
+        543.365
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "49. B【解析】国家对传染病防治实行预防为主的",
+      "bbox": [
+        343.83,
+        533.666,
+        557.826,
+        543.485
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "38. B【解析】聚合酶链反应（PCR）检测可提高病",
+      "bbox": [
+        83.58,
+        547.925,
+        299.008,
+        557.425
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "方针，防治结合、分类管理、依靠科学、依靠群众。",
+      "bbox": [
+        323.52,
+        548.165,
+        541.79,
+        557.655
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "原体检出率。",
+      "bbox": [
+        63.03,
+        562.655,
+        119.79,
+        572.115
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "50. C【解析】传染科室的道德要求：①热爱本职",
+      "bbox": [
+        344.0,
+        562.536,
+        558.188,
+        572.035
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "39. A【解析】上腹壁反射的反射中枢在胸髓7～",
+      "bbox": [
+        83.59,
+        576.876,
+        298.38,
+        586.346
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "工作，具有无私奉献精神；②坚持预防为主的积极防疫",
+      "bbox": [
+        323.59,
+        577.196,
+        557.966,
+        586.636
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "8节段，中腹壁反射的反射中枢在胸髓9～10节段，下",
+      "bbox": [
+        63.13,
+        591.305,
+        298.597,
+        600.805
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "思想；③严格执行消毒隔离制度，防止交叉感染；④遵",
+      "bbox": [
+        323.6,
+        591.695,
+        558.038,
+        601.155
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "腹壁反射的反射中枢在胸髓11～12节段，提睾反射的",
+      "bbox": [
+        62.92,
+        605.885,
+        298.467,
+        615.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "守国家法律规定，及时上报疫情。",
+      "bbox": [
+        323.6,
+        606.285,
+        465.632,
+        615.745
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "反射中枢在腰髓1～2节段。",
+      "bbox": [
+        62.94,
+        620.366,
+        183.51,
+        630.926
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "51. C【解析】二度Ⅰ型房室传导阻滞的心电图表",
+      "bbox": [
+        344.18,
+        620.686,
+        558.099,
+        630.456
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "40. A【解析】吸气性呼吸困难其病因主要是由",
+      "bbox": [
+        83.2,
+        634.995,
+        297.752,
+        644.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "现：①P-R间期进行性延长直至一个P波受阻不能下",
+      "bbox": [
+        323.67,
+        635.135,
+        557.94,
+        644.615
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "气管上段及咽喉部的阻塞性疾病引起，如咽后脓肿、喉",
+      "bbox": [
+        62.77,
+        649.425,
+        298.723,
+        658.955
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "传心室；②相邻R-R间期进行性缩短，直至一个P波不",
+      "bbox": [
+        323.46,
+        649.705,
+        557.93,
+        659.205
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "炎、肿瘤、异物、白喉等。",
+      "bbox": [
+        62.77,
+        663.925,
+        176.65,
+        673.415
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "能下传心室；③包含受阻P波在内的R-R间期小于正",
+      "bbox": [
+        323.7,
+        664.245,
+        557.988,
+        673.755
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "41. A【解析】淋巴细胞在HIV直接和间",
+      "bbox": [
+        82.95,
+        678.885,
+        297.959,
+        688.495
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "常窦性P-P间期的两倍；最常见的房室传导比例为3：2",
+      "bbox": [
+        323.81,
+        678.865,
+        558.222,
+        688.355
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "接作用下，细胞功能受损和大量破坏，导致细胞免疫缺",
+      "bbox": [
+        62.81,
+        693.485,
+        298.676,
+        702.985
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "或5：4。根据此标准，只有C项描述的符合二度Ⅰ型房",
+      "bbox": [
+        323.6,
+        693.436,
+        558.154,
+        702.846
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "陷。虽然同时还侵犯其他类型免疫细胞：单核吞噬细",
+      "bbox": [
+        63.28,
+        708.185,
+        298.404,
+        717.715
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "室传导阻滞的心电图表现。",
+      "bbox": [
+        323.58,
+        708.319,
+        440.945,
+        717.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "胞、B淋巴细胞、NK细胞损伤及HIV感染后的免疫应",
+      "bbox": [
+        62.75,
+        722.415,
+        298.341,
+        731.915
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "52. E【解析】急性化脓性骨髓炎X线表现：①发",
+      "bbox": [
+        344.22,
+        722.639,
+        558.252,
+        731.769
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "答异常。最主要的还是淋巴细胞，故选A。",
+      "bbox": [
+        62.6,
+        737.425,
+        287.491,
+        747.025
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "病后2周内，可见肌间隙模糊或消失，皮下组织与肌间",
+      "bbox": [
+        323.29,
+        737.209,
+        557.813,
+        746.779
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "42. D【解析】胃溃疡的主要症状是上腹部疼痛。",
+      "bbox": [
+        83.02,
+        752.035,
+        298.178,
+        761.595
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "分界模糊等；②发病2周后可见骨改变。",
+      "bbox": [
+        323.32,
+        752.008,
+        497.047,
+        761.529
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 97,
+      "text": "嗳气、反酸可见于反流性食管炎，BCE项均不是胃溃疡",
+      "bbox": [
+        63.33,
+        766.465,
+        298.55,
+        775.975
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 98,
+      "text": "53. D【解析】中国古代医德思想内容包括仁爱救",
+      "bbox": [
+        344.36,
+        766.359,
+        558.47,
+        775.809
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 99,
+      "text": "的特征性症状。",
+      "bbox": [
+        63.61,
+        781.245,
+        130.39,
+        790.785
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 100,
+      "text": "人、赤诚济世的事业准则；清廉正直、不图钱财的道德",
+      "bbox": [
+        323.52,
+        780.808,
+        558.62,
+        789.988
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 101,
+      "text": "198—",
+      "bbox": [
+        302.72,
+        798.934,
+        338.89,
+        808.706
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

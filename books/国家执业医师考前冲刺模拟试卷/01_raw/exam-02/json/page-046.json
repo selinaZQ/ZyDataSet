@@ -1,0 +1,1212 @@
+{
+  "source_file": "国家执业药师考前冲刺二.pdf",
+  "source_sha256": "fca08ee876d7529cb399142718c25f1ba3a22bd84104941fd09e49f427bcb4fb",
+  "page": 46,
+  "page_count": 48,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试",
+      "bbox": [
+        151.0,
+        145.0,
+        582.0,
+        183.0
+      ],
+      "confidence": 0.998528,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "武中医执业医师",
+      "bbox": [
+        565.0,
+        144.0,
+        881.0,
+        187.0
+      ],
+      "confidence": 0.895861,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "倦，食少腹胀，胸闷叹息，舌苔薄白，脉弦无力。",
+      "bbox": [
+        147.0,
+        253.0,
+        1006.0,
+        298.0
+      ],
+      "confidence": 0.990854,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "燥，大便干结，舌红少津，舌苔光剥，脉细数。",
+      "bbox": [
+        1091.0,
+        248.0,
+        1939.0,
+        300.0
+      ],
+      "confidence": 0.99112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "治疗宜首选（",
+      "bbox": [
+        145.0,
+        309.0,
+        389.0,
+        360.0
+      ],
+      "confidence": 0.995086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "）",
+      "bbox": [
+        467.0,
+        317.0,
+        492.0,
+        351.0
+      ],
+      "confidence": 0.988977,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "治疗应首选（",
+      "bbox": [
+        1094.0,
+        311.0,
+        1342.0,
+        357.0
+      ],
+      "confidence": 0.995038,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "）",
+      "bbox": [
+        1412.0,
+        317.0,
+        1437.0,
+        351.0
+      ],
+      "confidence": 0.990309,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 八珍汤",
+      "bbox": [
+        234.0,
+        370.0,
+        419.0,
+        418.0
+      ],
+      "confidence": 0.996448,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 沙参麦冬汤",
+      "bbox": [
+        1182.0,
+        370.0,
+        1448.0,
+        413.0
+      ],
+      "confidence": 0.995018,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 固本止崩汤",
+      "bbox": [
+        234.0,
+        429.0,
+        497.0,
+        475.0
+      ],
+      "confidence": 0.93704,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 增液承气汤",
+      "bbox": [
+        1178.0,
+        426.0,
+        1445.0,
+        473.0
+      ],
+      "confidence": 0.998175,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 逍遥散",
+      "bbox": [
+        231.0,
+        481.0,
+        417.0,
+        535.0
+      ],
+      "confidence": 0.988387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 养胃增液汤",
+      "bbox": [
+        1179.0,
+        484.0,
+        1445.0,
+        530.0
+      ],
+      "confidence": 0.997816,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 安老汤",
+      "bbox": [
+        233.0,
+        540.0,
+        418.0,
+        591.0
+      ],
+      "confidence": 0.998961,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 六味地黄九",
+      "bbox": [
+        1179.0,
+        540.0,
+        1448.0,
+        586.0
+      ],
+      "confidence": 0.994678,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 归肾丸",
+      "bbox": [
+        233.0,
+        599.0,
+        417.0,
+        646.0
+      ],
+      "confidence": 0.995021,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 麦门冬汤",
+      "bbox": [
+        1177.0,
+        595.0,
+        1406.0,
+        644.0
+      ],
+      "confidence": 0.998516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "110. 患者，女，30岁，已婚。结婚3年未",
+      "bbox": [
+        235.0,
+        658.0,
+        1007.0,
+        703.0
+      ],
+      "confidence": 0.977406,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "115. 患儿，2岁。形体极度消瘦，面呈老人",
+      "bbox": [
+        1178.0,
+        653.0,
+        1937.0,
+        702.0
+      ],
+      "confidence": 0.984258,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "孕，月经周期正常，量少，色红无血块，小腹隐",
+      "bbox": [
+        157.0,
+        714.0,
+        1007.0,
+        759.0
+      ],
+      "confidence": 0.978117,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "貌，皮包骨头，腹凹如舟，精神萎靡，大便溏薄，",
+      "bbox": [
+        1094.0,
+        709.0,
+        1937.0,
+        762.0
+      ],
+      "confidence": 0.985874,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "痛，腰腿酸软，头晕眼花，午后低热，口干咽燥，",
+      "bbox": [
+        156.0,
+        771.0,
+        1006.0,
+        816.0
+      ],
+      "confidence": 0.97341,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "舌淡苔薄腻，其证候是（）",
+      "bbox": [
+        1095.0,
+        769.0,
+        1637.0,
+        816.0
+      ],
+      "confidence": 0.917551,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "舌红，少苔，细数，其证候是（）",
+      "bbox": [
+        156.0,
+        827.0,
+        777.0,
+        876.0
+      ],
+      "confidence": 0.90193,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 疳肿胀",
+      "bbox": [
+        1178.0,
+        826.0,
+        1369.0,
+        877.0
+      ],
+      "confidence": 0.964114,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "A. 肾阴虚",
+      "bbox": [
+        236.0,
+        886.0,
+        418.0,
+        933.0
+      ],
+      "confidence": 0.997731,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 疳气",
+      "bbox": [
+        1175.0,
+        881.0,
+        1321.0,
+        937.0
+      ],
+      "confidence": 0.975715,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "B. 肾阳虚",
+      "bbox": [
+        235.0,
+        945.0,
+        413.0,
+        992.0
+      ],
+      "confidence": 0.998474,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 疳积",
+      "bbox": [
+        1178.0,
+        941.0,
+        1323.0,
+        993.0
+      ],
+      "confidence": 0.985526,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "C. 脾虚",
+      "bbox": [
+        236.0,
+        1003.0,
+        374.0,
+        1051.0
+      ],
+      "confidence": 0.997196,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 干疳",
+      "bbox": [
+        1178.0,
+        998.0,
+        1324.0,
+        1050.0
+      ],
+      "confidence": 0.97593,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "D. 肝郁",
+      "bbox": [
+        235.0,
+        1060.0,
+        375.0,
+        1109.0
+      ],
+      "confidence": 0.999,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 心疳",
+      "bbox": [
+        1179.0,
+        1058.0,
+        1322.0,
+        1106.0
+      ],
+      "confidence": 0.985206,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "E. 痰湿",
+      "bbox": [
+        235.0,
+        1117.0,
+        373.0,
+        1165.0
+      ],
+      "confidence": 0.998532,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "116. 患儿自汗，头、肩、背出汗明显，活动",
+      "bbox": [
+        1182.0,
+        1115.0,
+        1935.0,
+        1164.0
+      ],
+      "confidence": 0.993067,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "111. 患儿，男，12岁。癫痫发病10年，屡",
+      "bbox": [
+        239.0,
+        1177.0,
+        1006.0,
+        1222.0
+      ],
+      "confidence": 0.97817,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "后加重，易感冒，神倦乏力。面色少华，四肢欠",
+      "bbox": [
+        1096.0,
+        1173.0,
+        1936.0,
+        1221.0
+      ],
+      "confidence": 0.98882,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "发不止，发时瘛疭抖动，时有眩晕，智力迟钝，",
+      "bbox": [
+        158.0,
+        1232.0,
+        1005.0,
+        1279.0
+      ],
+      "confidence": 0.953517,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "温，舌淡苔薄，脉弱，其治法是（）",
+      "bbox": [
+        1096.0,
+        1229.0,
+        1762.0,
+        1278.0
+      ],
+      "confidence": 0.932326,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "腰膝酸软，神疲乏力，少气懒言，四肢不温，大",
+      "bbox": [
+        156.0,
+        1290.0,
+        1006.0,
+        1337.0
+      ],
+      "confidence": 0.990043,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 调和营卫",
+      "bbox": [
+        1181.0,
+        1286.0,
+        1413.0,
+        1337.0
+      ],
+      "confidence": 0.998915,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "便稀溏，舌淡苔白，脉沉细，其治法是（）",
+      "bbox": [
+        156.0,
+        1346.0,
+        950.0,
+        1395.0
+      ],
+      "confidence": 0.940122,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 益气固表",
+      "bbox": [
+        1179.0,
+        1342.0,
+        1408.0,
+        1395.0
+      ],
+      "confidence": 0.999166,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 豁痰开窍",
+      "bbox": [
+        237.0,
+        1403.0,
+        461.0,
+        1454.0
+      ],
+      "confidence": 0.998935,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 益气养阴",
+      "bbox": [
+        1181.0,
+        1401.0,
+        1407.0,
+        1451.0
+      ],
+      "confidence": 0.998698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 息风止痉",
+      "bbox": [
+        236.0,
+        1463.0,
+        454.0,
+        1510.0
+      ],
+      "confidence": 0.998394,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 益气敛汗",
+      "bbox": [
+        1179.0,
+        1457.0,
+        1411.0,
+        1507.0
+      ],
+      "confidence": 0.99918,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 镇惊安神",
+      "bbox": [
+        238.0,
+        1520.0,
+        454.0,
+        1567.0
+      ],
+      "confidence": 0.998608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 敛汗潜阳",
+      "bbox": [
+        1180.0,
+        1514.0,
+        1408.0,
+        1565.0
+      ],
+      "confidence": 0.997787,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 健脾化痰",
+      "bbox": [
+        235.0,
+        1575.0,
+        458.0,
+        1625.0
+      ],
+      "confidence": 0.998884,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "117. 患儿，6岁。初起发热恶寒，咳嗽，咽",
+      "bbox": [
+        1183.0,
+        1574.0,
+        1936.0,
+        1623.0
+      ],
+      "confidence": 0.983608,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 补益脾肾",
+      "bbox": [
+        236.0,
+        1635.0,
+        456.0,
+        1681.0
+      ],
+      "confidence": 0.999396,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "痛，乳蛾肿大。继则眼睑浮肿，波及全身，皮肤",
+      "bbox": [
+        1096.0,
+        1631.0,
+        1938.0,
+        1679.0
+      ],
+      "confidence": 0.981412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "112. 患儿，3岁。因右侧腮部肿胀2天就",
+      "bbox": [
+        238.0,
+        1692.0,
+        1005.0,
+        1737.0
+      ],
+      "confidence": 0.989233,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "光亮，按之凹陷即起，小便短少，尿色红赤，舌",
+      "bbox": [
+        1096.0,
+        1690.0,
+        1937.0,
+        1736.0
+      ],
+      "confidence": 0.992595,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "诊。现症见右侧腮部肿痛，恶寒发热，头痛，舌",
+      "bbox": [
+        152.0,
+        1750.0,
+        1004.0,
+        1795.0
+      ],
+      "confidence": 0.992195,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "苔薄白，其证候是（",
+      "bbox": [
+        1099.0,
+        1748.0,
+        1450.0,
+        1793.0
+      ],
+      "confidence": 0.967763,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "质红，苔薄白微黄，脉浮数。治疗宜首",
+      "bbox": [
+        152.0,
+        1806.0,
+        1005.0,
+        1852.0
+      ],
+      "confidence": 0.998592,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 外感风热",
+      "bbox": [
+        1185.0,
+        1807.0,
+        1412.0,
+        1849.0
+      ],
+      "confidence": 0.998156,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "选（）",
+      "bbox": [
+        147.0,
+        1859.0,
+        335.0,
+        1915.0
+      ],
+      "confidence": 0.762277,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 风水相搏",
+      "bbox": [
+        1184.0,
+        1864.0,
+        1405.0,
+        1907.0
+      ],
+      "confidence": 0.998984,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "A. 柴胡葛根汤",
+      "bbox": [
+        236.0,
+        1923.0,
+        506.0,
+        1969.0
+      ],
+      "confidence": 0.995753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 湿热内侵",
+      "bbox": [
+        1184.0,
+        1923.0,
+        1406.0,
+        1965.0
+      ],
+      "confidence": 0.997498,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 普济消毒饮",
+      "bbox": [
+        234.0,
+        1979.0,
+        502.0,
+        2025.0
+      ],
+      "confidence": 0.998947,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 肺脾气虚",
+      "bbox": [
+        1182.0,
+        1977.0,
+        1408.0,
+        2024.0
+      ],
+      "confidence": 0.99877,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "C. 仙方活命饮",
+      "bbox": [
+        235.0,
+        2034.0,
+        503.0,
+        2083.0
+      ],
+      "confidence": 0.99812,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 脾肾两虚",
+      "bbox": [
+        1183.0,
+        2037.0,
+        1406.0,
+        2080.0
+      ],
+      "confidence": 0.998494,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "D. 五味消毒饮",
+      "bbox": [
+        234.0,
+        2093.0,
+        506.0,
+        2139.0
+      ],
+      "confidence": 0.998298,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "118. 患儿，2岁。持续壮热5天，起伏如",
+      "bbox": [
+        1183.0,
+        2092.0,
+        1938.0,
+        2138.0
+      ],
+      "confidence": 0.985709,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "E. 荆防败毒散",
+      "bbox": [
+        235.0,
+        2150.0,
+        506.0,
+        2197.0
+      ],
+      "confidence": 0.99889,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "潮，肤有微汗。烦躁不安，目赤眵多，皮疹布",
+      "bbox": [
+        1098.0,
+        2150.0,
+        1938.0,
+        2195.0
+      ],
+      "confidence": 0.979432,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "113. 患儿，6岁。泄泻1天，泻下稀薄如水",
+      "bbox": [
+        235.0,
+        2206.0,
+        1004.0,
+        2255.0
+      ],
+      "confidence": 0.989549,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "发，疹点由细小稀少而逐渐稠密，疹色先红后",
+      "bbox": [
+        1098.0,
+        2208.0,
+        1939.0,
+        2253.0
+      ],
+      "confidence": 0.986086,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "注，粪色深黄臭秽，夹有少量黏液。腹部时感",
+      "bbox": [
+        151.0,
+        2264.0,
+        1006.0,
+        2311.0
+      ],
+      "confidence": 0.989991,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "暗，皮疹凸起，触之碍手。压之褪色，大便干",
+      "bbox": [
+        1098.0,
+        2264.0,
+        1939.0,
+        2309.0
+      ],
+      "confidence": 0.991432,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "疼痛，食欲减退，恶心欲吐，口渴引饮，舌红苔",
+      "bbox": [
+        150.0,
+        2321.0,
+        1005.0,
+        2368.0
+      ],
+      "confidence": 0.994963,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "结，小便短少，舌质红赤，舌苔黄腻，脉数有力。",
+      "bbox": [
+        1096.0,
+        2321.0,
+        1941.0,
+        2366.0
+      ],
+      "confidence": 0.985953,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "黄腻，其证候是（）",
+      "bbox": [
+        150.0,
+        2374.0,
+        576.0,
+        2427.0
+      ],
+      "confidence": 0.88224,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "治疗应首选（）",
+      "bbox": [
+        1093.0,
+        2373.0,
+        1446.0,
+        2426.0
+      ],
+      "confidence": 0.947278,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "A. 脾肾阳虚泻",
+      "bbox": [
+        233.0,
+        2432.0,
+        515.0,
+        2484.0
+      ],
+      "confidence": 0.998178,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "A. 宣毒发表汤",
+      "bbox": [
+        1180.0,
+        2433.0,
+        1448.0,
+        2479.0
+      ],
+      "confidence": 0.958354,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "B. 伤食泻",
+      "bbox": [
+        232.0,
+        2489.0,
+        422.0,
+        2544.0
+      ],
+      "confidence": 0.998633,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "B. 清解透表汤",
+      "bbox": [
+        1179.0,
+        2493.0,
+        1441.0,
+        2535.0
+      ],
+      "confidence": 0.997843,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "C. 风寒泻",
+      "bbox": [
+        232.0,
+        2545.0,
+        423.0,
+        2600.0
+      ],
+      "confidence": 0.994922,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "C. 沙参麦冬汤",
+      "bbox": [
+        1180.0,
+        2550.0,
+        1441.0,
+        2593.0
+      ],
+      "confidence": 0.997788,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "D. 湿热泻",
+      "bbox": [
+        232.0,
+        2605.0,
+        424.0,
+        2657.0
+      ],
+      "confidence": 0.998165,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "D. 麻杏石甘汤",
+      "bbox": [
+        1179.0,
+        2607.0,
+        1442.0,
+        2650.0
+      ],
+      "confidence": 0.998715,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "E. 脾虚泻",
+      "bbox": [
+        234.0,
+        2666.0,
+        420.0,
+        2712.0
+      ],
+      "confidence": 0.997377,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "E. 羚角钩藤汤",
+      "bbox": [
+        1175.0,
+        2661.0,
+        1442.0,
+        2710.0
+      ],
+      "confidence": 0.996409,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "114. 患儿，5岁。1年来食少饮多，皮肤干",
+      "bbox": [
+        236.0,
+        2724.0,
+        1007.0,
+        2768.0
+      ],
+      "confidence": 0.988472,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "92",
+      "bbox": [
+        1023.0,
+        2845.0,
+        1078.0,
+        2891.0
+      ],
+      "confidence": 0.998375,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}

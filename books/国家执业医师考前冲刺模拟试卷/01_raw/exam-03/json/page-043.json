@@ -1,0 +1,1246 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 43,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（三）",
+      "bbox": [
+        416.87,
+        45.355,
+        536.609,
+        56.895
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "E. 十全流气饮",
+      "bbox": [
+        64.66,
+        77.524,
+        137.462,
+        89.124
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "年中病情反复发作，皮损肥厚干燥，有鳞屑、瘙",
+      "bbox": [
+        307.77,
+        77.314,
+        562.22,
+        88.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "79. 患者、女,24岁。患腿痈1周,溃腐",
+      "bbox": [
+        64.56,
+        93.354,
+        282.97,
+        106.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "痒剧烈，舌质淡红，苔薄，脉弦细数。治疗宜首",
+      "bbox": [
+        307.79,
+        92.634,
+        559.941,
+        104.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "3天，脓腐稠厚且多，不易脱落。外用掺药应首",
+      "bbox": [
+        41.49,
+        108.564,
+        287.363,
+        120.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "选（）",
+      "bbox": [
+        307.92,
+        108.694,
+        355.303,
+        120.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "选（）",
+      "bbox": [
+        41.45,
+        123.734,
+        86.999,
+        136.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "A. 黄连解毒汤",
+      "bbox": [
+        332.45,
+        122.414,
+        406.609,
+        134.014
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "A. 青黛散",
+      "bbox": [
+        64.72,
+        139.724,
+        114.631,
+        151.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "B. 凉膈散",
+      "bbox": [
+        332.25,
+        139.474,
+        381.128,
+        151.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "B. 八二丹",
+      "bbox": [
+        64.22,
+        155.694,
+        119.624,
+        167.314
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "C. 消风散合当归饮子",
+      "bbox": [
+        332.27,
+        154.664,
+        442.447,
+        166.264
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "C. 红灵丹",
+      "bbox": [
+        63.92,
+        171.814,
+        112.287,
+        183.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "D. 龙胆泻肝汤",
+      "bbox": [
+        332.49,
+        169.614,
+        405.646,
+        181.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "D. 八宝丹",
+      "bbox": [
+        63.91,
+        187.474,
+        112.951,
+        199.084
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "E. 化斑解毒汤合龙胆泻肝汤",
+      "bbox": [
+        332.48,
+        185.434,
+        479.544,
+        197.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "E. 三石散",
+      "bbox": [
+        63.97,
+        203.844,
+        112.562,
+        215.444
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "85. 患者，男，56岁。右小腿部红肿疼痛2",
+      "bbox": [
+        332.35,
+        202.624,
+        554.107,
+        214.414
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "80. 患者，男，2岁。半小时前被热气灼伤",
+      "bbox": [
+        63.76,
+        219.604,
+        283.306,
+        231.814
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "天，大片皮色鲜红，压之褪色，扪之灼热，边界清",
+      "bbox": [
+        308.5,
+        219.264,
+        572.311,
+        231.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "右上肢，现局部疼痛剧烈，有散在水疱，个别破",
+      "bbox": [
+        40.59,
+        235.504,
+        292.557,
+        247.094
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "楚，触痛明显，伴发热恶寒。治疗应首选（）",
+      "bbox": [
+        308.23,
+        235.424,
+        537.805,
+        247.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "溃，基底部呈均匀红色、潮湿，其诊断是（）",
+      "bbox": [
+        40.63,
+        251.574,
+        272.263,
+        263.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 普济消毒饮加减",
+      "bbox": [
+        332.59,
+        249.564,
+        431.02,
+        261.174
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "A. 面积约为9%的浅Ⅱ度烧伤",
+      "bbox": [
+        64.18,
+        267.614,
+        223.039,
+        279.263
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 黄连解毒汤加减",
+      "bbox": [
+        332.49,
+        266.584,
+        429.259,
+        278.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "B. 面积约为4.5%的Ⅱ度烧伤",
+      "bbox": [
+        64.05,
+        283.603,
+        221.053,
+        295.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 萆薢渗湿汤加减",
+      "bbox": [
+        332.42,
+        283.164,
+        429.239,
+        296.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "C. 面积约为9%的Ⅲ度烧伤",
+      "bbox": [
+        64.0,
+        299.633,
+        208.934,
+        311.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 五味消毒饮加减",
+      "bbox": [
+        332.15,
+        298.634,
+        430.042,
+        310.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "D. 面积约为9%的I度烧伤",
+      "bbox": [
+        63.99,
+        315.694,
+        209.988,
+        327.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 凉血地黄汤加减",
+      "bbox": [
+        332.5,
+        314.594,
+        429.618,
+        326.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "E. 面积约为2×9%的深Ⅱ度烧伤",
+      "bbox": [
+        64.14,
+        331.714,
+        240.335,
+        343.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "86. 患者，女，19岁。半月前无意中发现颈",
+      "bbox": [
+        332.32,
+        330.634,
+        551.248,
+        342.764
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "81. 患者，男，48岁。因鼻部破损引起头额",
+      "bbox": [
+        64.24,
+        347.694,
+        283.114,
+        359.724
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "部粗大，无异常不适。颈部呈弥漫性肿大，边",
+      "bbox": [
+        307.97,
+        346.174,
+        551.011,
+        357.754
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "红肿。两目肿胀不能开视，伴形寒发热，舌红",
+      "bbox": [
+        40.59,
+        363.664,
+        286.031,
+        375.254
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "缘不清，皮色不变，无触痛，并可扪及数个大小",
+      "bbox": [
+        307.83,
+        362.574,
+        560.6,
+        374.154
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "苔黄腻，脉滑数。治疗应首选（）",
+      "bbox": [
+        40.36,
+        379.874,
+        229.403,
+        391.774
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "不等的结节，随吞咽动作而上下移动。具体诊",
+      "bbox": [
+        307.91,
+        378.454,
+        551.517,
+        390.744
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 化斑解毒汤",
+      "bbox": [
+        64.25,
+        395.764,
+        139.678,
+        407.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "断是（）",
+      "bbox": [
+        308.77,
+        395.954,
+        366.909,
+        407.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "B. 普济消毒饮",
+      "bbox": [
+        64.22,
+        411.744,
+        138.408,
+        423.354
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "A. 气瘿",
+      "bbox": [
+        332.41,
+        410.804,
+        370.124,
+        422.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "C. 龙胆泻肝汤",
+      "bbox": [
+        64.36,
+        427.694,
+        138.571,
+        439.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "B. 石瘿",
+      "bbox": [
+        332.23,
+        426.824,
+        368.07,
+        438.434
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "D. 五神汤",
+      "bbox": [
+        64.23,
+        442.754,
+        114.045,
+        454.374
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "C. 肉瘿",
+      "bbox": [
+        332.43,
+        442.884,
+        368.599,
+        454.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "E. 仙方活命饮",
+      "bbox": [
+        64.52,
+        458.804,
+        139.423,
+        470.424
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "D. 瘿痈",
+      "bbox": [
+        332.25,
+        458.684,
+        368.841,
+        470.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "82. 患者，男，12岁。患流痰3年，溃口位",
+      "bbox": [
+        64.25,
+        474.503,
+        285.77,
+        486.843
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "E. 颈痈",
+      "bbox": [
+        332.37,
+        474.724,
+        368.171,
+        486.344
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "于左腰部。脓水稀薄。夹有败絮样物，伴有午",
+      "bbox": [
+        41.05,
+        490.694,
+        285.93,
+        502.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "87. 患者，男，30岁。肛门部有物反复脱出",
+      "bbox": [
+        332.29,
+        490.584,
+        549.036,
+        503.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "后潮热，夜间盗汗，口燥咽干，咳嗽痰血，舌红",
+      "bbox": [
+        40.23,
+        506.554,
+        295.52,
+        518.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "近10年，检查：脱出物呈圆锥状，长约7cm，上",
+      "bbox": [
+        308.32,
+        506.574,
+        556.027,
+        518.784
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "少苔。脉细数。内治应首选（）",
+      "bbox": [
+        40.33,
+        522.604,
+        223.353,
+        534.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "可见沟纹，其诊断是（）",
+      "bbox": [
+        308.33,
+        522.844,
+        446.686,
+        534.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "A. 阳和汤",
+      "bbox": [
+        64.25,
+        538.684,
+        115.441,
+        550.284
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 混合痔",
+      "bbox": [
+        332.45,
+        536.714,
+        382.554,
+        548.304
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 知柏地黄丸",
+      "bbox": [
+        64.62,
+        554.714,
+        138.75,
+        566.324
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 内痔三期",
+      "bbox": [
+        332.55,
+        553.564,
+        391.977,
+        565.164
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 清骨散",
+      "bbox": [
+        64.4,
+        569.584,
+        114.439,
+        581.194
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. Ⅰ度直肠脱垂",
+      "bbox": [
+        332.48,
+        568.184,
+        417.442,
+        579.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 人参养荣汤",
+      "bbox": [
+        64.26,
+        586.714,
+        138.942,
+        598.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. Ⅱ度直肠脱垂",
+      "bbox": [
+        332.22,
+        586.184,
+        417.751,
+        597.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 六味地黄丸",
+      "bbox": [
+        64.39,
+        602.654,
+        139.409,
+        614.274
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. Ⅲ度直肠脱垂",
+      "bbox": [
+        332.65,
+        601.284,
+        417.879,
+        612.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "83. 患者，女，40岁。双乳肿胀疼痛，月经",
+      "bbox": [
+        64.32,
+        618.684,
+        286.36,
+        630.704
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "88. 患者,男,65岁。近8年来夜尿由2～3",
+      "bbox": [
+        332.32,
+        618.664,
+        550.317,
+        630.394
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "前加重，经后减轻。肿块大小不等，形态不一，",
+      "bbox": [
+        40.09,
+        634.234,
+        297.0,
+        646.664
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "次渐增至4～5次，排尿踌躇，涩滞不畅，昨晚发",
+      "bbox": [
+        308.38,
+        634.314,
+        557.12,
+        646.734
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "伴乳头溢液，月经不调，腰酸乏力，舌淡苔白，",
+      "bbox": [
+        39.88,
+        649.414,
+        297.03,
+        661.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "生小便欲解不能，小腹急满胀痛，舌黯、脉细",
+      "bbox": [
+        308.13,
+        650.135,
+        552.447,
+        661.684
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "脉弦细，其证候是（）",
+      "bbox": [
+        39.99,
+        666.334,
+        167.629,
+        678.334
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "涩,直肠指诊前列腺增大约5.5cm×4.c1m×",
+      "bbox": [
+        308.27,
+        666.054,
+        557.28,
+        679.661
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "A. 肝郁痰凝",
+      "bbox": [
+        64.42,
+        682.404,
+        127.307,
+        693.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "3. 3cm，中央沟消失，质韧有弹性，光滑无结节。",
+      "bbox": [
+        308.33,
+        682.244,
+        566.31,
+        693.904
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "B. 肝气郁结",
+      "bbox": [
+        64.47,
+        698.564,
+        125.58,
+        710.184
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "首先考虑的疾病是（）",
+      "bbox": [
+        308.25,
+        698.474,
+        441.306,
+        710.134
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "C. 冲任失调",
+      "bbox": [
+        64.3,
+        714.354,
+        125.119,
+        725.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "A. 泌尿系结核",
+      "bbox": [
+        332.78,
+        713.384,
+        407.351,
+        724.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "D. 肝郁火旺",
+      "bbox": [
+        64.26,
+        730.304,
+        126.315,
+        741.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "B. 前列腺炎",
+      "bbox": [
+        332.58,
+        730.604,
+        393.028,
+        742.204
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "E. 肝郁脾虚",
+      "bbox": [
+        64.5,
+        746.274,
+        126.084,
+        757.874
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "C. 良性前列腺增生症",
+      "bbox": [
+        332.8,
+        746.384,
+        442.696,
+        757.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "84. 患者，男，50岁。5年前腰部因疼痛，",
+      "bbox": [
+        64.24,
+        762.013,
+        282.481,
+        774.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "D. 膀胱结石",
+      "bbox": [
+        332.75,
+        762.274,
+        394.208,
+        773.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "外贴膏药后皮肤出现局限性红肿，后起水疱，",
+      "bbox": [
+        39.9,
+        778.054,
+        283.82,
+        790.234
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "E. 神经源性膀胱炎",
+      "bbox": [
+        332.73,
+        777.644,
+        429.921,
+        789.224
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "伴瘙痒，自行治疗后皮损结痂，有色素沉着，5",
+      "bbox": [
+        40.16,
+        794.094,
+        290.415,
+        805.974
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "89. 患者，女，49岁。月经或前或后，烘热",
+      "bbox": [
+        332.71,
+        793.214,
+        553.27,
+        805.294
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "—137",
+      "bbox": [
+        265.23,
+        815.606,
+        299.698,
+        824.75
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "—",
+      "bbox": [
+        314.12,
+        815.906,
+        323.13,
+        824.916
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

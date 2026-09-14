@@ -1,0 +1,1077 @@
+{
+  "source_file": "国家执业药师考前冲刺三.pdf",
+  "source_sha256": "4838e95f4dce428ddc566e94ffa912b95476e856ea4e624625cdcbaa4fcabb79",
+  "page": 30,
+  "page_count": 48,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        64.35,
+        50.011,
+        266.195,
+        62.151
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "67. 属足太阴脾经的腧穴是（）",
+      "bbox": [
+        86.22,
+        80.479,
+        259.893,
+        94.197
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "B. 命门",
+      "bbox": [
+        350.19,
+        79.69,
+        386.32,
+        93.019
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "A. 血海",
+      "bbox": [
+        85.61,
+        96.911,
+        124.1,
+        109.925
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "C. 气海",
+      "bbox": [
+        350.28,
+        96.151,
+        387.334,
+        109.303
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "B. 少海",
+      "bbox": [
+        85.15,
+        111.752,
+        122.4,
+        125.015
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "D. 关元",
+      "bbox": [
+        350.38,
+        111.681,
+        388.181,
+        124.78
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "C. 小海",
+      "bbox": [
+        84.77,
+        128.062,
+        121.97,
+        140.986
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "E. 足三里",
+      "bbox": [
+        350.39,
+        127.061,
+        399.932,
+        139.642
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "D. 照海",
+      "bbox": [
+        84.92,
+        143.101,
+        123.92,
+        155.896
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "73. 腕横纹中央，掌长肌腱与桡侧腕屈肌",
+      "bbox": [
+        350.29,
+        142.281,
+        570.423,
+        155.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "E. 气海",
+      "bbox": [
+        84.78,
+        159.062,
+        122.15,
+        171.994
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "腱之间的穴位是（）",
+      "bbox": [
+        325.83,
+        158.271,
+        446.849,
+        171.051
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "68. 眼的耳穴部位在（）",
+      "bbox": [
+        84.44,
+        173.711,
+        219.683,
+        185.631
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "A. 阳溪",
+      "bbox": [
+        350.11,
+        174.101,
+        388.954,
+        187.059
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "A. 耳垂2区",
+      "bbox": [
+        83.89,
+        190.732,
+        149.61,
+        203.646
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "B. 太渊",
+      "bbox": [
+        350.24,
+        189.761,
+        386.584,
+        203.066
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "B. 耳垂5区",
+      "bbox": [
+        83.99,
+        206.732,
+        146.789,
+        219.611
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "C. 大陵",
+      "bbox": [
+        350.14,
+        205.851,
+        386.856,
+        219.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "C. 耳垂4区",
+      "bbox": [
+        83.97,
+        222.702,
+        146.927,
+        235.575
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "D. 神门",
+      "bbox": [
+        350.04,
+        221.651,
+        386.63,
+        235.079
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "D. 耳垂6区",
+      "bbox": [
+        83.33,
+        237.722,
+        146.014,
+        250.794
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "E. 腕骨",
+      "bbox": [
+        349.92,
+        237.781,
+        386.786,
+        251.246
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "E. 耳垂9区",
+      "bbox": [
+        83.9,
+        252.761,
+        147.203,
+        265.846
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "74. 百会穴在头正中线上，其具体位置",
+      "bbox": [
+        349.98,
+        252.161,
+        569.939,
+        265.792
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "69. 提插补泻法中，补法的操作手法是",
+      "bbox": [
+        83.67,
+        268.171,
+        301.135,
+        280.131
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "在（）",
+      "bbox": [
+        325.83,
+        269.861,
+        372.896,
+        281.831
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "（）",
+      "bbox": [
+        59.95,
+        286.331,
+        93.533,
+        299.845
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "A. 人前发际7寸",
+      "bbox": [
+        349.77,
+        285.171,
+        437.566,
+        298.239
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "A. 轻插重提，幅度小，频率快",
+      "bbox": [
+        83.34,
+        300.282,
+        238.47,
+        313.876
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "B. 人前发际5寸",
+      "bbox": [
+        349.37,
+        300.781,
+        435.959,
+        313.909
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 轻插重提，幅度小，频率慢",
+      "bbox": [
+        83.22,
+        316.302,
+        235.83,
+        329.905
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "C. 入后发际6寸",
+      "bbox": [
+        349.47,
+        316.761,
+        435.549,
+        329.9
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 重插轻提，幅度大，频率快",
+      "bbox": [
+        83.33,
+        332.302,
+        237.13,
+        345.875
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "D. 头顶旋毛中",
+      "bbox": [
+        349.27,
+        332.871,
+        422.501,
+        345.948
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 重插轻提，幅度小，频率快",
+      "bbox": [
+        83.28,
+        348.362,
+        237.37,
+        361.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "E. 两耳连线上",
+      "bbox": [
+        349.37,
+        347.741,
+        422.906,
+        360.968
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 重插轻提，幅度小，频率慢",
+      "bbox": [
+        83.23,
+        363.262,
+        236.56,
+        376.757
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "75. 下列各项，在五输穴中属“水”的是",
+      "bbox": [
+        349.67,
+        363.281,
+        569.054,
+        375.621
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "70. 耳屏前，下颌骨髁状突后缘的腧穴",
+      "bbox": [
+        83.57,
+        379.621,
+        301.172,
+        393.196
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "（）",
+      "bbox": [
+        325.96,
+        381.261,
+        359.483,
+        393.221
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "是（）",
+      "bbox": [
+        58.87,
+        395.381,
+        105.986,
+        407.311
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "A. 少府",
+      "bbox": [
+        349.22,
+        395.651,
+        388.153,
+        408.735
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "A. 下关",
+      "bbox": [
+        83.12,
+        410.792,
+        122.376,
+        423.894
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 大陵",
+      "bbox": [
+        348.93,
+        411.751,
+        385.946,
+        424.656
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "B. 听宫",
+      "bbox": [
+        83.33,
+        426.762,
+        120.439,
+        440.162
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 后溪",
+      "bbox": [
+        349.04,
+        426.841,
+        386.045,
+        439.959
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "C. 听会",
+      "bbox": [
+        83.0,
+        443.092,
+        121.416,
+        456.001
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 曲泉",
+      "bbox": [
+        349.01,
+        442.801,
+        387.008,
+        456.266
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "D. 耳门",
+      "bbox": [
+        82.88,
+        458.681,
+        120.169,
+        471.958
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 经渠",
+      "bbox": [
+        348.88,
+        458.691,
+        386.056,
+        471.439
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "E. 颧髎",
+      "bbox": [
+        83.23,
+        474.691,
+        121.77,
+        488.044
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "76. 对机体不易产生适应，其动力作用颇",
+      "bbox": [
+        349.12,
+        473.191,
+        568.925,
+        485.091
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "71. 治疗便秘气滞证，除选取主穴外，应加",
+      "bbox": [
+        83.3,
+        490.222,
+        305.2,
+        503.758
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "强，能提高肌肉组织的兴奋性，对横纹肌有良",
+      "bbox": [
+        324.88,
+        489.161,
+        570.45,
+        501.581
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "用的腧穴是（）",
+      "bbox": [
+        58.46,
+        506.301,
+        155.629,
+        518.651
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "好的刺激收缩作用。常用于治疗痿证、瘫痪等",
+      "bbox": [
+        324.27,
+        505.191,
+        567.901,
+        517.101
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 脾俞、胃俞",
+      "bbox": [
+        82.73,
+        521.612,
+        153.72,
+        535.144
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "的波是（）",
+      "bbox": [
+        325.98,
+        522.361,
+        396.006,
+        534.271
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "B. 气海、神阙",
+      "bbox": [
+        82.65,
+        537.632,
+        152.23,
+        551.161
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 密波",
+      "bbox": [
+        348.56,
+        537.682,
+        387.419,
+        550.914
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "C. 关元、命门",
+      "bbox": [
+        82.91,
+        553.272,
+        153.14,
+        566.791
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "B. 疏波",
+      "bbox": [
+        348.53,
+        553.731,
+        385.907,
+        566.855
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "D. 合谷、曲池",
+      "bbox": [
+        82.48,
+        569.402,
+        153.15,
+        582.951
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "C. 疏密波",
+      "bbox": [
+        348.55,
+        569.702,
+        398.401,
+        582.862
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "E. 中脘、行间",
+      "bbox": [
+        82.87,
+        585.272,
+        152.71,
+        598.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "D. 断续波",
+      "bbox": [
+        348.38,
+        585.681,
+        398.818,
+        598.942
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "72. 面瘫的恢复应加用（）",
+      "bbox": [
+        82.86,
+        601.051,
+        233.039,
+        614.18
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "E. 连续波",
+      "bbox": [
+        348.6,
+        602.101,
+        398.07,
+        614.854
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "A. 膏肓",
+      "bbox": [
+        82.33,
+        617.652,
+        121.911,
+        630.841
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "A2 型选择题（77～118题）",
+      "bbox": [
+        244.69,
+        649.452,
+        378.215,
+        661.912
+      ],
+      "confidence": 1.0,
+      "column_hint": "full",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "77. 患者，女，65岁。恶寒发热，头痛鼻塞，",
+      "bbox": [
+        82.24,
+        718.491,
+        306.38,
+        732.106
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "B. 参苏饮",
+      "bbox": [
+        348.18,
+        718.981,
+        397.599,
+        732.018
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "倦怠无力，气短懒言，久病体弱，平时极易感",
+      "bbox": [
+        57.12,
+        734.091,
+        301.07,
+        746.601
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "C. 麻黄附子细辛汤",
+      "bbox": [
+        348.36,
+        735.731,
+        447.24,
+        748.85
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "冒，舌质淡，苔薄白，脉浮无力。宜用何方调",
+      "bbox": [
+        59.88,
+        750.101,
+        302.03,
+        762.571
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "D. 保真汤",
+      "bbox": [
+        348.38,
+        750.731,
+        397.846,
+        764.05
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "治（）",
+      "bbox": [
+        57.91,
+        765.381,
+        105.206,
+        777.461
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "E. 玉屏风散",
+      "bbox": [
+        348.12,
+        768.111,
+        410.485,
+        780.998
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "A. 补中益气汤",
+      "bbox": [
+        82.38,
+        781.721,
+        157.351,
+        794.824
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "78. 患者,男,50岁。2年来心悸眩晕,胸",
+      "bbox": [
+        348.18,
+        783.221,
+        568.957,
+        795.181
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "124",
+      "bbox": [
+        302.85,
+        807.918,
+        315.915,
+        816.628
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

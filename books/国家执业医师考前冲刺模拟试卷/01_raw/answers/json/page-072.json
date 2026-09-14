@@ -1,0 +1,1272 @@
+{
+  "source_file": "考前冲刺参考答案及解析.pdf",
+  "source_sha256": "0526e514a583b51c3df3715694f9e2de4ebf198e1abe5a30ab986e95479c503d",
+  "page": 72,
+  "page_count": 96,
+  "width": 596.0,
+  "height": 842.0,
+  "extraction_mode": "text_layer",
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "国家执业医师资格考试中医执业医师",
+      "bbox": [
+        58.95,
+        46.136,
+        261.125,
+        55.956
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 1,
+      "text": "98. C【解析】由题干月经2～3月一行，辨病为月",
+      "bbox": [
+        78.49,
+        75.903,
+        297.598,
+        87.332
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 2,
+      "text": "热，烘热汗出，口干不欲饮，舌红少苔，脉细数无力，辨",
+      "bbox": [
+        320.25,
+        75.613,
+        563.0,
+        85.323
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 3,
+      "text": "经后期，由时有小腹冷痛，喜热喜按。伴有面色少华，",
+      "bbox": [
+        57.38,
+        91.343,
+        298.485,
+        101.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 4,
+      "text": "证为肝肾阴虚证。治法是滋肾降火，调补肝肾。",
+      "bbox": [
+        319.97,
+        91.163,
+        524.09,
+        100.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 5,
+      "text": "小便清长，便溏，腰酸乏力，四肢欠温，舌淡，苔薄白，脉",
+      "bbox": [
+        57.41,
+        106.313,
+        310.13,
+        116.033
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 6,
+      "text": "111. B【解析】该患儿为麻疹逆证之邪陷心肝证。",
+      "bbox": [
+        341.04,
+        106.173,
+        555.841,
+        115.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 7,
+      "text": "沉迟无力。辨证为虚寒证，故方选艾附暖宫丸。",
+      "bbox": [
+        57.27,
+        121.723,
+        264.306,
+        131.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 8,
+      "text": "本证为麻疹逆证之重证。麻毒炽盛，正不胜邪，麻毒内",
+      "bbox": [
+        319.91,
+        121.813,
+        555.833,
+        131.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 9,
+      "text": "99. A【解析】由题干五心烦热，潮热颧红，舌红少",
+      "bbox": [
+        78.38,
+        136.783,
+        299.159,
+        146.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 10,
+      "text": "陷，扰神动风，故见高热、烦躁、谵妄，甚或神昏、抽搐",
+      "bbox": [
+        320.42,
+        136.464,
+        561.67,
+        146.114
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 11,
+      "text": "苔，脉细数辨证为阴虚有热，故治以养阴清热调经。",
+      "bbox": [
+        57.72,
+        152.233,
+        281.28,
+        161.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 12,
+      "text": "等。疹点稠密，疹色紫黯，舌质红绛，苔黄起刺，脉数有",
+      "bbox": [
+        320.05,
+        152.213,
+        563.05,
+        161.933
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 13,
+      "text": "100. E【解析】月经过多的定义是月经量较正常",
+      "bbox": [
+        78.97,
+        167.723,
+        298.948,
+        177.493
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 14,
+      "text": "力均为麻毒炽盛之象。治宜平肝息风、清心开窍，方用",
+      "bbox": [
+        319.89,
+        167.553,
+        556.26,
+        177.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 15,
+      "text": "明显增多，而周期基本正常。由题干经来量多，周期23",
+      "bbox": [
+        58.08,
+        183.063,
+        299.35,
+        192.783
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 16,
+      "text": "羚角钩藤汤加减。",
+      "bbox": [
+        319.8,
+        183.223,
+        397.56,
+        192.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 17,
+      "text": "天，经期7天，妇科检查无异常可判断为月经过多。",
+      "bbox": [
+        57.57,
+        198.693,
+        279.657,
+        208.403
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 18,
+      "text": "112. C【解析】患儿为营养性缺铁性贫血。病在",
+      "bbox": [
+        340.8,
+        197.853,
+        556.628,
+        207.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 19,
+      "text": "101. D【解析】由题干现停经45天，尿妊娠试验",
+      "bbox": [
+        78.92,
+        213.963,
+        299.245,
+        223.853
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 20,
+      "text": "脾肾，为脾肾阳虚，当温补脾肾，益阴养血，选用右归丸",
+      "bbox": [
+        319.81,
+        213.513,
+        562.06,
+        223.203
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 21,
+      "text": "阳性，确定妊娠；出现左下腹撕裂样剧痛，伴肛门坠胀，",
+      "bbox": [
+        58.26,
+        229.553,
+        301.26,
+        239.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 22,
+      "text": "加减，故选C。金匮肾气丸治疗肾阳虚证，六味地黄丸",
+      "bbox": [
+        319.73,
+        228.723,
+        557.033,
+        238.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 23,
+      "text": "面色苍白，符合异位妊娠的临床表现；体格检查为血压",
+      "bbox": [
+        57.77,
+        244.923,
+        299.322,
+        254.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 24,
+      "text": "治疗肾阴虚证，理中丸治疗中焦虚寒，小建中汤治疗",
+      "bbox": [
+        319.71,
+        244.083,
+        556.742,
+        253.803
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 25,
+      "text": "80/ 50mmHg，左下腹压痛、反跳痛明显，有移动性浊",
+      "bbox": [
+        57.39,
+        260.223,
+        298.94,
+        270.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 26,
+      "text": "虚劳。",
+      "bbox": [
+        319.73,
+        260.373,
+        348.8,
+        270.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 27,
+      "text": "音，阴道有少量出血，也符合异位妊娠的体征，故考虑",
+      "bbox": [
+        57.6,
+        275.693,
+        299.152,
+        285.413
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 28,
+      "text": "113. D【解析】手足口病。水痘皮疹呈向心性分",
+      "bbox": [
+        340.52,
+        275.033,
+        556.852,
+        284.763
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 29,
+      "text": "异位妊娠。",
+      "bbox": [
+        57.34,
+        291.053,
+        105.94,
+        300.773
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 30,
+      "text": "布，常丘疹、疱疹、结痂并存，疱疹质地较软，疱浆清亮。",
+      "bbox": [
+        319.86,
+        290.503,
+        572.58,
+        300.223
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 31,
+      "text": "102. A【解析】经期延长的定义是月经周期基本",
+      "bbox": [
+        79.1,
+        306.493,
+        299.055,
+        316.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 32,
+      "text": "风疹的皮疹特点是玫瑰色细小斑丘疹，出疹有一定顺",
+      "bbox": [
+        319.57,
+        306.043,
+        556.602,
+        315.763
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 33,
+      "text": "正常，行经时间超过7天，甚或淋漓半月方净者。由题",
+      "bbox": [
+        57.6,
+        322.223,
+        299.404,
+        331.943
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 34,
+      "text": "序，24小时布满全身，伴有枕部淋巴结肿大。猩红热的",
+      "bbox": [
+        319.69,
+        321.263,
+        556.245,
+        330.973
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 35,
+      "text": "干近半年来月经23～25天一行，持续12～14天，可知",
+      "bbox": [
+        57.76,
+        337.533,
+        298.952,
+        347.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 36,
+      "text": "皮疹为鸡皮样细小红色斑丘疹，有草莓舌，口周苍白",
+      "bbox": [
+        319.43,
+        336.523,
+        556.034,
+        346.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 37,
+      "text": "周期正常，经期延长。",
+      "bbox": [
+        57.41,
+        353.163,
+        154.61,
+        362.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 38,
+      "text": "圈，帕氏线，咽喉红肿化脓。幼儿急疹的特点为发热",
+      "bbox": [
+        320.02,
+        352.463,
+        556.624,
+        362.183
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 39,
+      "text": "103. C【解析】本证之外寒多由外感风寒所致，其",
+      "bbox": [
+        79.34,
+        368.183,
+        299.402,
+        377.913
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 40,
+      "text": "3～4天出疹，热退疹出。本患儿符合手足口病表现。",
+      "bbox": [
+        319.6,
+        367.663,
+        545.522,
+        377.343
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 41,
+      "text": "内热常因外邪入热邪蕴积，被外邪引动而诱发。临床",
+      "bbox": [
+        58.34,
+        383.903,
+        299.221,
+        393.623
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 42,
+      "text": "114. B【解析】崩漏气虚证，方用固本止崩汤。",
+      "bbox": [
+        340.12,
+        383.134,
+        542.56,
+        392.804
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 43,
+      "text": "辨证以外有风寒之表证，内有痰热之里证为要点。",
+      "bbox": [
+        57.75,
+        399.353,
+        275.04,
+        409.063
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 44,
+      "text": "115. C【解析】由题干形体肥胖，胸胁满闷，呕恶",
+      "bbox": [
+        340.16,
+        398.434,
+        556.301,
+        408.133
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 45,
+      "text": "104. B【解析】满口糜烂，色红作痛者，称为口糜；",
+      "bbox": [
+        79.31,
+        414.703,
+        303.46,
+        424.433
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 46,
+      "text": "痰多，面浮足肿，舌淡苔白腻，脉沉滑，辨证为痰湿",
+      "bbox": [
+        319.35,
+        413.553,
+        556.503,
+        423.243
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 47,
+      "text": "口疮发于口唇两侧者，称为燕口疮。",
+      "bbox": [
+        58.74,
+        430.513,
+        214.1,
+        440.223
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 48,
+      "text": "阻滞。",
+      "bbox": [
+        319.77,
+        429.703,
+        348.84,
+        439.393
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 49,
+      "text": "105. B【解析】由题干每于经行小腹冷痛，辨病是",
+      "bbox": [
+        79.5,
+        445.583,
+        299.203,
+        455.283
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 50,
+      "text": "116. D【解析】“食后作泻”为关键症状，是脾虚泻",
+      "bbox": [
+        340.2,
+        444.904,
+        562.43,
+        454.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 51,
+      "text": "痛经，由得热痛减，月经量少，持续2～3天，色暗、质",
+      "bbox": [
+        57.46,
+        461.183,
+        299.276,
+        470.903
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 52,
+      "text": "的特征性症状。“面色萎黄，神疲倦怠，舌质淡，苔薄",
+      "bbox": [
+        320.09,
+        460.183,
+        556.257,
+        469.893
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 53,
+      "text": "稀，腰腿酸软，舌淡苔白，脉沉细尺弱，辨证为寒凝血瘀",
+      "bbox": [
+        57.63,
+        476.723,
+        300.63,
+        486.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 54,
+      "text": "白”进一步证实判断。本证未见肾阳虚症状，只是单纯",
+      "bbox": [
+        320.5,
+        475.733,
+        556.22,
+        485.443
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 55,
+      "text": "证，故治法是温经暖宫止痛。",
+      "bbox": [
+        57.47,
+        492.423,
+        183.57,
+        502.123
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 56,
+      "text": "的脾虚。",
+      "bbox": [
+        320.11,
+        491.913,
+        358.83,
+        501.593
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 57,
+      "text": "106. B【解析】阴痒的定义。A项错在并伴有带",
+      "bbox": [
+        79.21,
+        507.203,
+        298.995,
+        516.923
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 58,
+      "text": "117. D【解析】患儿主症是遍身汗出2个月，诊为",
+      "bbox": [
+        340.03,
+        506.624,
+        556.046,
+        516.333
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 59,
+      "text": "下增多者，带下增多不是阴痒必须有的症状。CD项描",
+      "bbox": [
+        57.44,
+        522.933,
+        298.976,
+        532.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 60,
+      "text": "汗证。遍身汗出可见于营养失调和气阴亏虚，但气阴",
+      "bbox": [
+        319.47,
+        521.933,
+        555.831,
+        531.643
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 61,
+      "text": "述不严谨，生育期多实证，绝经期多虚证。E项阴痒肝",
+      "bbox": [
+        57.4,
+        538.553,
+        299.234,
+        548.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 62,
+      "text": "亏虚以盗汗为主，此患儿为自汗，并无盗汗和阴虚表",
+      "bbox": [
+        319.64,
+        537.803,
+        556.428,
+        547.513
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 63,
+      "text": "肾阴虚型用知柏地黄汤。",
+      "bbox": [
+        58.1,
+        553.953,
+        167.143,
+        563.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 64,
+      "text": "现，所以辨证为营卫失调。治宜调和营卫，方用黄芪桂",
+      "bbox": [
+        319.56,
+        553.013,
+        556.599,
+        562.713
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 65,
+      "text": "107. B【解析】从题干每于行经出现大便泄泻，辨",
+      "bbox": [
+        79.11,
+        568.553,
+        299.062,
+        578.663
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 66,
+      "text": "枝五物汤。",
+      "bbox": [
+        319.32,
+        569.263,
+        367.77,
+        578.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 67,
+      "text": "病为经行泄泻，由腰酸畏寒，四肢不温，带下清稀如水，",
+      "bbox": [
+        57.35,
+        584.943,
+        300.1,
+        594.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 68,
+      "text": "118. D【解析】此证为痄腮变证之毒窜睾腹，治宜",
+      "bbox": [
+        340.06,
+        584.124,
+        556.807,
+        593.833
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 69,
+      "text": "舌淡苔白，脉沉迟，辨证为肾虚证。",
+      "bbox": [
+        57.28,
+        600.233,
+        212.8,
+        609.953
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 70,
+      "text": "清肝泻火、活血镇痛，方用龙胆泻肝汤。",
+      "bbox": [
+        319.28,
+        599.973,
+        493.88,
+        609.673
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 71,
+      "text": "108. E【解析】由题干51岁，月经不规律，辨病为",
+      "bbox": [
+        79.1,
+        615.303,
+        298.606,
+        625.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 72,
+      "text": "119. B【解析】结合患儿的症状可诊断为注意缺",
+      "bbox": [
+        340.1,
+        615.164,
+        556.905,
+        625.073
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 73,
+      "text": "绝经前后诸证；由精神萎靡，头晕耳鸣，腰痛如折，腹冷",
+      "bbox": [
+        57.43,
+        630.943,
+        300.18,
+        640.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 74,
+      "text": "陷多动障碍之痰火内扰证。证候：多动多语，烦躁不",
+      "bbox": [
+        319.75,
+        630.783,
+        556.934,
+        640.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 75,
+      "text": "阴坠，形寒肢冷，舌淡苔白滑，脉沉细而迟，辨证为肾阳",
+      "bbox": [
+        58.1,
+        646.273,
+        301.1,
+        655.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 76,
+      "text": "宁，冲动任性，难以制约，兴趣多变，注意力不集中，胸",
+      "bbox": [
+        319.65,
+        646.583,
+        562.4,
+        656.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 77,
+      "text": "虚证。因为肾阳虚，命门火衰，阳气不能外达，经脉失",
+      "bbox": [
+        57.43,
+        661.633,
+        298.535,
+        671.353
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 78,
+      "text": "闷烦热，懊慌不眠，口苦食少，溲赤便结，舌红，苔黄腻，",
+      "bbox": [
+        319.94,
+        662.033,
+        572.4,
+        671.743
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 79,
+      "text": "于温煦，故精神萎靡，头晕耳鸣，腰痛如折，腹冷阴坠，",
+      "bbox": [
+        57.78,
+        677.763,
+        300.78,
+        687.483
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 80,
+      "text": "脉滑数。",
+      "bbox": [
+        319.37,
+        677.573,
+        358.25,
+        687.293
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 81,
+      "text": "形寒肢冷；舌淡苔白滑，脉沉细而迟皆肾阳虚衰之象。",
+      "bbox": [
+        57.42,
+        692.653,
+        298.525,
+        702.373
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 82,
+      "text": "120. C【解析】注意缺陷多动障碍之痰火内扰证",
+      "bbox": [
+        339.95,
+        693.043,
+        557.233,
+        702.883
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 83,
+      "text": "治法是温肾壮阳，填精养血。",
+      "bbox": [
+        57.72,
+        708.753,
+        184.08,
+        718.473
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 84,
+      "text": "的治法为清热泻火，化痰宁心。方药：黄连温胆汤",
+      "bbox": [
+        319.74,
+        708.533,
+        556.85,
+        718.253
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 85,
+      "text": "109. E【解析】由题干量多如崩，色鲜，质稠，伴心",
+      "bbox": [
+        79.15,
+        724.213,
+        303.82,
+        733.993
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 86,
+      "text": "加减。",
+      "bbox": [
+        319.1,
+        724.473,
+        348.2,
+        734.173
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 87,
+      "text": "烦，口渴欲饮，便干溲黄，面部痤疮，舌红苔薄黄，脉细",
+      "bbox": [
+        57.88,
+        739.113,
+        300.38,
+        748.813
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 88,
+      "text": "121. E",
+      "bbox": [
+        340.05,
+        740.024,
+        367.429,
+        749.634
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 89,
+      "text": "数，辨证为实热证，故应澄源。又量多如崩，故应塞流。",
+      "bbox": [
+        58.16,
+        754.953,
+        301.16,
+        764.673
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 90,
+      "text": "122. C【解析】低位单纯性肛漏：只有一个漏管，",
+      "bbox": [
+        340.12,
+        754.863,
+        556.399,
+        764.733
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 91,
+      "text": "110. C【解析】由题干阴部干涩，灼热瘙痒，辨病",
+      "bbox": [
+        79.48,
+        769.563,
+        298.686,
+        779.653
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 92,
+      "text": "并通过外括约肌深层以下，内口在肛窦附近。高位单",
+      "bbox": [
+        319.08,
+        770.153,
+        557.15,
+        779.863
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 93,
+      "text": "为阴痒；由阴部干涩，灼热瘙痒，带下量少色黄，五心烦",
+      "bbox": [
+        58.41,
+        785.553,
+        301.41,
+        795.273
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 94,
+      "text": "纯性肛漏：仅有一条管道，漏管穿过外括约肌深层以",
+      "bbox": [
+        319.3,
+        785.802,
+        556.477,
+        795.572
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 95,
+      "text": "—",
+      "bbox": [
+        279.5,
+        803.961,
+        289.36,
+        813.821
+      ],
+      "confidence": 1.0,
+      "column_hint": "left",
+      "source_mode": "text_layer"
+    },
+    {
+      "line_id": 96,
+      "text": "262—",
+      "bbox": [
+        299.0,
+        803.654,
+        337.85,
+        814.514
+      ],
+      "confidence": 1.0,
+      "column_hint": "right",
+      "source_mode": "text_layer"
+    }
+  ]
+}

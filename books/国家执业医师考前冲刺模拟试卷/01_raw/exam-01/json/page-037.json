@@ -1,0 +1,1368 @@
+{
+  "source_file": "国家执业药师考前冲刺一.pdf",
+  "source_sha256": "89bdfc286396ddee9a0daedc9ebe2cf46b27bc89bee2da382a6b9b9a6602df9d",
+  "page": 37,
+  "page_count": 46,
+  "width": 2066,
+  "height": 2924,
+  "render_dpi": 250,
+  "extraction_mode": "ocr",
+  "ocr_models": {
+    "detection": "PP-OCRv5_server_det",
+    "recognition": "PP-OCRv5_server_rec"
+  },
+  "lines": [
+    {
+      "line_id": 0,
+      "text": "考前冲刺模拟试卷（一）",
+      "bbox": [
+        1402.0,
+        127.0,
+        1783.0,
+        167.0
+      ],
+      "confidence": 0.93578,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 1,
+      "text": "C. 红丝疗",
+      "bbox": [
+        277.0,
+        229.0,
+        455.0,
+        284.0
+      ],
+      "confidence": 0.98831,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 2,
+      "text": "D. 患肢增粗",
+      "bbox": [
+        1128.0,
+        233.0,
+        1333.0,
+        283.0
+      ],
+      "confidence": 0.998044,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 3,
+      "text": "D. 蛇眼疗",
+      "bbox": [
+        276.0,
+        285.0,
+        456.0,
+        340.0
+      ],
+      "confidence": 0.989931,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 4,
+      "text": "E. 浅静脉扩张",
+      "bbox": [
+        1130.0,
+        292.0,
+        1368.0,
+        335.0
+      ],
+      "confidence": 0.998778,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 5,
+      "text": "E. 蛀节疗",
+      "bbox": [
+        279.0,
+        344.0,
+        453.0,
+        395.0
+      ],
+      "confidence": 0.986002,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 6,
+      "text": "26. 肿而不硬，皮色不泽，不红不热，常伴",
+      "bbox": [
+        1130.0,
+        347.0,
+        1824.0,
+        391.0
+      ],
+      "confidence": 0.993387,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 7,
+      "text": "20. 直肠癌早期便血的特点是()",
+      "bbox": [
+        283.0,
+        401.0,
+        891.0,
+        448.0
+      ],
+      "confidence": 0.944723,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 8,
+      "text": "有酸痛，其肿的性质是（",
+      "bbox": [
+        1055.0,
+        402.0,
+        1446.0,
+        447.0
+      ],
+      "confidence": 0.965507,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 9,
+      "text": "）",
+      "bbox": [
+        1514.0,
+        409.0,
+        1535.0,
+        439.0
+      ],
+      "confidence": 0.981036,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 10,
+      "text": "A. 便血鲜红，便后停止，呈间歇性",
+      "bbox": [
+        285.0,
+        458.0,
+        839.0,
+        503.0
+      ],
+      "confidence": 0.990527,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 11,
+      "text": "A. 热肿",
+      "bbox": [
+        1126.0,
+        450.0,
+        1265.0,
+        507.0
+      ],
+      "confidence": 0.999368,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 12,
+      "text": "B. 无痛性便血，血色鲜红，不与大便相混",
+      "bbox": [
+        284.0,
+        514.0,
+        948.0,
+        559.0
+      ],
+      "confidence": 0.993291,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 13,
+      "text": "B. 寒肿",
+      "bbox": [
+        1125.0,
+        506.0,
+        1259.0,
+        563.0
+      ],
+      "confidence": 0.996681,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 14,
+      "text": "C. 黏液血便，鲜红或暗红，量不多，呈持",
+      "bbox": [
+        280.0,
+        566.0,
+        982.0,
+        619.0
+      ],
+      "confidence": 0.990372,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 15,
+      "text": "C. 风肿",
+      "bbox": [
+        1128.0,
+        564.0,
+        1260.0,
+        616.0
+      ],
+      "confidence": 0.998897,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 16,
+      "text": "续性",
+      "bbox": [
+        201.0,
+        619.0,
+        294.0,
+        676.0
+      ],
+      "confidence": 0.999345,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 17,
+      "text": "D. 痰肿",
+      "bbox": [
+        1129.0,
+        619.0,
+        1261.0,
+        671.0
+      ],
+      "confidence": 0.997618,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 18,
+      "text": "D. 便血鲜红，量不多，肛门呈周期性疼痛",
+      "bbox": [
+        279.0,
+        676.0,
+        952.0,
+        731.0
+      ],
+      "confidence": 0.994624,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 19,
+      "text": "E. 湿肿",
+      "bbox": [
+        1129.0,
+        676.0,
+        1258.0,
+        725.0
+      ],
+      "confidence": 0.998471,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 20,
+      "text": "E. 少许黏液或血丝在粪便前流出",
+      "bbox": [
+        280.0,
+        733.0,
+        833.0,
+        783.0
+      ],
+      "confidence": 0.996641,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 21,
+      "text": "27. 可用于疮疡阴证的外用药是（",
+      "bbox": [
+        1133.0,
+        733.0,
+        1679.0,
+        777.0
+      ],
+      "confidence": 0.996133,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 22,
+      "text": "[a]",
+      "bbox": [
+        1673.0,
+        747.0,
+        1738.0,
+        764.0
+      ],
+      "confidence": 0.411956,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 23,
+      "text": "21. 下列关于内治法应用的叙述，错误的",
+      "bbox": [
+        281.0,
+        787.0,
+        979.0,
+        840.0
+      ],
+      "confidence": 0.991804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 24,
+      "text": "A. 回阳玉龙散",
+      "bbox": [
+        1134.0,
+        788.0,
+        1375.0,
+        831.0
+      ],
+      "confidence": 0.998376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 25,
+      "text": "是()",
+      "bbox": [
+        199.0,
+        838.0,
+        375.0,
+        895.0
+      ],
+      "confidence": 0.761079,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 26,
+      "text": "B. 红灵丹",
+      "bbox": [
+        1130.0,
+        842.0,
+        1297.0,
+        889.0
+      ],
+      "confidence": 0.99804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 27,
+      "text": "A. 治疗外科疾病都应严格遵循消、托、补",
+      "bbox": [
+        281.0,
+        898.0,
+        982.0,
+        949.0
+      ],
+      "confidence": 0.99858,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 28,
+      "text": "C. 白降丹",
+      "bbox": [
+        1132.0,
+        897.0,
+        1297.0,
+        944.0
+      ],
+      "confidence": 0.999031,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 29,
+      "text": "法的顺序",
+      "bbox": [
+        200.0,
+        949.0,
+        368.0,
+        1004.0
+      ],
+      "confidence": 0.999354,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 30,
+      "text": "D. 八二丹",
+      "bbox": [
+        1130.0,
+        953.0,
+        1299.0,
+        999.0
+      ],
+      "confidence": 0.996229,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 31,
+      "text": "B. 治疗肿疡早期用消法",
+      "bbox": [
+        276.0,
+        1006.0,
+        679.0,
+        1059.0
+      ],
+      "confidence": 0.998753,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 32,
+      "text": "E. 九一丹",
+      "bbox": [
+        1130.0,
+        1008.0,
+        1297.0,
+        1054.0
+      ],
+      "confidence": 0.997966,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 33,
+      "text": "C. 治疗肿疡中期用托法",
+      "bbox": [
+        279.0,
+        1061.0,
+        680.0,
+        1114.0
+      ],
+      "confidence": 0.99892,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 34,
+      "text": "28. 一烧伤患者。体温不升，呼吸气微，表",
+      "bbox": [
+        1133.0,
+        1062.0,
+        1826.0,
+        1108.0
+      ],
+      "confidence": 0.98619,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 35,
+      "text": "D. 治疗溃疡后期用补法",
+      "bbox": [
+        279.0,
+        1118.0,
+        682.0,
+        1168.0
+      ],
+      "confidence": 0.999104,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 36,
+      "text": "情淡漠，神志恍惚。嗜睡，语言含糊不清，四肢厥",
+      "bbox": [
+        1060.0,
+        1121.0,
+        1826.0,
+        1162.0
+      ],
+      "confidence": 0.986323,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 37,
+      "text": "E. 托法中应用黄芪主要是透脓而不是",
+      "bbox": [
+        276.0,
+        1172.0,
+        983.0,
+        1226.0
+      ],
+      "confidence": 0.997307,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 38,
+      "text": "冷，汗出淋漓，舌光无苔，脉细，其证候是（",
+      "bbox": [
+        1060.0,
+        1176.0,
+        1715.0,
+        1217.0
+      ],
+      "confidence": 0.965307,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 39,
+      "text": "）",
+      "bbox": [
+        1781.0,
+        1183.0,
+        1802.0,
+        1211.0
+      ],
+      "confidence": 0.985891,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 40,
+      "text": "补气",
+      "bbox": [
+        198.0,
+        1221.0,
+        294.0,
+        1283.0
+      ],
+      "confidence": 0.999641,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 41,
+      "text": "A. 火热伤津",
+      "bbox": [
+        1134.0,
+        1227.0,
+        1341.0,
+        1274.0
+      ],
+      "confidence": 0.997112,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 42,
+      "text": "22. 下列各项，不属瘿痈特征的是（",
+      "bbox": [
+        280.0,
+        1280.0,
+        856.0,
+        1333.0
+      ],
+      "confidence": 0.923134,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 43,
+      "text": "）",
+      "bbox": [
+        920.0,
+        1289.0,
+        945.0,
+        1323.0
+      ],
+      "confidence": 0.986451,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 44,
+      "text": "B. 阴伤阳脱",
+      "bbox": [
+        1132.0,
+        1282.0,
+        1335.0,
+        1328.0
+      ],
+      "confidence": 0.999097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 45,
+      "text": "A. 颈中两侧结块",
+      "bbox": [
+        280.0,
+        1337.0,
+        573.0,
+        1386.0
+      ],
+      "confidence": 0.998809,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 46,
+      "text": "C. 火毒内陷",
+      "bbox": [
+        1133.0,
+        1339.0,
+        1335.0,
+        1385.0
+      ],
+      "confidence": 0.995676,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 47,
+      "text": "B. 皮色不变",
+      "bbox": [
+        279.0,
+        1394.0,
+        487.0,
+        1441.0
+      ],
+      "confidence": 0.99946,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 48,
+      "text": "D. 气血两伤",
+      "bbox": [
+        1133.0,
+        1393.0,
+        1338.0,
+        1439.0
+      ],
+      "confidence": 0.997742,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 49,
+      "text": "C. 微有灼热",
+      "bbox": [
+        279.0,
+        1446.0,
+        487.0,
+        1496.0
+      ],
+      "confidence": 0.997735,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 50,
+      "text": "E. 脾胃虚弱",
+      "bbox": [
+        1134.0,
+        1450.0,
+        1334.0,
+        1492.0
+      ],
+      "confidence": 0.997911,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 51,
+      "text": "D. 疼痛牵引至耳后枕部",
+      "bbox": [
+        283.0,
+        1506.0,
+        680.0,
+        1547.0
+      ],
+      "confidence": 0.998695,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 52,
+      "text": "29. 肌肉强直性痉挛是破伤风的典型症状",
+      "bbox": [
+        1137.0,
+        1506.0,
+        1826.0,
+        1546.0
+      ],
+      "confidence": 0.998884,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 53,
+      "text": "E. 容易化脓",
+      "bbox": [
+        280.0,
+        1558.0,
+        488.0,
+        1605.0
+      ],
+      "confidence": 0.999293,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 54,
+      "text": "之一，其首先出现的部位是（",
+      "bbox": [
+        1061.0,
+        1559.0,
+        1525.0,
+        1602.0
+      ],
+      "confidence": 0.977331,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 55,
+      "text": "）",
+      "bbox": [
+        1592.0,
+        1567.0,
+        1612.0,
+        1594.0
+      ],
+      "confidence": 0.986682,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 56,
+      "text": "23. 石瘿的病因病理是（",
+      "bbox": [
+        284.0,
+        1616.0,
+        682.0,
+        1657.0
+      ],
+      "confidence": 0.956643,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 57,
+      "text": "A. 上肢",
+      "bbox": [
+        1133.0,
+        1610.0,
+        1266.0,
+        1662.0
+      ],
+      "confidence": 0.998754,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 58,
+      "text": "",
+      "bbox": [
+        665.0,
+        1619.0,
+        752.0,
+        1649.0
+      ],
+      "confidence": 0.0,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 59,
+      "text": "）",
+      "bbox": [
+        749.0,
+        1620.0,
+        767.0,
+        1648.0
+      ],
+      "confidence": 0.535488,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 60,
+      "text": "A. 肝郁胃热，挟痰上壅，气血凝滞，瘀滞结",
+      "bbox": [
+        286.0,
+        1670.0,
+        973.0,
+        1712.0
+      ],
+      "confidence": 0.989016,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 61,
+      "text": "B. 下肢",
+      "bbox": [
+        1133.0,
+        1668.0,
+        1261.0,
+        1715.0
+      ],
+      "confidence": 0.997501,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 62,
+      "text": "喉",
+      "bbox": [
+        205.0,
+        1723.0,
+        253.0,
+        1776.0
+      ],
+      "confidence": 0.999138,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 63,
+      "text": "C. 头面",
+      "bbox": [
+        1133.0,
+        1724.0,
+        1262.0,
+        1771.0
+      ],
+      "confidence": 0.997383,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 64,
+      "text": "B. 情志内伤，肝脾气逆，气血湿痰，凝滞结",
+      "bbox": [
+        285.0,
+        1781.0,
+        968.0,
+        1821.0
+      ],
+      "confidence": 0.993097,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 65,
+      "text": "D. 颈项",
+      "bbox": [
+        1133.0,
+        1779.0,
+        1263.0,
+        1826.0
+      ],
+      "confidence": 0.998283,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 66,
+      "text": "喉",
+      "bbox": [
+        203.0,
+        1829.0,
+        255.0,
+        1932.0
+      ],
+      "confidence": 0.998871,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 67,
+      "text": "E. 躯干",
+      "bbox": [
+        1133.0,
+        1832.0,
+        1262.0,
+        1881.0
+      ],
+      "confidence": 0.995547,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 68,
+      "text": "C. 肝肾不足，肾火郁结，挟痰上攻，凝滞结",
+      "bbox": [
+        287.0,
+        1891.0,
+        970.0,
+        1931.0
+      ],
+      "confidence": 0.992422,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 69,
+      "text": "30. 经断复来脾虚肝郁证的出血表现是（",
+      "bbox": [
+        1137.0,
+        1892.0,
+        1741.0,
+        1931.0
+      ],
+      "confidence": 0.981375,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 70,
+      "text": "）",
+      "bbox": [
+        1808.0,
+        1902.0,
+        1822.0,
+        1925.0
+      ],
+      "confidence": 0.737526,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 71,
+      "text": "喉",
+      "bbox": [
+        205.0,
+        1941.0,
+        253.0,
+        2008.0
+      ],
+      "confidence": 0.999264,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 72,
+      "text": "A. 量少，色淡，质稀",
+      "bbox": [
+        1138.0,
+        1947.0,
+        1453.0,
+        1988.0
+      ],
+      "confidence": 0.974672,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 73,
+      "text": "D. 脾肾阳虚，脾虚不运，津液留聚，凝结颈",
+      "bbox": [
+        286.0,
+        2002.0,
+        972.0,
+        2042.0
+      ],
+      "confidence": 0.99135,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 74,
+      "text": "B. 量少，色鲜红，质稠",
+      "bbox": [
+        1135.0,
+        2002.0,
+        1486.0,
+        2043.0
+      ],
+      "confidence": 0.987701,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 75,
+      "text": "部",
+      "bbox": [
+        203.0,
+        2052.0,
+        252.0,
+        2106.0
+      ],
+      "confidence": 0.999903,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 76,
+      "text": "C. 量多，色紫红",
+      "bbox": [
+        1133.0,
+        2053.0,
+        1395.0,
+        2102.0
+      ],
+      "confidence": 0.991185,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 77,
+      "text": "E. 肺脾两亏，津液不布，留聚成痰，凝结颈",
+      "bbox": [
+        283.0,
+        2110.0,
+        971.0,
+        2153.0
+      ],
+      "confidence": 0.985057,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 78,
+      "text": "D. 色深红，质稠",
+      "bbox": [
+        1133.0,
+        2108.0,
+        1396.0,
+        2157.0
+      ],
+      "confidence": 0.98852,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 79,
+      "text": "部",
+      "bbox": [
+        202.0,
+        2160.0,
+        253.0,
+        2214.0
+      ],
+      "confidence": 0.999937,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 80,
+      "text": "E. 淋漓不断，夹有杂色带下，恶臭",
+      "bbox": [
+        1133.0,
+        2162.0,
+        1679.0,
+        2211.0
+      ],
+      "confidence": 0.986804,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 81,
+      "text": "24. 前列腺炎的主要临床表现是(",
+      "bbox": [
+        284.0,
+        2219.0,
+        834.0,
+        2264.0
+      ],
+      "confidence": 0.984034,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 82,
+      "text": "）",
+      "bbox": [
+        906.0,
+        2223.0,
+        933.0,
+        2264.0
+      ],
+      "confidence": 0.710379,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 83,
+      "text": "31. 小儿硬肿症重症的肛温(",
+      "bbox": [
+        1135.0,
+        2220.0,
+        1599.0,
+        2265.0
+      ],
+      "confidence": 0.966629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 84,
+      "text": "）",
+      "bbox": [
+        1669.0,
+        2230.0,
+        1688.0,
+        2259.0
+      ],
+      "confidence": 0.668906,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 85,
+      "text": "A. 无痛性血尿",
+      "bbox": [
+        285.0,
+        2273.0,
+        536.0,
+        2320.0
+      ],
+      "confidence": 0.999218,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 86,
+      "text": "A. 高于腋温",
+      "bbox": [
+        1133.0,
+        2270.0,
+        1343.0,
+        2324.0
+      ],
+      "confidence": 0.997231,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 87,
+      "text": "B. 精液中有血",
+      "bbox": [
+        284.0,
+        2331.0,
+        530.0,
+        2373.0
+      ],
+      "confidence": 0.99921,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 88,
+      "text": "B. 等于腋温",
+      "bbox": [
+        1133.0,
+        2328.0,
+        1335.0,
+        2376.0
+      ],
+      "confidence": 0.993273,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 89,
+      "text": "C. 尿中有血，并有腰部剧痛",
+      "bbox": [
+        286.0,
+        2387.0,
+        741.0,
+        2428.0
+      ],
+      "confidence": 0.988965,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 90,
+      "text": "C. 低于腋温",
+      "bbox": [
+        1133.0,
+        2382.0,
+        1335.0,
+        2432.0
+      ],
+      "confidence": 0.995412,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 91,
+      "text": "D. 尿频、进行性排尿困难",
+      "bbox": [
+        285.0,
+        2442.0,
+        707.0,
+        2483.0
+      ],
+      "confidence": 0.996122,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 92,
+      "text": "D. 高于正常",
+      "bbox": [
+        1131.0,
+        2434.0,
+        1338.0,
+        2488.0
+      ],
+      "confidence": 0.99756,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 93,
+      "text": "E. 尿频急而痛，尿末常有白色分泌物",
+      "bbox": [
+        286.0,
+        2496.0,
+        895.0,
+        2538.0
+      ],
+      "confidence": 0.995719,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 94,
+      "text": "E. 等于正常",
+      "bbox": [
+        1133.0,
+        2493.0,
+        1335.0,
+        2540.0
+      ],
+      "confidence": 0.997629,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 95,
+      "text": "25. 深静脉血栓形成的最大危险性是(",
+      "bbox": [
+        286.0,
+        2551.0,
+        882.0,
+        2593.0
+      ],
+      "confidence": 0.991235,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 96,
+      "text": "32. 治疗胎黄湿热熏蒸证首选方是(",
+      "bbox": [
+        1135.0,
+        2549.0,
+        1710.0,
+        2594.0
+      ],
+      "confidence": 0.980516,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 97,
+      "text": "A. 水肿",
+      "bbox": [
+        284.0,
+        2605.0,
+        421.0,
+        2654.0
+      ],
+      "confidence": 0.998662,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 98,
+      "text": "A. 犀角散",
+      "bbox": [
+        1133.0,
+        2600.0,
+        1305.0,
+        2654.0
+      ],
+      "confidence": 0.998698,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 99,
+      "text": "B. 肺栓塞",
+      "bbox": [
+        283.0,
+        2661.0,
+        456.0,
+        2707.0
+      ],
+      "confidence": 0.99849,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 100,
+      "text": "B. 栀子柏皮汤",
+      "bbox": [
+        1133.0,
+        2658.0,
+        1371.0,
+        2707.0
+      ],
+      "confidence": 0.990592,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 101,
+      "text": "C. 下肢坏死",
+      "bbox": [
+        285.0,
+        2716.0,
+        495.0,
+        2762.0
+      ],
+      "confidence": 0.998822,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 102,
+      "text": "C. 茵陈蒿汤",
+      "bbox": [
+        1134.0,
+        2714.0,
+        1335.0,
+        2762.0
+      ],
+      "confidence": 0.977417,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    },
+    {
+      "line_id": 103,
+      "text": "- 37 -",
+      "bbox": [
+        931.0,
+        2779.0,
+        1117.0,
+        2830.0
+      ],
+      "confidence": 0.89376,
+      "column_hint": "unknown",
+      "source_mode": "ocr"
+    }
+  ]
+}
