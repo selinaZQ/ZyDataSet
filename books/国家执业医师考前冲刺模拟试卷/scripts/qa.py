@@ -52,6 +52,7 @@ def main() -> None:
     document_reports: list[dict[str, Any]] = []
     question_keys: set[tuple[str, str, int]] = set()
     answer_keys: set[tuple[str, str, int]] = set()
+    answer_by_key: dict[tuple[str, str, int], dict[str, Any]] = {}
     exam_label_by_slug = {"exam-01": "一", "exam-02": "二", "exam-03": "三", "exam-04": "四"}
 
     for document in load_config()["documents"]:
@@ -115,6 +116,7 @@ def main() -> None:
                 by_exam[row["exam"]].append(row)
                 key = (row["exam"], row["unit"], int(row["question_no"]))
                 answer_keys.add(key)
+                answer_by_key[key] = row
                 if row["answer"] not in EXPECTED_OPTIONS:
                     errors.append({"document": document["slug"], "reason": "invalid_answer", "id": row["id"], "answer": row["answer"]})
             for exam in ("一", "二", "三", "四"):
@@ -143,6 +145,35 @@ def main() -> None:
     if orphan_answers:
         errors.append({"reason": "orphan_answer_links", "count": len(orphan_answers), "keys": orphan_answers})
 
+    paired_path = PROJECT_DIR / "03_structured" / "questions_with_answers.jsonl"
+    paired_rows = load_jsonl(paired_path) if paired_path.exists() else []
+    paired_keys: list[tuple[str, str, int]] = []
+    for row in paired_rows:
+        exam_label = exam_label_by_slug.get(row.get("exam", ""), "")
+        key = (exam_label, row.get("unit", ""), int(row.get("question_no", 0)))
+        paired_keys.append(key)
+        source_answer = answer_by_key.get(key)
+        if source_answer is None:
+            errors.append({"reason": "paired_record_without_answer", "id": row.get("id"), "key": key})
+            continue
+        if row.get("answer") != source_answer["answer"]:
+            errors.append({"reason": "paired_answer_mismatch", "id": row.get("id"), "expected": source_answer["answer"], "actual": row.get("answer")})
+        if set(row.get("options", {})) != EXPECTED_OPTIONS:
+            errors.append({"reason": "paired_option_set", "id": row.get("id"), "actual": list(row.get("options", {}))})
+        if not str(row.get("analysis", "")).strip():
+            errors.append({"reason": "paired_empty_analysis", "id": row.get("id")})
+        expected_analysis_available = bool(source_answer.get("analysis_available"))
+        if bool(row.get("analysis_available")) != expected_analysis_available:
+            errors.append({"reason": "paired_analysis_status_mismatch", "id": row.get("id")})
+        if not expected_analysis_available and row.get("analysis") != "原书未提供解析。":
+            errors.append({"reason": "paired_missing_analysis_marker", "id": row.get("id")})
+    if len(paired_rows) != 2400:
+        errors.append({"reason": "paired_record_count", "expected": 2400, "actual": len(paired_rows)})
+    if len(set(paired_keys)) != len(paired_keys):
+        errors.append({"reason": "paired_duplicate_keys"})
+    if set(paired_keys) != question_keys:
+        errors.append({"reason": "paired_question_coverage", "missing": sorted(question_keys - set(paired_keys)), "orphan": sorted(set(paired_keys) - question_keys)})
+
     merged = PROJECT_DIR / "04_merged" / "全集.md"
     if not merged.exists() or merged.stat().st_size == 0:
         errors.append({"reason": "missing_merged_markdown"})
@@ -157,6 +188,9 @@ def main() -> None:
         "total_questions": len(question_keys),
         "total_answers": len(answer_keys),
         "linked_question_answer_pairs": len(question_keys & answer_keys),
+        "paired_question_answer_records": len(paired_rows),
+        "paired_records_without_source_analysis": sum(1 for row in paired_rows if row.get("analysis_available") is False),
+        "paired_jsonl": str(paired_path.relative_to(PROJECT_DIR)).replace("\\", "/"),
         "review_record_count": len(review_rows),
         "documents": document_reports,
         "error_count": len(errors),

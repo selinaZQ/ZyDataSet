@@ -5,6 +5,9 @@
   "total_questions": 2400,
   "total_answers": 2400,
   "linked_question_answer_pairs": 2400,
+  "paired_question_answer_records": 2400,
+  "paired_records_without_source_analysis": 153,
+  "paired_jsonl": "03_structured/questions_with_answers.jsonl",
   "review_record_count": 273,
   "documents": [
     {

@@ -358,22 +358,56 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     config = load_config()
     rendered_documents: list[tuple[dict[str, Any], str]] = []
+    question_records: list[dict[str, Any]] = []
+    answer_by_key: dict[tuple[str, str, int], dict[str, Any]] = {}
+    exam_label_by_slug = {"exam-01": "一", "exam-02": "二", "exam-03": "三", "exam-04": "四"}
     for document in config["documents"]:
         lines = load_lines(document["slug"])
         if document["kind"] == "questions":
             records = parse_questions(document, lines)
             markdown = render_questions(document, records)
             suffix = "questions"
+            question_records.extend(records)
         else:
             records = parse_answers(document, lines)
             markdown = render_answers(document, records)
             suffix = "answers"
+            answer_by_key = {
+                (record["exam"], record["unit"], int(record["question_no"])): record
+                for record in records
+            }
         with (output_dir / f"{document['slug']}.{suffix}.jsonl").open("w", encoding="utf-8", newline="\n") as stream:
             for record in records:
                 stream.write(json.dumps(record, ensure_ascii=False) + "\n")
         (PROJECT_DIR / "02_clean" / f"{document['slug']}.md").write_text(markdown, encoding="utf-8", newline="\n")
         rendered_documents.append((document, markdown))
         print(f"[structure] {document['slug']}: {len(records)} records", flush=True)
+
+    paired_path = output_dir / "questions_with_answers.jsonl"
+    with paired_path.open("w", encoding="utf-8", newline="\n") as stream:
+        for question in question_records:
+            key = (
+                exam_label_by_slug[question["exam"]],
+                question["unit"],
+                int(question["question_no"]),
+            )
+            answer = answer_by_key.get(key)
+            if answer is None:
+                raise ValueError(f"Missing answer for {key}")
+            paired = {
+                **question,
+                "answer_record_id": answer["id"],
+                "answer": answer["answer"],
+                "analysis": answer["analysis"] if answer["analysis_available"] else "原书未提供解析。",
+                "analysis_available": answer["analysis_available"],
+                "answer_source_file": answer["source_file"],
+                "answer_source_pages": answer["source_pages"],
+                "answer_source_refs": answer["source_refs"],
+            }
+            if answer.get("confirmed_correction"):
+                paired["answer_confirmed_correction"] = answer["confirmed_correction"]
+            stream.write(json.dumps(paired, ensure_ascii=False) + "\n")
+    print(f"[structure] paired questions with answers: {len(question_records)} records", flush=True)
 
     merged_dir = PROJECT_DIR / "04_merged"
     merged_dir.mkdir(parents=True, exist_ok=True)
